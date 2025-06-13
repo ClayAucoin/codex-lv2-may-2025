@@ -28,13 +28,19 @@ In this unit, you'll learn how to collaborate with GitHub, build a simple websit
 7. **[Adding Linked Pages](./github-repo-lv7.md)**  
    Create `about.html` and `contact.html`, and link them from your homepage.
 
-8. **Optional Practice Lessons**  
+8. **Practice: Optional Practice Lessons**  
    - **[8a. Adding an Image](./github-repo-lv8-a.md)**  
      Learn how to add and display an image on your site.
    - **[8b. Styling with CSS](./github-repo-lv8-b.md)**  
      Create a `style.css` file and apply styling to your website.
    - **[8c. Updating the README with More Detail](./github-repo-lv8-c.md)**  
      Add sections like Features, Pages, and a live link to your README.
+
+9. **Challenges: Collaboration & Documentation**
+   * **[9a. Creating a GitHub Issue](github-repo-lv9-a.md)**
+     Use GitHub issues to report bugs, suggest features, or organize tasks.
+   * **[9b. Enhancing Your README with Markdown](github-repo-lv9-b.md)**
+     Use Markdown formatting like bold, italic, lists, and checklists to improve readability.
 
 ---
 
