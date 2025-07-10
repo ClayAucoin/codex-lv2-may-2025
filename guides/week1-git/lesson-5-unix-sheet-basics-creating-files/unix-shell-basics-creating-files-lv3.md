@@ -1,0 +1,95 @@
+## Lesson: Create Files Using the `touch` Command
+
+[← Back to Index](README.md) | [Previous: Create a Text File Using a Terminal Editor](unix-shell-basics-creating-files-lv2.md) | [Next: Move and Rename Files Using `mv` →](unix-shell-basics-creating-files-lv4.md)
+
+---
+
+### Step 1: Use `touch` to Create a File
+
+* From your terminal, run the following command:
+
+  ```bash
+  touch my_file.txt
+  ```
+
+* Check your directory:
+
+  ```bash
+  ls
+  ```
+
+  → You should now see `my_file.txt` listed.
+
+* Open your GUI file explorer and navigate to the same directory. Does `my_file.txt` appear?
+
+---
+
+### Step 2: Inspect the File
+
+* Run the long listing version of `ls`:
+
+  ```bash
+  ls -l
+  ```
+
+* Note the file size of `my_file.txt`. What do you notice?
+
+---
+
+### Step 3: Clean Up Before Continuing
+
+* To avoid confusion later in the lesson, remove the file:
+
+  ```bash
+  rm my_file.txt
+  ```
+
+* Confirm the file was deleted:
+
+  ```bash
+  ls
+  ```
+
+---
+
+### Step 4: Understand File Naming Conventions
+
+* Files often use a two-part name separated by a dot. Examples:
+
+  ```
+  thesis.txt
+  picture.png
+  config.cfg
+  report.pdf
+  ```
+
+* The part after the dot is called the **file extension**. It suggests what kind of data the file contains.
+
+* This is only a convention — the computer doesn't enforce it. For example, renaming an image as `song.mp3` won’t convert it into audio.
+
+---
+
+### Practice Activity
+
+1. Use `touch` to create three empty files:
+
+   * `data.csv`
+   * `notes.md`
+   * `archive.zip`
+2. Use `ls -l` to inspect them.
+3. Try renaming one using `mv`, then delete all three using `rm`.
+
+---
+
+### Reflection Questions
+
+* Why might you use `touch` instead of a text editor to create a file?
+* What problems might happen if files are misnamed or have misleading extensions?
+
+---
+
+This lesson shows how to quickly create files and emphasizes the importance of naming them clearly so they are easy to manage and understand.
+
+---
+
+[← Back to Index](README.md) | [Previous: Create a Text File Using a Terminal Editor](unix-shell-basics-creating-files-lv2.md) | [Next: Move and Rename Files Using `mv` →](unix-shell-basics-creating-files-lv4.md)
