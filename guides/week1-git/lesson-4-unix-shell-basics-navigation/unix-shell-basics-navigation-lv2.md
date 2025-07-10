@@ -1,6 +1,6 @@
 # Special Directories and Hidden Files
 
-Some folders and files are normally hidden when you use `ls`. You can reveal them with a special option.
+[← Back to Index](README.md) | [Previous: Moving Between Folders with `cd`](unix-shell-basics-navigation-lv1.md) | [Next: Moving with Relative and Absolute Paths →](unix-shell-basics-navigation-lv3.md)
 
 ---
 
@@ -73,3 +73,7 @@ Some folders and files are normally hidden when you use `ls`. You can reveal the
 * `.` and `..` are special directory shortcuts.
 * `cd` with no folder brings you back to your home.
 * These commands — `pwd`, `ls`, and `cd` — are the foundation for navigating in the shell.
+
+---
+
+[← Back to Index](README.md) | [Previous: Moving Between Folders with `cd`](unix-shell-basics-navigation-lv1.md) | [Next: Moving with Relative and Absolute Paths →](unix-shell-basics-navigation-lv3.md)

@@ -1,6 +1,6 @@
 # Understanding the Structure of a Shell Command
 
-Let’s break down the parts of a shell command so we understand what we’re typing and why it matters.
+[← Back to Index](README.md) | [Previous: Moving with Relative and Absolute Paths](unix-shell-basics-navigation-lv3.md) | [Next: Nelle's Pipeline: Organizing Files and Using Tab Completion →](unix-shell-basics-navigation-lv5.md)
 
 ---
 
@@ -100,3 +100,7 @@ Let’s break down the parts of a shell command so we understand what we’re ty
   ```
 * Use clear spaces and correct case to avoid errors.
 * Some commands work without arguments. Others require them.
+
+---
+
+[← Back to Index](README.md) | [Previous: Moving with Relative and Absolute Paths](unix-shell-basics-navigation-lv3.md) | [Next: Nelle's Pipeline: Organizing Files and Using Tab Completion →](unix-shell-basics-navigation-lv5.md)

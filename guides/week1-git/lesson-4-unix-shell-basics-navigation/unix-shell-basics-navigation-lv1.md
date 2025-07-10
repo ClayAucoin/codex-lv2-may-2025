@@ -1,6 +1,10 @@
 # Moving Between Folders with `cd`
 
-The `cd` command lets you move between folders (directories). It doesn’t change the folder itself — it just tells the shell which directory you want to work in.
+[← Back to Index](README.md) | [Next: Special Directories and Hidden Files →](unix-shell-basics-navigation-lv2.md)
+
+---
+
+The `cd` command lets you move between folders (directories). It doesn't change the folder itself — it just tells the shell which directory you want to work in.
 
 ---
 
@@ -85,3 +89,7 @@ The `cd` command lets you move between folders (directories). It doesn’t chang
 * `cd ..` moves **up** to the parent folder.
 * `pwd` shows your current location.
 * `ls -F` lists what’s in the current folder.
+
+---
+
+[← Back to Index](README.md) | [Next: Special Directories and Hidden Files →](unix-shell-basics-navigation-lv2.md)

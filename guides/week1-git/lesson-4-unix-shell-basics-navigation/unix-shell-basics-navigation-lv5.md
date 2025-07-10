@@ -1,8 +1,8 @@
-Here’s your final mini-lesson in the same clean, step-by-step style, wrapping up this section with Nelle’s example and a focus on **organization and tab completion**:
+# Nelle's Pipeline: Organizing Files and Using Tab Completion
+
+[← Back to Index](README.md) | [Previous: Understanding the Structure of a Shell Command](unix-shell-basics-navigation-lv4.md)
 
 ---
-
-# Nelle’s Pipeline: Organizing Files and Using Tab Completion
 
 Now that she understands files and folders, Nelle starts organizing her data from the lab. She wants everything to be tidy and efficient, including how she navigates it.
 
@@ -93,4 +93,4 @@ Now that she understands files and folders, Nelle starts organizing her data fro
 
 ---
 
-Let me know if you’d like a worksheet for students to practice naming and navigating folders like Nelle.
+[← Back to Index](README.md) | [Previous: Understanding the Structure of a Shell Command](unix-shell-basics-navigation-lv4.md)

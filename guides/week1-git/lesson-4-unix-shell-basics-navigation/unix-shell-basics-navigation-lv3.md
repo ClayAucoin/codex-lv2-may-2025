@@ -1,6 +1,6 @@
 # Moving with Relative and Absolute Paths
 
-We’ve already used the `cd` command to move into folders step by step. Now let’s learn how to move directly into a folder using either a **relative** or **absolute** path.
+[← Back to Index](README.md) | [Previous: Special Directories and Hidden Files](unix-shell-basics-navigation-lv2.md) | [Next: Understanding the Structure of a Shell Command →](unix-shell-basics-navigation-lv4.md)
 
 ---
 
@@ -122,3 +122,7 @@ Choices:
 * **2** works if you're already in `/Users/backup`.
 * **3** works from **any** location.
 * **1** is incorrect — it tries to list a file called `pwd`.
+
+---
+
+[← Back to Index](README.md) | [Previous: Special Directories and Hidden Files](unix-shell-basics-navigation-lv2.md) | [Next: Understanding the Structure of a Shell Command →](unix-shell-basics-navigation-lv4.md)
