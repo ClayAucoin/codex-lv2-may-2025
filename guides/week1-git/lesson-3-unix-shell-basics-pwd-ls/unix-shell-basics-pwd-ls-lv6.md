@@ -1,6 +1,6 @@
 # Using `man` to Read Manual Pages
 
-Another way to learn more about a command is by reading its manual page.
+[← Back to Index](README.md) | [Previous: Clearing the Screen and Getting Help](unix-shell-basics-pwd-ls-lv5.md) | [Next: Exploring More `ls` Options →](unix-shell-basics-pwd-ls-lv7.md)
 
 ---
 
@@ -45,3 +45,7 @@ Another way to learn more about a command is by reading its manual page.
   ```
 
   to find the same info in a web browser.
+
+---
+
+[← Back to Index](README.md) | [Previous: Clearing the Screen and Getting Help](unix-shell-basics-pwd-ls-lv5.md) | [Next: Exploring More `ls` Options →](unix-shell-basics-pwd-ls-lv7.md)

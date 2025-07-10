@@ -1,6 +1,10 @@
 # Exploring Other Directories with `ls`
 
-You don’t have to be inside a folder to look at what’s in it. You can use `ls` to view the contents of **any directory** by passing its path as an argument.
+[← Back to Index](README.md) | [Previous: Exploring More `ls` Options](unix-shell-basics-pwd-ls-lv7.md)
+
+---
+
+You don't have to be inside a folder to look at what's in it. You can use `ls` to view the contents of **any directory** by passing its path as an argument.
 
 ---
 
@@ -58,3 +62,7 @@ You don’t have to be inside a folder to look at what’s in it. You can use `l
   ```
   ls -F Desktop/shell-lesson-data/exercise-data
   ```
+
+---
+
+[← Back to Index](README.md) | [Previous: Exploring More `ls` Options](unix-shell-basics-pwd-ls-lv7.md)

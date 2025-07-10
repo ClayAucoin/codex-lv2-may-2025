@@ -1,6 +1,10 @@
 # Introduction to the Unix Shell
 
-The Unix shell is a powerful tool that lets you control your computer using text commands. It’s been around for decades because it’s efficient and great for automating tasks. These lessons will help you get started using the shell to work with files and folders, and prepare you for more advanced computing later.
+[← Back to Index](README.md) | [Next: Introducing the Shell →](unix-shell-basics-pwd-ls-lv2.md)
+
+---
+
+The Unix shell is a powerful tool that lets you control your computer using text commands. It's been around for decades because it's efficient and great for automating tasks. These lessons will help you get started using the shell to work with files and folders, and prepare you for more advanced computing later.
 
 Follow these steps to get set up:
 
@@ -42,3 +46,7 @@ Follow these steps to get set up:
 
 * The shell (also called the **terminal** or **command line**) is a place where you type commands instead of clicking with your mouse.
 * During the lesson, you will use the terminal to navigate into the `shell-lesson-data` folder and work with its files.
+
+---
+
+[← Back to Index](README.md) | [Next: Introducing the Shell →](unix-shell-basics-pwd-ls-lv2.md)

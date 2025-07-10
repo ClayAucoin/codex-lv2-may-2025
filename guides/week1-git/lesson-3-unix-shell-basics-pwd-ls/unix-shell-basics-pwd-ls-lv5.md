@@ -1,6 +1,6 @@
 # Clearing the Screen and Getting Help
 
-As you use the shell, your terminal window may fill up with too much output. You can clear the screen and also get help when you're not sure how a command works.
+[← Back to Index](README.md) | [Previous: Listing Files and Folders with `ls`](unix-shell-basics-pwd-ls-lv4.md) | [Next: Using `man` to Read Manual Pages →](unix-shell-basics-pwd-ls-lv6.md)
 
 ---
 
@@ -90,3 +90,7 @@ As you use the shell, your terminal window may fill up with too much output. You
 * `man` opens a full manual page (not available in Git Bash).
 * `help` works for built-in commands in Bash.
 * Use short flags (`-a`) for speed and long flags (`--all`) for clarity in scripts.
+
+---
+
+[← Back to Index](README.md) | [Previous: Listing Files and Folders with `ls`](unix-shell-basics-pwd-ls-lv4.md) | [Next: Using `man` to Read Manual Pages →](unix-shell-basics-pwd-ls-lv6.md)

@@ -1,6 +1,10 @@
 # Introducing the Shell
 
-The shell is a program that lets you control your computer by typing commands instead of clicking. It may seem unfamiliar at first, but it’s a powerful tool that can save time, reduce errors, and automate repetitive tasks.
+[← Back to Index](README.md) | [Previous: Introduction to the Unix Shell](unix-shell-basics-pwd-ls-lv1.md) | [Next: Navigating Files and Directories →](unix-shell-basics-pwd-ls-lv3.md)
+
+---
+
+The shell is a program that lets you control your computer by typing commands instead of clicking. It may seem unfamiliar at first, but it's a powerful tool that can save time, reduce errors, and automate repetitive tasks.
 
 In this lesson, you’ll learn what the shell is, how it works, and why it’s useful.
 
@@ -74,3 +78,7 @@ In this lesson, you’ll learn what the shell is, how it works, and why it’s u
 * You’ll build up more commands as you go, like learning vocabulary in a new language.
 * You can combine commands and write scripts to automate your work.
 * Shell skills are essential for working on remote machines, supercomputers, and cloud systems.
+
+---
+
+[← Back to Index](README.md) | [Previous: Introduction to the Unix Shell](unix-shell-basics-pwd-ls-lv1.md) | [Next: Navigating Files and Directories →](unix-shell-basics-pwd-ls-lv3.md)

@@ -1,8 +1,6 @@
 # Navigating Files and Directories
 
-The shell lets you move around your computer’s file system by typing commands. You can view the contents of folders, switch to other folders, and understand where you are in the system.
-
-In this lesson, you’ll learn how to check your location, move between folders, and understand the difference between **absolute** and **relative** paths.
+[← Back to Index](README.md) | [Previous: Introducing the Shell](unix-shell-basics-pwd-ls-lv2.md) | [Next: Listing Files and Folders with `ls` →](unix-shell-basics-pwd-ls-lv4.md)
 
 ---
 
@@ -102,3 +100,7 @@ In this lesson, you’ll learn how to check your location, move between folders,
   Start typing a folder name, then press **Tab** to auto-complete it.
 * Use **relative paths** when working near your current location.
   Use **absolute paths** (starting with `/`) when you want to refer to a file from anywhere in the system.
+
+---
+
+[← Back to Index](README.md) | [Previous: Introducing the Shell](unix-shell-basics-pwd-ls-lv2.md) | [Next: Listing Files and Folders with `ls` →](unix-shell-basics-pwd-ls-lv4.md)

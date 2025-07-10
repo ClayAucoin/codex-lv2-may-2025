@@ -1,6 +1,6 @@
 # Listing Files and Folders with `ls`
 
-Now let’s learn the command that shows the contents of your file system. The shell lets you list the files and folders in your current directory using the `ls` command.
+[← Back to Index](README.md) | [Previous: Navigating Files and Directories](unix-shell-basics-pwd-ls-lv3.md) | [Next: Clearing the Screen and Getting Help →](unix-shell-basics-pwd-ls-lv5.md)
 
 ---
 
@@ -60,3 +60,7 @@ Now let’s learn the command that shows the contents of your file system. The s
 * `ls` stands for “list”.
 * It always shows what’s in your **current working directory** (from `pwd`).
 * Add `-F` to quickly tell which items are folders.
+
+---
+
+[← Back to Index](README.md) | [Previous: Navigating Files and Directories](unix-shell-basics-pwd-ls-lv3.md) | [Next: Clearing the Screen and Getting Help →](unix-shell-basics-pwd-ls-lv5.md)

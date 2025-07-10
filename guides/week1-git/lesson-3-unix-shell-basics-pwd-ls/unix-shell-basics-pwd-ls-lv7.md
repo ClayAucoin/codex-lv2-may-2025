@@ -1,5 +1,9 @@
 # Exploring More `ls` Options
 
+[← Back to Index](README.md) | [Previous: Using `man` to Read Manual Pages](unix-shell-basics-pwd-ls-lv6.md) | [Next: Exploring Other Directories with `ls` →](unix-shell-basics-pwd-ls-lv8.md)
+
+---
+
 The `ls` command can be used with more than one option at a time. Options change how the output is displayed.
 
 ---
@@ -70,3 +74,7 @@ Use this to answer:
 > Which file was changed last?
 
 Look at the **bottom** of the list — that’s the most recently changed file when using `-ltr`.
+
+---
+
+[← Back to Index](README.md) | [Previous: Using `man` to Read Manual Pages](unix-shell-basics-pwd-ls-lv6.md) | [Next: Exploring Other Directories with `ls` →](unix-shell-basics-pwd-ls-lv8.md)
