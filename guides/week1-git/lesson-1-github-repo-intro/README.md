@@ -41,6 +41,8 @@ In this unit, you'll learn how to collaborate with GitHub, build a simple websit
      Use GitHub issues to report bugs, suggest features, or organize tasks.
    * **[9b. Enhancing Your README with Markdown](github-repo-lv9-b.md)**
      Use Markdown formatting like bold, italic, lists, and checklists to improve readability.
+   * **[Create a GitHub Issue Referencing a Line of Code](github-repo-lv9-c.md)** 
+     Use GitHub issues to reference a single line of code.
 
 ---
 
