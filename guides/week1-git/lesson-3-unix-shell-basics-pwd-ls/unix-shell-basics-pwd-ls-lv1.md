@@ -17,7 +17,7 @@ Follow these steps to get set up:
 
 2. **Download the lesson files**
 
-   * Download `shell-lesson-data.zip` from the course page.
+   * Download `shell-lesson-data.zip` from the [week1-git directory](../shell-lesson-data.zip).
    * Move the `.zip` file to your Desktop.
    * Unzip (extract) the file. You should now see a folder named `shell-lesson-data` on your Desktop.
    * Ask your instructor if you need help with this step.
