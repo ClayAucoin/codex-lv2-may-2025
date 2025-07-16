@@ -2,6 +2,8 @@
 
 A beginner-friendly guide to navigating the command line. Learn how to move around, inspect files, get help, and understand the structure of commands using the Unix shell.
 
+This tutorial is based on the resources at [Carpentry Software](https://swcarpentry.github.io/shell-novice/)
+
 ### 1. [Introduction to the Unix Shell](unix-shell-basics-pwd-ls-lv1.md)
 What the shell is, why it matters, and how to get set up to use it.
 
