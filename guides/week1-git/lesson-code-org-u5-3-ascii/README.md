@@ -9,6 +9,8 @@ In this activity, you will:
 3. Create and encode their own message using the emoji binary format.
 4. Share your message for classmates to decode.
 
+This lesson is derived from [Unit 5 Lesson 3](https://studio.code.org/courses/csd-2024/units/5/lessons/3/student)
+
 ---
 
 ## ✅ **Emoji Binary Key**

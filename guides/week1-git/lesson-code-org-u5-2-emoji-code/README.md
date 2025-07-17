@@ -13,6 +13,8 @@ You will create an **emoji alphabet** using only these 6 emojis:
 
 Map each letter A–Z to a **string of one or more emoji**. Then encode a word or phrase and see if classmates can decode it using your rules!
 
+This lesson is derived from [Unit 5 Lesson 2](https://studio.code.org/courses/csd-2024/units/5/lessons/2/student)
+
 ---
 
 ## ✅ **Instructions**
