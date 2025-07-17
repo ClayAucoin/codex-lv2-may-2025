@@ -1,3 +1,8 @@
+# Navigation
+[1](./github-repo-lv1.md) | [2](./github-repo-lv2.md) | [3](./github-repo-lv3.md) | [4](./github-repo-lv4.md) | **Current Level:** 5 | [6](./github-repo-lv6.md) | [7](./github-repo-lv7.md) | [8](./github-repo-lv8.md) | [9](./github-repo-lv9.md)
+
+---
+
 ### Lesson: Publishing with GitHub Pages (Classic)
 
 #### Objective:

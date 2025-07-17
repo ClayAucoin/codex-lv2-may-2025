@@ -1,3 +1,8 @@
+# Navigation
+[1](./github-repo-lv1.md) | **Current Level:** 2 | [3](./github-repo-lv3.md) | [4](./github-repo-lv4.md) | [5](./github-repo-lv5.md) | [6](./github-repo-lv6.md) | [7](./github-repo-lv7.md) | [8](./github-repo-lv8.md) | [9](./github-repo-lv9.md)
+
+---
+
 ### Lesson: Creating and Deleting a Repository on GitHub
 
 #### Step 1: Creating a Repository

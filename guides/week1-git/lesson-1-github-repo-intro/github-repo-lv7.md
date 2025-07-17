@@ -1,3 +1,8 @@
+# Navigation
+[1](./github-repo-lv1.md) | [2](./github-repo-lv2.md) | [3](./github-repo-lv3.md) | [4](./github-repo-lv4.md) | [5](./github-repo-lv5.md) | [6](./github-repo-lv6.md) | **Current Level:** 7 | [8](./github-repo-lv8.md) | [9](./github-repo-lv9.md)
+
+---
+
 ### Lesson: Adding and Linking Additional Pages
 
 #### Objective:
