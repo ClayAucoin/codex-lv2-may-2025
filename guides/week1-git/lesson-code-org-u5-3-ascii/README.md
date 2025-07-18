@@ -13,6 +13,14 @@ This lesson is derived from [Unit 5 Lesson 3](https://studio.code.org/courses/cs
 
 ---
 
+First, follow the [activity sheet](https://docs.google.com/document/d/1YN3r7hmuf_fFpOhnIMRDrUbEha7Ij8mP647X3FdrBz0/view?tab=t.0) and solve the challenge puzzles.
+
+Use the [ASCII Reference](https://docs.google.com/document/d/1If85I7nDxl_3uBbGDoZg86zrwGuw1ShFVK8eaDOH0_A/view?tab=t.0) as reference.
+
+Use your copy of [this](https://docs.google.com/spreadsheets/d/1jw-mluoZaYHZssgUNd6J71Oec38pQV3OXcz5V55mhsg/edit?usp=sharing) sheet from Lesson 2 for your work. Move to the Tab called "ASCII Encoding" and create your own code and messages there. Choose your own emojis to represent the ON and OFF positions in binary.
+
+
+
 ## ✅ **Emoji Binary Key**
 
 * `🍎` = 0

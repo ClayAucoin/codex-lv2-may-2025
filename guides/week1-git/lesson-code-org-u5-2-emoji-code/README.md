@@ -20,7 +20,10 @@ This lesson is derived from [Unit 5 Lesson 2](https://studio.code.org/courses/cs
 ## ✅ **Instructions**
 
 1. **Open the activity worksheet:**
-   👉 [Emoji Encoding Activity Worksheet (Google Doc)](https://docs.google.com/document/d/13uCoIIaBhxSzVqMk9xMBDJzQ0KBT-cBav3Bb3srftkk/edit?usp=sharing)
+   
+   👉 [Reference Emoji Encoding Activity Worksheet (Google Doc)](https://docs.google.com/document/d/13uCoIIaBhxSzVqMk9xMBDJzQ0KBT-cBav3Bb3srftkk/edit?usp=sharing)
+
+   👉 [Worksheet (Make a copy for your group to work on together.)](https://docs.google.com/spreadsheets/d/1jw-mluoZaYHZssgUNd6J71Oec38pQV3OXcz5V55mhsg/edit?usp=sharing)
 
 2. **Make your own editable copy:**
 
