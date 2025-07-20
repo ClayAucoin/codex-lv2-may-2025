@@ -7,3 +7,4 @@
 * List of git commands
 * Notes on ASCII encoding
 * Notes on using GitHub
+* Workflow checklist for creating a new HTML project.
