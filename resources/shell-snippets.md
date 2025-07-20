@@ -49,6 +49,7 @@
 | `nano <filename>` | **Open file in Nano text editor** |
 
 * Nano is a simple, beginner-friendly text editor in the terminal.
+* More commands [cheat sheet](https://www.unomaha.edu/college-of-information-science-and-technology/computer-science-learning-center/_files/resources/CSLC-Helpdocs-Nano.pdf)
 * **Example:**
 
 ```bash
