@@ -45,3 +45,7 @@ Dive into the fundamental concepts of how computers store and process informatio
 Put all your new skills to work in a collaborative project! Working with your team, you'll design and build a website that demonstrates different encoding systems. This project combines your Git collaboration skills, web development knowledge, and understanding of data representation. You'll practice real-world development workflows while creating something educational and visually appealing that showcases your learning.
 
 * [Mini Project: ASCII Encoding Website](./lesson-code-org-u5-3-mini-project/)
+
+## Notes
+
+Remember to takes notes for yourself. What you include in your notes is a personal decision, but here are some topics if you need help getting started [suggested topics](./YOUR-NOTES.md)
