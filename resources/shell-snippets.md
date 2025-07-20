@@ -1,5 +1,9 @@
 # Shell Snippets
 
+# 🐚 Shell Commands Cheat Sheet for Shell Novices
+
+---
+
 ## 📁 **Navigating the Filesystem**
 
 | Command          | Purpose                                                  |
@@ -35,6 +39,28 @@
 | `less <filename>` | **View file page by page** (scrollable) |
 | `head <filename>` | View **first 10 lines** of a file       |
 | `tail <filename>` | View **last 10 lines** of a file        |
+
+---
+
+## ✏️ **Editing Files**
+
+| Command           | Purpose                           |
+| ----------------- | --------------------------------- |
+| `nano <filename>` | **Open file in Nano text editor** |
+
+* Nano is a simple, beginner-friendly text editor in the terminal.
+* **Example:**
+
+```bash
+nano notes.txt
+```
+
+* **Controls:**
+
+  * `Ctrl + O` : **Save**
+  * `Ctrl + X` : **Exit**
+  * `Ctrl + K` : **Cut**
+  * `Ctrl + U` : **Paste**
 
 ---
 
