@@ -8,7 +8,7 @@ To share...
 
 Open your website project on GitHub.
 
-Publish with the "GitHub Pages"/
+Publish with "GitHub Pages"
 
 Copy the submission link and repo link(it will look like: https://your-name.github.io/project-name/... and https://github.org/your-name/project-name/...).
 
