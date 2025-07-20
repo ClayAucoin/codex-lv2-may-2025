@@ -25,9 +25,7 @@ Follow these steps to get set up:
 3. **Install shell software (if needed)**
    If you don’t already have a terminal or shell installed, install one now:
 
-   * **Mac**: Open the built-in **Terminal** app.
-   * **Windows**: Use **Git Bash** or **Windows Terminal**.
-   * **Linux**: Use your system’s built-in terminal.
+   * [Installation Information](./unix-shell-install.md)
 
 4. **Open the terminal**
 
