@@ -1,0 +1,10 @@
+h1 {
+    color: brown;
+}
+
+p#dataDisplayElement {
+    font-family: monospace;
+    padding: 10px;
+    border: 1px solid brown;
+
+}
