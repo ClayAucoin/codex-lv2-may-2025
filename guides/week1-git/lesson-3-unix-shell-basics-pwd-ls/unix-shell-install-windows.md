@@ -1,7 +1,5 @@
 ## Installing Git for Windows
 
-**If you are unable to use WSL 2, please use the following instructions to install Git for Windows (“Git Bash”).**
-
 1. Download the Git for Windows [installer](https://git-scm.com/download/win).
 
 2. Run the installer and follow the steps below:
