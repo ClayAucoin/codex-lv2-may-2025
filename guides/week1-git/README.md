@@ -20,6 +20,12 @@ Build on your shell skills by learning how to create, edit, and manage files dir
 * [Lesson 5 - Unix Shell Basics - Creating Files](./lesson-5-unix-sheet-basics-creating-files/)
 * [Lesson 6 - Git Shell](./lesson-6-github-shell/)
 
+## 📚 Quick Reference
+
+* [Shell Commands Cheat Sheet](../../resources/shell-snippets.md) - Complete reference for all Unix shell commands covered this week
+* [Git Commands Cheat Sheet](../../resources/git-snippets.md) - Essential Git commands and workflow patterns
+* [HTML Code Snippets](../../resources/html-snippets.md) - Common HTML elements and templates for building web pages
+
 ## Day 3
 
 **Advanced Git Workflow and Collaboration**

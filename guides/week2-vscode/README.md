@@ -30,3 +30,9 @@
 * include js
 * JS strings and accessing stings by index
   * "10000001"
+
+## 📚 Quick Reference
+
+* [Shell Commands Cheat Sheet](../../resources/shell-snippets.md) - Complete reference for all Unix shell commands
+* [Git Commands Cheat Sheet](../../resources/git-snippets.md) - Essential Git commands and workflow patterns
+* [HTML Code Snippets](../../resources/html-snippets.md) - Common HTML elements and templates for building web pages
