@@ -99,6 +99,60 @@ You practiced:
 
 ## ✅ **Step 2: What is a POJO? — 4 Exercises**
 
+### 📚 **Key Terms Explained**
+
+Before we dive into the exercises, let's understand the important terms we'll be using:
+
+#### **Property**
+A **property** is a piece of information stored in an object. Think of it like a characteristic or attribute of something.
+
+**Example:**
+```js
+const car = {
+    "make": "Toyota",    // This is a property
+    "model": "Corolla",  // This is a property
+    "year": 2020         // This is a property
+};
+```
+
+#### **Key**
+A **key** is the name of a property. It's like a label that tells us what information we're storing.
+
+**Example:**
+```js
+const pet = {
+    "name": "Buddy",     // "name" is the key
+    "species": "Dog",    // "species" is the key
+    "age": 5            // "age" is the key
+};
+```
+
+#### **Value**
+A **value** is the actual data stored in a property. It can be a string, number, boolean, or other data type.
+
+**Example:**
+```js
+const book = {
+    "title": "JavaScript for Beginners",  // "JavaScript for Beginners" is the value
+    "author": "Jane Doe",                 // "Jane Doe" is the value
+    "pages": 250,                        // 250 is the value
+    "isPublished": true                  // true is the value
+};
+```
+
+#### **Key-Value Pairs**
+Together, a key and its value form a **key-value pair**:
+```js
+"key": "value"
+```
+
+In the example above:
+- `"title"` is the key
+- `"JavaScript for Beginners"` is the value
+- Together they form the key-value pair: `"title": "JavaScript for Beginners"`
+
+---
+
 ### ✅ **Example (Completed for You)**
 
 This is a **completed example** of a POJO with comments explaining each part.
