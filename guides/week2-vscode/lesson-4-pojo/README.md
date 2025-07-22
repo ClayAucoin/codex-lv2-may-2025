@@ -18,19 +18,19 @@ In this unit, students will learn about Plain Old JavaScript Objects (POJOs) - a
 
 ### 📚 Lesson List
 
-1. **[Setup and Look & Guess](./lesson-3-pojo-lv1.md)** *(Setup & Introduction)*  
+1. **[Setup and Look & Guess](./lesson-4-pojo-lv1.md)** *(Setup & Introduction)*  
    Set up the project environment and complete the initial "Look and Guess" activity to understand basic POJO structure.
 
-2. **[What is a POJO? - 4 Exercises](./lesson-3-pojo-lv2.md)** *(Foundation)*  
+2. **[What is a POJO? - 4 Exercises](./lesson-4-pojo-lv2.md)** *(Foundation)*  
    Learn to identify keys and values, create your own POJOs, explain object representations, and fix syntax errors.
 
-3. **[Read and Update POJO Properties](./lesson-3-pojo-lv3.md)** *(Core Skills)*  
+3. **[Read and Update POJO Properties](./lesson-4-pojo-lv3.md)** *(Core Skills)*  
    Practice reading object properties and updating them with new values through guided exercises.
 
-4. **[Practice Challenge](./lesson-3-pojo-lv4.md)** *(Application)*  
+4. **[Practice Challenge](./lesson-4-pojo-lv4.md)** *(Application)*  
    Apply your skills by creating custom POJOs and performing read/update operations on books, pets, and sprites.
 
-5. **[Bonus Challenge Exercises](./lesson-3-pojo-lv5.md)** *(Advanced)*  
+5. **[Bonus Challenge Exercises](./lesson-4-pojo-lv5.md)** *(Advanced)*  
    Complete advanced challenges involving player scoring, weather data updates, and robot movement simulation.
 
 ---

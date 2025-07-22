@@ -1,10 +1,11 @@
 
 ### Day 1
 
-* VSCode Download
-* Terminal, git, VSCode workflow to create a project
-* HTML EMMET
-* VSCode Create a Simple Webpage with git
+* [Lesson 1: VSCode Installation and Introduction](./lesson-1-vscode-install-and-intro/)
+* [Lesson 2: (New lesson to be created)]
+* [Lesson 3: Emmet HTML Shortcuts](./lesson-3-emmet-intro/)
+* [Lesson 4: Plain Old JavaScript Objects (POJOs)](./lesson-4-pojo/)
+* [Lesson 5: VSCode Settings Customization](./lesson-5-vscode-settings/)
 
 ### Day 2
 
