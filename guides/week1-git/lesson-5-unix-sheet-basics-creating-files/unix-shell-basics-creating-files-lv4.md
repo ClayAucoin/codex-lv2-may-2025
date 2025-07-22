@@ -1,6 +1,9 @@
-## Lesson: Move and Rename Files Using `mv`
+# Navigation
+[1](./unix-shell-basics-creating-files-lv1.md) | [2](./unix-shell-basics-creating-files-lv2.md) | [3](./unix-shell-basics-creating-files-lv3.md) | **Current Level:** 4 | [5](./unix-shell-basics-creating-files-lv5.md) | [6](./unix-shell-basics-creating-files-lv6.md) | [7](./unix-shell-basics-creating-files-lv7.md)
 
-[← Back to Index](README.md) | [Previous: Create Files Using the `touch` Command](unix-shell-basics-creating-files-lv3.md) | [Next: Copy Files and Directories Using `cp` →](unix-shell-basics-creating-files-lv5.md)
+---
+
+## Lesson: Move and Rename Files Using `mv`
 
 ---
 
@@ -124,5 +127,3 @@
 This lesson gives you hands-on experience organizing files in the terminal and helps you understand how renaming and moving are connected.
 
 ---
-
-[← Back to Index](README.md) | [Previous: Create Files Using the `touch` Command](unix-shell-basics-creating-files-lv3.md) | [Next: Copy Files and Directories Using `cp` →](unix-shell-basics-creating-files-lv5.md)

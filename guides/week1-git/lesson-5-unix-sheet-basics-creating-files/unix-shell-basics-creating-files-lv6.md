@@ -1,6 +1,9 @@
-## Lesson: Remove Files and Directories Using `rm`
+# Navigation
+[1](./unix-shell-basics-creating-files-lv1.md) | [2](./unix-shell-basics-creating-files-lv2.md) | [3](./unix-shell-basics-creating-files-lv3.md) | [4](./unix-shell-basics-creating-files-lv4.md) | [5](./unix-shell-basics-creating-files-lv5.md) | **Current Level:** 6 | [7](./unix-shell-basics-creating-files-lv7.md)
 
-[← Back to Index](README.md) | [Previous: Copy Files and Directories Using `cp`](unix-shell-basics-creating-files-lv5.md) | [Next: Work with Multiple Files Using Wildcards and Patterns →](unix-shell-basics-creating-files-lv7.md)
+---
+
+## Lesson: Remove Files and Directories Using `rm`
 
 ---
 
@@ -98,5 +101,3 @@
 This lesson teaches you how to use `rm` responsibly and reinforces the importance of caution when deleting files from the command line.
 
 ---
-
-[← Back to Index](README.md) | [Previous: Copy Files and Directories Using `cp`](unix-shell-basics-creating-files-lv5.md) | [Next: Work with Multiple Files Using Wildcards and Patterns →](unix-shell-basics-creating-files-lv7.md)

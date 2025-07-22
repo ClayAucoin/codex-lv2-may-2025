@@ -1,6 +1,9 @@
-## Lesson: Copy Files and Directories Using `cp`
+# Navigation
+[1](./unix-shell-basics-creating-files-lv1.md) | [2](./unix-shell-basics-creating-files-lv2.md) | [3](./unix-shell-basics-creating-files-lv3.md) | [4](./unix-shell-basics-creating-files-lv4.md) | **Current Level:** 5 | [6](./unix-shell-basics-creating-files-lv6.md) | [7](./unix-shell-basics-creating-files-lv7.md)
 
-[← Back to Index](README.md) | [Previous: Move and Rename Files Using `mv`](unix-shell-basics-creating-files-lv4.md) | [Next: Remove Files and Directories Using `rm` →](unix-shell-basics-creating-files-lv6.md)
+---
+
+## Lesson: Copy Files and Directories Using `cp`
 
 ---
 
@@ -128,5 +131,3 @@ proteins-saved.dat  recombined
 This lesson helps you understand how to safely duplicate files and directories, and shows how to fix naming errors with simple commands.
 
 ---
-
-[← Back to Index](README.md) | [Previous: Move and Rename Files Using `mv`](unix-shell-basics-creating-files-lv4.md) | [Next: Remove Files and Directories Using `rm` →](unix-shell-basics-creating-files-lv6.md)

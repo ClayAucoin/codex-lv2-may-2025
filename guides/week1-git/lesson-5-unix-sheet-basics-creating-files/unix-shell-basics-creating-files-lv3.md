@@ -1,6 +1,9 @@
-## Lesson: Create Files Using the `touch` Command
+# Navigation
+[1](./unix-shell-basics-creating-files-lv1.md) | [2](./unix-shell-basics-creating-files-lv2.md) | **Current Level:** 3 | [4](./unix-shell-basics-creating-files-lv4.md) | [5](./unix-shell-basics-creating-files-lv5.md) | [6](./unix-shell-basics-creating-files-lv6.md) | [7](./unix-shell-basics-creating-files-lv7.md)
 
-[← Back to Index](README.md) | [Previous: Create a Text File Using a Terminal Editor](unix-shell-basics-creating-files-lv2.md) | [Next: Move and Rename Files Using `mv` →](unix-shell-basics-creating-files-lv4.md)
+---
+
+## Lesson: Create Files Using the `touch` Command
 
 ---
 
@@ -91,5 +94,3 @@
 This lesson shows how to quickly create files and emphasizes the importance of naming them clearly so they are easy to manage and understand.
 
 ---
-
-[← Back to Index](README.md) | [Previous: Create a Text File Using a Terminal Editor](unix-shell-basics-creating-files-lv2.md) | [Next: Move and Rename Files Using `mv` →](unix-shell-basics-creating-files-lv4.md)

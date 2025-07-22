@@ -1,6 +1,9 @@
-## Lesson: Work with Multiple Files Using Wildcards and Patterns
+# Navigation
+[1](./unix-shell-basics-creating-files-lv1.md) | [2](./unix-shell-basics-creating-files-lv2.md) | [3](./unix-shell-basics-creating-files-lv3.md) | [4](./unix-shell-basics-creating-files-lv4.md) | [5](./unix-shell-basics-creating-files-lv5.md) | [6](./unix-shell-basics-creating-files-lv6.md) | **Current Level:** 7
 
-[← Back to Index](README.md) | [Previous: Remove Files and Directories Using `rm`](unix-shell-basics-creating-files-lv6.md)
+---
+
+## Lesson: Work with Multiple Files Using Wildcards and Patterns
 
 ---
 
@@ -153,5 +156,3 @@ mkdir 2016-05-20/data/processed
 This lesson teaches you how to manage many files efficiently using wildcard patterns — a powerful tool for working at scale in the command line.
 
 ---
-
-[← Back to Index](README.md) | [Previous: Remove Files and Directories Using `rm`](unix-shell-basics-creating-files-lv6.md)
