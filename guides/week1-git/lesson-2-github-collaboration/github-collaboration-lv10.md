@@ -1,5 +1,7 @@
 ## Lesson: Review and Merge Pull Requests
 
+**[← Previous: Create Pull Requests](github-collaboration-lv9.md)** | **[Next: Test Live Site →](github-collaboration-lv11.md)** | **[Back to Overview](README.md)**
+
 ### 🎯 Objective
 
 As a group, review each other's work and safely merge changes into the `main` branch using GitHub pull requests (PRs).

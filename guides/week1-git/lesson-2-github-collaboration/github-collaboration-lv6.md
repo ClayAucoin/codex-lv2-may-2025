@@ -1,5 +1,7 @@
 ## Lesson: Update the README File as a Group
 
+**[← Previous: Plan Site](github-collaboration-lv5.md)** | **[Next: Create Branches →](github-collaboration-lv7.md)** | **[Back to Overview](README.md)**
+
 ### 🎯 Objective
 
 Collaborate with your group to update the `README.md` file in your repository. This file should describe your project, identify contributors, and outline the site layout.

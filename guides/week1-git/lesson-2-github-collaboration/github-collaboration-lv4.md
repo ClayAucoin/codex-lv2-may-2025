@@ -1,5 +1,7 @@
 ## Lesson: Create an `index.html` Page on `main`
 
+**[← Previous: Add Collaborators](github-collaboration-lv3.md)** | **[Next: Plan Site →](github-collaboration-lv5.md)** | **[Back to Overview](README.md)**
+
 ### 🎯 Objective
 
 Create a homepage for your group website that introduces your team and links to each member’s personal page. This file will be named `index.html` and added directly to the `main` branch.

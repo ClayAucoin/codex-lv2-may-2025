@@ -1,5 +1,7 @@
 ## Lesson: Link to CSS from Personal Page
 
+**[← Previous: Add Shared CSS](github-collaboration-lv14.md)** | **[Back to Overview](README.md)**
+
 ### 💡 Why This Matters
 
 Once your team’s shared `style.css` file is in `main`, everyone should link to it from their own page to keep the site consistent and clean. This is your chance to practice using issues, branches, and pull requests individually.

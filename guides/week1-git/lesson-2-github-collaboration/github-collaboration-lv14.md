@@ -1,5 +1,7 @@
 ## Lesson: Add a Shared CSS File via GitHub Issue
 
+**[← Previous: Resolve Issues](github-collaboration-lv13.md)** | **[Next: Link CSS to Personal Pages →](github-collaboration-lv15.md)** | **[Back to Overview](README.md)**
+
 ### 💡 Why This Matters
 
 Adding a shared CSS file improves your project’s appearance and teaches you how to collaborate on shared assets using GitHub Issues, branches, and pull requests.

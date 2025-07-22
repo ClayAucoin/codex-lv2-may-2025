@@ -1,5 +1,7 @@
 ## Lesson: Plan the Site as a Group
 
+**[← Previous: Create Index Page](github-collaboration-lv4.md)** | **[Next: Update README →](github-collaboration-lv6.md)** | **[Back to Overview](README.md)**
+
 ### 🎯 Objective
 
 Work as a group to plan your team website. Decide who will be responsible for each individual page and what content those pages will include. Start with a shared vision and make sure everyone has a clear assignment.

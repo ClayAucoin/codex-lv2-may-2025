@@ -1,5 +1,7 @@
 ## Lesson: Create Pull Requests
 
+**[← Previous: Create Personal Page](github-collaboration-lv8.md)** | **[Next: Review and Merge PRs →](github-collaboration-lv10.md)** | **[Back to Overview](README.md)**
+
 ### 🎯 Objective
 
 Each team member will open a pull request (PR) from their personal branch into `main`, providing a clear description of what their page contributes to the project.

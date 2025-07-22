@@ -68,6 +68,25 @@ In this unit, groups of 2–4 students will collaboratively create a multi-page 
 
 ---
 
+**📖 Individual Level Files:**
+
+- [Level 2: GitHub Collaboration Basics](github-collaboration-lv2.md)
+- [Level 3: Repository Setup and Collaboration](github-collaboration-lv3.md)
+- [Level 4: Creating and Managing Branches](github-collaboration-lv4.md)
+- [Level 5: Working with Pull Requests](github-collaboration-lv5.md)
+- [Level 6: Code Review and Merging](github-collaboration-lv6.md)
+- [Level 7: Issue Management](github-collaboration-lv7.md)
+- [Level 8: Advanced Collaboration Workflows](github-collaboration-lv8.md)
+- [Level 9: Conflict Resolution](github-collaboration-lv9.md)
+- [Level 10: GitHub Pages Deployment](github-collaboration-lv10.md)
+- [Level 11: Team Communication](github-collaboration-lv11.md)
+- [Level 12: Project Documentation](github-collaboration-lv12.md)
+- [Level 13: Quality Assurance](github-collaboration-lv13.md)
+- [Level 14: Advanced GitHub Features](github-collaboration-lv14.md)
+- [Level 15: Project Completion and Reflection](github-collaboration-lv15.md)
+
+---
+
 ### ✅ Project Outcome
 
 By the end of this unit, student groups will:

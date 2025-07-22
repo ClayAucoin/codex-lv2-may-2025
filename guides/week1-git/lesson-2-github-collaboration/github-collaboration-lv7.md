@@ -1,5 +1,7 @@
 ## Lesson: Create a Personal Branch to Work on Your Page
 
+**[← Previous: Update README](github-collaboration-lv6.md)** | **[Next: Create Personal Page →](github-collaboration-lv8.md)** | **[Back to Overview](README.md)**
+
 ### 🎯 Objective
 
 Each team member will create a personal branch in the shared repository to safely develop their individual page without affecting the main branch.

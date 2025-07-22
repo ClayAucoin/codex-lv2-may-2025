@@ -1,5 +1,7 @@
 ## Lesson: Create a Branch to Resolve an Issue
 
+**[← Previous: Create GitHub Issues](github-collaboration-lv12.md)** | **[Next: Add Shared CSS →](github-collaboration-lv14.md)** | **[Back to Overview](README.md)**
+
 ### 💡 Why We Use Issues
 
 Issues help track tasks, bugs, and improvements in a shared repository. They provide a clear way to communicate what needs to be done, who is doing it, and what the status is. Linking branches and pull requests to issues keeps the workflow organized and ensures nothing is forgotten.

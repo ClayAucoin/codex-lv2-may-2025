@@ -1,5 +1,7 @@
 ## Lesson: Add Collaborators and Accept Invitations on GitHub
 
+**[← Previous: Create Repository](github-collaboration-lv2.md)** | **[Next: Create Index Page →](github-collaboration-lv4.md)** | **[Back to Overview](README.md)**
+
 ### 🎯 Objective
 
 Invite your group members to the shared GitHub repository so everyone can contribute to the project.

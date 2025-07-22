@@ -1,5 +1,7 @@
 ## Lesson: Create and Assign GitHub Issues
 
+**[← Previous: Test Live Site](github-collaboration-lv11.md)** | **[Next: Resolve Issues →](github-collaboration-lv13.md)** | **[Back to Overview](README.md)**
+
 ### 🎯 Objective
 
 Each team member will create at least one GitHub Issue in the shared repository to track a specific HTML-related task, and assign it to themselves or a teammate.

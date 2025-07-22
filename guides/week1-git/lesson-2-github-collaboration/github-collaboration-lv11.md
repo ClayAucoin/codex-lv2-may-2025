@@ -1,5 +1,7 @@
 ## Lesson: Test Live GitHub Page
 
+**[← Previous: Review and Merge PRs](github-collaboration-lv10.md)** | **[Next: Create GitHub Issues →](github-collaboration-lv12.md)** | **[Back to Overview](README.md)**
+
 ### 🎯 Objective
 
 As a group, test your live website on GitHub Pages to confirm that all pages load correctly, navigation works, and the latest updates are visible.

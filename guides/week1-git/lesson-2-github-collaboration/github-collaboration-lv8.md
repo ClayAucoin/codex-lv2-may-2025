@@ -1,5 +1,7 @@
 ## Lesson: Assign Pages and Begin Development
 
+**[← Previous: Create Branches](github-collaboration-lv7.md)** | **[Next: Create Pull Requests →](github-collaboration-lv9.md)** | **[Back to Overview](README.md)**
+
 ### 🎯 Objective
 
 👉 **Why We Use Personal Branches:** Developing on your own branch keeps the `main` branch clean and stable. It prevents accidental changes or conflicts with teammates' work. Once your updates are ready and reviewed, they can be safely merged into `main`.
