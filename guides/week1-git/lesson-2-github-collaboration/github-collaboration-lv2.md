@@ -1,6 +1,9 @@
-## Lesson: Create a Shared Repository on GitHub
+# Navigation
+**Current Level:** 2 | [3](./github-collaboration-lv3.md) | [4](./github-collaboration-lv4.md) | [5](./github-collaboration-lv5.md) | [6](./github-collaboration-lv6.md) | [7](./github-collaboration-lv7.md) | [8](./github-collaboration-lv8.md) | [9](./github-collaboration-lv9.md) | [10](./github-collaboration-lv10.md) | [11](./github-collaboration-lv11.md) | [12](./github-collaboration-lv12.md) | [13](./github-collaboration-lv13.md) | [14](./github-collaboration-lv14.md) | [15](./github-collaboration-lv15.md)
 
-**[← Back to Overview](README.md)** | **[Next: Add Collaborators →](github-collaboration-lv3.md)**
+---
+
+## Lesson: Create a Shared Repository on GitHub
 
 ### 🎯 Objective
 

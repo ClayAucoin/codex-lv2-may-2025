@@ -1,6 +1,9 @@
-## Lesson: Update the README File as a Group
+# Navigation
+[2](./github-collaboration-lv2.md) | [3](./github-collaboration-lv3.md) | [4](./github-collaboration-lv4.md) | [5](./github-collaboration-lv5.md) | **Current Level:** 6 | [7](./github-collaboration-lv7.md) | [8](./github-collaboration-lv8.md) | [9](./github-collaboration-lv9.md) | [10](./github-collaboration-lv10.md) | [11](./github-collaboration-lv11.md) | [12](./github-collaboration-lv12.md) | [13](./github-collaboration-lv13.md) | [14](./github-collaboration-lv14.md) | [15](./github-collaboration-lv15.md)
 
-**[← Previous: Plan Site](github-collaboration-lv5.md)** | **[Next: Create Branches →](github-collaboration-lv7.md)** | **[Back to Overview](README.md)**
+---
+
+## Lesson: Update the README File as a Group
 
 ### 🎯 Objective
 
