@@ -1,6 +1,9 @@
-# Introduction to the Unix Shell
+# Navigation
+**Current Level:** 1 | [2](./unix-shell-basics-pwd-ls-lv2.md) | [3](./unix-shell-basics-pwd-ls-lv3.md) | [4](./unix-shell-basics-pwd-ls-lv4.md) | [5](./unix-shell-basics-pwd-ls-lv5.md) | [6](./unix-shell-basics-pwd-ls-lv6.md) | [7](./unix-shell-basics-pwd-ls-lv7.md) | [8](./unix-shell-basics-pwd-ls-lv8.md)
 
-[← Back to Index](README.md) | [Next: Introducing the Shell →](unix-shell-basics-pwd-ls-lv2.md)
+---
+
+# Introduction to the Unix Shell
 
 ---
 
@@ -46,5 +49,3 @@ Follow these steps to get set up:
 * During the lesson, you will use the terminal to navigate into the `shell-lesson-data` folder and work with its files.
 
 ---
-
-[← Back to Index](README.md) | [Next: Introducing the Shell →](unix-shell-basics-pwd-ls-lv2.md)

@@ -1,6 +1,9 @@
-## Lesson: Create a Text File Using a Terminal Editor
+# Navigation
+[1](./unix-shell-basics-creating-files-lv1.md) | **Current Level:** 2 | [3](./unix-shell-basics-creating-files-lv3.md) | [4](./unix-shell-basics-creating-files-lv4.md) | [5](./unix-shell-basics-creating-files-lv5.md) | [6](./unix-shell-basics-creating-files-lv6.md) | [7](./unix-shell-basics-creating-files-lv7.md)
 
-[← Back to Index](README.md) | [Previous: Create and Organize Files & Folders](unix-shell-basics-creating-files-lv1.md) | [Next: Create Files Using the `touch` Command →](unix-shell-basics-creating-files-lv3.md)
+---
+
+## Lesson: Create a Text File Using a Terminal Editor
 
 ---
 
@@ -78,5 +81,3 @@
 This lesson helps you get comfortable editing plain text files from the command line — a key skill for scripting, logging, and version control workflows.
 
 ---
-
-[← Back to Index](README.md) | [Previous: Create and Organize Files & Folders](unix-shell-basics-creating-files-lv1.md) | [Next: Create Files Using the `touch` Command →](unix-shell-basics-creating-files-lv3.md)

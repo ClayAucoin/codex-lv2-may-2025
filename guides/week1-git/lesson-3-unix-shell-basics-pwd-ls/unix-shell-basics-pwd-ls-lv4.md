@@ -1,6 +1,9 @@
-# Listing Files and Folders with `ls`
+# Navigation
+[1](./unix-shell-basics-pwd-ls-lv1.md) | [2](./unix-shell-basics-pwd-ls-lv2.md) | [3](./unix-shell-basics-pwd-ls-lv3.md) | **Current Level:** 4 | [5](./unix-shell-basics-pwd-ls-lv5.md) | [6](./unix-shell-basics-pwd-ls-lv6.md) | [7](./unix-shell-basics-pwd-ls-lv7.md) | [8](./unix-shell-basics-pwd-ls-lv8.md)
 
-[← Back to Index](README.md) | [Previous: Navigating Files and Directories](unix-shell-basics-pwd-ls-lv3.md) | [Next: Clearing the Screen and Getting Help →](unix-shell-basics-pwd-ls-lv5.md)
+---
+
+# Listing Files and Folders with `ls`
 
 ---
 
@@ -62,5 +65,3 @@
 * Add `-F` to quickly tell which items are folders.
 
 ---
-
-[← Back to Index](README.md) | [Previous: Navigating Files and Directories](unix-shell-basics-pwd-ls-lv3.md) | [Next: Clearing the Screen and Getting Help →](unix-shell-basics-pwd-ls-lv5.md)

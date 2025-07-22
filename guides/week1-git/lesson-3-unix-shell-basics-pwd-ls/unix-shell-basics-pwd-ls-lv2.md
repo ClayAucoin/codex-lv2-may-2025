@@ -1,6 +1,9 @@
-# Introducing the Shell
+# Navigation
+[1](./unix-shell-basics-pwd-ls-lv1.md) | **Current Level:** 2 | [3](./unix-shell-basics-pwd-ls-lv3.md) | [4](./unix-shell-basics-pwd-ls-lv4.md) | [5](./unix-shell-basics-pwd-ls-lv5.md) | [6](./unix-shell-basics-pwd-ls-lv6.md) | [7](./unix-shell-basics-pwd-ls-lv7.md) | [8](./unix-shell-basics-pwd-ls-lv8.md)
 
-[← Back to Index](README.md) | [Previous: Introduction to the Unix Shell](unix-shell-basics-pwd-ls-lv1.md) | [Next: Navigating Files and Directories →](unix-shell-basics-pwd-ls-lv3.md)
+---
+
+# Introducing the Shell
 
 ---
 
@@ -80,5 +83,3 @@ In this lesson, you’ll learn what the shell is, how it works, and why it’s u
 * Shell skills are essential for working on remote machines, supercomputers, and cloud systems.
 
 ---
-
-[← Back to Index](README.md) | [Previous: Introduction to the Unix Shell](unix-shell-basics-pwd-ls-lv1.md) | [Next: Navigating Files and Directories →](unix-shell-basics-pwd-ls-lv3.md)

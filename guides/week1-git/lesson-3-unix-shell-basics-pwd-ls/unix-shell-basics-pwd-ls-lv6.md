@@ -1,6 +1,9 @@
-# Using `man` to Read Manual Pages
+# Navigation
+[1](./unix-shell-basics-pwd-ls-lv1.md) | [2](./unix-shell-basics-pwd-ls-lv2.md) | [3](./unix-shell-basics-pwd-ls-lv3.md) | [4](./unix-shell-basics-pwd-ls-lv4.md) | [5](./unix-shell-basics-pwd-ls-lv5.md) | **Current Level:** 6 | [7](./unix-shell-basics-pwd-ls-lv7.md) | [8](./unix-shell-basics-pwd-ls-lv8.md)
 
-[← Back to Index](README.md) | [Previous: Clearing the Screen and Getting Help](unix-shell-basics-pwd-ls-lv5.md) | [Next: Exploring More `ls` Options →](unix-shell-basics-pwd-ls-lv7.md)
+---
+
+# Using `man` to Read Manual Pages
 
 ---
 
@@ -47,5 +50,3 @@
   to find the same info in a web browser.
 
 ---
-
-[← Back to Index](README.md) | [Previous: Clearing the Screen and Getting Help](unix-shell-basics-pwd-ls-lv5.md) | [Next: Exploring More `ls` Options →](unix-shell-basics-pwd-ls-lv7.md)

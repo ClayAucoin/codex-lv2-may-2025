@@ -1,6 +1,9 @@
-# Navigating Files and Directories
+# Navigation
+[1](./unix-shell-basics-pwd-ls-lv1.md) | [2](./unix-shell-basics-pwd-ls-lv2.md) | **Current Level:** 3 | [4](./unix-shell-basics-pwd-ls-lv4.md) | [5](./unix-shell-basics-pwd-ls-lv5.md) | [6](./unix-shell-basics-pwd-ls-lv6.md) | [7](./unix-shell-basics-pwd-ls-lv7.md) | [8](./unix-shell-basics-pwd-ls-lv8.md)
 
-[← Back to Index](README.md) | [Previous: Introducing the Shell](unix-shell-basics-pwd-ls-lv2.md) | [Next: Listing Files and Folders with `ls` →](unix-shell-basics-pwd-ls-lv4.md)
+---
+
+# Navigating Files and Directories
 
 ---
 
@@ -102,5 +105,3 @@
   Use **absolute paths** (starting with `/`) when you want to refer to a file from anywhere in the system.
 
 ---
-
-[← Back to Index](README.md) | [Previous: Introducing the Shell](unix-shell-basics-pwd-ls-lv2.md) | [Next: Listing Files and Folders with `ls` →](unix-shell-basics-pwd-ls-lv4.md)

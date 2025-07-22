@@ -1,6 +1,9 @@
-# Exploring Other Directories with `ls`
+# Navigation
+[1](./unix-shell-basics-pwd-ls-lv1.md) | [2](./unix-shell-basics-pwd-ls-lv2.md) | [3](./unix-shell-basics-pwd-ls-lv3.md) | [4](./unix-shell-basics-pwd-ls-lv4.md) | [5](./unix-shell-basics-pwd-ls-lv5.md) | [6](./unix-shell-basics-pwd-ls-lv6.md) | [7](./unix-shell-basics-pwd-ls-lv7.md) | **Current Level:** 8
 
-[← Back to Index](README.md) | [Previous: Exploring More `ls` Options](unix-shell-basics-pwd-ls-lv7.md)
+---
+
+# Exploring Other Directories with `ls`
 
 ---
 
@@ -64,5 +67,3 @@ You don't have to be inside a folder to look at what's in it. You can use `ls` t
   ```
 
 ---
-
-[← Back to Index](README.md) | [Previous: Exploring More `ls` Options](unix-shell-basics-pwd-ls-lv7.md)

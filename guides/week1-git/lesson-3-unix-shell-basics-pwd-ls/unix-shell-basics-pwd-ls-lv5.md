@@ -1,6 +1,9 @@
-# Clearing the Screen and Getting Help
+# Navigation
+[1](./unix-shell-basics-pwd-ls-lv1.md) | [2](./unix-shell-basics-pwd-ls-lv2.md) | [3](./unix-shell-basics-pwd-ls-lv3.md) | [4](./unix-shell-basics-pwd-ls-lv4.md) | **Current Level:** 5 | [6](./unix-shell-basics-pwd-ls-lv6.md) | [7](./unix-shell-basics-pwd-ls-lv7.md) | [8](./unix-shell-basics-pwd-ls-lv8.md)
 
-[← Back to Index](README.md) | [Previous: Listing Files and Folders with `ls`](unix-shell-basics-pwd-ls-lv4.md) | [Next: Using `man` to Read Manual Pages →](unix-shell-basics-pwd-ls-lv6.md)
+---
+
+# Clearing the Screen and Getting Help
 
 ---
 
@@ -92,5 +95,3 @@
 * Use short flags (`-a`) for speed and long flags (`--all`) for clarity in scripts.
 
 ---
-
-[← Back to Index](README.md) | [Previous: Listing Files and Folders with `ls`](unix-shell-basics-pwd-ls-lv4.md) | [Next: Using `man` to Read Manual Pages →](unix-shell-basics-pwd-ls-lv6.md)

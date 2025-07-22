@@ -1,6 +1,9 @@
-## Lesson: Create and Organize Files & Folders 🗂️
+# Navigation
+**Current Level:** 1 | [2](./unix-shell-basics-creating-files-lv2.md) | [3](./unix-shell-basics-creating-files-lv3.md) | [4](./unix-shell-basics-creating-files-lv4.md) | [5](./unix-shell-basics-creating-files-lv5.md) | [6](./unix-shell-basics-creating-files-lv6.md) | [7](./unix-shell-basics-creating-files-lv7.md)
 
-[← Back to Index](README.md) | [Next: Create a Text File Using a Terminal Editor →](unix-shell-basics-creating-files-lv2.md)
+---
+
+## Lesson: Create and Organize Files & Folders 🗂️
 
 ---
 
@@ -107,5 +110,3 @@ Learn to create, move, and delete files and folders from the command line — wh
 This lesson builds your confidence using the shell to organize work and reinforces how naming affects your ability to navigate and automate tasks.
 
 ---
-
-[← Back to Index](README.md) | [Next: Create a Text File Using a Terminal Editor →](unix-shell-basics-creating-files-lv2.md)

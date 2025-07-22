@@ -1,6 +1,9 @@
-# Understanding the Structure of a Shell Command
+# Navigation
+[1](./unix-shell-basics-navigation-lv1.md) | [2](./unix-shell-basics-navigation-lv2.md) | [3](./unix-shell-basics-navigation-lv3.md) | **Current Level:** 4 | [5](./unix-shell-basics-navigation-lv5.md)
 
-[← Back to Index](README.md) | [Previous: Moving with Relative and Absolute Paths](unix-shell-basics-navigation-lv3.md) | [Next: Nelle's Pipeline: Organizing Files and Using Tab Completion →](unix-shell-basics-navigation-lv5.md)
+---
+
+# Understanding the Structure of a Shell Command
 
 ---
 
@@ -102,5 +105,3 @@
 * Some commands work without arguments. Others require them.
 
 ---
-
-[← Back to Index](README.md) | [Previous: Moving with Relative and Absolute Paths](unix-shell-basics-navigation-lv3.md) | [Next: Nelle's Pipeline: Organizing Files and Using Tab Completion →](unix-shell-basics-navigation-lv5.md)

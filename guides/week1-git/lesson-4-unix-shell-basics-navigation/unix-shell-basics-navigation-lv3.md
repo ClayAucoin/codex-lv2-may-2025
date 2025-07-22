@@ -1,6 +1,9 @@
-# Moving with Relative and Absolute Paths
+# Navigation
+[1](./unix-shell-basics-navigation-lv1.md) | [2](./unix-shell-basics-navigation-lv2.md) | **Current Level:** 3 | [4](./unix-shell-basics-navigation-lv4.md) | [5](./unix-shell-basics-navigation-lv5.md)
 
-[← Back to Index](README.md) | [Previous: Special Directories and Hidden Files](unix-shell-basics-navigation-lv2.md) | [Next: Understanding the Structure of a Shell Command →](unix-shell-basics-navigation-lv4.md)
+---
+
+# Moving with Relative and Absolute Paths
 
 ---
 
@@ -124,5 +127,3 @@ Choices:
 * **1** is incorrect — it tries to list a file called `pwd`.
 
 ---
-
-[← Back to Index](README.md) | [Previous: Special Directories and Hidden Files](unix-shell-basics-navigation-lv2.md) | [Next: Understanding the Structure of a Shell Command →](unix-shell-basics-navigation-lv4.md)

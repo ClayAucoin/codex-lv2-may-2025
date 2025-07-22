@@ -1,6 +1,9 @@
-# Nelle's Pipeline: Organizing Files and Using Tab Completion
+# Navigation
+[1](./unix-shell-basics-navigation-lv1.md) | [2](./unix-shell-basics-navigation-lv2.md) | [3](./unix-shell-basics-navigation-lv3.md) | [4](./unix-shell-basics-navigation-lv4.md) | **Current Level:** 5
 
-[← Back to Index](README.md) | [Previous: Understanding the Structure of a Shell Command](unix-shell-basics-navigation-lv4.md)
+---
+
+# Nelle's Pipeline: Organizing Files and Using Tab Completion
 
 ---
 
@@ -92,5 +95,3 @@ Now that she understands files and folders, Nelle starts organizing her data fro
   `..` means “up one level”
 
 ---
-
-[← Back to Index](README.md) | [Previous: Understanding the Structure of a Shell Command](unix-shell-basics-navigation-lv4.md)

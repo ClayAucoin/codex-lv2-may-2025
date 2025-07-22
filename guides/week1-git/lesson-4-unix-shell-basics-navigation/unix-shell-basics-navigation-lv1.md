@@ -1,6 +1,9 @@
-# Moving Between Folders with `cd`
+# Navigation
+**Current Level:** 1 | [2](./unix-shell-basics-navigation-lv2.md) | [3](./unix-shell-basics-navigation-lv3.md) | [4](./unix-shell-basics-navigation-lv4.md) | [5](./unix-shell-basics-navigation-lv5.md)
 
-[← Back to Index](README.md) | [Next: Special Directories and Hidden Files →](unix-shell-basics-navigation-lv2.md)
+---
+
+# Moving Between Folders with `cd`
 
 ---
 
@@ -91,5 +94,3 @@ The `cd` command lets you move between folders (directories). It doesn't change 
 * `ls -F` lists what’s in the current folder.
 
 ---
-
-[← Back to Index](README.md) | [Next: Special Directories and Hidden Files →](unix-shell-basics-navigation-lv2.md)

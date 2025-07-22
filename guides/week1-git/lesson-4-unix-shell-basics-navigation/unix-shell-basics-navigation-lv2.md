@@ -1,6 +1,9 @@
-# Special Directories and Hidden Files
+# Navigation
+[1](./unix-shell-basics-navigation-lv1.md) | **Current Level:** 2 | [3](./unix-shell-basics-navigation-lv3.md) | [4](./unix-shell-basics-navigation-lv4.md) | [5](./unix-shell-basics-navigation-lv5.md)
 
-[← Back to Index](README.md) | [Previous: Moving Between Folders with `cd`](unix-shell-basics-navigation-lv1.md) | [Next: Moving with Relative and Absolute Paths →](unix-shell-basics-navigation-lv3.md)
+---
+
+# Special Directories and Hidden Files
 
 ---
 
@@ -75,5 +78,3 @@
 * These commands — `pwd`, `ls`, and `cd` — are the foundation for navigating in the shell.
 
 ---
-
-[← Back to Index](README.md) | [Previous: Moving Between Folders with `cd`](unix-shell-basics-navigation-lv1.md) | [Next: Moving with Relative and Absolute Paths →](unix-shell-basics-navigation-lv3.md)
