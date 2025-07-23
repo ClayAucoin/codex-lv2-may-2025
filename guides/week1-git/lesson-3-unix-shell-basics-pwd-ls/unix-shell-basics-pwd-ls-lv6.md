@@ -7,6 +7,10 @@
 
 ---
 
+> ⚠️ **Windows Users:** If you're using Git Bash on Windows, the `man` command is not available. You can skip this lesson and use `--help` instead (covered in the previous lesson). For example, try `ls --help` to see the manual for the `ls` command.
+
+---
+
 ### Steps
 
 1. **Open a manual page**

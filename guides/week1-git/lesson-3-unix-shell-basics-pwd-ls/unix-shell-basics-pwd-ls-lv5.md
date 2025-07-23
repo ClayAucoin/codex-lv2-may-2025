@@ -7,6 +7,10 @@
 
 ---
 
+> ⚠️ **macOS Users:** On macOS, `ls --help` does not work. You can skip this lesson and use `man` instead (covered in the next lesson). For example, try `man ls` to see the manual for the `ls` command.
+
+---
+
 ### Steps
 
 1. **Clear the screen**
