@@ -1,0 +1,9 @@
+.flex-container {
+    display: flex;
+}
+
+.flex-container > img {
+    border: solid salmon 1px;
+    padding: 5px;
+    margin: 5px;
+}

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wildcards</title>
+    <link rel="stylesheet" href="sakura.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>Wildcards `*` exercise</h1>
+    <p>Challenge: Move the images to the correct folder</p>
+    <p>
+        Explanation: The image files are all in the root folder of this project.
+        You must create the directory structure with `mkdir`.
+        Then move the images to the correct folder with `mv` command.
+
+    </p>
+    <h2>Dice</h2>
+    <p>
+        The following images are all PNG files.
+        Try creating a new folder called `img` and a subfolder called `dice`.
+        Then move the images to the correct folder with `mv` command.
+    </p>
+    <p>
+        You can move a single file like this:
+    </p>
+    <pre>
+        mv dice-1.png img/dice/dice-1.png
+     </pre>
+    <p>Or you can move all the files in a folder with a wildcard `*`like this:</p>
+    <pre>
+        mv img/dice/*.png img/dice/
+     </pre>
+    <p>Explanation: The wildcard `*` is a special character that matches all characters. We use it to match a pattern
+        within filenames.</p>
+
+    <div class="flex-container">
+        <img src="./img/dice/dice-1.png" alt="Dice 1">
+        <img src="./img/dice/dice-2.png" alt="Dice 2">
+        <img src="./img/dice/dice-3.png" alt="Dice 3">
+        <img src="./img/dice/dice-4.png" alt="Dice 4">
+        <img src="./img/dice/dice-5.png" alt="Dice 5">
+        <img src="./img/dice/dice-6.png" alt="Dice 6">
+        <img src="./img/dice/dice-7.png" alt="Dice 7">
+        <img src="./img/dice/dice-8.png" alt="Dice 8">
+    </div>
+
+    <h2>Birthday</h2>
+    <p>
+        The following images are all JPG files.
+        Try creating a new folder called `img` and a subfolder called `memes`.
+        Then move the images to the correct folder with `mv` command. Try using a wildcard.
+    </p>
+
+    <div class="flex-container">
+        <img src="./img/memes/birthday-1.gif" alt="Birthday 1">
+        <img src="./img/memes/birthday-2.gif" alt="Birthday 2">
+        <img src="./img/memes/birthday-3.gif" alt="Birthday 3">
+        <img src="./img/memes/birthday-4.gif" alt="Birthday 4">
+        <img src="./img/memes/birthday-5.gif" alt="Birthday 5">
+        <img src="./img/memes/birthday-6.gif" alt="Birthday 6">
+        <img src="./img/memes/birthday-7.gif" alt="Birthday 7">
+        <img src="./img/memes/birthday-8.gif" alt="Birthday 8">
+    </div>
+
+    <h2>Landscapes</h2>
+    <p>
+        In the previous examples, you could use the wildcard to replace the filename, while keeping the file extension
+        (`*.png` or `*.gif`).
+        This won't work here because we want to divide the JPEG files into multiple folders.
+        Try to think of a way to move all the beach files to a new folder with a wildcard.
+    </p>
+    <div class="flex-container">
+        <img src="./img/beach-photos/beach-1.jpg" alt="Beach 1">
+        <img src="./img/beach-photos/beach-2.jpg" alt="Beach 2">
+        <img src="./img/beach-photos/beach-3.jpg" alt="Beach 3">
+        <img src="./img/beach-photos/beach-4.jpg" alt="Beach 4">
+        <img src="./img/beach-photos/beach-5.jpg" alt="Beach 5">
+        <img src="./img/beach-photos/beach-6.jpg" alt="Beach 6">
+        <img src="./img/beach-photos/beach-7.jpg" alt="Beach 7">
+        <img src="./img/beach-photos/beach-8.jpg" alt="Beach 8">
+    </div>
+
+    <h2>Animals</h2>
+
+    <div class="flex-container">
+        <img src="./img/animals/cat-1.jpg" alt="Cat Picture">
+        <img src="./img/animals/cat-2.jpg" alt="Cat Picture">
+        <img src="./img/animals/cat-3.jpg" alt="Cat Picture">
+        <img src="./img/animals/cat-4.jpg" alt="Cat Picture">
+        <img src="./img/animals/dog-1.jpg" alt="Dog Picture">
+        <img src="./img/animals/dog-2.jpg" alt="Dog Picture">
+        <img src="./img/animals/dog-3.jpg" alt="Dog Picture">
+        <img src="./img/animals/dog-4.jpg" alt="Dog Picture">
+    </div>
+
+
+</body>
+
+</html>
