@@ -29,8 +29,6 @@ In this unit, you'll learn how to collaborate with GitHub, build a simple websit
    Create `about.html` and `contact.html`, and link them from your homepage.
 
 8. **Practice: Optional Practice Lessons**  
-   - **[8a. Adding an Image](./github-repo-lv8-a.md)**  
-     Learn how to add and display an image on your site.
    - **[8b. Styling with CSS](./github-repo-lv8-b.md)**  
      Create a `style.css` file and apply styling to your website.
    - **[8c. Updating the README with More Detail](./github-repo-lv8-c.md)**  
