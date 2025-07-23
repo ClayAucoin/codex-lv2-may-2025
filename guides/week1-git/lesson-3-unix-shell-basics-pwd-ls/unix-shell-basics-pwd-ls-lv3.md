@@ -76,6 +76,8 @@
 
    This moves you into the `Desktop` folder inside your current directory.
 
+   > 💡 **OneDrive Users:** If you're using OneDrive, you might need to use `cd OneDrive/Desktop` instead of `cd Desktop`.
+
    To go back:
 
    ```
