@@ -13,7 +13,7 @@ Before starting these lessons, make sure you have:
 
 ## Lesson Structure
 
-### 1. [Summary and Setup](https://swcarpentry.github.io/git-novice/00-intro.html)
+### 1. [Summary and Setup](https://swcarpentry.github.io/git-novice/index.html)
 Overview of version control and getting started with Git.
 - What is version control and why should I use it?
 - Setting up your environment for Git
