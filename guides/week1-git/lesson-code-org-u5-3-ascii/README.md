@@ -80,7 +80,7 @@ For example, the binary number `01000001` for the letter **A** would be written:
 **2.**
 
 ```
-🍎🍌🍎🍎🍎🍎🍎 🍎🍌🍎🍎🍌🍎🍎🍌
+🍎🍌🍎🍎🍌🍎🍎🍎 🍎🍌🍎🍎🍌🍎🍎🍌
 ```
 
 **Hint:** A familiar greeting
