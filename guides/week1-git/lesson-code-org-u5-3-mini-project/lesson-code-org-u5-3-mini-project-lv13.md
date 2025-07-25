@@ -70,4 +70,18 @@ Thoroughly test your emoji encoding website to ensure all functionality works co
 
 ### 🚀 Ready for Next Step?
 
-Once testing is complete and all issues are resolved, you're ready for **Step 14: Final Documentation**. 
+Once testing is complete and all issues are resolved, you're ready for **Step 14: Final Documentation**.
+
+---
+
+### 💾 Git Workflow Reminder
+
+**After completing this step:**
+```bash
+git add .
+git commit -m "Complete website testing and fix any issues"
+git push
+```
+- Remember to:
+  - `git pull` before starting new work
+  - If you encounter conflicts, see the [conflicts tutorial](./conflicts.md) 

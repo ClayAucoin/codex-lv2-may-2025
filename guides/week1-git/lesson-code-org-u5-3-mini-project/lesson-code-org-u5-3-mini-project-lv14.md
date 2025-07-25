@@ -83,4 +83,20 @@ Congratulations! You have successfully completed the collaborative emoji encodin
 - Thoroughly tested the project
 - Produced comprehensive documentation
 
-**Great job working together as a team!** 🎊 
+**Great job working together as a team!** 🎊
+
+---
+
+### 💾 Git Workflow Reminder
+
+**After completing this step:**
+```bash
+git add .
+git commit -m "Complete project documentation and finalize README"
+git push
+```
+- Remember to:
+  - `git pull` before starting new work
+  - If you encounter conflicts, see the [conflicts tutorial](./conflicts.md)
+
+**🎉 Project Complete!** Your collaborative emoji encoding website is now fully documented and ready to share! 

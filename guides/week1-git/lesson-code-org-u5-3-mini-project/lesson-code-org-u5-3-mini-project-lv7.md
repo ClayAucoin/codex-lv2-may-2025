@@ -67,4 +67,18 @@ Create a custom emoji alphabet encoding system and update the page with your gro
 
 ### 🚀 Ready for Next Step?
 
-Once the custom emoji alphabet page is updated, you're ready for **Step 8: Update Main Landing Page**. 
+Once the custom emoji alphabet page is updated, you're ready for **Step 8: Update Main Landing Page**.
+
+---
+
+### 💾 Git Workflow Reminder
+
+**After completing this step:**
+```bash
+git add .
+git commit -m "Update custom emoji alphabet page with group's encoding system"
+git push
+```
+- Remember to:
+  - `git pull` before starting new work
+  - If you encounter conflicts, see the [conflicts tutorial](./conflicts.md) 

@@ -71,4 +71,18 @@ Continue practicing the Git collaboration workflow as you complete the individua
 
 ### 🚀 Ready for Next Step?
 
-Once all changes are committed and the team is in sync, you're ready for **Step 13: Test Your Website**. 
+Once all changes are committed and the team is in sync, you're ready for **Step 13: Test Your Website**.
+
+---
+
+### 💾 Git Workflow Reminder
+
+**After completing this step:**
+```bash
+git add .
+git commit -m "Complete individual pages and finalize project structure"
+git push
+```
+- Remember to:
+  - `git pull` before starting new work
+  - If you encounter conflicts, see the [conflicts tutorial](./conflicts.md) 

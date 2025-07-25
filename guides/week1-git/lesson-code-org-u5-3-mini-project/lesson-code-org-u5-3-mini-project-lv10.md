@@ -69,4 +69,18 @@ Each team member creates their own personal HTML page with an encoded message us
 
 ### 🚀 Ready for Next Step?
 
-Once everyone has created their individual pages, you're ready for **Step 11: Link Individual Pages**. 
+Once everyone has created their individual pages, you're ready for **Step 11: Link Individual Pages**.
+
+---
+
+### 💾 Git Workflow Reminder
+
+**After completing this step:**
+```bash
+git add .
+git commit -m "Add individual team member pages with personal emoji messages"
+git push
+```
+- Remember to:
+  - `git pull` before starting new work
+  - If you encounter conflicts, see the [conflicts tutorial](./conflicts.md) 

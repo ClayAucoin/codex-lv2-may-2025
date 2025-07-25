@@ -65,4 +65,18 @@ Customize the ASCII binary encoding page with your group's chosen emojis and cre
 
 ### 🚀 Ready for Next Step?
 
-Once the ASCII binary page is updated, you're ready for **Step 7: Update Custom Emoji Alphabet Page**. 
+Once the ASCII binary page is updated, you're ready for **Step 7: Update Custom Emoji Alphabet Page**.
+
+---
+
+### 💾 Git Workflow Reminder
+
+**After completing this step:**
+```bash
+git add .
+git commit -m "Update ASCII binary page with group's emoji choices"
+git push
+```
+- Remember to:
+  - `git pull` before starting new work
+  - If you encounter conflicts, see the [conflicts tutorial](./conflicts.md) 

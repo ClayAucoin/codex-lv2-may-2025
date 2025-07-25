@@ -68,4 +68,18 @@ Add links to all individual team member pages from the main landing page to crea
 
 ### 🚀 Ready for Next Step?
 
-Once all individual pages are linked, you're ready for **Step 12: Git Collaboration Workflow (Continued)**. 
+Once all individual pages are linked, you're ready for **Step 12: Git Collaboration Workflow (Continued)**.
+
+---
+
+### 💾 Git Workflow Reminder
+
+**After completing this step:**
+```bash
+git add .
+git commit -m "Add navigation links to individual team member pages"
+git push
+```
+- Remember to:
+  - `git pull` before starting new work
+  - If you encounter conflicts, see the [conflicts tutorial](./conflicts.md) 

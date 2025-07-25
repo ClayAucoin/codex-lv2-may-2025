@@ -67,4 +67,18 @@ Customize the main landing page to reflect your group's project and provide clea
 
 ### 🚀 Ready for Next Step?
 
-Once the main landing page is updated, you're ready for **Step 9: Git Collaboration Workflow**. 
+Once the main landing page is updated, you're ready for **Step 9: Git Collaboration Workflow**.
+
+---
+
+### 💾 Git Workflow Reminder
+
+**After completing this step:**
+```bash
+git add .
+git commit -m "Update main landing page with navigation and group info"
+git push
+```
+- Remember to:
+  - `git pull` before starting new work
+  - If you encounter conflicts, see the [conflicts tutorial](./conflicts.md) 

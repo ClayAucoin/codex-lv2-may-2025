@@ -69,4 +69,17 @@ Clone the repository to your local machine so you can work on the project files 
 
 ### 🚀 Ready for Next Step?
 
-Once everyone has cloned the repository locally, you're ready for **Step 6: Update ASCII Binary Page**. 
+Once everyone has cloned the repository locally, you're ready for **Step 6: Update ASCII Binary Page**.
+
+---
+
+### 💾 Git Workflow Reminder
+
+**After completing this step:**
+- Repository cloned locally (no changes to commit yet)
+- In future steps, remember to:
+  - `git add .` to stage your changes
+  - `git commit -m "descriptive message"` to commit
+  - `git pull` before starting new work
+  - `git push` to upload your changes
+  - If you encounter conflicts, see the [conflicts tutorial](./conflicts.md) 

@@ -58,4 +58,17 @@ Add all team members as collaborators to the GitHub repository so everyone can c
 
 ### 🚀 Ready for Next Step?
 
-Once all collaborators are added and have accepted invitations, you're ready for **Step 4: Get the Starter Code**. 
+Once all collaborators are added and have accepted invitations, you're ready for **Step 4: Get the Starter Code**.
+
+---
+
+### 💾 Git Workflow Reminder
+
+**After completing this step:**
+- Collaborators added on GitHub (no local files to commit yet)
+- In future steps, remember to:
+  - `git add .` to stage your changes
+  - `git commit -m "descriptive message"` to commit
+  - `git pull` before starting new work
+  - `git push` to upload your changes
+  - If you encounter conflicts, see the [conflicts tutorial](./conflicts.md) 

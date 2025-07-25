@@ -57,4 +57,17 @@ Form a collaborative team of 3-4 students to work on the emoji encoding website 
 
 ### 🚀 Ready for Next Step?
 
-Once your group is formed and roles are assigned, you're ready for **Step 2: Create the Repository**. 
+Once your group is formed and roles are assigned, you're ready for **Step 2: Create the Repository**.
+
+---
+
+### 💾 Git Workflow Reminder
+
+**After completing this step:**
+- No files to commit yet, but make sure your team is ready to collaborate
+- In future steps, remember to:
+  - `git add .` to stage your changes
+  - `git commit -m "descriptive message"` to commit
+  - `git pull` before starting new work
+  - `git push` to upload your changes
+  - If you encounter conflicts, see the [conflicts tutorial](./conflicts.md) 

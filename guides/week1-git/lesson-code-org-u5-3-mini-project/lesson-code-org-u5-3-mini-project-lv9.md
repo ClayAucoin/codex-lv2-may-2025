@@ -74,4 +74,16 @@ Learn and practice the proper Git workflow for collaborative development to avoi
 
 ### 🚀 Ready for Next Step?
 
-Once everyone understands the Git workflow, you're ready for **Step 10: Create Individual Pages**. 
+Once everyone understands the Git workflow, you're ready for **Step 10: Create Individual Pages**.
+
+---
+
+### 💾 Git Workflow Reminder
+
+**This step covers the Git workflow itself, so no additional commits needed.**
+- Remember to:
+  - `git pull` before starting new work
+  - `git add .` to stage your changes
+  - `git commit -m "descriptive message"` to commit
+  - `git push` to upload your changes
+  - If you encounter conflicts, see the [conflicts tutorial](./conflicts.md) 

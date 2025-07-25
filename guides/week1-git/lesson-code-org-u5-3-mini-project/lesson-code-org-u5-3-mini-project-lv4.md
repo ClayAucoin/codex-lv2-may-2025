@@ -61,4 +61,17 @@ Copy the starter HTML files from the course resources to your repository to begi
 
 ### 🚀 Ready for Next Step?
 
-Once the starter files are uploaded to your repository, you're ready for **Step 5: Clone and Setup**. 
+Once the starter files are uploaded to your repository, you're ready for **Step 5: Clone and Setup**.
+
+---
+
+### 💾 Git Workflow Reminder
+
+**After completing this step:**
+- Files uploaded via GitHub web interface (committed automatically)
+- In future steps, remember to:
+  - `git add .` to stage your changes
+  - `git commit -m "descriptive message"` to commit
+  - `git pull` before starting new work
+  - `git push` to upload your changes
+  - If you encounter conflicts, see the [conflicts tutorial](./conflicts.md) 

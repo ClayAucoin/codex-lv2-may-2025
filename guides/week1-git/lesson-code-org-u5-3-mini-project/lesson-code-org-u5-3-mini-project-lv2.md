@@ -59,4 +59,17 @@ Create a new GitHub repository for your collaborative emoji encoding website pro
 
 ### 🚀 Ready for Next Step?
 
-Once your repository is created, you're ready for **Step 3: Add Collaborators**. 
+Once your repository is created, you're ready for **Step 3: Add Collaborators**.
+
+---
+
+### 💾 Git Workflow Reminder
+
+**After completing this step:**
+- Repository created on GitHub (no local files to commit yet)
+- In future steps, remember to:
+  - `git add .` to stage your changes
+  - `git commit -m "descriptive message"` to commit
+  - `git pull` before starting new work
+  - `git push` to upload your changes
+  - If you encounter conflicts, see the [conflicts tutorial](./conflicts.md) 
