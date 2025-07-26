@@ -62,15 +62,6 @@
 
 ---
 
-### Practice Activity
-
-1. Navigate to your `writing/thesis` folder.
-2. Use `nano` to create a file called `outline.txt`.
-3. Add 2–3 lines of text and save it.
-4. Use `ls` to confirm that `outline.txt` now exists.
-
----
-
 ### Reflection Questions
 
 * How does editing from the terminal compare to using a graphical text editor?
@@ -81,3 +72,6 @@
 This lesson helps you get comfortable editing plain text files from the command line — a key skill for scripting, logging, and version control workflows.
 
 ---
+
+# Navigation
+[1](./unix-shell-basics-creating-files-lv1.md) | **Current Level:** 2 | [3](./unix-shell-basics-creating-files-lv3.md) | [4](./unix-shell-basics-creating-files-lv4.md) | [5](./unix-shell-basics-creating-files-lv5.md) | [6](./unix-shell-basics-creating-files-lv6.md) | [7](./unix-shell-basics-creating-files-lv7.md)

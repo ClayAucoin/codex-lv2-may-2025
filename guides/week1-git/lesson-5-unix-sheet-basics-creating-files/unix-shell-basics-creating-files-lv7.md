@@ -137,15 +137,6 @@ mkdir 2016-05-20/data/processed
 
 ---
 
-### Practice Activity
-
-1. Use `cp` to copy multiple files into a directory.
-2. Use wildcards to copy all `.dat` files or files with a specific prefix.
-3. Move files into folders to better organize your directory.
-4. Create a nested folder structure using `mkdir -p`.
-
----
-
 ### Reflection Questions
 
 * How do wildcards help automate file operations?
@@ -153,6 +144,5 @@ mkdir 2016-05-20/data/processed
 
 ---
 
-This lesson teaches you how to manage many files efficiently using wildcard patterns — a powerful tool for working at scale in the command line.
-
----
+# Navigation
+[1](./unix-shell-basics-creating-files-lv1.md) | [2](./unix-shell-basics-creating-files-lv2.md) | [3](./unix-shell-basics-creating-files-lv3.md) | [4](./unix-shell-basics-creating-files-lv4.md) | [5](./unix-shell-basics-creating-files-lv5.md) | [6](./unix-shell-basics-creating-files-lv6.md) | **Current Level:** 7

@@ -30,7 +30,7 @@ Learn to create, move, and delete files and folders from the command line — wh
   ls -F
   ```
 
-  → You’ll see files like `haiku.txt`, `LittleWomen.txt`.
+  → You'll see files like `haiku.txt`, `LittleWomen.txt`.
 
 ---
 
@@ -65,7 +65,7 @@ Learn to create, move, and delete files and folders from the command line — wh
 
 ### 🔍 Step 3: Avoid Common Naming Pitfalls
 
-* Don’t use **spaces** in names:
+* Don't use **spaces** in names:
 
   ```bash
   mkdir north pacific gyre
@@ -89,17 +89,6 @@ Learn to create, move, and delete files and folders from the command line — wh
 
 ---
 
-### ✅ Practice Activity
-
-1. In your `writing` folder:
-
-   * Create a directory called `drafts`
-   * Inside it, make a nested structure `2025/spring/notes` using `mkdir -p`
-2. Try creating a directory with a space (on purpose) and see what happens.
-3. Try using a name that starts with a dash (e.g. `mkdir -badname`) and note the result.
-
----
-
 ### 📝 Reflection Questions
 
 * What are the pros and cons of using a GUI vs. the terminal to create folders?
@@ -110,3 +99,6 @@ Learn to create, move, and delete files and folders from the command line — wh
 This lesson builds your confidence using the shell to organize work and reinforces how naming affects your ability to navigate and automate tasks.
 
 ---
+
+# Navigation
+**Current Level:** 1 | [2](./unix-shell-basics-creating-files-lv2.md) | [3](./unix-shell-basics-creating-files-lv3.md) | [4](./unix-shell-basics-creating-files-lv4.md) | [5](./unix-shell-basics-creating-files-lv5.md) | [6](./unix-shell-basics-creating-files-lv6.md) | [7](./unix-shell-basics-creating-files-lv7.md)

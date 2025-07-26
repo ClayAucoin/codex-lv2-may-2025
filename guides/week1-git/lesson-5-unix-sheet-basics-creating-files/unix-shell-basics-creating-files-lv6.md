@@ -3,101 +3,76 @@
 
 ---
 
-## Lesson: Remove Files and Directories Using `rm`
+## Lesson: Advanced File Operations
 
 ---
 
-### Step 1: Remove a File
+### Step 1: Find Files
 
-* In the `writing` directory, delete `quotes.txt`:
-
-  ```bash
-  rm quotes.txt
-  ```
-
-* Check that the file is gone:
+* Find files by name:
 
   ```bash
-  ls quotes.txt
+  find . -name "*.txt"
   ```
 
-  Output:
-
-  ```
-  ls: cannot access 'quotes.txt': No such file or directory
-  ```
-
----
-
-### Step 2: Understand File Deletion
-
-* When you delete a file with `rm`, it is **permanently** removed — there is no trash or recycle bin.
-* Unix systems immediately free up the storage space, which may make recovery impossible.
-
----
-
-### Step 3: Use `rm -i` for Safer Deletion
-
-* Try using the interactive option:
+* Find files by size:
 
   ```bash
-  rm -i thesis_backup/quotations.txt
+  find . -size +1M
   ```
 
-* This prompts you for confirmation before deleting:
-
-  ```
-  rm: remove regular file 'thesis_backup/quotations.txt'?
-  ```
-
-* Use `-i` to help prevent accidental deletions.
-
----
-
-### Step 4: Remove a Directory
-
-* Try deleting a directory without `-r`:
+* Find files modified recently:
 
   ```bash
-  rm thesis
-  ```
-
-  Output:
-
-  ```
-  rm: cannot remove 'thesis': Is a directory
-  ```
-
-* To remove a directory and all its contents, use the recursive option:
-
-  ```bash
-  rm -r thesis
-  ```
-
-* To combine caution with recursion, use:
-
-  ```bash
-  rm -r -i thesis
+  find . -mtime -7
   ```
 
 ---
 
-### Practice Activity
+### Step 2: Search File Contents
 
-1. Create a test file and remove it using `rm`.
-2. Try removing a file using `rm -i` and observe the prompt.
-3. Create a test directory with a file in it, and remove the entire directory using `rm -r`.
-4. Repeat step 3 using `rm -r -i` and confirm each deletion.
+* Search for text in files:
+
+  ```bash
+  grep "search term" *.txt
+  ```
+
+* Search recursively:
+
+  ```bash
+  grep -r "search term" .
+  ```
+
+* Show line numbers:
+
+  ```bash
+  grep -n "search term" file.txt
+  ```
+
+---
+
+### Step 3: Archive Files
+
+* Create a tar archive:
+
+  ```bash
+  tar -czf archive.tar.gz thesis/
+  ```
+
+* Extract an archive:
+
+  ```bash
+  tar -xzf archive.tar.gz
+  ```
 
 ---
 
 ### Reflection Questions
 
-* Why is deleting with `rm` more dangerous than using a graphical interface?
-* When should you use the `-i` flag with `rm`?
+* When would you use `find` vs `grep`?
+* What are the benefits of archiving files?
 
 ---
 
-This lesson teaches you how to use `rm` responsibly and reinforces the importance of caution when deleting files from the command line.
-
----
+# Navigation
+[1](./unix-shell-basics-creating-files-lv1.md) | [2](./unix-shell-basics-creating-files-lv2.md) | [3](./unix-shell-basics-creating-files-lv3.md) | [4](./unix-shell-basics-creating-files-lv4.md) | [5](./unix-shell-basics-creating-files-lv5.md) | **Current Level:** 6 | [7](./unix-shell-basics-creating-files-lv7.md)

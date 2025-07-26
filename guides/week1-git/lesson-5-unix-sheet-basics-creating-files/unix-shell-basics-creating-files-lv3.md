@@ -72,18 +72,6 @@
 
 ---
 
-### Practice Activity
-
-1. Use `touch` to create three empty files:
-
-   * `data.csv`
-   * `notes.md`
-   * `archive.zip`
-2. Use `ls -l` to inspect them.
-3. Try renaming one using `mv`, then delete all three using `rm`.
-
----
-
 ### Reflection Questions
 
 * Why might you use `touch` instead of a text editor to create a file?
@@ -91,6 +79,6 @@
 
 ---
 
-This lesson shows how to quickly create files and emphasizes the importance of naming them clearly so they are easy to manage and understand.
+# Navigation
+[1](./unix-shell-basics-creating-files-lv1.md) | [2](./unix-shell-basics-creating-files-lv2.md) | **Current Level:** 3 | [4](./unix-shell-basics-creating-files-lv4.md) | [5](./unix-shell-basics-creating-files-lv5.md) | [6](./unix-shell-basics-creating-files-lv6.md) | [7](./unix-shell-basics-creating-files-lv7.md)
 
----

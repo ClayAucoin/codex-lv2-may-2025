@@ -108,15 +108,6 @@
 
 ---
 
-### Practice Activity
-
-1. Rename a file in a subdirectory using `mv`.
-2. Move that file to the current directory using `.`.
-3. Try using `mv -i` to avoid accidentally overwriting a file.
-4. Move two files at once into a different folder.
-
----
-
 ### Reflection Questions
 
 * What are the risks of using `mv` without the `-i` option?
@@ -124,6 +115,5 @@
 
 ---
 
-This lesson gives you hands-on experience organizing files in the terminal and helps you understand how renaming and moving are connected.
-
----
+# Navigation
+[1](./unix-shell-basics-creating-files-lv1.md) | [2](./unix-shell-basics-creating-files-lv2.md) | [3](./unix-shell-basics-creating-files-lv3.md) | **Current Level:** 4 | [5](./unix-shell-basics-creating-files-lv5.md) | [6](./unix-shell-basics-creating-files-lv6.md) | [7](./unix-shell-basics-creating-files-lv7.md)

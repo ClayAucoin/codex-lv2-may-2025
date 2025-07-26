@@ -111,16 +111,6 @@ proteins-saved.dat  recombined
 
 ---
 
-### Practice Activity
-
-1. Create a file and make a copy of it with a new name.
-2. Copy that file into a subfolder.
-3. Copy an entire folder using `cp -r`.
-4. Try copying a directory without `-r` and observe the error.
-5. Rename a file with a typo using `mv`.
-
----
-
 ### Reflection Questions
 
 * Why does `cp` require `-r` when working with folders?
@@ -128,6 +118,5 @@ proteins-saved.dat  recombined
 
 ---
 
-This lesson helps you understand how to safely duplicate files and directories, and shows how to fix naming errors with simple commands.
-
----
+# Navigation
+[1](./unix-shell-basics-creating-files-lv1.md) | [2](./unix-shell-basics-creating-files-lv2.md) | [3](./unix-shell-basics-creating-files-lv3.md) | [4](./unix-shell-basics-creating-files-lv4.md) | **Current Level:** 5 | [6](./unix-shell-basics-creating-files-lv6.md) | [7](./unix-shell-basics-creating-files-lv7.md)
