@@ -78,3 +78,9 @@ To animate:
   * [Piskel](https://www.piskelapp.com/)
   * [Photopea](https://www.photopea.com/)
   * Unity, Scratch, or p5.play for animation playback
+
+---
+
+### Want more?
+
+Try these tutorials on [creative tools](https://github.com/rmccrear/codex-lv1-may-2025/blob/main/computer-skills/creative.md).
