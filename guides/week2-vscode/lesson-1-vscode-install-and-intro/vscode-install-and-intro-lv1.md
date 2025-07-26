@@ -1,52 +1,81 @@
 # Navigation
-[0](./vscode-install-and-intro-lv0.md) | **Current Level:** 1 | [2](./vscode-install-and-intro-lv2.md) | [3](./vscode-install-and-intro-lv3.md) | [4](./vscode-install-and-intro-lv4.md)
+[0](./vscode-install-and-intro-lv0.md) | **Current Level:** 1 | [2](./vscode-install-and-intro-lv2.md) | [3](./vscode-install-and-intro-lv3.md) | [4](./vscode-install-and-intro-lv4.md) | [5](./vscode-install-and-intro-lv5.md) | [6](./vscode-install-and-intro-lv6.md) | [7](./vscode-install-and-intro-lv7.md) | [8](./vscode-install-and-intro-lv8.md)
 
 ---
 
-## Lesson: File Explorer Basics
+## Lesson: Set Up Your Project Folder
 
 ### 🎯 Objective
 
-Learn to navigate the File Explorer, create files and folders, and manage your project structure.
+Create a new project folder structure and initialize a Git repository from the command line.
 
 ---
 
-## ✅ Step 3: Explore the File Explorer
+## ✅ Step 1: Set Up Your Project Folder
 
-* Located on the **left side**, click the **Explorer icon** (📁).
-* This shows your project's files and folders.
-* You can right-click to **add, delete, rename, or move files**.
+### A. Open your Terminal or Git Bash
 
-**Activities:**
+On your computer, open your command-line tool:
 
-1. **Create a New File:** Right-click the folder and choose **New File**. Name it `index.html`.
-2. **Create a New Folder:** Right-click and select **New Folder**. Name it `assets`.
-3. **Rename a File:** Rename `index.html` to `home.html`, then rename it back.
-4. **Delete a File:** Create a test file named `delete-me.txt`, then delete it.
-5. **Move a File:** Create `move-me.txt` and drag it into the `assets` folder.
-6. **Open the Project Folder in Explorer/Finder:**
+* Windows: Git Bash
+* Mac: Terminal or zsh
 
-   * Right-click the project folder in the VSCode **Explorer** panel.
-   * Choose **Reveal in File Explorer** (Windows) or **Reveal in Finder** (Mac).
-   * This opens the folder in your computer's file browser.
+### B. Move to your home directory and make your folders
 
-✅ **Commit Reminder:**
+In the terminal, run:
 
 ```bash
-git add .
-git commit -m "Practiced using File Explorer features"
-git push
+cd ~
+mkdir -p projects/lv2
+cd projects/lv2
+mkdir vscode-lesson1
+cd vscode-lesson1
 ```
+
+✅ *This creates a folder for your lesson inside `projects/lv2`, starting from your home directory.*
+
+### C. Create your files
+
+Run these three commands:
+
+```bash
+touch index.html
+touch README.md
+touch style.css
+```
+
+✅ *You now have an empty HTML file, a README, and a CSS file.*
+
+### D. Initialize a Git repository
+
+Run:
+
+```bash
+git init
+```
+
+✅ *Now your folder is a Git repo.*
+
+### E. Open your files in your computer's GUI
+
+* Open File Explorer (Windows) or Finder (Mac).
+* Navigate to your `projects/lv2/vscode-lesson1` folder.
+* You should see the three files you created.
 
 ---
 
 ## ✅ Summary
 
-You learned how to:
-* Navigate the File Explorer panel in VSCode
-* Create new files and folders
-* Rename and delete files
-* Move files between folders
-* Open your project folder in your system's file browser
+You have successfully:
+* Opened your terminal/command line tool
+* Created a project folder structure using command line
+* Created starter files (HTML, README, CSS)
+* Initialized a Git repository
+* Verified your files exist in the file system
 
-The File Explorer is your command center for managing project files and folders! 
+You're now ready to open this project in VSCode!
+
+---
+
+# Navigation
+[0](./vscode-install-and-intro-lv0.md) | **Current Level:** 1 | [2](./vscode-install-and-intro-lv2.md) | [3](./vscode-install-and-intro-lv3.md) | [4](./vscode-install-and-intro-lv4.md) | [5](./vscode-install-and-intro-lv5.md) | [6](./vscode-install-and-intro-lv6.md) | [7](./vscode-install-and-intro-lv7.md) | [8](./vscode-install-and-intro-lv8.md) 

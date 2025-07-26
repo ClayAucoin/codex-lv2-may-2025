@@ -1,60 +1,36 @@
 # Navigation
-[0](./vscode-install-and-intro-lv0.md) | [1](./vscode-install-and-intro-lv1.md) | [2](./vscode-install-and-intro-lv2.md) | [3](./vscode-install-and-intro-lv3.md) | **Current Level:** 4
+[0](./vscode-install-and-intro-lv0.md) | [1](./vscode-install-and-intro-lv1.md) | [2](./vscode-install-and-intro-lv2.md) | [3](./vscode-install-and-intro-lv3.md) | **Current Level:** 4 | [5](./vscode-install-and-intro-lv5.md) | [6](./vscode-install-and-intro-lv6.md) | [7](./vscode-install-and-intro-lv7.md) | [8](./vscode-install-and-intro-lv8.md)
 
 ---
 
-## Lesson: Working with Different Projects
+## Lesson: Open VSCode and Open a Folder
 
 ### 🎯 Objective
 
-Apply your skills by opening and editing files in different project folders.
+Open VSCode and navigate to open a project folder.
 
 ---
 
-## ✅ Step 6: Try It with a Different Project
+## ✅ Step 4: Open VSCode and Open a Folder
 
-1. In **VSCode**, go to **File > Open Folder** and select a **different project folder** you already have on your computer or clone one from GitHub.
-2. Explore the files using the **File Explorer**.
-3. Open some files in the **Editor** and make small edits, such as:
-
-   * Adding a new `<h2>` heading to an HTML file
-   * Changing a color in a CSS file
-4. Open the **Terminal** and check the folder contents with:
-
-```
-ls
-```
-
-5. **Commit your edits:**
-
-```bash
-git add .
-git commit -m "Made edits to existing project files"
-git push
-```
-
----
-
-## ✅ Important Reminder
-
-❌ **Do NOT add any extensions or customize your settings yet.**
-We will cover **Extensions** and **Settings customization** in future lessons to avoid confusion and ensure a consistent setup.
+A. After installation, open **VSCode**.
+B. The **Welcome screen** will appear.
+C. Click **"Open Folder"** (or **File > Open Folder**) to open your project directory.
+D. Choose the folder where your files are stored or create a new one.
 
 ---
 
 ## ✅ Summary
 
-You learned how to:
-* Open different project folders in VSCode
-* Apply your File Explorer, Editor, and Terminal skills to real projects
-* Make small edits to existing files
-* Use the Terminal to check project contents
-* Commit changes to version control
+You have successfully:
+* Opened VSCode after installation
+* Navigated past the welcome screen
+* Used the File menu to open a folder
+* Selected a project directory to work with
 
-You now have a solid foundation for using VSCode in your development workflow!
+You're now ready to explore the File Explorer and other VSCode features!
 
 ---
 
-## ✅ Bonus Reading
-If you're curious, explore the official docs:
-[https://code.visualstudio.com/docs](https://code.visualstudio.com/docs) 
+# Navigation
+[0](./vscode-install-and-intro-lv0.md) | [1](./vscode-install-and-intro-lv1.md) | [2](./vscode-install-and-intro-lv2.md) | [3](./vscode-install-and-intro-lv3.md) | **Current Level:** 4 | [5](./vscode-install-and-intro-lv5.md) | [6](./vscode-install-and-intro-lv6.md) | [7](./vscode-install-and-intro-lv7.md) | [8](./vscode-install-and-intro-lv8.md) 
