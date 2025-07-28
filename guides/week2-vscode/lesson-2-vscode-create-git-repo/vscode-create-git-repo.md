@@ -15,14 +15,14 @@ In this lesson, you will:
 
 ✅ Step 1: Create a New Folder Locally
 
-1. Open your **terminal**.
-2. Navigate to the directory where you want your project folder to live:
+A. Open your **terminal**.
+B. Navigate to the directory where you want your project folder to live:
 
 ```
 cd path/to/your/projects
 ```
 
-3. Create a new folder:
+C. Create a new folder:
 
 ```
 mkdir my-website
@@ -75,14 +75,14 @@ git commit -m "Add index.html and style.css"
 
 ✅ Step 4: Create a Repository on GitHub
 
-1. Go to **[https://github.com](https://github.com)** and sign in.
-2. Click the **+** button in the top right and select **New repository**.
-3. Fill in:
+A. Go to **[https://github.com](https://github.com)** and sign in.
+B. Click the **+** button in the top right and select **New repository**.
+C. Fill in:
 
    * **Repository name:** same as your folder (e.g., `my-website`)
    * **Visibility:** Public or Private
    * **DO NOT** initialize with a README (your local repo already has content)
-4. Click **Create repository**.
+D. Click **Create repository**.
 
 GitHub will display instructions for adding a **remote repository** — you’ll use them next.
 
@@ -128,8 +128,8 @@ This opens the current folder in **VSCode**.
 
 ✅ Step 7: Create a Simple HTML Page and Commit It
 
-1. In **VSCode**, open `index.html`.
-2. Add basic content:
+A. In **VSCode**, open `index.html`.
+B. Add basic content:
 
 ```html
 <!DOCTYPE html>
@@ -147,7 +147,7 @@ This opens the current folder in **VSCode**.
 </html>
 ```
 
-3. Save the file.
+C. Save the file.
 
 ✅ Commit Reminder:
 
