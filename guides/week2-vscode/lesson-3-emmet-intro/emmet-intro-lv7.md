@@ -19,9 +19,14 @@ Practice creating multiple elements simultaneously and complete Emmet challenges
 section>article*3>p*3 + [TAB]
 ```
 
-What happened?
+What happened? Click to see.
 
-This created a section containing three articles, and each article contains three paragraphs! This is a complex structure that would take much longer to write manually.
+<details>
+  <summary>Click to see what happened</summary>
+  <div>
+    <p>This created a section containing three articles, and each article contains three paragraphs! This is a complex structure that would take much longer to write manually.</p>
+  </div>
+</details>
 
 ✅ **Commit Reminder:**
 

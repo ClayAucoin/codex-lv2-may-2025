@@ -25,9 +25,14 @@ p{my paragraph la la la} + [TAB]
 p{la la la}*3 + [TAB]
 ```
 
-What happened?
+What happened? Click to see.
 
-The first shortcut created `<p>my paragraph la la la</p>` with the text inside the curly braces placed between the opening and closing tags. The second shortcut created three paragraphs with the same text using the `*3` multiplication feature!
+<details>
+  <summary>Click to see what happened</summary>
+  <div>
+    <p>The first shortcut created `<p>my paragraph la la la</p>` with the text inside the curly braces placed between the opening and closing tags. The second shortcut created three paragraphs with the same text using the `*3` multiplication feature!</p>
+  </div>
+</details>
 
 ✅ **Commit Reminder:**
 

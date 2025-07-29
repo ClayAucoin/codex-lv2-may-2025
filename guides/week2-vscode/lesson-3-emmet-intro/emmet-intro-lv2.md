@@ -25,9 +25,14 @@ p + [TAB]
 h1 + [TAB]
 ```
 
-What happened?
+What happened? Click to see.
 
-The `p` created a paragraph element `<p></p>`, and `h1` created a heading element `<h1></h1>`. Emmet automatically adds the opening and closing tags for you!
+<details>
+  <summary>Click to see what happened</summary>
+  <div>
+    <p>The `p` created a paragraph element `<p></p>`, and `h1` created a heading element `<h1></h1>`. Emmet automatically adds the opening and closing tags for you!</p>
+  </div>
+</details>
 
 ✅ **Commit Reminder:**
 
@@ -47,9 +52,14 @@ git push
 img + [TAB]
 ```
 
-What happened?
+What happened? Click to see.
 
-This created a self-closing image tag `<img src="" alt="">`. Notice how Emmet automatically added the `src` and `alt` attributes that images typically need!
+<details>
+  <summary>Click to see what happened</summary>
+  <div>
+    <p>This created a self-closing image tag `<img src="" alt="">`. Notice how Emmet automatically added the `src` and `alt` attributes that images typically need!</p>
+  </div>
+</details>
 
 ✅ **Commit Reminder:**
 
@@ -69,9 +79,14 @@ git push
 a + [TAB]
 ```
 
-What happened?
+What happened? Click to see.
 
-This created a link element `<a href=""></a>`. Emmet automatically added the `href` attribute that links need, and placed your cursor inside the quotes ready for you to type the URL!
+<details>
+  <summary>Click to see what happened</summary>
+  <div>
+    <p>This created a link element `<a href=""></a>`. Emmet automatically added the `href` attribute that links need, and placed your cursor inside the quotes ready for you to type the URL!</p>
+  </div>
+</details>
 
 ✅ **Commit Reminder:**
 

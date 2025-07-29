@@ -19,9 +19,14 @@ Build ordered and unordered lists with multiple items using Emmet multiplication
 ul>li*3 + [TAB]
 ```
 
-What happened?
+What happened? Click to see.
 
-This created an unordered list with three list items! The `>` symbol creates a parent-child relationship, and `*3` creates three `<li>` elements inside the `<ul>`.
+<details>
+  <summary>Click to see what happened</summary>
+  <div>
+    <p>This created an unordered list with three list items! The `>` symbol creates a parent-child relationship, and `*3` creates three `<li>` elements inside the `<ul>`.</p>
+  </div>
+</details>
 
 ✅ **Commit Reminder:**
 
@@ -41,9 +46,14 @@ git push
 ul>li{item}*3 + [TAB]
 ```
 
-What happened?
+What happened? Click to see.
 
-This created an unordered list with three list items, each containing the text "item". The `{item}` part adds the text content to each list item automatically!
+<details>
+  <summary>Click to see what happened</summary>
+  <div>
+    <p>This created an unordered list with three list items, each containing the text "item". The `{item}` part adds the text content to each list item automatically!</p>
+  </div>
+</details>
 
 ✅ **Commit Reminder:**
 

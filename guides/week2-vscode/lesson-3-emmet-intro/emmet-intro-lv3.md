@@ -19,9 +19,14 @@ Link CSS files using Emmet's attribute shortcuts.
 link:css + [TAB]
 ```
 
-What happened?
+What happened? Click to see.
 
-This created a complete CSS link tag `<link rel="stylesheet" href="style.css">`! Emmet automatically added the `rel` attribute and linked to your `style.css` file. The `:css` part tells Emmet to create a stylesheet link specifically.
+<details>
+  <summary>Click to see what happened</summary>
+  <div>
+    <p>This created a complete CSS link tag `<link rel="stylesheet" href="style.css">`! Emmet automatically added the `rel` attribute and linked to your `style.css` file. The `:css` part tells Emmet to create a stylesheet link specifically.</p>
+  </div>
+</details>
 
 ✅ **Commit Reminder:**
 

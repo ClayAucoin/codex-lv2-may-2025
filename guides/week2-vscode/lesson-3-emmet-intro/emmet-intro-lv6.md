@@ -19,9 +19,14 @@ Create complex nested HTML structures with sections, articles, and paragraphs.
 section>article>p*3 + [TAB]
 ```
 
-What happened?
+What happened? Click to see.
 
-This created a complex nested structure! You got a `<section>` containing an `<article>`, which contains three `<p>` elements. The `>` operators create a chain of parent-child relationships.
+<details>
+  <summary>Click to see what happened</summary>
+  <div>
+    <p>This created a complex nested structure! You got a `<section>` containing an `<article>`, which contains three `<p>` elements. The `>` operators create a chain of parent-child relationships.</p>
+  </div>
+</details>
 
 ✅ **Commit Reminder:**
 

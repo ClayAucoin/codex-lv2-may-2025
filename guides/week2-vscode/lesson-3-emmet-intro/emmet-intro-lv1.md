@@ -21,9 +21,14 @@ In `index.html`:
 ! + [TAB]
 ```
 
-What happened?
+What happened? Click to see.
 
-This should have auto-generated the basic HTML structure for you page. This is often called "boilerplate".
+<details>
+  <summary>Click to see what happened</summary>
+  <div>
+    <p>This should have auto-generated the basic HTML structure for you page. This is often called "boilerplate".</p>
+  </div>
+</details>
 
 ✅ **Commit Reminder:**
 
