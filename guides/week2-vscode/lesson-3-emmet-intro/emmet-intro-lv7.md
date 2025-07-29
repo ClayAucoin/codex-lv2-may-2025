@@ -61,6 +61,8 @@ git commit -m "Create multiple articles with paragraphs using Emmet"
 git push
 ```
 
+> 🔄 **Workflow Reminder:** Remember to save (`Ctrl + S`) and refresh (`Ctrl + R`) as you make changes!
+
 ---
 
 ## ✅ Step 13: Emmet Challenges
@@ -84,6 +86,8 @@ git add .
 git commit -m "Complete Emmet challenges"
 git push
 ```
+
+> 🔄 **Workflow Reminder:** Remember to save (`Ctrl + S`) and refresh (`Ctrl + R`) as you make changes!
 
 ---
 

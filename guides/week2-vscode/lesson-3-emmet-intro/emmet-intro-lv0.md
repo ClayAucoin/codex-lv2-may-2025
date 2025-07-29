@@ -48,6 +48,24 @@ git push -u origin main
 
 ---
 
+## ✅ Step 3: Set Up Your Browser for Live Preview
+
+* **Double-click** on your `index.html` file to open it in your web browser
+* **Arrange your windows** so you can see both VSCode and your browser side by side
+  * On Windows/Linux: Use `Windows key + Arrow keys` to snap windows
+  * On Mac: Use `Control + Up arrow` then drag to arrange windows
+* **Keep both windows visible** - this will let you see your changes instantly!
+
+> 💡 **Pro Tip:** Remember these keyboard shortcuts:
+> * **Save in VSCode:** `Ctrl + S` (Windows/Linux) or `Cmd + S` (Mac)
+> * **Refresh browser:** `Ctrl + R` (Windows/Linux) or `Cmd + R` (Mac)
+
+✅ **Commit Reminder:** No code changes yet, so no commit needed.
+
+> 🔄 **Workflow Reminder:** Remember to save (`Ctrl + S`) and refresh (`Ctrl + R`) as you make changes in the upcoming lessons!
+
+---
+
 ## ✅ Summary
 
 You've successfully:

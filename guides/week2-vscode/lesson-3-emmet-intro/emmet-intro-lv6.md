@@ -61,6 +61,8 @@ git commit -m "Create nested section-article-paragraph structure"
 git push
 ```
 
+> 🔄 **Workflow Reminder:** Remember to save (`Ctrl + S`) and refresh (`Ctrl + R`) as you make changes!
+
 ---
 
 ## ✅ Summary

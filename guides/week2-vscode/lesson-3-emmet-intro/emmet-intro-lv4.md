@@ -42,6 +42,8 @@ git commit -m "Add paragraphs with Emmet text shortcuts"
 git push
 ```
 
+> 🔄 **Workflow Reminder:** Remember to save (`Ctrl + S`) and refresh (`Ctrl + R`) as you make changes!
+
 ---
 
 ## ✅ Summary

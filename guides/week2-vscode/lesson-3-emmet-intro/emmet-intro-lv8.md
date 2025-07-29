@@ -81,6 +81,8 @@ git commit -m "Add CSS framework with Emmet script tag"
 git push
 ```
 
+> 🔄 **Workflow Reminder:** Remember to save (`Ctrl + S`) and refresh (`Ctrl + R`) as you make changes!
+
 ---
 
 ## ✅ **Summary**

@@ -36,6 +36,8 @@ git commit -m "Create list with Emmet"
 git push
 ```
 
+> 🔄 **Workflow Reminder:** Remember to save (`Ctrl + S`) and refresh (`Ctrl + R`) as you make changes!
+
 ---
 
 ## ✅ Step 10: Numbered Items
@@ -62,6 +64,8 @@ git add .
 git commit -m "Add numbered list items with Emmet"
 git push
 ```
+
+> 🔄 **Workflow Reminder:** Remember to save (`Ctrl + S`) and refresh (`Ctrl + R`) as you make changes!
 
 ---
 

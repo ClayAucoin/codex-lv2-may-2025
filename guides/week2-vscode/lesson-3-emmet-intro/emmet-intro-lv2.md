@@ -42,6 +42,8 @@ git commit -m "Add paragraph and heading with Emmet"
 git push
 ```
 
+> 🔄 **Workflow Reminder:** Remember to save (`Ctrl + S`) and refresh (`Ctrl + R`) as you make changes!
+
 ---
 
 ## ✅ Step 5: Add an Image
@@ -69,6 +71,8 @@ git commit -m "Add image element with Emmet"
 git push
 ```
 
+> 🔄 **Workflow Reminder:** Remember to save (`Ctrl + S`) and refresh (`Ctrl + R`) as you make changes!
+
 ---
 
 ## ✅ Step 6: Add a Link
@@ -95,6 +99,8 @@ git add .
 git commit -m "Add link element with Emmet"
 git push
 ```
+
+> 🔄 **Workflow Reminder:** Remember to save (`Ctrl + S`) and refresh (`Ctrl + R`) as you make changes!
 
 ---
 

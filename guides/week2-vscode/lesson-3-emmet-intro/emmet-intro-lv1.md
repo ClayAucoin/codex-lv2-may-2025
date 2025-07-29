@@ -38,6 +38,8 @@ git commit -m "Add HTML boilerplate"
 git push
 ```
 
+> 🔄 **Workflow Reminder:** Remember to save (`Ctrl + S`) and refresh (`Ctrl + R`) as you make changes!
+
 ---
 
 ## ✅ Summary
