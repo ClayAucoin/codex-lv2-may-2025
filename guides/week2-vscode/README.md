@@ -1,24 +1,21 @@
+# Week 2: VSCode and Web Development
+
+## 📅 Daily Schedule
 
 ### Day 1
 
 * [Lesson 1: VSCode Installation and Introduction](./lesson-1-vscode-install-and-intro/)
-* [Lesson 2: (New lesson to be created)]
+* [Lesson 2: Create Git Repository](./lesson-2-vscode-create-git-repo/)
 * [Lesson 3: Emmet HTML Shortcuts](./lesson-3-emmet-intro/)
-* [Lesson 4: Plain Old JavaScript Objects (POJOs)](./lesson-4-pojo/)
-* [Lesson 5: VSCode Settings Customization](./lesson-5-vscode-settings/)
 
 ### Day 2
 
-* VSCode Config
-* More EMMET
-* collaborate on a creating a webpage
+* [Lesson 4: Plain Old JavaScript Objects (POJOs)](./lesson-4-pojo/)
+* [Lesson 5: VSCode Settings Customization](./lesson-5-vscode-settings/)
 
 ### Day 3
 
-* Node.js Install and `npx live-server`
-* Browser Dev Tools
-* js files
-* p5.play and CANVAS tag
+* Catchup
 
 ### Day 4
 
@@ -27,10 +24,7 @@
 
 ### Day 5
 
-* Mini-Project (Group/git)
-* include js
-* JS strings and accessing stings by index
-  * "10000001"
+* Mini-project
 
 ## 📚 Quick Reference
 
