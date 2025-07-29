@@ -88,7 +88,7 @@
 
 #### Example: Move Multiple Files to Another Directory
 
-**Note: these files are not in the lesson data. You do not need to do this part.**
+**Note: these files are not in the lesson data. You do not need to do this part. Just read it and try and guess the answer.**
 
 Imagine Jamie has some files she wants to analyze. After running the following commands, Jamie realizes that she put the files sucrose.dat and maltose.dat into the wrong folder. The files should have been placed in the raw folder.
 
