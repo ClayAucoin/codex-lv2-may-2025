@@ -30,6 +30,18 @@ What happened? Click to see.
   </div>
 </details>
 
+## ✅ Step 4: Update the Page Title
+
+* Find the `<title>` tag in the `<head>` section
+* Change the text inside the title tags to:
+
+```html
+<title>CS Rocks!</title>
+```
+
+* Save your file and refresh your browser
+* Notice how the browser tab now shows "CS Rocks!" instead of "Document"
+
 ✅ **Commit Reminder:**
 
 ```bash
