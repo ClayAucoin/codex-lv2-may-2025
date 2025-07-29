@@ -86,25 +86,35 @@
 
 ---
 
-### Step 4: Move Multiple Files to Another Directory
+#### Example: Move Multiple Files to Another Directory
 
-* Suppose you're in the `analyzed/` directory and realize two files are in the wrong folder.
+**Note: these files are not in the lesson data. You do not need to do this part.**
+
+Imagine Jamie has some files she wants to analyze. After running the following commands, Jamie realizes that she put the files sucrose.dat and maltose.dat into the wrong folder. The files should have been placed in the raw folder.
 
   Current structure:
 
   ```bash
-  ls -F
+  $ ls -F
   analyzed/  raw/
-  ls analyzed
+  $ ls analyzed
   fructose.dat  glucose.dat  maltose.dat  sucrose.dat
-  cd analyzed
+  $ cd analyzed
   ```
 
-* Move `sucrose.dat` and `maltose.dat` into the `raw/` folder:
+* Goal: Move `sucrose.dat` and `maltose.dat` into the `raw/` folder:
 
-  ```bash
-  mv sucrose.dat maltose.dat ../raw
-  ```
+Can you guess the answer?
+
+
+<details>
+  <summary style="cursor: pointer; color: #007acc; font-weight: bold;">▶ Click to reveal the answer</summary>
+  <div style="margin-top: 10px; padding: 10px; background-color: #f5f5f5; border-left: 4px solid #007acc; border-radius: 4px;">
+    ```bash
+    mv sucrose.dat maltose.dat ../raw
+    ```
+  </div>
+</details>
 
 ---
 
