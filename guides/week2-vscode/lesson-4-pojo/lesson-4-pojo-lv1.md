@@ -1,5 +1,5 @@
 # Navigation
-**Current Level:** 1 | [2](./lesson-4-pojo-lv2.md) | [3](./lesson-4-pojo-lv3.md) | [4](./lesson-4-pojo-lv4.md) | [5](./lesson-4-pojo-lv5.md)
+[0](./lesson-4-pojo-lv0.md) | **Current Level:** 1 | [2](./lesson-4-pojo-lv2.md) | [3](./lesson-4-pojo-lv3.md) | [4](./lesson-4-pojo-lv4.md) | [5](./lesson-4-pojo-lv5.md)
 
 ---
 
@@ -40,6 +40,8 @@ git init
 touch script.js
 ```
 
+The file `script.js` is the only file you will need for this lesson. You will copy and paste the starter code from the lessons into this file, as you progress in the level. By the end of the Lesson, you will have all the starter code pasted in. You will also write your code in this file. Note: This file will get long!
+
 5. Create a new repository on GitHub called:
 
 ```
@@ -54,7 +56,7 @@ pojopractice
 
 ### **Instructions**
 
-1. In `script.js`, copy this code:
+1. Copy this code into `script.js`:
 
 ```js
 const pet = {
@@ -126,4 +128,4 @@ You practiced:
 ---
 
 # Navigation
-**Current Level:** 1 | [2](./lesson-4-pojo-lv2.md) | [3](./lesson-4-pojo-lv3.md) | [4](./lesson-4-pojo-lv4.md) | [5](./lesson-4-pojo-lv5.md)
+[0](./lesson-4-pojo-lv0.md) | **Current Level:** 1 | [2](./lesson-4-pojo-lv2.md) | [3](./lesson-4-pojo-lv3.md) | [4](./lesson-4-pojo-lv4.md) | [5](./lesson-4-pojo-lv5.md)

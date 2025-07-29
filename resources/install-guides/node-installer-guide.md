@@ -18,7 +18,7 @@ Welcome! Before we begin coding with Node.js, follow the steps below to set up y
 
    * **Windows:** Download the **Windows Installer (.msi)**
    * **macOS:** Download the **macOS Installer (.pkg)**
-   * **Linux:** Select your platform; if unsure, ask your instructor.
+   * **Linux:** Visit [this page](https://code.visualstudio.com/blogs/2020/12/03/chromebook-get-started) and scroll to "Code with JavaScript and Node.js" for instructions.
 
 4. Download the **LTS (Long Term Support)** version for maximum stability.
 
@@ -57,13 +57,13 @@ Welcome! Before we begin coding with Node.js, follow the steps below to set up y
    node -v
    ```
 
-   Expected: A version number like `v18.17.0`
+   Expected: A version number like `v22.17.1`
 
    ```bash
    npm -v
    ```
 
-   Expected: A version number like `9.6.7`
+   Expected: A version number like `10.9.2`
 
 > If both show version numbers, you’re all set!
 

@@ -1,5 +1,5 @@
 # Navigation
-[1](./lesson-4-pojo-lv1.md) | [2](./lesson-4-pojo-lv2.md) | **Current Level:** 3 | [4](./lesson-4-pojo-lv4.md) | [5](./lesson-4-pojo-lv5.md)
+[0](./lesson-4-pojo-lv0.md) | [1](./lesson-4-pojo-lv1.md) | [2](./lesson-4-pojo-lv2.md) | **Current Level:** 3 | [4](./lesson-4-pojo-lv4.md) | [5](./lesson-4-pojo-lv5.md)
 
 ---
 
@@ -121,4 +121,4 @@ You practiced:
 ---
 
 # Navigation
-[1](./lesson-4-pojo-lv1.md) | [2](./lesson-4-pojo-lv2.md) | **Current Level:** 3 | [4](./lesson-4-pojo-lv4.md) | [5](./lesson-4-pojo-lv5.md) 
+[0](./lesson-4-pojo-lv0.md) | [1](./lesson-4-pojo-lv1.md) | [2](./lesson-4-pojo-lv2.md) | **Current Level:** 3 | [4](./lesson-4-pojo-lv4.md) | [5](./lesson-4-pojo-lv5.md) 

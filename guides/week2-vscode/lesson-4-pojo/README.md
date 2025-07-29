@@ -18,6 +18,9 @@ In this unit, students will learn about Plain Old JavaScript Objects (POJOs) - a
 
 ### 📚 Lesson List
 
+0. **[Install Node.js](./lesson-4-pojo-lv0.md)** *(Prerequisite)*  
+   Install Node.js on your computer to run JavaScript files and complete the POJO exercises.
+
 1. **[Setup and Look & Guess](./lesson-4-pojo-lv1.md)** *(Setup & Introduction)*  
    Set up the project environment and complete the initial "Look and Guess" activity to understand basic POJO structure.
 

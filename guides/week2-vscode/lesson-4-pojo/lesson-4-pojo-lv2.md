@@ -1,5 +1,5 @@
 # Navigation
-[1](./lesson-4-pojo-lv1.md) | **Current Level:** 2 | [3](./lesson-4-pojo-lv3.md) | [4](./lesson-4-pojo-lv4.md) | [5](./lesson-4-pojo-lv5.md)
+[0](./lesson-4-pojo-lv0.md) | [1](./lesson-4-pojo-lv1.md) | **Current Level:** 2 | [3](./lesson-4-pojo-lv3.md) | [4](./lesson-4-pojo-lv4.md) | [5](./lesson-4-pojo-lv5.md)
 
 ---
 
@@ -158,11 +158,11 @@ console.log(car);
 
 ---
 
-## ✅ **ACP after each exercise**
+## ✅ **ACP after completing the exercises**
 
 ```bash
 git add .
-git commit -m "Step 2 - Exercise X completed"
+git commit -m "Step 2 - Exercises completed"
 git push
 ```
 
@@ -177,4 +177,4 @@ You learned:
 ---
 
 # Navigation
-[1](./lesson-4-pojo-lv1.md) | **Current Level:** 2 | [3](./lesson-4-pojo-lv3.md) | [4](./lesson-4-pojo-lv4.md) | [5](./lesson-4-pojo-lv5.md) 
+[0](./lesson-4-pojo-lv0.md) | [1](./lesson-4-pojo-lv1.md) | **Current Level:** 2 | [3](./lesson-4-pojo-lv3.md) | [4](./lesson-4-pojo-lv4.md) | [5](./lesson-4-pojo-lv5.md) 
