@@ -106,10 +106,9 @@ Imagine Jamie has some files she wants to analyze. After running the following c
 
 Can you guess the answer?
 
-
 <details>
-  <summary style="cursor: pointer; color: #007acc; font-weight: bold;">▶ Click to reveal the answer</summary>
-  <div style="margin-top: 10px; padding: 10px; background-color: #f5f5f5; border-left: 4px solid #007acc; border-radius: 4px;">
+  <summary> Click to reveal the answer</summary>
+  <div>
     <pre>
     $ mv sucrose.dat maltose.dat ../raw
     </pre>
