@@ -86,6 +86,27 @@ console.log(pet.age);
 node script.js
 ```
 
+<details>
+  <summary>Click to see the answer</summary>
+  <div>
+    <p><strong>Expected output:</strong></p>
+    <pre>
+Buddy
+Dog
+5
+6
+    </pre>
+    <p><strong>Explanation:</strong></p>
+    <ul>
+      <li><code>console.log(pet.name)</code> prints: <code>Buddy</code></li>
+      <li><code>console.log(pet.species)</code> prints: <code>Dog</code></li>
+      <li><code>console.log(pet.age)</code> prints: <code>5</code> (original value)</li>
+      <li><code>pet.age = 6</code> updates the age property to 6</li>
+      <li><code>console.log(pet.age)</code> prints: <code>6</code> (updated value)</li>
+    </ul>
+  </div>
+</details>
+
 ### ✅ **ACP**
 
 ```bash
@@ -105,4 +126,4 @@ You practiced:
 ---
 
 # Navigation
-**Current Level:** 1 | [2](./lesson-4-pojo-lv2.md) | [3](./lesson-4-pojo-lv3.md) | [4](./lesson-4-pojo-lv4.md) | [5](./lesson-4-pojo-lv5.md) 
+**Current Level:** 1 | [2](./lesson-4-pojo-lv2.md) | [3](./lesson-4-pojo-lv3.md) | [4](./lesson-4-pojo-lv4.md) | [5](./lesson-4-pojo-lv5.md)
