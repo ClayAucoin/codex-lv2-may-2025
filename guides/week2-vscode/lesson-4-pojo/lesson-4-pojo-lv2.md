@@ -172,4 +172,9 @@ You learned:
 
 * How to identify keys and values in a POJO.
 * How to create and describe POJOs.
-* How to fix syntax errors in object definitions. 
+* How to fix syntax errors in object definitions.
+
+---
+
+# Navigation
+[1](./lesson-4-pojo-lv1.md) | **Current Level:** 2 | [3](./lesson-4-pojo-lv3.md) | [4](./lesson-4-pojo-lv4.md) | [5](./lesson-4-pojo-lv5.md) 

@@ -75,4 +75,9 @@ You practiced:
 
 * Creating your own POJOs from scratch.
 * Reading and updating values.
-* Printing the final result to verify your changes. 
+* Printing the final result to verify your changes.
+
+---
+
+# Navigation
+[1](./lesson-4-pojo-lv1.md) | [2](./lesson-4-pojo-lv2.md) | [3](./lesson-4-pojo-lv3.md) | **Current Level:** 4 | [5](./lesson-4-pojo-lv5.md) 

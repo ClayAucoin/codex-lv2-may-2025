@@ -100,4 +100,9 @@ You practiced:
 
 * Creating a POJO (Plain Old JavaScript Object).
 * Reading properties with dot notation.
-* Updating a property and seeing the change. 
+* Updating a property and seeing the change.
+
+---
+
+# Navigation
+**Current Level:** 1 | [2](./lesson-4-pojo-lv2.md) | [3](./lesson-4-pojo-lv3.md) | [4](./lesson-4-pojo-lv4.md) | [5](./lesson-4-pojo-lv5.md) 

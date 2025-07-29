@@ -91,4 +91,9 @@ At the end of this journey, confirm that:
 
 * ✅ All steps are completed in `script.js`.
 * ✅ All answers and explanations are written as **comments**.
-* ✅ You have committed and pushed to GitHub after each step. 
+* ✅ You have committed and pushed to GitHub after each step.
+
+---
+
+# Navigation
+[1](./lesson-4-pojo-lv1.md) | [2](./lesson-4-pojo-lv2.md) | [3](./lesson-4-pojo-lv3.md) | [4](./lesson-4-pojo-lv4.md) | **Current Level:** 5 

@@ -116,4 +116,9 @@ You practiced:
 
 * Reading POJO properties using dot notation.
 * Updating existing properties with new values.
-* Observing changes by printing updated properties. 
+* Observing changes by printing updated properties.
+
+---
+
+# Navigation
+[1](./lesson-4-pojo-lv1.md) | [2](./lesson-4-pojo-lv2.md) | **Current Level:** 3 | [4](./lesson-4-pojo-lv4.md) | [5](./lesson-4-pojo-lv5.md) 
