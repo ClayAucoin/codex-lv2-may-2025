@@ -57,7 +57,6 @@ Challenge yourself to build as many pages as you can before the end of class! He
 * Add CSS to make your pages look professional
 * Use the CSS framework from Level 8 (Sakura CSS)
 * Create a consistent design across all pages
-* Add hover effects and transitions
 
 ---
 
