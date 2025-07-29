@@ -1,5 +1,6 @@
-# Navigation
-[0](./vscode-create-git-repo-lv0.md) | [1](./vscode-create-git-repo-lv1.md) | [2](./vscode-create-git-repo-lv2.md) | **Current Level:** 3
+Level Navigation: [0](./vscode-create-git-repo-lv0.md) | [1](./vscode-create-git-repo-lv1.md) | [2](./vscode-create-git-repo-lv2.md) | **Current Level:** 3
+
+---
 
 ---
 
@@ -51,3 +52,7 @@ You now know how to:
 * Repeat the process confidently!
 
 You have mastered the complete Git/GitHub/VSCode workflow! 
+
+---
+
+Level Navigation: [0](./vscode-create-git-repo-lv0.md) | [1](./vscode-create-git-repo-lv1.md) | [2](./vscode-create-git-repo-lv2.md) | **Current Level:** 3

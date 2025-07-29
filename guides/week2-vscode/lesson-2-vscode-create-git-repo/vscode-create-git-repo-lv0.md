@@ -1,5 +1,6 @@
-# Navigation
-**Current Level:** 0 | [1](./vscode-create-git-repo-lv1.md) | [2](./vscode-create-git-repo-lv2.md) | [3](./vscode-create-git-repo-lv3.md)
+Level Navigation: **Current Level:** 0 | [1](./vscode-create-git-repo-lv1.md) | [2](./vscode-create-git-repo-lv2.md) | [3](./vscode-create-git-repo-lv3.md)
+
+---
 
 ---
 
@@ -100,3 +101,7 @@ You've successfully:
 * Made your first commits to version control
 
 You're now ready to connect your local repository to GitHub! 
+
+---
+
+Level Navigation: **Current Level:** 0 | [1](./vscode-create-git-repo-lv1.md) | [2](./vscode-create-git-repo-lv2.md) | [3](./vscode-create-git-repo-lv3.md)

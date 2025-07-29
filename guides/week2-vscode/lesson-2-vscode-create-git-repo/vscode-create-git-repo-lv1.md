@@ -1,5 +1,6 @@
-# Navigation
-[0](./vscode-create-git-repo-lv0.md) | **Current Level:** 1 | [2](./vscode-create-git-repo-lv2.md) | [3](./vscode-create-git-repo-lv3.md)
+Level Navigation: [0](./vscode-create-git-repo-lv0.md) | **Current Level:** 1 | [2](./vscode-create-git-repo-lv2.md) | [3](./vscode-create-git-repo-lv3.md)
+
+---
 
 ---
 
@@ -70,3 +71,7 @@ You learned how to:
 * Set up the main branch and upstream tracking
 
 Your local and remote repositories are now connected and synchronized! 
+
+---
+
+Level Navigation: [0](./vscode-create-git-repo-lv0.md) | **Current Level:** 1 | [2](./vscode-create-git-repo-lv2.md) | [3](./vscode-create-git-repo-lv3.md)

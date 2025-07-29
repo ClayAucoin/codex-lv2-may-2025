@@ -1,5 +1,6 @@
-# Navigation
-[0](./vscode-create-git-repo-lv0.md) | [1](./vscode-create-git-repo-lv1.md) | **Current Level:** 2 | [3](./vscode-create-git-repo-lv3.md)
+Level Navigation: [0](./vscode-create-git-repo-lv0.md) | [1](./vscode-create-git-repo-lv1.md) | **Current Level:** 2 | [3](./vscode-create-git-repo-lv3.md)
+
+---
 
 ---
 
@@ -80,3 +81,7 @@ You learned how to:
 * Commit and push changes to GitHub
 
 You now have a complete development workflow with VSCode and Git! 
+
+---
+
+Level Navigation: [0](./vscode-create-git-repo-lv0.md) | [1](./vscode-create-git-repo-lv1.md) | **Current Level:** 2 | [3](./vscode-create-git-repo-lv3.md)
