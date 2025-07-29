@@ -33,6 +33,8 @@ git init
 touch script.js
 ```
 
+The file `script.js` is the only file you will need for this lesson. You will copy and paste the starter code from the lessons into this file, as you progress in the level. By the end of the Lesson, you will have all the starter code pasted in. You will also write your code in this file. Note: This file will get long!
+
 5. Create a new repository on GitHub called:
 
 ```
@@ -47,7 +49,7 @@ pojopractice
 
 ### **Instructions**
 
-1. In `script.js`, copy this code:
+1. Copy this code into `script.js`:
 
 ```js
 const pet = {
@@ -246,11 +248,11 @@ console.log(car);
 
 ---
 
-### ✅ **ACP after each exercise**
+### ✅ **ACP after completing the exercises**
 
 ```bash
 git add .
-git commit -m "Step 2 - Exercise X completed"
+git commit -m "Step 2 - Exercises completed"
 git push
 ```
 
@@ -390,6 +392,13 @@ You practiced:
 Create a `book` POJO with `"title"`, `"author"`, and `"pages"`.
 Print the title and author, update pages, and print all properties.
 
+```js
+// TODO: Create your custom book POJO here
+// TODO: Print title and author
+// TODO: Update pages
+// TODO: Print all properties
+```
+
 ---
 
 ### ✅ **Exercise 2: Custom Pet**
@@ -397,12 +406,26 @@ Print the title and author, update pages, and print all properties.
 Create a `pet` POJO with `"name"`, `"species"`, and `"age"`.
 Print species, update age, and print name and updated age.
 
+```js
+// TODO: Create your custom pet POJO here
+// TODO: Print species
+// TODO: Update age
+// TODO: Print name and updated age
+```
+
 ---
 
 ### ✅ **Exercise 3: Custom Sprite**
 
 Create a `sprite` POJO with `"name"`, `"x"`, and `"y"`.
 Print current position, update x and y, then print new position.
+
+```js
+// TODO: Create your custom sprite POJO here
+// TODO: Print current position
+// TODO: Update x and y
+// TODO: Print new position
+```
 
 ---
 
