@@ -96,4 +96,4 @@ At the end of this journey, confirm that:
 ---
 
 # Navigation
-[0](./lesson-4-pojo-lv0.md) | [1](./lesson-4-pojo-lv1.md) | [2](./lesson-4-pojo-lv2.md) | [3](./lesson-4-pojo-lv3.md) | [4](./lesson-4-pojo-lv4.md) | **Current Level:** 5 
+[0](./lesson-4-pojo-lv0.md) | [1](./lesson-4-pojo-lv1.md) | [2](./lesson-4-pojo-lv2.md) | [3](./lesson-4-pojo-lv3.md) | [4](./lesson-4-pojo-lv4.md) | **Current Level:** 5

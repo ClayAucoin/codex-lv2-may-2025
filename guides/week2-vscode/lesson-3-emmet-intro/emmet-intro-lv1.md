@@ -1,6 +1,5 @@
 # Navigation
 [0](./emmet-intro-lv0.md) | **Current Level:** 1 | [2](./emmet-intro-lv2.md) | [3](./emmet-intro-lv3.md) | [4](./emmet-intro-lv4.md) | [5](./emmet-intro-lv5.md) | [6](./emmet-intro-lv6.md) | [7](./emmet-intro-lv7.md) | [8](./emmet-intro-lv8.md) | [9](./emmet-intro-lv9.md)
-
 ---
 
 ## Lesson: Basic HTML Boilerplate
@@ -65,5 +64,8 @@ The `!` shortcut is one of the most useful Emmet shortcuts for starting any HTML
 
 ---
 
+
+---
+
 # Navigation
-[0](./emmet-intro-lv0.md) | **Current Level:** 1 | [2](./emmet-intro-lv2.md) | [3](./emmet-intro-lv3.md) | [4](./emmet-intro-lv4.md) | [5](./emmet-intro-lv5.md) | [6](./emmet-intro-lv6.md) | [7](./emmet-intro-lv7.md) | [8](./emmet-intro-lv8.md) | [9](./emmet-intro-lv9.md) 
+[0](./emmet-intro-lv0.md) | **Current Level:** 1 | [2](./emmet-intro-lv2.md) | [3](./emmet-intro-lv3.md) | [4](./emmet-intro-lv4.md) | [5](./emmet-intro-lv5.md) | [6](./emmet-intro-lv6.md) | [7](./emmet-intro-lv7.md) | [8](./emmet-intro-lv8.md) | [9](./emmet-intro-lv9.md)

@@ -1,6 +1,5 @@
 # Navigation
 **Current Level:** 0 | [1](./emmet-intro-lv1.md) | [2](./emmet-intro-lv2.md) | [3](./emmet-intro-lv3.md) | [4](./emmet-intro-lv4.md) | [5](./emmet-intro-lv5.md) | [6](./emmet-intro-lv6.md) | [7](./emmet-intro-lv7.md) | [8](./emmet-intro-lv8.md) | [9](./emmet-intro-lv9.md)
-
 ---
 
 ## Lesson: Setup and Repository Creation
@@ -78,5 +77,8 @@ You're now ready to start learning Emmet shortcuts!
 
 ---
 
+
+---
+
 # Navigation
-**Current Level:** 0 | [1](./emmet-intro-lv1.md) | [2](./emmet-intro-lv2.md) | [3](./emmet-intro-lv3.md) | [4](./emmet-intro-lv4.md) | [5](./emmet-intro-lv5.md) | [6](./emmet-intro-lv6.md) | [7](./emmet-intro-lv7.md) | [8](./emmet-intro-lv8.md) | [9](./emmet-intro-lv9.md) 
+**Current Level:** 0 | [1](./emmet-intro-lv1.md) | [2](./emmet-intro-lv2.md) | [3](./emmet-intro-lv3.md) | [4](./emmet-intro-lv4.md) | [5](./emmet-intro-lv5.md) | [6](./emmet-intro-lv6.md) | [7](./emmet-intro-lv7.md) | [8](./emmet-intro-lv8.md) | [9](./emmet-intro-lv9.md)
