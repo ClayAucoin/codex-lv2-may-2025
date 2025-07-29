@@ -1,5 +1,7 @@
-# Navigation
-[0](./emmet-intro-lv0.md) | [1](./emmet-intro-lv1.md) | [2](./emmet-intro-lv2.md) | [3](./emmet-intro-lv3.md) | [4](./emmet-intro-lv4.md) | **Current Level:** 5 | [6](./emmet-intro-lv6.md) | [7](./emmet-intro-lv7.md) | [8](./emmet-intro-lv8.md) | [9](./emmet-intro-lv9.md)
+Level Navigation: [0](./emmet-intro-lv0.md) | [1](./emmet-intro-lv1.md) | [2](./emmet-intro-lv2.md) | [3](./emmet-intro-lv3.md) | [4](./emmet-intro-lv4.md) | **Current Level:** 5 | [6](./emmet-intro-lv6.md) | [7](./emmet-intro-lv7.md) | [8](./emmet-intro-lv8.md) | [9](./emmet-intro-lv9.md)
+
+---
+
 ---
 
 ## Lesson: Creating Lists
@@ -83,5 +85,10 @@ The `>` operator is key for creating nested HTML structures!
 
 ---
 
-# Navigation
-[0](./emmet-intro-lv0.md) | [1](./emmet-intro-lv1.md) | [2](./emmet-intro-lv2.md) | [3](./emmet-intro-lv3.md) | [4](./emmet-intro-lv4.md) | **Current Level:** 5 | [6](./emmet-intro-lv6.md) | [7](./emmet-intro-lv7.md) | [8](./emmet-intro-lv8.md) | [9](./emmet-intro-lv9.md)
+
+---
+
+
+---
+
+Level Navigation: [0](./emmet-intro-lv0.md) | [1](./emmet-intro-lv1.md) | [2](./emmet-intro-lv2.md) | [3](./emmet-intro-lv3.md) | [4](./emmet-intro-lv4.md) | **Current Level:** 5 | [6](./emmet-intro-lv6.md) | [7](./emmet-intro-lv7.md) | [8](./emmet-intro-lv8.md) | [9](./emmet-intro-lv9.md)

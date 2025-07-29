@@ -68,37 +68,50 @@ for i in "${!LESSON_FILES[@]}"; do
     # Create temporary file
     temp_file=$(mktemp)
     
-    # Process the file to replace navigation sections
+    # Add top navigation first
+    echo "Level Navigation: $nav" > "$temp_file"
+    echo "" >> "$temp_file"
+    echo "---" >> "$temp_file"
+    echo "" >> "$temp_file"
+    
+    # Process the file to remove old navigation and add content
     awk -v nav="$nav" '
-    BEGIN { nav_count = 0; skip_next = 0 }
-    /^# Navigation$/ {
-        nav_count++
-        print "# Navigation"
-        print nav
-        skip_next = 1
+    BEGIN { skip_old_nav = 0; content_started = 0 }
+    /^Level Navigation: / {
+        skip_old_nav = 1
         next
     }
-    skip_next == 1 {
-        skip_next = 0
+    /^# Navigation$/ {
+        skip_old_nav = 1
         next
     }
     /^\*\*Current Level:/ {
+        skip_old_nav = 1
         next
     }
     /^\[[0-9]\]\(\.\/.*\)/ {
+        skip_old_nav = 1
+        next
+    }
+    /^---$/ && skip_old_nav == 1 {
+        skip_old_nav = 0
+        content_started = 1
+        print
+        next
+    }
+    skip_old_nav == 1 {
         next
     }
     { print }
-    ' "$current_file" > "$temp_file"
+    ' "$current_file" >> "$temp_file"
     
     # Add bottom navigation if it doesn't exist
-    nav_count=$(grep -c "^# Navigation$" "$temp_file")
+    nav_count=$(grep -c "^Level Navigation: " "$temp_file")
     if [ "$nav_count" -lt 2 ]; then
         echo "" >> "$temp_file"
         echo "---" >> "$temp_file"
         echo "" >> "$temp_file"
-        echo "# Navigation" >> "$temp_file"
-        echo "$nav" >> "$temp_file"
+        echo "Level Navigation: $nav" >> "$temp_file"
     fi
     
     # Replace original file
@@ -108,4 +121,4 @@ for i in "${!LESSON_FILES[@]}"; do
 done
 
 echo "✅ Navigation update complete!"
-echo "Updated ${#LESSON_FILES[@]} files in $FOLDER_PATH" 
+echo "Updated ${#LESSON_FILES[@]} files in $FOLDER_PATH"
