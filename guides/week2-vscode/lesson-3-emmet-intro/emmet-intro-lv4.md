@@ -47,4 +47,9 @@ You learned how to:
 * Combine text content with element multiplication
 * Understand how Emmet handles text placement in elements
 
-These shortcuts help you create more complete and content-rich HTML elements! 
+These shortcuts help you create more complete and content-rich HTML elements!
+
+---
+
+# Navigation
+[0](./emmet-intro-lv0.md) | [1](./emmet-intro-lv1.md) | [2](./emmet-intro-lv2.md) | [3](./emmet-intro-lv3.md) | **Current Level:** 4 | [5](./emmet-intro-lv5.md) | [6](./emmet-intro-lv6.md) | [7](./emmet-intro-lv7.md) 

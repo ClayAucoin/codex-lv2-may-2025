@@ -42,4 +42,9 @@ You learned how to:
 * Understand what "boilerplate" means in web development
 * Create the basic HTML structure automatically
 
-The `!` shortcut is one of the most useful Emmet shortcuts for starting any HTML project! 
+The `!` shortcut is one of the most useful Emmet shortcuts for starting any HTML project!
+
+---
+
+# Navigation
+[0](./emmet-intro-lv0.md) | **Current Level:** 1 | [2](./emmet-intro-lv2.md) | [3](./emmet-intro-lv3.md) | [4](./emmet-intro-lv4.md) | [5](./emmet-intro-lv5.md) | [6](./emmet-intro-lv6.md) | [7](./emmet-intro-lv7.md) 

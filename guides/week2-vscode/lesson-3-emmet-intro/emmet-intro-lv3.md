@@ -40,4 +40,9 @@ You learned how to:
 * Understand how Emmet handles attributes and shortcuts
 * Create complete link tags with proper attributes
 
-The `:css` shortcut is a great example of how Emmet can create complex HTML with simple abbreviations! 
+The `:css` shortcut is a great example of how Emmet can create complex HTML with simple abbreviations!
+
+---
+
+# Navigation
+[0](./emmet-intro-lv0.md) | [1](./emmet-intro-lv1.md) | [2](./emmet-intro-lv2.md) | **Current Level:** 3 | [4](./emmet-intro-lv4.md) | [5](./emmet-intro-lv5.md) | [6](./emmet-intro-lv6.md) | [7](./emmet-intro-lv7.md) 
