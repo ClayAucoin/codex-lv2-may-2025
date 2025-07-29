@@ -11,6 +11,31 @@ Create complex nested HTML structures with sections, articles, and paragraphs.
 
 ---
 
+## 📝 **Note: What are these HTML tags?**
+
+<details>
+  <summary>What is a section tag for?</summary>
+  <div>
+    <p>A `<section>` tag is used to group related content together. Think of it like a chapter in a book or a section in a newspaper. It helps organize your webpage into logical parts. For example, you might have a section for "About Us", another for "Contact Information", and another for "Latest News".</p>
+  </div>
+</details>
+
+<details>
+  <summary>What is an article tag for?</summary>
+  <div>
+    <p>An `<article>` tag is used for content that could stand on its own, like a blog post, news story, or product review. Think of it like an article in a magazine - it's a complete piece of content that makes sense even if you read it by itself. Articles are often placed inside sections.</p>
+  </div>
+</details>
+
+<details>
+  <summary>What is semantic HTML?</summary>
+  <div>
+    <p>Semantic HTML means using HTML tags that describe what the content actually is, not just how it looks. Instead of using `<div>` for everything, we use meaningful tags like `<section>`, `<article>`, `<header>`, `<footer>`, `<nav>`, etc. This makes your code easier to understand and helps search engines and screen readers better understand your content.</p>
+  </div>
+</details>
+
+---
+
 ## ✅ Step 11: Nesting Structure
 
 * Type:
