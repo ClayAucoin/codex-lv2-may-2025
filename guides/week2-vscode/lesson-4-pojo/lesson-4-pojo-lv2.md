@@ -163,7 +163,7 @@ console.log(car);
 ## ✅ **ACP after completing the exercises**
 
 ```bash
-git add .
+git add script.js
 git commit -m "Step 2 - Exercises completed"
 git push
 ```

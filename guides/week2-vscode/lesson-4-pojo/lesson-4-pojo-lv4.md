@@ -66,7 +66,7 @@ Print current position, update x and y, then print new position.
 ## ✅ **ACP**
 
 ```bash
-git add .
+git add script.js
 git commit -m "Step 4 completed - Practice Challenge Exercises"
 git push
 ```

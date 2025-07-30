@@ -72,7 +72,7 @@ const robot = {
 ## ✅ **ACP**
 
 ```bash
-git add .
+git add script.js
 git commit -m "Step 5 completed - POJO Challenge Exercises"
 git push
 ```

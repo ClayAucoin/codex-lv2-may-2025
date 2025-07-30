@@ -49,7 +49,7 @@ node script.js
 ### ✅ **ACP**
 
 ```bash
-git add .
+git add script.js
 git commit -m "Step 3 Look and Guess completed"
 git push
 ```
@@ -107,7 +107,7 @@ const sprite = {
 ## ✅ **ACP**
 
 ```bash
-git add .
+git add script.js
 git commit -m "Step 3 completed - Read and Update Exercises"
 git push
 ```
