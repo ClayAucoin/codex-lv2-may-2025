@@ -114,7 +114,7 @@ Dog
 ### ✅ **ACP**
 
 ```bash
-git add .
+git add script.js
 git commit -m "Step 1 completed - Look and Guess"
 git push
 ```
