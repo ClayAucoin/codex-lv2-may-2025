@@ -8,7 +8,7 @@ Level Navigation: [0](./emmet-intro-lv0.md) | [1](./emmet-intro-lv1.md) | [2](./
 
 ### 🎯 Objective
 
-Practice using Emmet to create script tags and learn about CSS frameworks.
+Practice using Emmet to create link tags and learn about CSS frameworks.
 
 ---
 
@@ -25,31 +25,31 @@ Practice using Emmet to create script tags and learn about CSS frameworks.
 
 ## ✅ **Bonus Challenge: Add CSS Framework**
 
-### **Step 1: Create a Script Tag with Emmet**
+### **Step 1: Create a Link Tag with Emmet**
 
-* Type this Emmet shortcut to create a script tag:
+* Type this Emmet shortcut to create a link tag:
 
 ```
-script:src + [TAB]
+link:css + [TAB]
 ```
 
-* This will create: `<script src=""></script>`
+* This will create: `<link rel="stylesheet" href="">`
 
 ### **Step 2: Add the Light Theme CSS**
 
-* In the `src` attribute, paste this URL:
+* In the `href` attribute, paste this URL:
 
 ```
 https://cdn.jsdelivr.net/npm/sakura.css/css/sakura.css
 ```
 
-* Your script tag should look like this:
+* Your link tag should look like this:
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/sakura.css/css/sakura.css"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sakura.css/css/sakura.css">/>
 ```
 
-* **Important:** Place this script tag ABOVE your own CSS file link in the `<head>` section.
+* **Important:** Place this link tag ABOVE your own CSS file link in the `<head>` section.
 
 ### **Step 3: Test the Light Theme**
 
@@ -58,16 +58,16 @@ https://cdn.jsdelivr.net/npm/sakura.css/css/sakura.css
 
 ### **Step 4: Switch to Dark Theme**
 
-* Change the URL in your script tag to:
+* Change the URL in your link tag to:
 
 ```
 https://cdn.jsdelivr.net/npm/sakura.css/css/sakura-dark.css
 ```
 
-* Your script tag should now look like this:
+* Your link tag should now look like this:
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/sakura.css/css/sakura-dark.css"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sakura.css/css/sakura-dark.css">/>
 ```
 
 * Save and refresh to see the dark theme!
@@ -78,7 +78,7 @@ https://cdn.jsdelivr.net/npm/sakura.css/css/sakura-dark.css
 
 ```bash
 git add .
-git commit -m "Add CSS framework with Emmet script tag"
+git commit -m "Add CSS framework with Emmet link tag"
 git push
 ```
 
@@ -89,7 +89,7 @@ git push
 ## ✅ **Summary**
 
 You learned how to:
-* Use Emmet's `script:src` shortcut to create script tags
+* Use Emmet's `link:css` shortcut to create link tags
 * Add external CSS frameworks to your website
 * Understand what CSS frameworks are and why they're useful
 * Switch between different theme variations
