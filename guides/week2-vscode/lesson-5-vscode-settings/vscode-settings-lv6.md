@@ -1,5 +1,6 @@
-# Navigation
-[0](./vscode-settings-lv0.md) | [1](./vscode-settings-lv1.md) | [2](./vscode-settings-lv2.md) | [3](./vscode-settings-lv3.md) | [4](./vscode-settings-lv4.md) | [5](./vscode-settings-lv5.md) | **Current Level:** 6
+Level Navigation: [0](./vscode-settings-lv0.md) | [1](./vscode-settings-lv1.md) | [2](./vscode-settings-lv2.md) | [3](./vscode-settings-lv3.md) | [4](./vscode-settings-lv4.md) | [5](./vscode-settings-lv5.md) | **Current Level:** 6
+
+---
 
 ---
 
@@ -26,6 +27,8 @@ Explore additional settings, understand complex configurations, and create a com
 ---
 
 ## ✅ **Complete Example Settings File**
+
+Update your `./vscode/settings.json` file to look like this:
 
 ```json
 {
@@ -57,5 +60,13 @@ You learned how to:
 
 * Experiment with the settings table above
 * Try different combinations of settings
+* Have a look at other people's [settings.json](https://github.com/antfu/vscode-settings/blob/main/.vscode/settings.json) files to see if you'd like to try any of those settings.
 * Explore VSCode's settings documentation
-* Create settings files for different project types 
+  * [HTML Reference](https://code.visualstudio.com/docs/languages/html) RECOMMENDED!!!
+  * [JSON Reference](https://code.visualstudio.com/docs/languages/json)
+  * [JavaScript Reference](https://code.visualstudio.com/docs/languages/javascript)
+
+
+---
+
+Level Navigation: [0](./vscode-settings-lv0.md) | [1](./vscode-settings-lv1.md) | [2](./vscode-settings-lv2.md) | [3](./vscode-settings-lv3.md) | [4](./vscode-settings-lv4.md) | [5](./vscode-settings-lv5.md) | **Current Level:** 6

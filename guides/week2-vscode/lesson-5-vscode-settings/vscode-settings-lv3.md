@@ -1,5 +1,6 @@
-# Navigation
-[0](./vscode-settings-lv0.md) | [1](./vscode-settings-lv1.md) | [2](./vscode-settings-lv2.md) | **Current Level:** 3 | [4](./vscode-settings-lv4.md) | [5](./vscode-settings-lv5.md) | [6](./vscode-settings-lv6.md)
+Level Navigation: [0](./vscode-settings-lv0.md) | [1](./vscode-settings-lv1.md) | [2](./vscode-settings-lv2.md) | **Current Level:** 3 | [4](./vscode-settings-lv4.md) | [5](./vscode-settings-lv5.md) | [6](./vscode-settings-lv6.md)
+
+---
 
 ---
 
@@ -12,6 +13,8 @@ Enable word wrap and format-on-save features to enhance your text editing experi
 ---
 
 ## ✅ **Step 3: Enable Word Wrap**
+
+Update your `./vscode/settings.json` file to look like this:
 
 ```json
 {
@@ -36,6 +39,8 @@ Enable word wrap and format-on-save features to enhance your text editing experi
 ---
 
 ## ✅ **Step 4: Format on Save**
+
+Update your `./vscode/settings.json` file to look like this:
 
 ```json
 {
@@ -66,3 +71,7 @@ You learned how to:
 * Configure format-on-save using boolean values (true/false)
 * Distinguish between string and boolean settings
 * Improve code readability and maintain formatting automatically 
+
+---
+
+Level Navigation: [0](./vscode-settings-lv0.md) | [1](./vscode-settings-lv1.md) | [2](./vscode-settings-lv2.md) | **Current Level:** 3 | [4](./vscode-settings-lv4.md) | [5](./vscode-settings-lv5.md) | [6](./vscode-settings-lv6.md)

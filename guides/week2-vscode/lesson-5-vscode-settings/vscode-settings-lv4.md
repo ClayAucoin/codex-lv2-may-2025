@@ -1,5 +1,6 @@
-# Navigation
-[0](./vscode-settings-lv0.md) | [1](./vscode-settings-lv1.md) | [2](./vscode-settings-lv2.md) | [3](./vscode-settings-lv3.md) | **Current Level:** 4 | [5](./vscode-settings-lv5.md) | [6](./vscode-settings-lv6.md)
+Level Navigation: [0](./vscode-settings-lv0.md) | [1](./vscode-settings-lv1.md) | [2](./vscode-settings-lv2.md) | [3](./vscode-settings-lv3.md) | **Current Level:** 4 | [5](./vscode-settings-lv5.md) | [6](./vscode-settings-lv6.md)
+
+---
 
 ---
 
@@ -12,6 +13,8 @@ Configure auto-save and tab label formatting to streamline your file management 
 ---
 
 ## ✅ **Step 5: Enable Auto-Save**
+
+Update your `./vscode/settings.json` file to look like this:
 
 ```json
 {
@@ -37,6 +40,8 @@ Configure auto-save and tab label formatting to streamline your file management 
 ---
 
 ## ✅ **Step 6: Shorten Tab Labels**
+
+Update your `./vscode/settings.json` file to look like this:
 
 ```json
 {
@@ -69,3 +74,7 @@ You learned how to:
 * Customize tab label formatting for better file organization
 * Manage file workflow settings effectively
 * Build a comprehensive settings file with multiple configurations 
+
+---
+
+Level Navigation: [0](./vscode-settings-lv0.md) | [1](./vscode-settings-lv1.md) | [2](./vscode-settings-lv2.md) | [3](./vscode-settings-lv3.md) | **Current Level:** 4 | [5](./vscode-settings-lv5.md) | [6](./vscode-settings-lv6.md)

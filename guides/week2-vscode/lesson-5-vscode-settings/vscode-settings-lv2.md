@@ -1,5 +1,6 @@
-# Navigation
-[0](./vscode-settings-lv0.md) | [1](./vscode-settings-lv1.md) | **Current Level:** 2 | [3](./vscode-settings-lv3.md) | [4](./vscode-settings-lv4.md) | [5](./vscode-settings-lv5.md) | [6](./vscode-settings-lv6.md)
+Level Navigation: [0](./vscode-settings-lv0.md) | [1](./vscode-settings-lv1.md) | **Current Level:** 2 | [3](./vscode-settings-lv3.md) | [4](./vscode-settings-lv4.md) | [5](./vscode-settings-lv5.md) | [6](./vscode-settings-lv6.md)
+
+---
 
 ---
 
@@ -13,7 +14,7 @@ Set up color themes and configure tab size to personalize your editor's appearan
 
 ## ✅ **Step 1: Set the Color Theme**
 
-Create your `.vscode/settings.json` file:
+Create your `.vscode/settings.json` file and add this code:
 
 ```json
 {
@@ -30,7 +31,7 @@ Create your `.vscode/settings.json` file:
 
 ### ▶️ **Try It!**
 
-* Save and reload your project folder.
+* Save the file. (You might need to close and open again.)
 * Change the theme name to another **quoted string** like `"Monokai"`.
 
 ### 🎨 **Included Themes to Try**
@@ -39,26 +40,30 @@ Create your `.vscode/settings.json` file:
 
 ---
 
-## ✅ **Step 2: Set Tab Size**
+## ✅ **Step 2: Set minimap visibility**
+
+Update your `./vscode/settings.json` file to look like this:
 
 ```json
 {
     "workbench.colorTheme": "Default Dark+",
-    "editor.tabSize": 2
+    "editor.minimap.enabled": true
 }
 ```
 
 ### ✅ **Reminder**
 
 * **Key**: in quotes.
-* **Value**: number → **do not use quotes**.
+* **Value**: Boolean → **do not use quotes**.
 
 ---
 
 ### ▶️ **Try It!**
 
-* Press the **Tab** key in your editor to see 2 spaces.
-* Change the value to `4` (again, no quotes!).
+* Save the file.
+* Go to an html or js file. (A long file works better.)
+* The vertical code preview panel on the right side (the minimap) should appear when in an html or js file.
+* Try changing the value to false to hide it!
 
 ---
 
@@ -66,6 +71,10 @@ Create your `.vscode/settings.json` file:
 
 You learned how to:
 * Set color themes using string values
-* Configure tab size using number values
+* Enable or disable the minimap using a Boolean value
 * Build up your settings file step by step
 * Apply basic visual customizations to your editor 
+
+---
+
+Level Navigation: [0](./vscode-settings-lv0.md) | [1](./vscode-settings-lv1.md) | **Current Level:** 2 | [3](./vscode-settings-lv3.md) | [4](./vscode-settings-lv4.md) | [5](./vscode-settings-lv5.md) | [6](./vscode-settings-lv6.md)

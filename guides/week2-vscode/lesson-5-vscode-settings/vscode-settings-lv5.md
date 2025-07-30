@@ -1,5 +1,6 @@
-# Navigation
-[0](./vscode-settings-lv0.md) | [1](./vscode-settings-lv1.md) | [2](./vscode-settings-lv2.md) | [3](./vscode-settings-lv3.md) | [4](./vscode-settings-lv4.md) | **Current Level:** 5 | [6](./vscode-settings-lv6.md)
+Level Navigation: [0](./vscode-settings-lv0.md) | [1](./vscode-settings-lv1.md) | [2](./vscode-settings-lv2.md) | [3](./vscode-settings-lv3.md) | [4](./vscode-settings-lv4.md) | **Current Level:** 5 | [6](./vscode-settings-lv6.md)
+
+---
 
 ---
 
@@ -12,6 +13,8 @@ Create a complete settings file that combines all the configurations learned in 
 ---
 
 ## ✅ **Complete Example Settings File**
+
+Update your `./vscode/settings.json` file to look like this:
 
 ```json
 {
@@ -35,3 +38,7 @@ You learned how to:
 * Apply JSON syntax rules consistently
 * Create a complete, functional settings file
 * Customize your development environment for optimal productivity 
+
+---
+
+Level Navigation: [0](./vscode-settings-lv0.md) | [1](./vscode-settings-lv1.md) | [2](./vscode-settings-lv2.md) | [3](./vscode-settings-lv3.md) | [4](./vscode-settings-lv4.md) | **Current Level:** 5 | [6](./vscode-settings-lv6.md)

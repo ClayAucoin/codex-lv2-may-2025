@@ -1,5 +1,6 @@
-# Navigation
-**Current Level:** 0 | [1](./vscode-settings-lv1.md) | [2](./vscode-settings-lv2.md) | [3](./vscode-settings-lv3.md) | [4](./vscode-settings-lv4.md) | [5](./vscode-settings-lv5.md) | [6](./vscode-settings-lv6.md)
+Level Navigation: **Current Level:** 0 | [1](./vscode-settings-lv1.md) | [2](./vscode-settings-lv2.md) | [3](./vscode-settings-lv3.md) | [4](./vscode-settings-lv4.md) | [5](./vscode-settings-lv5.md) | [6](./vscode-settings-lv6.md)
+
+---
 
 ---
 
@@ -43,9 +44,10 @@ Before we begin, make sure you have:
    
    > ✅ **Important:** The folder name begins with a **dot (`.`)** — don't forget it! This makes the folder **hidden by default** on some systems. We often want config files to be hidden so they do not distract us from the files related to code.
 
-4. **Create a test file** to see your settings in action:
+4. **Create a test file** to see your settings in action. You may copy and paste code from a previous project to give yourself some code to start with.
+
    ```bash
-   touch test.js
+   touch script.js
    ```
 
 ---
@@ -69,3 +71,7 @@ You're now ready to:
 * Navigate through the lesson levels
 * Create and modify VSCode settings files
 * Apply customizations to improve your coding experience
+
+---
+
+Level Navigation: **Current Level:** 0 | [1](./vscode-settings-lv1.md) | [2](./vscode-settings-lv2.md) | [3](./vscode-settings-lv3.md) | [4](./vscode-settings-lv4.md) | [5](./vscode-settings-lv5.md) | [6](./vscode-settings-lv6.md)

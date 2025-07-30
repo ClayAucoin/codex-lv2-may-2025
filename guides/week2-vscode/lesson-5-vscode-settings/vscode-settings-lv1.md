@@ -1,5 +1,6 @@
-# Navigation
-[0](./vscode-settings-lv0.md) | **Current Level:** 1 | [2](./vscode-settings-lv2.md) | [3](./vscode-settings-lv3.md) | [4](./vscode-settings-lv4.md) | [5](./vscode-settings-lv5.md) | [6](./vscode-settings-lv6.md)
+Level Navigation: [0](./vscode-settings-lv0.md) | **Current Level:** 1 | [2](./vscode-settings-lv2.md) | [3](./vscode-settings-lv3.md) | [4](./vscode-settings-lv4.md) | [5](./vscode-settings-lv5.md) | [6](./vscode-settings-lv6.md)
+
+---
 
 ---
 
@@ -27,10 +28,10 @@ In VSCode, the settings file is written in a format called **JSON**.
 
 ```json
 {
-    "projectName": "My App",
-    "version": 1,
-    "isPublic": true,
-    "maxUsers": 100
+    "catName": "Ginger",
+    "age": 1,
+    "isAdopted": true,
+    "weight": 4
 }
 ```
 
@@ -57,3 +58,9 @@ In VSCode, the settings file is written in a format called **JSON**.
   * Strings → **quotes required**.
   * Numbers → **no quotes**.
   * Booleans (`true`/`false`) → **no quotes**. 
+
+After you read this page, move on to the next lesson.
+
+---
+
+Level Navigation: [0](./vscode-settings-lv0.md) | **Current Level:** 1 | [2](./vscode-settings-lv2.md) | [3](./vscode-settings-lv3.md) | [4](./vscode-settings-lv4.md) | [5](./vscode-settings-lv5.md) | [6](./vscode-settings-lv6.md)
