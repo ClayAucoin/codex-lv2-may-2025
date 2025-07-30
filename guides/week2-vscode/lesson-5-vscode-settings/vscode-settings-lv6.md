@@ -60,11 +60,11 @@ You learned how to:
 
 * Experiment with the settings table above
 * Try different combinations of settings
-* Have a look at other people's [settings.json](https://github.com/antfu/vscode-settings/blob/main/.vscode/settings.json) files to see if you'd like to try any of those settings.
 * Explore VSCode's settings documentation
   * [HTML Reference](https://code.visualstudio.com/docs/languages/html) RECOMMENDED!!!
   * [JSON Reference](https://code.visualstudio.com/docs/languages/json)
   * [JavaScript Reference](https://code.visualstudio.com/docs/languages/javascript)
+* Have a look at other peoples' shared [settings.json](https://github.com/antfu/vscode-settings/blob/main/.vscode/settings.json) files to see if you'd like to try any of those settings.
 
 
 ---
