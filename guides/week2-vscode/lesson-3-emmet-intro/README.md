@@ -43,6 +43,12 @@ In this unit, students will learn to use **Emmet**, a powerful shorthand system 
 7. **[Multiple Elements and Challenges](./emmet-intro-lv7.md)** *(Application)*  
    Practice creating multiple elements simultaneously and complete Emmet challenges.
 
+8. **[Bonus Challenge - CSS Frameworks](./emmet-intro-lv8.md)** *(Bonus)*  
+   Learn to use Emmet to add CSS frameworks and explore external styling options.
+
+9. **[Bonus Challenge - Multi-Page Website & Collaboration](./emmet-intro-lv9.md)** *(Bonus)*  
+   Build multiple pages, publish with GitHub Pages, and collaborate with classmates.
+
 ---
 
 ### ✅ Project Outcome
@@ -54,6 +60,7 @@ By the end of this unit, students will:
 * Understand how Emmet translates shorthand to HTML
 * Apply version control best practices throughout development
 * Have a solid foundation for using Emmet in real projects
+* Experience publishing websites and collaborating with others
 
 ---
 
