@@ -3,7 +3,7 @@
 * Weeks 1-3: Professional Tools
   * Week 1: [The Shell and git](./guides/week1-git/README.md)
   * Week 2: [VSCode and Collaboration](./guides/week2-vscode/README.md)
-  * Week 3: Group Project (Plan a Game in JavaScript and p5.play)
+  * Week 3: [Group Project (Plan a Game in JavaScript and p5.play)](./guides/week3-group-project/README.md)
 * Week 4-7: Web Development
   * Week 4: Forms and Queries
   * Week 5: CSS Frameworks and Bootstrap
