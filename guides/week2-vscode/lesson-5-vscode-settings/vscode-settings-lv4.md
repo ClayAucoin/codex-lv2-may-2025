@@ -19,7 +19,7 @@ Update your `./vscode/settings.json` file to look like this:
 ```json
 {
     "workbench.colorTheme": "Default Dark+",
-    "editor.tabSize": 2,
+    "editor.minimap.enabled": true,
     "editor.wordWrap": "on",
     "editor.formatOnSave": true,
     "files.autoSave": "afterDelay"
@@ -46,7 +46,7 @@ Update your `./vscode/settings.json` file to look like this:
 ```json
 {
     "workbench.colorTheme": "Default Dark+",
-    "editor.tabSize": 2,
+    "editor.minimap.enabled": true,
     "editor.wordWrap": "on",
     "editor.formatOnSave": true,
     "files.autoSave": "afterDelay",

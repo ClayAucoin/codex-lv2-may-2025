@@ -11,8 +11,8 @@ This week focuses on collaborative development through group projects. Students 
 ### 1. **[Sign Your Group Agreement](./TEAM_AGREEMENT.md)**
 Make sure all members read and sign before starting any work.
 
-### 2. **[Complete the Mini Game Lab (VSCode Project)](./lesson-3-game-lab-vs-p5.play/)**
-Follow the project setup and build a simple mini game using VSCode.
+### 2. **[Complete the Side Scroller Explorer Project](https://github.com/rmccrear/side-scroller-explorer)**
+Explore and learn about the differences in workflow between using Game Lab and VSCode + git while making changes to a side-scrolling game. (Work as a team. You may wish to all work together in a pair programming setup, or try and implement a git workflow were all the team members clone the repo and push their changes.)
 
 ### 3. **[Review Lesson 27 Plan and Choose Roles](./lesson-27/TEAM-ROLES.md)**
 Go over the lesson goals and assign responsibilities within your group.
@@ -23,13 +23,13 @@ Work together to build and test the game features for this lesson.
 ### 5. **[Plan for Lesson 28 and Choose Roles](./lesson-28/TEAM-ROLES.md)** *(Optional)*
 If time allows, prepare for the next lesson and assign roles early.
 
-### 6. **[Complete Lesson 28](./lesson-28/lesson-28.md)**
+### 6. **[Complete Lesson 28](./lesson-28/lesson-28.md)** *(Optional)*
 Finish your full group game project with any additional features.
 
-### 7. **[Do the Week 3 Interview / Code Review](./lesson-27/lesson-27.md#interview)**
+### 7. **Sign up for the Week 3 Interview / Code Review on Moodle**
 Each group member should be ready to explain their contributions and code.
 
-### 8. **[Write a Reflection on Your Group Project](./lesson-28/lesson-28.md#reflection)**
+### 8. **Write a Reflection on Your Group Project on Moodle**
 Reflect on what your group built, how you worked together, and what you learned.
 
 ---
@@ -38,7 +38,7 @@ Reflect on what your group built, how you worked together, and what you learned.
 
 * Basic understanding of HTML, CSS, and JavaScript
 * Familiarity with VSCode and Git
-* Experience with p5.play library
+* Experience with Game Lab
 * Understanding of JavaScript modules
 * Team collaboration skills
 
@@ -55,14 +55,6 @@ Reflect on what your group built, how you worked together, and what you learned.
 
 ---
 
-## 📚 Additional Resources
-
-* **[Running p5.play](./lesson-1-running-p5.play/)** - Setup and basics
-* **[JavaScript Modules](./lesson-2-js-modules/)** - Module system fundamentals
-* **[Objects and ES6 Classes](./lesson-4-objects-and-es6-classes/)** - Advanced JavaScript concepts
-
----
-
 ## ✅ Success Criteria
 
 By the end of this week, your group should have:
@@ -70,7 +62,7 @@ By the end of this week, your group should have:
 * ✅ Completed and signed team agreement
 * ✅ Built a functional mini game
 * ✅ Successfully completed Lesson 27 with assigned roles
-* ✅ Completed Lesson 28 with additional features
+* ✅ Completed Lesson 28 with additional features (Optional)
 * ✅ Participated in code review/interview
 * ✅ Written individual reflections on the project
 * ✅ Demonstrated effective teamwork and communication

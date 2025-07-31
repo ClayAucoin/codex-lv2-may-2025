@@ -8,7 +8,7 @@ Level Navigation: [0](./vscode-settings-lv0.md) | [1](./vscode-settings-lv1.md) 
 
 ### 🎯 Objective
 
-Set up color themes and configure tab size to personalize your editor's appearance and improve code readability.
+Set up color themes and configure minimap visibility to personalize your editor's appearance and improve code readability.
 
 ---
 
