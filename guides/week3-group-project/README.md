@@ -26,10 +26,13 @@ If time allows, prepare for the next lesson and assign roles early.
 ### 6. **[Complete Lesson 28](./lesson-28/lesson-28.md)** *(Optional)*
 Finish your full group game project with any additional features.
 
-### 7. **Sign up for the Week 3 Interview / Code Review on Moodle**
+### 7. **Complete Help Seeker Assignment on Moodle**
+Post a clear, concise question on our Slack Cohort Channel about our content so far or an error you've faced. Include relevant code or error details. Follow the [How to Ask Good Questions Guide](../../resources/skill-guides/how-to-ask-good-questions.md) and upload a screenshot of your question and the answer received.
+
+### 8. **Sign up for the Week 3 Interview / Code Review on Moodle**
 Each group member should be ready to explain their contributions and code.
 
-### 8. **Write a Reflection on Your Group Project on Moodle**
+### 9. **Write a Reflection on Your Group Project on Moodle**
 Reflect on what your group built, how you worked together, and what you learned.
 
 ---
@@ -63,6 +66,7 @@ By the end of this week, your group should have:
 * ✅ Built a functional mini game
 * ✅ Successfully completed Lesson 27 with assigned roles
 * ✅ Completed Lesson 28 with additional features (Optional)
+* ✅ Completed Help Seeker assignment with clear question and screenshot
 * ✅ Participated in code review/interview
 * ✅ Written individual reflections on the project
 * ✅ Demonstrated effective teamwork and communication
