@@ -47,6 +47,18 @@ Always **pull** to get the latest changes:
 git pull
 ```
 
+Note that if you get an error saying "hint: You have divergent branches and need to specify how to reconcile them.", you can use this command to tell it to merge by default:
+
+```bash
+git config pull.rebase false
+```
+
+You can configure this once for all repos using the `--global` flag:
+
+```bash
+git config --global pull.rebase false
+```
+
 ---
 
 ## 🧨 Merge Conflicts
@@ -66,12 +78,12 @@ Incoming changes from remote here
 1. **Manually edit to fix the conflict**
    Open the file in your code editor. Look for the conflict markers:
 
-* `<<<<<<< HEAD`
-* `=======`
-* `>>>>>>> branch-name`
+   * `<<<<<<< HEAD`
+   * `=======`
+   * `>>>>>>> branch-name`
 
-Decide which code to keep, or combine both parts if needed.
-Then **delete** the conflict markers and any unwanted lines.
+   Decide which code to keep, or combine both parts if needed.
+   Then **delete** the conflict markers and any unwanted lines.
 
 Example:
 Before fixing:
