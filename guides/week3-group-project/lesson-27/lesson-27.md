@@ -1,3 +1,9 @@
+# Level 27 Guide
+
+This page displays the steps found in [Lesson 27](https://studio.code.org/courses/csd-2024/units/3/lessons/27/student) in once convenient place. You may work through these steps with your group, or divide up the work and meet up when you finish to merge your code.
+
+Start by discussing the [activity guide](https://docs.google.com/document/d/1FqTjwpAuFrVidZ_j6aGw895FivFCRO2CZSvhHqWuEik/view). Following the activity guide and following your plan are key to success in a big project like this.
+
 ## 1. Try the Sample Game
 
 Click here first to try this game:

@@ -13,7 +13,7 @@ Before you begin coding, your team must plan your game’s **look and feel**. Us
 
 **Note:** Before your planning meeting, estimate how long you expect the meeting to take, which items on the agenda MUST be decided on now, and which can wait. TIMEBOX the meeting to your estimated time limit, so you can move on to the next step.
 
-Before you meeting think about:
+Before your meeting think about:
 
 * How long it will take to plan everything. 
 * Are there ways to split up the design work?
@@ -21,6 +21,8 @@ Before you meeting think about:
 * Which could you take responsibility for completing?
 
 ### 🎨 Plan the Look and Feel
+
+You may use the code.org [Activity Guide](https://docs.google.com/document/d/14oPvmdvm_BfOn5KBSov6jyhoEMRHygdNNIXl-fe4g-Q/view) to help you plan.
 
 **Everyone in the group should help brainstorm these items.**
 
