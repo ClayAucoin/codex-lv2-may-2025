@@ -4,6 +4,8 @@ This page displays the steps found in [Lesson 27](https://studio.code.org/course
 
 Start by discussing the [activity guide](https://docs.google.com/document/d/1FqTjwpAuFrVidZ_j6aGw895FivFCRO2CZSvhHqWuEik/view). Following the activity guide and following your plan are key to success in a big project like this.
 
+Choose [roles](./TEAM-ROLES.md) for yourselves and split up the work.
+
 ## 1. Try the Sample Game
 
 Click here first to try this game:
