@@ -17,13 +17,13 @@ Explore and learn about the differences in workflow between using Game Lab and V
 ### 3. **[Review Lesson 27 Plan and Choose Roles](./lesson-27/TEAM-ROLES.md)**
 Go over the lesson goals and assign responsibilities within your group.
 
-### 4. **[Complete Lesson 27](./lesson-27/lesson-27.md)**
+### 4. **[Complete Lesson 27](./lesson-27/README.md)**
 Work together to build and test the game features for this lesson.
 
 ### 5. **[Plan for Lesson 28 and Choose Roles](./lesson-28/TEAM-ROLES.md)** *(Optional)*
 If time allows, prepare for the next lesson and assign roles early.
 
-### 6. **[Complete Lesson 28](./lesson-28/lesson-28.md)** *(Optional)*
+### 6. **[Complete Lesson 28](./lesson-28/README.md)** *(Optional)*
 Finish your full group game project with any additional features.
 
 ### 7. **Complete Help Seeker Assignment on Moodle**
