@@ -6,7 +6,7 @@ You’ll find:
 
 * **General syntax** for each drawing or styling command
 * A **specific example** to see how it works
-* Comments explaining available options, including **constants like `LEFT`, `PIE`, or `PI`**
+* Comments explaining available options, including **constants like `LEFT`, `PIE`, or `OPEN`**
 
 This reference will help you:
 
@@ -155,16 +155,10 @@ textSize(24);
 ```js
 arc(x, y, w, h, start, stop);
 // Draws an arc at (x, y), width w, height h, from start to stop angles
-// Use angle constants: PI (180°), HALF_PI (90°), QUARTER_PI (45°), TWO_PI (360°)
+// Angles are in degrees: 0-360
 
-arc(200, 200, 100, 100, 0, HALF_PI);
+arc(200, 200, 100, 100, 0, 90);
 // Example: Quarter-circle arc at (200, 200)
-
-// Optional: set arc drawing style with arcMode()
-// Modes: PIE (default), OPEN, CHORD
-
-arcMode(PIE);
-// Example: Draw arcs as pie shapes
 ```
 
 ```js
@@ -185,79 +179,11 @@ shape(100, 100, 150, 150, 100, 200, 50, 150);
 
 ---
 
-By default, p5.js measures angles in **radians**, which are based on π (pi), where:
-
-* 180 degrees = **PI radians**
-* 360 degrees = **TWO\_PI radians**
-
-When you set:
-
-```js
-angleMode(DEGREES);
-```
-
-p5.js will now treat angle values as **degrees**:
-
-* 90 = a quarter circle
-* 180 = a half circle
-* 360 = a full circle
-
-* **Degrees** are easier for to understand because they're commonly taught in school.
-* **Radians** are more common in advanced math and some programming tasks.
-
-### ✅ **Example**
-
-```js
-angleMode(DEGREES);
-arc(200, 200, 100, 100, 0, 90);
-```
-
-This draws an arc from **0 to 90 degrees**, making a quarter-circle.
-
-If you used radians instead:
-
-```js
-angleMode(RADIANS);
-arc(200, 200, 100, 100, 0, HALF_PI);
-```
-
-Because **HALF\_PI radians = 90 degrees**, you'd get the same quarter-circle.
-
-✅ **p5.js Snippet: Changing Angle Mode from Radians to Degrees**
-
-```js
-angleMode(DEGREES);
-// Sets the angle mode to degrees instead of radians
-```
-
-> By default, p5.js uses **radians** for angles.
-> After calling `angleMode(DEGREES)`, functions like `rotate()`, `arc()`, and trigonometric calculations will use **degrees**.
-
----
-
-**Example:**
-
-```js
-angleMode(DEGREES);
-
-arc(200, 200, 100, 100, 0, 90);
-// This now draws a quarter circle from 0° to 90°
-```
-
-To switch back to radians:
-
-```js
-angleMode(RADIANS);
-```
-
----
-
 ### ✅ **Tips**
 
 * **Colors**: Use color name, RGB, or hex format.
-* **Angles in arc()**: Use radians. To convert degrees: `radians(degrees)`.
+* **Angles in arc()**: Use degrees (0-360).
 * **Text Alignment Constants**:
 
   * Horizontal: `LEFT`, `CENTER`, `RIGHT`
   * Vertical: `TOP`, `CENTER`, `BOTTOM`, `BASELINE`
-* **Arc Modes**: `arcMode()` can be set to `PIE`, `OPEN`, or `CHORD`.
