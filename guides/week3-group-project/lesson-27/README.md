@@ -45,18 +45,18 @@ After finishing your project, you'll want to reflect on whether your game turned
 
 ## 3. Background
 
-The first thing that you will create for your game is the background. The sample game had two different backgrounds that were chosen according to the user's score. The first background has already been created for you. Look at the background1 function in the code below to see how it works. (Show me where)
+The first thing that you will create for your game is the background. The sample game had two different backgrounds that were chosen according to the user's score. The first background has already been created for you. Look at the background1 function in the code below to see how it works.
 
-In order for the background function to do something, you have to call it inside the draw loop. (Show me where)
+In order for the background function to do something, you have to call it inside the draw loop. 
 
-There is also an empty function named background2. (Show me where) You will need to fill that function with new code to make a different background, then test the code by calling the function inside the draw loop.
+There is also an empty function named background2. You will need to fill that function with new code to make a different background, then test the code by calling the function inside the drawBackground function.
 
 **Do This**
 
 * Read the code for background1.
 * Fill the `background2` function with new code for a second background.
 * Test your `background2` function by calling it inside the `drawBackground` function
-* Have a look in the `script.js` file to observe where drawBackground is called.
+* Have a look in the `script.js` file to observe where drawBackground is called. (Notice where it is in the draw loop.)
 
 ---
 
