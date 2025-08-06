@@ -43,16 +43,20 @@ After finishing your project, you'll want to reflect on whether your game turned
 
 ---
 
-## 3. Score Variable
+## 3. Background
 
-Now that you've created your backgrounds, you'll need to choose when each background is drawn. For that, you'll need a score variable to hold information about your player's score.
+The first thing that you will create for your game is the background. The sample game had two different backgrounds that were chosen according to the user's score. The first background has already been created for you. Look at the background1 function in the code below to see how it works. (Show me where)
 
-You should always give your variables a starting value at the very beginning of the program. That way, they are available for any code that comes after.
+In order for the background function to do something, you have to call it inside the draw loop. (Show me where)
+
+There is also an empty function named background2. (Show me where) You will need to fill that function with new code to make a different background, then test the code by calling the function inside the draw loop.
 
 **Do This**
 
-* Create a score variable at the beginning of your game program.
-* Set the score equal to 0.
+* Read the code for background1.
+* Fill the `background2` function with new code for a second background.
+* Test your `background2` function by calling it inside the `drawBackground` function
+* Have a look in the `script.js` file to observe where drawBackground is called.
 
 ---
 
