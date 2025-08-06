@@ -20,21 +20,21 @@ Here’s a table mapping each level from Lesson 27 to the **team role** and **fi
 
 | **Level** | **Topic**                 | **Role**                       | **File(s)**                              |
 | --------: | ------------------------- | ------------------------------ | ---------------------------------------- |
-|         1 | Try the sample game       | —                              | —                                        |
-|         2 | Plan your game            | —                              | —                                        |
-|         3 | Score variable            | All                            | `variables.js`                           |
-|         4 | Score variable (repeat)   | All                            | `variables.js`                           |
+|         1 | Try the sample game       | ALL                              | —                                        |
+|         2 | Plan your game            | ALL                             | [Activity Guide](https://docs.google.com/document/d/1FqTjwpAuFrVidZ_j6aGw895FivFCRO2CZSvhHqWuEik/view?tab=t.0)                                        |
+|         3 | Background                | 🎨 Background Designer         | `background.js`                          |
+|         4 | Score variable            | All                            | `variables.js`                           |
 |         5 | Choosing your background  | 🎨 Background Designer         | `background.js`, `variables.js`          |
-|         6 | Make the scoreboard       | All                            | `display-boards.js`, `variables.js`      |
-|         7 | Create a platform sprite  | 🧑‍🎨 Sprite Designer/Animator | `sprite-setup.js`, `animations.js`       |
+|         6 | Make the scoreboard       | 🎨 Background Designer         | `display-boards.js`, `variables.js`      |
+|         7 | Create a platform sprite  | 🧑‍🎨 Sprite Designer/Animator    | `sprite-setup.js`, `animations.js`, `variables.js`      |
 |         8 | Loop the platform sprite  | 👾 Obstacle/Enemy Movement     | `sprite-movement.js`                     |
 |         9 | Make your second platform | 👾 Obstacle/Enemy Movement     | `sprite-movement.js`                     |
-|        10 | Create an item            | 🧑‍🎨 Sprite Designer/Animator | `sprite-setup.js`, `animations.js`       |
+|        10 | Create an item            | 🧑‍🎨 Sprite Designer/Animator    | `sprite-setup.js`, `animations.js`, `variables.js`        |
 |        11 | Loop your item            | 👾 Obstacle/Enemy Movement     | `sprite-movement.js`                     |
 |        12 | Make your second item     | 👾 Obstacle/Enemy Movement     | `sprite-movement.js`                     |
-|        13 | Create your player        | 🧑‍🎨 Sprite Designer/Animator | `sprite-setup.js`, `animations.js`       |
-|        14 | User controls             | 🕹️ Controls & Interactions    | `user-controls.js`                       |
-|        15 | Player lands on platform  | 🕹️ Controls & Interactions    | `sprite-interactions.js`                 |
-|        16 | Collect items             | 🕹️ Controls & Interactions    | `sprite-interactions.js`, `variables.js` |
+|        13 | Create your player        | 🧑‍🎨 Sprite Designer/Animator    | `sprite-setup.js`, `animations.js`, `variables.js`        |
+|        14 | User controls             | 🕹️ Controls & Interactions     | `user-controls.js`                       |
+|        15 | Player lands on platform  | 🕹️ Controls & Interactions     | `sprite-interactions.js`                 |
+|        16 | Collect items             | 🕹️ Controls & Interactions     | `sprite-interactions.js`, `variables.js` |
 |        17 | Review your game          | All                            | All files                                |
 |        18 | Final challenge           | All                            | All files                                |
