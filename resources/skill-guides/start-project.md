@@ -6,7 +6,8 @@ This guide will walk you through creating a new project from scratch using the s
 
 Open your terminal/shell and navigate to where you want to create your project.
 
-Show me
+<details>
+<summary>Show me:</summary>
 
 ```bash
 # Navigate to your desired directory (example: Desktop or Documents)
@@ -18,12 +19,14 @@ mkdir my-awesome-project
 # Enter the project folder
 cd my-awesome-project
 ```
+</details>
 
 ## 📝 Step 3: Create Your First Files
 
 Create an index.html and style.css file to start your project:
 
-Show Me
+<details>
+<summary>Show me:</summary>
 
 ```bash
 # Create index.html and style.css files
@@ -33,12 +36,14 @@ touch style.css
 # Or create both at once
 touch index.html style.css
 ```
+</details>
 
 ## 📤 Step 4: Make Your First Commit
 
 Add and commit your files.
 
-Show me
+<details>
+<summary>Show me:</summary>
 
 ```bash
 # Add all files to staging
@@ -47,6 +52,7 @@ git add .
 # Make your first commit
 git commit -m "Initial commit: Add index and style files"
 ```
+</details>
 
 ## 🌐 Step 5: Create GitHub Repository
 
@@ -80,7 +86,8 @@ Open your project in VS Code.
 
 Important: Be sure you are INSIDE your project folder when you open VSCode. If you open the parent folder, your commands won't work properly.
 
-Show me
+<details>
+<summary>Show me:</summary>
 
 ```bash
 # Open the current folder in VS Code
@@ -88,6 +95,7 @@ code .
 
 # Or open VS Code manually and use File > Open Folder
 ```
+</details>
 
 ## ✅ Step 9: Verify Everything Works
 
