@@ -1,23 +1,53 @@
 # The Bootstrap CSS Framework
 
-Step 1
+## Step 1: Why Bootstrap?
 
-Why Bootstrap?
+Bootstrap is a powerful CSS framework that makes building responsive, mobile-first websites quick and easy. Here's why it's so popular:
 
-...brief intro to bs...
+### 🚀 **Key Benefits:**
+- **Responsive Design**: Automatically adapts to different screen sizes
+- **Pre-built Components**: Ready-to-use buttons, cards, forms, and more
+- **Grid System**: Powerful 12-column layout system for organizing content
+- **Cross-browser Compatibility**: Works consistently across all modern browsers
+- **Mobile-First**: Designed with mobile devices in mind from the start
+- **Customizable**: Easy to modify colors, spacing, and components
+- **Large Community**: Extensive documentation and community support
 
-Step 2
+### 🎯 **When to Use Bootstrap:**
+- Building professional websites quickly
+- Creating responsive layouts without complex CSS
+- Prototyping and MVP development
+- Learning modern web development practices
+- Projects that need consistent, polished appearance
 
-example websites
+## Step 2: Bootstrap in Action
 
-links to 3 sites that use bs.
+Bootstrap is used by millions of websites worldwide. Here are some popular examples that showcase Bootstrap's capabilities:
+
+### 🌐 **Famous Bootstrap Websites:**
+
+1. **[NOLA.com](https://www.nola.com)** - New Orleans news and information
+   - Uses Bootstrap for responsive navigation and grid layouts
+   - Clean, modern interface that works on all devices
+
+2. **[Etsy](https://www.etsy.com)** - Online marketplace for handmade goods
+   - Bootstrap grid system for product layouts
+   - Responsive design that adapts to different screen sizes
 
 
-Step 3.
+
+### 🔍 **What to Look For:**
+- **Responsive Navigation**: Menus that collapse on mobile
+- **Grid Layouts**: Content organized in clean, aligned columns
+- **Component Consistency**: Buttons, forms, and cards that look uniform
+- **Mobile Adaptation**: How the site changes on different screen sizes
+
+
+## Step 3: Learn Bootstrap Basics
 
 Visit these links on W3 Schools. Read or skim the lessons. Click on the TRY IT YOURSELF button to see an example of the code.
 
-After you finish. Answer the questions in your group.
+After you finish, answer the questions in your group.
 
 For this section, you will not use VSCode. Just use the TRY IT YOURSELF button. Be sure to make some changes to the code if you are curious as to what things do. Don't be afraid to break the code, it will revert back if you refresh!
 
@@ -61,7 +91,9 @@ For #7 Images
 1. Which of these images classes would you like to use later? Write one or two into your notebook so you remember.
 
 
-## Try it! (Mini-Project)
+## Step 4
+
+### Try it! (Mini-Project)
 
 Now you have all the tools you need to re-create the first screen of the Water Conversation App in code.org Lesson 1. Have a look at it, and try to build it with HTML and the Bootstrap CSS Framework. Refer to the lesson on code.org and to the docs on W3 to help you. 
 
