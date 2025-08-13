@@ -72,3 +72,9 @@ You may work on this together, but it is not a group project. Each individual sh
 ![screenshot of water bottle screen](../../../resources/starter-code/week-4/screenshot-of-waterBottleScreen.png)
 ![glass bottle](../../../resources/starter-code/week-4/glass-bottle.png)
 ![faucet](../../../resources/starter-code/week-4/faucet.png)
+
+---
+
+## 📚 **Next Lesson**
+
+Ready to create interactive forms and games? Continue to **[Lesson 4: Bootstrap Grid and Input Forms](../lesson-4-bootstrap-grid-input/lesson-4-bootstrap-grid-input.md)** to master Bootstrap utilities and form components!
