@@ -122,3 +122,9 @@ Assets:
 (Download this to use in your project.)
 
 ![image of water glass](../../../resources/starter-code/week-4/water-glass.jpg)
+
+---
+
+## 📚 **Next Lesson**
+
+Ready to learn about Bootstrap's powerful grid system? Continue to **[Lesson 3: Bootstrap Layouts and Grid System](../lesson-3-bootstrap-layout/lesson-3-bootstrap-layout.md)** to master responsive layouts with rows and columns!

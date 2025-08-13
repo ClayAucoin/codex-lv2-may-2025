@@ -1,5 +1,11 @@
 # Bootstrap Layouts and Grid System
 
+## 📚 **Previous Lesson**
+
+Coming from **[Lesson 2: Bootstrap Framework](../lesson-2-bootstrap-framework/lesson-2-bootstrap-framework.md)**? Great! Now you'll learn how to use Bootstrap's grid system to create responsive layouts.
+
+---
+
 ## Step 1: Understanding Bootstrap Grid
 
 Bootstrap's grid system is the foundation of responsive layouts. It uses a 12-column system that automatically adapts to different screen sizes.
