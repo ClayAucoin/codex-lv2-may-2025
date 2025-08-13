@@ -106,3 +106,6 @@ You may work on this together, but it is not a group project. Each individual sh
 ![screenshot of water conservation app](../../../resources/starter-code/week-4/screenshot-of-water-conservation-app.md.png)
 
 
+Assets:
+
+![image of water glass](../../../resources/starter-code/week-4/water-glass.jpg)
