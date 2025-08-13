@@ -95,10 +95,14 @@ For #7 Images
 
 ### Try it! (Mini-Project)
 
-Now you have all the tools you need to re-create the first screen of the Water Conversation App in code.org Lesson 1. Have a look at it, and try to build it with HTML and the Bootstrap CSS Framework. Refer to the lesson on code.org and to the docs on W3 to help you. 
+Now you have all the tools you need to re-create the first screen of the Water Conservation App in code.org Lesson 1. Have a look at it, and try to build it with HTML and the Bootstrap CSS Framework. Refer to the lesson on code.org and to the docs on W3 to help you. 
 
 To get started with a project, you may refer to the [start a project skill guide](../../../resources/skill-guides/start-project.md).
 
 Remember to add and commit after each successful milestone. See the [git snippets](../../../resources/git-snippets.md) for useful command.
 
 You may work on this together, but it is not a group project. Each individual should have their own git repository and code. If you finish early, as a challenge, you may create your own app idea using HTML and Bootstrap. (For example, a HOW TO Guide, or a HEALTH TIPS Guide.)
+
+![screenshot of water conservation app](../../../resources/starter-code/week-4/screenshot-of-water-conservation-app.md.png)
+
+
