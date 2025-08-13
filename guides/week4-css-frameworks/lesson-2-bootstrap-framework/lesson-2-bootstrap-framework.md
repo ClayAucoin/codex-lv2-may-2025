@@ -103,9 +103,22 @@ Remember to add and commit after each successful milestone. See the [git snippet
 
 You may work on this together, but it is not a group project. Each individual should have their own git repository and code. If you finish early, as a challenge, you may create your own app idea using HTML and Bootstrap. (For example, a HOW TO Guide, or a HEALTH TIPS Guide.)
 
+Task: You will try to re-create the first screen of the Water Conservation in HTML.
+
+Tips: 
+
+* start your project with a name like `water-conservation-project`. 
+* after creating your HTML boilerplage with `!` emmet, commit to git and push.
+* keep live server open with `npx live-server` as you develop. (Split screen)
+* commit every time you hit a milestone. (when you create an h1 tag, create a p tag, create an img tag, and so on).
+* It doesn't have to look exactly like the code below, but try to get it close!
+* If you get stuck for more than 15 minutes, please take a break, call a friend, or post to the Slack.
+
 ![screenshot of water conservation app](../../../resources/starter-code/week-4/screenshot-of-water-conservation-app.png)
 
 
 Assets:
+
+(Download this to use in your project.)
 
 ![image of water glass](../../../resources/starter-code/week-4/water-glass.jpg)
