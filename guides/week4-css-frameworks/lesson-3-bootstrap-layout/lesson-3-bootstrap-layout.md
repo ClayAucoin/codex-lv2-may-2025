@@ -64,3 +64,5 @@ You may work on this together, but it is not a group project. Each individual sh
 ![image of water glass](../../../resources/starter-code/week-4/water-glass.jpg)
 ![screenshot of shower screen](../../../resources/starter-code/week-4/screenshot-of-showerScreen.png)
 ![screenshot of water bottle screen](../../../resources/starter-code/week-4/screenshot-of-waterBottleScreen.png)
+![glass bottle](../../../resources/starter-code/week-4/glass-bottle.png)
+![faucet](../../../resources/starter-code/week-4/faucet.png)
