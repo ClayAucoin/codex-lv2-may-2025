@@ -103,7 +103,7 @@ Remember to add and commit after each successful milestone. See the [git snippet
 
 You may work on this together, but it is not a group project. Each individual should have their own git repository and code. If you finish early, as a challenge, you may create your own app idea using HTML and Bootstrap. (For example, a HOW TO Guide, or a HEALTH TIPS Guide.)
 
-![screenshot of water conservation app](../../../resources/starter-code/week-4/screenshot-of-water-conservation-app.md.png)
+![screenshot of water conservation app](../../../resources/starter-code/week-4/screenshot-of-water-conservation-app.png)
 
 
 Assets:
