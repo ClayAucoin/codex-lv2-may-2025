@@ -4,7 +4,7 @@
 * Timeframe: 1 hour
 * Topics: Bootstrap, git, grid system
 
-For this group project, you will need to re-create the Color Sleuth Game in HTML and CSS. You will need to to use Bootstrap `row` and `col` classes. You will also need to create your own classes in `style.css` to ensure subtle differences in background color.
+For this group project, you will need to re-create the Color Sleuth Game in HTML and CSS. You will need to use Bootstrap `row` and `col` classes. You will also need to create your own classes in `style.css` to ensure subtle differences in background color.
 
 Divide up the work into small pieces. And commit your work after each small victory. Work together and screenshare. Don't work separately for this one. You are all going to work on a single file, so take turns committing, pushing and pulling to avoid conflicts.
 
@@ -12,18 +12,12 @@ Divide up the work into small pieces. And commit your work after each small vict
 
 1. Review the [Grid System Basics on w3schools](https://www.w3schools.com/bootstrap5/bootstrap_grid_basic.php). 
 2. Pay special attention to the simple example of Three Equal Columns.
-[![Three Equal Columns Screenshot](../../../resources/starter-code/week-4/three-equal-columns-example-bootstrap.png)](https://www.w3schools.com/bootstrap5/bootstrap_grid_basic.php)
+   ![Three Equal Columns Screenshot](../../../resources/starter-code/week-4/three-equal-columns-example-bootstrap.png)
 3. Now look at the mockup and screenshot of the Color Sleuth game.
+   ![Color Sleuth Screenshot](../../../resources/starter-code/week-4/screenshot-of-color-sleuth-game.png)
+   ![Color Sleuth Mockup](../../../resources/starter-code/week-4/mockup-of-color-sleuth-game.png)
 
-screenshot
-
-![Color Sleuth screen shot](../../../resources/starter-code/week-4/screenshot-of-color-sleuth-game.png)
-
-mockup
-
-![Color Sleuth mockup](../../../resources/starter-code/week-4/mockup-of-color-sleuth-game.png)
-
-4. Play a few rounds of the game on [code.org](https://studio.code.org/courses/csp5-virtual/units/1/lessons/10/levels/1) https://studio.code.org/courses/csp5-virtual/units/1/lessons/10/levels/1
+4. Play a few rounds of the game on [code.org](https://studio.code.org/courses/csp5-virtual/units/1/lessons/10/levels/1)
 
 5. Discuss what HTML elements you will need.
 
