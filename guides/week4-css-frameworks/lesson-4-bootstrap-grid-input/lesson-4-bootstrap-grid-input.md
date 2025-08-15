@@ -81,4 +81,10 @@ You may work on this together, but it is not a group project. Each individual sh
 
 ## Assets
 
+Screen 1
+
 ![screenshot of mad libs game](../../../resources/starter-code/week-4/screenshot-of-mad-libs-game.png)
+
+Screen 2
+
+![screenshot of mad libs game](../../../resources/starter-code/week-4/screenshot-of-mad-libs-game-2.png)
