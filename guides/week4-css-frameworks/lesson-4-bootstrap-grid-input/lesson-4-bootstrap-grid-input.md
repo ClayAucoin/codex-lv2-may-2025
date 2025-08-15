@@ -87,8 +87,6 @@ Note: You may also visit [getBootstrap.com](https://getBootstrap.com) for more o
 
 ---
 
-## Step 3: Create Interactive Games
-
 ### Try it! (Mini-Project)
 
 Now you have all the tools you need to create two interactive games using Bootstrap's grid system and form components:
@@ -102,6 +100,8 @@ Create a Mad Libs-style word game where users fill in blanks to create funny sto
 
 
 To get started with a project, you may refer to the [start a project skill guide](../../../resources/skill-guides/start-project.md).
+
+Call it `mad-libs-game`
 
 Remember to add and commit after each successful milestone. See the [git snippets](../../../resources/git-snippets.md) for useful commands.
 
