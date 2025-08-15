@@ -15,10 +15,10 @@ A system prompt is a set of instructions that tells an AI assistant (like Gemini
 ### Step-by-Step Visual Guide
 
 **Step 1: Open a new chat in Google AI Studio**
-![Open new chat in Google AI Studio](../assets/gemini-system-prompt-screenshot-1-open.png)
+![Open new chat in Google AI Studio](./assets/gemini-system-prompt-screenshot-1-open.png)
 
 **Step 2: Paste the system prompt into System Instructions**
-![Paste system prompt into System Instructions](../assets/gemini-system-prompt-screenshot-2-paste.png)
+![Paste system prompt into System Instructions](./assets/gemini-system-prompt-screenshot-2-paste.png)
 
 ## System Prompt Text
 
