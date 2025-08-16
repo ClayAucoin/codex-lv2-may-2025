@@ -72,6 +72,14 @@ You may work on this together, but it is not a group project. Each individual sh
 ![screenshot of water bottle screen](../../../resources/starter-code/week-4/screenshot-of-waterBottleScreen.png)
 ![glass bottle](../../../resources/starter-code/week-4/glass-bottle.png)
 ![faucet](../../../resources/starter-code/week-4/faucet.png)
+![plastic bottle](../../../resources/starter-code/week-4/plastic-bottle.png)
+![shower duck](../../../resources/starter-code/week-4/shower-duck.jpg)
+![timer](../../../resources/starter-code/week-4/timer.png)
+
+Optional Images:
+
+![no gif](../../../resources/starter-code/week-4/no.gif)
+![drip](../../../resources/starter-code/week-4/drip.png)
 
 ---
 
