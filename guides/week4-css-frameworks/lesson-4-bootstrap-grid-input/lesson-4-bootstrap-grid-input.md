@@ -118,3 +118,9 @@ Screen 1
 Screen 2
 
 ![screenshot of mad libs game](../../../resources/starter-code/week-4/screenshot-of-mad-libs-game-2.png)
+
+---
+
+## 📚 **Next Lesson**
+
+Ready to collaborate on a group project? Continue to **[Lesson 5: CSS Grid Group Project](../lesson-5-css-grid-group-project/lesson-5-css-grid-group-project.md)** to build the Color Sleuth game with your team using Bootstrap's grid system!

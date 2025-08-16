@@ -47,3 +47,18 @@ For this group project, you will need to re-create the Color Sleuth Game in HTML
 ### Deliverable: 
 
 When you complete your mini-project, submit your group project here... [https://docs.google.com/forms/d/e/1FAIpQLSeqj7n4R6aQOty1E1zn-9mR5i6ujPmFVKh2Fp-Rn2liDXfqPw/viewform?usp=dialog](https://docs.google.com/forms/d/e/1FAIpQLSeqj7n4R6aQOty1E1zn-9mR5i6ujPmFVKh2Fp-Rn2liDXfqPw/viewform?usp=dialog)
+
+---
+
+## 📚 **Back to Overview**
+
+🎯 **Completed Week 4?** Return to the **[Week 4 CSS Frameworks Overview](../README.md)** to review your progress and see what you've accomplished!
+
+**What you've learned this week:**
+✅ CSS Frameworks and classless CSS  
+✅ Bootstrap basics and components  
+✅ Bootstrap grid system and layouts  
+✅ Bootstrap utilities and forms  
+✅ Collaborative development with git  
+
+*Congratulations on completing the CSS Frameworks journey! 🚀*
