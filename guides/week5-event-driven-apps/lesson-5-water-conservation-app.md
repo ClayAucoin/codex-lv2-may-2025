@@ -26,37 +26,31 @@ Coming from **[Lesson 4: Mad Libs Game](../lesson-4-mad-libs-game/lesson-4-mad-l
 
 Based on the Week 4 Water Conservation App screenshots, add these interactive features:
 
-### **Main Screen (Water Conservation Overview)**
-- **Navigation Buttons**: Make the navigation between screens functional
-- **Water Glass Counter**: Interactive display showing daily water usage
-- **Conservation Tips**: Click to expand/collapse water-saving advice
-- **Progress Indicators**: Visual feedback for conservation goals
+### **Screen 1 (Home/Language)**
+- **Language Toggle**: Switch between English and Spanish
+- **Navigation**: Button to proceed to bottle selection screen
+- **Multilingual Content**: Title and body text in both languages
 
-### **Shower Screen (Water Usage Tracking)**
-- **Shower Timer**: Interactive countdown timer with start/stop controls
-- **Water Usage Calculator**: Form to input shower duration and calculate water used
-- **Shower Duck Animation**: Interactive element that responds to user actions
-- **Usage Statistics**: Real-time display of water consumption
+### **Screen 2 (Bottle Selection)**
+- **Bottle Choice**: Click good vs. bad bottle with visual feedback
+- **Faucet Interaction**: Fill bottle after correct selection
+- **Feedback System**: Success/error messages with sound effects
+- **Cross Overlay**: Visual indicator for wrong bottle choice
 
-### **Water Bottle Screen (Bottle Refill Tracking)**
-- **Bottle Counter**: Interactive counter for refillable bottles used
-- **Plastic vs. Glass Toggle**: Switch between bottle types with visual feedback
-- **Savings Calculator**: Form to calculate environmental impact
-- **Progress Bars**: Visual representation of daily/weekly goals
-
----
-
-
+### **Screen 3 (Shower Timer)**
+- **Image Toggle**: Timer click swaps shower before/after images
+- **Visual Feedback**: Artwork changes based on user interaction
+- **Navigation**: Return to home screen
 
 ---
 
 ## 💡 **Implementation Tips**
 
 - **Start with Bootstrap**: Use your existing Week 4 knowledge and Bootstrap components
-- **Focus on Screens**: Work on one screen at a time (Main → Shower → Water Bottle)
-- **Timer Functionality**: Use `setInterval()` and `setTimeout()` for the shower timer
-- **Form Handling**: Collect user input for water usage calculations
-- **State Management**: Track current screen and user progress across navigation
+- **Focus on Screens**: Work on one screen at a time (Screen 1 → Screen 2 → Screen 3)
+- **State Management**: Track language, bottle selection, and shower state
+- **Event Handling**: Add click events for buttons, images, and interactions
+- **Visual Feedback**: Use overlays, image swaps, and Bootstrap classes
 - **Test Incrementally**: Check each feature as you build it
 - **Refer to Code.org**: Use the lessons for JavaScript implementation details
 
@@ -65,12 +59,32 @@ Based on the Week 4 Water Conservation App screenshots, add these interactive fe
 ## 🔗 **Additional Resources**
 
 - **[Basic JavaScript Snippets](../../../resources/skill-guides/basic-js-snippets.md)** - Complete JS reference for VSCode projects
-- [DOM Manipulation Guide](../../../resources/skill-guides/)
+- DOM Manipulation Guide](../../../resources/skill-guides/)
 - [Bootstrap Components Review](../week4-css-frameworks/lesson-2-bootstrap-framework/lesson-2-bootstrap-framework.md)
-- **[Code.org App Lab Tutorial](https://www.youtube.com/watch?v=fypSGGZZfzM&list=PLzdnOPI1iJNe1RFTghJhu1Zm7eB9O4UIo&index=2)** - Learn how to use App Lab effectively
+- **Code.org App Lab Tutorial](https://www.youtube.com/watch?v=fypSGGZZfzM&list=PLzdnOPI1iJNe1RFTghJhu1Zm7eB9O4UIo&index=2)** - Learn how to use App Lab effectively
 
 ---
 
 ## 📚 **Next Lesson**
 
 Ready to build the Mad Libs game? Continue to **[Lesson 6: Mad Libs Game - Interactive](../lesson-6-mad-libs-game/lesson-6-mad-libs-game.md)** to make your HTML wireframe interactive!
+
+---
+
+## 🏆 **Bonus Challenge**
+
+### **Multiple Bottle Saves**
+On Screen 2, enhance the bottle selection to allow users to click the good bottle multiple times and track their conservation impact:
+
+- **Bottle Counter**: Add a counter that increments each time the good bottle is clicked
+- **Multiple Saves**: Allow users to "save" multiple bottles by clicking repeatedly
+- **Visual Feedback**: Show the current count of bottles saved
+- **Conservation Impact**: Display environmental impact based on bottles saved
+
+### **Implementation Ideas**
+- Track bottle count in app state
+- Update counter display after each good bottle click
+- Consider adding animation or visual feedback for multiple saves
+- Show cumulative environmental impact (e.g., "You've saved X plastic bottles!")
+
+This challenge adds replayability and helps users understand the cumulative impact of their conservation choices.
