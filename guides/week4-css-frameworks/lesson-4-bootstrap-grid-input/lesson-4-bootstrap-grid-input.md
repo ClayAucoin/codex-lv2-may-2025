@@ -95,15 +95,12 @@ Now you have all the tools you need to create two interactive games using Bootst
 - Use Bootstrap's grid system (`row` and `col`) to display color swatches
 - Use your own stylesheet to the specific colors.
 
-#### 📝 **GMad Libs Game**
-Create a Mad Libs-style word game where users fill in blanks to create funny stories. Play it here on [code.org](https://studio.code.org/courses/csp5-virtual/units/1/lessons/7/levels/1)
+#### 📝 **Mad Libs Game**
+Create a Mad Libs-style word game where users fill in blanks to create funny stories. 
 
-
-To get started with a project, you may refer to the [start a project skill guide](../../../resources/skill-guides/start-project.md).
-
-Call it `mad-libs-game`
-
-Remember to add and commit after each successful milestone. See the [git snippets](../../../resources/git-snippets.md) for useful commands.
+1. First, play the Mad Libs Game [here on code.org](https://studio.code.org/courses/csp5-virtual/units/1/lessons/7/levels/1)
+2. Next, to get started with a project, you may refer to the [start a project skill guide](../../../resources/skill-guides/start-project.md). Call your project `mad-libs-game`
+3. Remember to add and commit after each successful milestone. See the [git snippets](../../../resources/git-snippets.md) for useful commands.
 
 You may work on this together, but it is not a group project. Each individual should have their own git repository and code. 
 
