@@ -18,7 +18,7 @@ Coming from **[Lesson 4: Mad Libs Game](./lesson-4-mad-libs-game.md)**? Great! N
 
 **Update your existing Week 4 Water Conservation App** to make it interactive. You'll add JavaScript functionality to the HTML wireframe you already created.
 
-**Reference**: If you need to review how the Water Conservation App HTML was built, see **[Week 4: Bootstrap Layouts and Grid System](../../week4-css-frameworks/lesson-3-bootstrap-layout/lesson-3-bootstrap-layout.md)**.
+**Reference**: If you need to review how the Water Conservation App HTML was built, see **[Week 4: Bootstrap Layouts and Grid System](../week4-css-frameworks/lesson-3-bootstrap-layout/lesson-3-bootstrap-layout.md)**.
 
 ---
 

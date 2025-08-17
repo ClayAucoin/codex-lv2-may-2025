@@ -2,7 +2,7 @@
 
 ## 📚 **Previous Lesson**
 
-Coming from **[Week 4: CSS Frameworks](../../week4-css-frameworks/README.md)**? Great! Now you'll learn about event-driven programming and building interactive applications.
+Coming from **[Week 4: CSS Frameworks](../week4-css-frameworks/README.md)**? Great! Now you'll learn about event-driven programming and building interactive applications.
 
 ---
 
