@@ -34,6 +34,7 @@ Welcome to Week 5! This week focuses on **event-driven programming** using Code.
 
 ### **Friday**
 - **Challenge**: Native DOM Functions - Replacing Helper Functions
+  - [📖 View Challenge](./lesson-7-native-dom-functions.md)
 - **Review and Revise**: Learn about the DOM and how to code events directly. Practice building interactive applications in VSCode.
 
 ---
