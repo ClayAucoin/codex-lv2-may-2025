@@ -60,7 +60,25 @@ Add the helpers.js file to your HTML **before** your main script.js file:
 
 ---
 
-## 📝 **Step 4: Use Helper Functions in Your Code**
+## 🔧 **Step 4: VSCode IntelliSense Setup (Optional)**
+
+For better code completion and IntelliSense in VSCode, you can add TypeScript definition files for the helper functions:
+
+### **Download Type Definitions**
+- **[helpers.d.ts](./other-dev-files/typedefs/helpers.d.ts)** - Helper functions type definitions
+- **[jsconfig.json](./other-dev-files/typedefs/jsconfig.json)** - VSCode configuration for IntelliSense
+
+### **Setup Instructions**
+1. Download both `.d.ts` files
+2. Place them in the **root** of your project folder (same level as `index.html`)
+3. Restart VSCode or reload the window
+4. Enjoy enhanced IntelliSense and code completion for helper functions!
+
+**Note**: This step is optional but highly recommended for better development experience with the helper functions.
+
+---
+
+## 📝 **Step 5: Use Helper Functions in Your Code**
 
 Now you can use any of the helper functions in your `script.js` file:
 
