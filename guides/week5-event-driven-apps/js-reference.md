@@ -2,9 +2,11 @@
 
 ## 👋 Introduction
 
-In this course, you’ll build apps that respond to **user actions** (clicks, typing, mouse moves), update the **screen** (text, colors, images), and sometimes play **sounds**.
-To make this easier, we have special **helper functions**, and a few common **coding patterns** that appear in many projects.
-Use this sheet to remind yourself of the basics as you code.
+In this course, you’ll build apps that respond to **user actions** (like clicks and typing), update the **screen** (change text, styles, images), and sometimes play **sounds**.
+
+To make this easier, we use special **helper functions**, and a few common **coding patterns** that appear in many projects.
+
+Keep this sheet handy as you code!
 
 ---
 
@@ -45,42 +47,66 @@ setProperty("myImage", "visibility", "visible");    // show
 
 ### 3. `setText(id, text)`
 
-**Change the words inside an element.**
+**Change the words inside a label, button, or heading.**
+*(Not for inputs — use `setValue` instead.)*
 
 ```js
 setText("scoreLabel", "Score: 10");
-setText("nameInput", "");  // clear
+setText("title", "Welcome!");
 ```
 
 ---
 
 ### 4. `getText(id)`
 
-**Read the words from an element.**
+**Read the words from a label, button, or heading.**
 
 ```js
-var name = getText("nameInput");
+var name = getText("greetingLabel");
+console.log("Text says: " + name);
+```
+
+---
+
+### 5. `setValue(id, value)`
+
+**Set the contents of an input box.**
+
+```js
+setValue("nameInput", "Alex");
+setValue("searchBox", "");  // clear
+```
+
+---
+
+### 6. `getValue(id)`
+
+**Read what the user typed in an input box.**
+
+```js
+var name = getValue("nameInput");
 console.log("You typed: " + name);
 ```
 
 ---
 
-### 5. `image(id, url)`
+### 7. `setImageURL(id, url)`
 
-**Create or update an image element.**
+**Change the picture in an `<img>` element.**
 
 ```js
-image("logo", "logo.png");
+setImageURL("logo", "logo.png");
+setImageURL("bottlePic", "water.png");
 ```
 
 ---
 
-### 6. `playSound(url, loop)`
+### 8. `playSound(url, loop)`
 
 **Play a sound file.**
 
 ```js
-playSound("success.mp3");          // once
+playSound("success.mp3");          // play once
 playSound("background.mp3", true); // loop forever
 ```
 
@@ -163,9 +189,10 @@ function addOne() {
 
 * **onEvent** → react to user actions
 * **setProperty** → change look/style
-* **setText** → show words
-* **getText** → read words
-* **image** → show pictures
+* **setText** → show words (labels/buttons/headings)
+* **getText** → read words (labels/buttons/headings)
+* **setValue / getValue** → set or read input boxes
+* **setImageURL** → show pictures
 * **playSound** → add audio
 * **functions** → reuse steps
 * **concatenation / interpolation** → combine text + variables

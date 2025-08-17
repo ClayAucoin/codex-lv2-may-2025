@@ -29,6 +29,7 @@ Welcome to Week 5! This week focuses on **event-driven programming** using Code.
 - **Lesson 6**: Mad Libs Game - Interactive (VSCode)
 
 ### **Friday**
+- **Challenge**: Native DOM Functions - Replacing Helper Functions
 - **Review and Revise**: Learn about the DOM and how to code events directly. Practice building interactive applications in VSCode.
 
 ---
@@ -114,6 +115,20 @@ Welcome to Week 5! This week focuses on **event-driven programming** using Code.
 - Form handling and input validation
 - String manipulation and story generation
 - DOM manipulation with and without helper functions
+
+---
+
+### **Challenge: Native DOM Functions - Replacing Helper Functions**
+**[📖 View Challenge](./lesson-7-native-dom-functions.md)**
+
+**Summary**: Take your Lesson 5 or Lesson 6 project and refactor it to use native JavaScript instead of helper functions. Learn to work directly with the DOM API.
+
+**Key Skills**:
+- Understanding helper function internals
+- Native JavaScript DOM methods
+- Code refactoring techniques
+- Git branch management
+- Advanced DOM manipulation
 
 ---
 

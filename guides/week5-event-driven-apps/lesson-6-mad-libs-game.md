@@ -24,8 +24,8 @@ Coming from **[Lesson 5: Water Conservation App - Interactive](./lesson-5-water-
 
 ### **Form Functionality**
 - **Input Handling**: Collect user text input from form fields
-- **Button/Form Submission**: Handle button click (or form submit events)
-- **Input Validation**: Ensure users provide required information (optional)
+- **Form Submission**: Handle form submission events
+- **Input Validation**: Ensure users provide required information
 
 ### **Story Generation**
 - **String Manipulation**: Combine user input with story templates
@@ -42,7 +42,7 @@ Coming from **[Lesson 5: Water Conservation App - Interactive](./lesson-5-water-
 ## 💡 **Implementation Tips**
 
 - **Start with Bootstrap**: Use your existing Week 4 knowledge
-- **Focus on Forms**: Handle input collection and button click or form submission
+- **Focus on Forms**: Handle input collection and form submission
 - **Test Story Generation**: Ensure stories are created correctly
 - **Refer to Code.org**: Use the lessons for JavaScript implementation details
 
@@ -51,7 +51,8 @@ Coming from **[Lesson 5: Water Conservation App - Interactive](./lesson-5-water-
 ## 🔗 **Additional Resources**
 
 - **[Basic JavaScript Snippets](../../../resources/skill-guides/basic-js-snippets.md)** - String manipulation and input handling examples
-- DOM Manipulation Guide](../../../resources/skill-guides/)
+- **[JavaScript Reference](./js-reference.md)** - Quick JS syntax and concepts reference
+- **[Helper Functions helpers.js](./helpers.js)** - Pre-built functions for common tasks. Download this and use it in your project.
 - [Bootstrap Components Review](../../week4-css-frameworks/lesson-2-bootstrap-framework/lesson-2-bootstrap-framework.md)
 
 ---
