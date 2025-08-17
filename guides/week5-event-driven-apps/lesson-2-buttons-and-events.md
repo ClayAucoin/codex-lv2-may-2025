@@ -54,7 +54,7 @@ Visit the Code.org lesson to practice:
 
 - [App Lab Events Documentation](https://studio.code.org/docs/applab/onEvent)
 - **[Basic JavaScript Snippets](../../../resources/skill-guides/basic-js-snippets.md)** - Functions, variables, and control flow examples
-- [JavaScript Functions Review](../../../resources/skill-guides/)
+- [JavaScript Functions Review](../../../resources/skill-guides/basic-js-snippets.md) - Functions, variables, and control flow examples
 
 ---
 

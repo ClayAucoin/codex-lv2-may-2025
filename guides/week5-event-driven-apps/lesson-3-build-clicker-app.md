@@ -53,7 +53,7 @@ Visit the Code.org lesson to start building:
 
 - [App Lab Variables Documentation](https://studio.code.org/docs/applab/setText)
 - **[Basic JavaScript Snippets](../../../resources/skill-guides/basic-js-snippets.md)** - Variables, functions, and array methods
-- [Game Design Principles](../../../resources/skill-guides/)
+- [Game Design Principles](../../../resources/skill-guides/start-project.md) - Project planning and design principles
 - **[Event-Driven Programming in App Lab](https://studio.code.org/courses/csp5-virtual/units/1)** - Additional videos and lessons that may be useful
 
 ---

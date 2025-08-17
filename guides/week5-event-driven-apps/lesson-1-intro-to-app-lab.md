@@ -53,7 +53,7 @@ Visit the Code.org lesson to get started:
 
 - [App Lab Documentation](https://studio.code.org/docs/applab/)
 - **[Basic JavaScript Snippets](../../../resources/skill-guides/basic-js-snippets.md)** - Essential JS concepts and examples
-- [JavaScript Basics Review](../../../resources/skill-guides/)
+- [JavaScript Basics Review](../../../resources/skill-guides/basic-js-snippets.md) - Essential JavaScript concepts and examples
 
 ---
 
