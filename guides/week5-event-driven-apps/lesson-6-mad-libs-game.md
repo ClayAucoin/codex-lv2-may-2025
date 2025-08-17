@@ -51,6 +51,7 @@ Coming from **[Lesson 5: Water Conservation App - Interactive](./lesson-5-water-
 ## 🔗 **Additional Resources**
 
 - **[Basic JavaScript Snippets](../../../resources/skill-guides/basic-js-snippets.md)** - String manipulation and input handling examples
+- **[Event-Driven Programming in App Lab](https://studio.code.org/courses/csp5-virtual/units/1)** - Complete module with lessons and videos
 - **[JavaScript Reference](./js-reference.md)** - Quick JS syntax and concepts reference
 - **[Helper Functions helpers.js](./helpers.js)** - Pre-built functions for common tasks. Download this and use it in your project.
 - [Bootstrap Components Review](https://www.w3schools.com/bootstrap5/bootstrap_get_started.php) - W3Schools Bootstrap 5 Tutorial

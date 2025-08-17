@@ -68,8 +68,8 @@ document.getElementById("outputId").innerHTML = story;
 ## 🔗 **Additional Resources**
 
 - [App Lab Input Documentation](https://studio.code.org/docs/applab/getText)
+- **[Event-Driven Programming in App Lab](https://studio.code.org/courses/csp5-virtual/units/1)** - Complete module with lessons and videos
 - **[Basic JavaScript Snippets](../../../resources/skill-guides/basic-js-snippets.md)** - String manipulation and input handling examples
-- [String Manipulation Guide](../../../resources/skill-guides/basic-js-snippets.md) - String manipulation and input handling examples
 - **[Event-Driven Programming in App Lab](https://studio.code.org/courses/csp5-virtual/units/1)** - Additional videos and lessons that may be useful
 
 ---

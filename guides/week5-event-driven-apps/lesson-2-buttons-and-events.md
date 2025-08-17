@@ -53,8 +53,8 @@ Visit the Code.org lesson to practice:
 ## 🔗 **Additional Resources**
 
 - [App Lab Events Documentation](https://studio.code.org/docs/applab/onEvent)
+- **[Event-Driven Programming in App Lab](https://studio.code.org/courses/csp5-virtual/units/1)** - Complete module with lessons and videos
 - **[Basic JavaScript Snippets](../../../resources/skill-guides/basic-js-snippets.md)** - Functions, variables, and control flow examples
-- [JavaScript Functions Review](../../../resources/skill-guides/basic-js-snippets.md) - Functions, variables, and control flow examples
 
 ---
 

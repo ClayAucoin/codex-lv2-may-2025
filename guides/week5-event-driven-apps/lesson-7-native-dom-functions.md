@@ -299,6 +299,7 @@ function initializeEvents() {
 ## 🔗 **Additional Resources**
 
 - **[MDN Web Docs - DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)** - Complete DOM reference
+- **[Event-Driven Programming in App Lab](https://studio.code.org/courses/csp5-virtual/units/1)** - Complete module with lessons and videos
 - **[JavaScript Reference](./js-reference.md)** - Quick JS syntax reference
 - **[Basic JavaScript Snippets](../../../resources/skill-guides/basic-js-snippets.md)** - Native JS examples
 

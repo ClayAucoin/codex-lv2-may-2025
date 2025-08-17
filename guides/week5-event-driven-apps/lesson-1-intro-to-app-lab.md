@@ -52,8 +52,8 @@ Visit the Code.org lesson to get started:
 ## 🔗 **Additional Resources**
 
 - [App Lab Documentation](https://studio.code.org/docs/applab/)
+- **[Event-Driven Programming in App Lab](https://studio.code.org/courses/csp5-virtual/units/1)** - Complete module with lessons and videos
 - **[Basic JavaScript Snippets](../../../resources/skill-guides/basic-js-snippets.md)** - Essential JS concepts and examples
-- [JavaScript Basics Review](../../../resources/skill-guides/basic-js-snippets.md) - Essential JavaScript concepts and examples
 
 ---
 
