@@ -4,7 +4,7 @@
 
 Welcome to Week 5! This week focuses on **event-driven programming** using Code.org's self-paced course. You'll learn how to build interactive applications that respond to user input, handle events, and create engaging user experiences.
 
-**Note**: We'll be using Lessons from Code.org's self-paced course on event-driven programming. You may also wish to review additional lessons and videos from the [CS Discoveries 2025 curriculum](https://studio.code.org/courses/csd-2025/units/5) as supplementary resources.
+**Note**: We'll be using Lessons from Code.org's self-paced course on event-driven programming. You may also wish to review additional lessons and videos from [Event-Driven Programming in App Lab](https://studio.code.org/courses/csp5-virtual/units/1) as supplementary resources.
 
 ---
 
@@ -12,25 +12,24 @@ Welcome to Week 5! This week focuses on **event-driven programming** using Code.
 
 ### **Monday**
 - **Lesson 1**: Intro to App Lab
-  - [Code.org Link](https://studio.code.org/courses/csp5-virtual/units/1/lessons/1/levels/1)
+  - Code.org Link](https://studio.code.org/courses/csp5-virtual/units/1/lessons/1/levels/1)
 - **Lesson 2**: Buttons and Events
-  - [Code.org Link](https://studio.code.org/courses/csp5-virtual/units/1/lessons/2/levels/1)
+  - Code.org Link](https://studio.code.org/courses/csp5-virtual/units/1/lessons/2/levels/1)
 
 ### **Tuesday**
-- **Lesson 5**: Build a Clicker App in Code.org
-  - [Code.org Link](https://studio.code.org/courses/csp5-virtual/units/1/lessons/5/levels/1)
+- **Lesson 3**: Build a Clicker App in Code.org
+  - Code.org Link](https://studio.code.org/courses/csp5-virtual/units/1/lessons/5/levels/1)
 
 ### **Wednesday**
-- **Mad Libs Game**: Input and Strings
-  - [Code.org Link](https://studio.code.org/courses/csp5-virtual/units/1/lessons/7/levels/1)
+- **Lesson 4**: Mad Libs Game - Input and Strings
+  - Code.org Link](https://studio.code.org/courses/csp5-virtual/units/1/lessons/7/levels/1)
 
 ### **Thursday**
-- **VSCode Projects**:
-  - Add to the Water Conservation App
-  - Build Mad Libs in VSCode
+- **Lesson 5**: Water Conservation App - Interactive (VSCode)
+- **Lesson 6**: Mad Libs Game - Interactive (VSCode)
 
 ### **Friday**
-- **Review and Revise**: Learn about the DOM and how to code events directly. Use git branching to maintain two separate but related codebases.
+- **Review and Revise**: Learn about the DOM and how to code events directly. Practice building interactive applications in VSCode.
 
 ---
 
@@ -40,7 +39,7 @@ Welcome to Week 5! This week focuses on **event-driven programming** using Code.
 - User interaction and input handling
 - Building interactive applications
 - DOM manipulation
-- Git branching and collaboration
+- VSCode project development
 
 ---
 
@@ -102,7 +101,7 @@ Welcome to Week 5! This week focuses on **event-driven programming** using Code.
 **Key Skills**:
 - JavaScript event handling
 - DOM manipulation with and without helper functions
-- Git branching to compare approaches
+- Interactive app development
 
 ---
 

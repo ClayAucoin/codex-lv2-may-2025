@@ -2,7 +2,7 @@
 
 ## 📚 **Previous Lesson**
 
-Coming from **[Week 4: CSS Frameworks](../week4-css-frameworks/README.md)**? Great! Now you'll learn about event-driven programming and building interactive applications.
+Coming from **[Week 4: CSS Frameworks](../../week4-css-frameworks/README.md)**? Great! Now you'll learn about event-driven programming and building interactive applications.
 
 ---
 
@@ -59,4 +59,4 @@ Visit the Code.org lesson to get started:
 
 ## 📚 **Next Lesson**
 
-Ready to add interactivity? Continue to **[Lesson 2: Buttons and Events](../lesson-2-buttons-and-events/lesson-2-buttons-and-events.md)** to learn how to make your apps respond to user input!
+Ready to add interactivity? Continue to **[Lesson 2: Buttons and Events](./lesson-2-buttons-and-events.md)** to learn how to make your apps respond to user input!

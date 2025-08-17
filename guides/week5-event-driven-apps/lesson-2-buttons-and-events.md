@@ -2,7 +2,7 @@
 
 ## 📚 **Previous Lesson**
 
-Coming from **[Lesson 1: Intro to App Lab](../lesson-1-intro-to-app-lab/lesson-1-intro-to-app-lab.md)**? Excellent! Now you'll learn how to make your apps interactive with buttons and event handling.
+Coming from **[Lesson 1: Intro to App Lab](./lesson-1-intro-to-app-lab.md)**? Excellent! Now you'll learn how to make your apps interactive with buttons and event handling.
 
 ---
 
@@ -60,4 +60,4 @@ Visit the Code.org lesson to practice:
 
 ## 📚 **Next Lesson**
 
-Ready to build something fun? Continue to **[Lesson 3: Build a Clicker App](../lesson-3-build-clicker-app/lesson-3-build-clicker-app.md)** to create your first complete interactive application!
+Ready to build something fun? Continue to **[Lesson 3: Build a Clicker App](./lesson-3-build-clicker-app.md)** to create your first complete interactive application!

@@ -2,7 +2,7 @@
 
 ## 📚 **Previous Lesson**
 
-Coming from **[Lesson 3: Build a Clicker App](../lesson-3-build-clicker-app/lesson-3-build-clicker-app.md)**? Great! Now you'll learn about input handling and string manipulation with a fun Mad Libs game.
+Coming from **[Lesson 3: Build a Clicker App](./lesson-3-build-clicker-app.md)**? Great! Now you'll learn about input handling and string manipulation with a fun Mad Libs game.
 
 ---
 
@@ -76,4 +76,4 @@ document.getElementById("outputId").innerHTML = story;
 
 ## 📚 **Next Lesson**
 
-Ready to build in VSCode? Continue to **[Lesson 5: VSCode Projects](../lesson-5-vscode-projects/lesson-5-vscode-projects.md)** to create your own Mad Libs game and enhance the Water Conservation App!
+Ready to build in VSCode? Continue to **[Lesson 5: VSCode Projects](./lesson-5-water-conservation-app.md)** to create your own Mad Libs game and enhance the Water Conservation App!

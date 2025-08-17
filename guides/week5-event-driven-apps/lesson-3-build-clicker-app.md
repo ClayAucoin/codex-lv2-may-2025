@@ -2,7 +2,7 @@
 
 ## 📚 **Previous Lesson**
 
-Coming from **[Lesson 2: Buttons and Events](../lesson-2-buttons-and-events/lesson-2-buttons-and-events.md)**? Perfect! Now you'll apply your knowledge to build a complete clicker app.
+Coming from **[Lesson 2: Buttons and Events](./lesson-2-buttons-and-events.md)**? Perfect! Now you'll apply your knowledge to build a complete clicker app.
 
 ---
 
@@ -60,4 +60,4 @@ Visit the Code.org lesson to start building:
 
 ## 📚 **Next Lesson**
 
-Ready for more complex interactions? Continue to **[Lesson 4: Mad Libs Game](../lesson-4-mad-libs-game/lesson-4-mad-libs-game.md)** to learn about input handling and string manipulation!
+Ready for more complex interactions? Continue to **[Lesson 4: Mad Libs Game](./lesson-4-mad-libs-game.md)** to learn about input handling and string manipulation!

@@ -2,7 +2,7 @@
 
 ## 📚 **Previous Lesson**
 
-Coming from **[Lesson 4: Mad Libs Game](../lesson-4-mad-libs-game/lesson-4-mad-libs-game.md)**? Great! Now you'll make your Water Conservation App interactive by adding JavaScript functionality.
+Coming from **[Lesson 4: Mad Libs Game](./lesson-4-mad-libs-game.md)**? Great! Now you'll make your Water Conservation App interactive by adding JavaScript functionality.
 
 ---
 
@@ -60,14 +60,14 @@ Based on the Week 4 Water Conservation App screenshots, add these interactive fe
 
 - **[Basic JavaScript Snippets](../../../resources/skill-guides/basic-js-snippets.md)** - Complete JS reference for VSCode projects
 - DOM Manipulation Guide](../../../resources/skill-guides/)
-- [Bootstrap Components Review](../week4-css-frameworks/lesson-2-bootstrap-framework/lesson-2-bootstrap-framework.md)
+- [Bootstrap Components Review](../../week4-css-frameworks/lesson-2-bootstrap-framework/lesson-2-bootstrap-framework.md)
 - **Code.org App Lab Tutorial](https://www.youtube.com/watch?v=fypSGGZZfzM&list=PLzdnOPI1iJNe1RFTghJhu1Zm7eB9O4UIo&index=2)** - Learn how to use App Lab effectively
 
 ---
 
 ## 📚 **Next Lesson**
 
-Ready to build the Mad Libs game? Continue to **[Lesson 6: Mad Libs Game - Interactive](../lesson-6-mad-libs-game/lesson-6-mad-libs-game.md)** to make your HTML wireframe interactive!
+Ready to build the Mad Libs game? Continue to **[Lesson 6: Mad Libs Game - Interactive](./lesson-6-mad-libs-game.md)** to make your HTML wireframe interactive!
 
 ---
 
