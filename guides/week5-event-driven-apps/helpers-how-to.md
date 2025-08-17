@@ -78,7 +78,31 @@ For better code completion and IntelliSense in VSCode, you can add TypeScript de
 
 ---
 
-## 📝 **Step 5: Use Helper Functions in Your Code**
+## 🔧 **Step 5: VSCode Configuration (Optional)**
+
+For an even better development experience, you can also set up VSCode with custom settings:
+
+### **Download VSCode Configuration**
+- **[settings.json](../week2-vscode/lesson-5-vscode-settings/.vscode/settings.json)** - Complete VSCode settings example
+
+### **Setup Instructions**
+1. Download the `settings.json` file
+2. Create a `.vscode` folder in your project root
+3. Place `settings.json` inside the `.vscode` folder
+4. Restart VSCode or reload the window
+
+### **What This Provides**
+- **Dark theme** for better code readability
+- **Auto-save** to prevent losing work
+- **Format on save** for clean code
+- **Word wrap** for long lines
+- **Minimap** for easy navigation
+
+**Note**: This step is optional but provides a professional development environment setup.
+
+---
+
+## 📝 **Step 6: Use Helper Functions in Your Code**
 
 Now you can use any of the helper functions in your `script.js` file:
 
