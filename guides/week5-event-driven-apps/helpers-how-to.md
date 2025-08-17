@@ -92,7 +92,7 @@ For an even better development experience, you can also set up VSCode with custo
 4. Restart VSCode or reload the window
 
 ### **What This Provides**
-- **Dark theme** for better code readability
+- **Abyss theme** for better code readability and professional appearance
 - **Auto-save** to prevent losing work
 - **Format on save** for clean code
 - **Word wrap** for long lines
