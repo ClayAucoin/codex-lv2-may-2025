@@ -105,8 +105,7 @@ Based on the Week 4 Water Conservation App screenshots, add these interactive fe
 - **[Basic JavaScript Snippets](../../../resources/skill-guides/basic-js-snippets.md)** - Complete JS reference for VSCode projects
 - **[JavaScript Reference](./js-reference.md)** - Quick JS syntax and concepts reference
 - **[Helper Functions](./helpers.js)** - Pre-built functions for common tasks
-- [DOM Manipulation Guide](../../../resources/skill-guides/)
-- [Bootstrap Components Review](../../week4-css-frameworks/lesson-2-bootstrap-framework/lesson-2-bootstrap-framework.md)
+- [Bootstrap Components Review](https://www.w3schools.com/bootstrap5/bootstrap_get_started.php) - W3Schools Bootstrap 5 Tutorial
 - **[Code.org App Lab Tutorial](https://www.youtube.com/watch?v=fypSGGZZfzM&list=PLzdnOPI1iJNe1RFTghJhu1Zm7eB9O4UIo&index=2)** - Learn how to use App Lab effectively
 
 ---
