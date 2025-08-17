@@ -38,7 +38,11 @@ cd path/to/your/project
 
 ### **Step 3: Create and Switch to New Branch**
 ```bash
-git checkout -b native-dom-functions
+# Create the new branch
+git branch native-dom-functions
+
+# Switch to the new branch
+git switch native-dom-functions
 ```
 
 ### **Step 4: Verify You're on the New Branch**
