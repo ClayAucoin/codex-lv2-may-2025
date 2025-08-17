@@ -10,7 +10,7 @@ Coming from **[Lesson 4: Mad Libs Game](./lesson-4-mad-libs-game.md)**? Great! N
 
 - Update your Week 4 Water Conservation App HTML wireframe to be interactive
 - Add JavaScript event handling to existing Bootstrap components
-- Practice DOM manipulation with and without helper functions
+- Practice DOM manipulation with helper functions 
 
 ---
 
@@ -19,6 +19,50 @@ Coming from **[Lesson 4: Mad Libs Game](./lesson-4-mad-libs-game.md)**? Great! N
 **Update your existing Week 4 Water Conservation App** to make it interactive. You'll add JavaScript functionality to the HTML wireframe you already created.
 
 **Reference**: If you need to review how the Water Conservation App HTML was built, see **[Week 4: Bootstrap Layouts and Grid System](../../week4-css-frameworks/lesson-3-bootstrap-layout/lesson-3-bootstrap-layout.md)**.
+
+---
+
+## 🛠️ **Setup**
+
+### **Step 1: Open Your Project in VSCode**
+1. Open VSCode
+2. Go to `File → Open Folder`
+3. Navigate to your `water-conservation-app` project folder
+4. Click `Select Folder`
+
+### **Step 2: Download Helper Functions**
+1. Download **[Helper Functions](./helpers.js)** - Pre-built functions for common tasks
+2. Save the file as `helpers.js` in your project folder
+3. **Important**: Keep the filename exactly as `helpers.js`
+
+### **Step 3: Add Helper Functions to HTML**
+Add this line to your HTML file, just before the closing `</body>` tag:
+```html
+<script src="helpers.js"></script>
+```
+
+### **Step 4: Create Your JavaScript File**
+
+Create a `script.js` file in your project and include it under `helpers.js` in your html file.
+
+1. In VSCode, right-click in the file explorer
+2. Select `New File`
+3. Name it `script.js`
+4. Add this line to your HTML file, after the helpers.js script:
+```html
+<script src="script.js"></script>
+```
+
+### **Step 5: Learn About Helper Functions**
+For detailed information about available helper functions, see **[Helper Functions Guide](./helpers-how-to.md)**.
+
+### **Repeat for each html file**
+
+You should create a new JavaScript file for each of the html files you have.
+
+Include the `helpers.js` and your new script file in each page.
+
+For example, for `water-bottle-screen.html`, you could have a script called `water-bottle-screen.js`. For `shower-screen.html`, you could have a script called `shower-screen.js`.
 
 ---
 
@@ -44,7 +88,7 @@ Based on the Week 4 Water Conservation App screenshots, add these interactive fe
 
 ---
 
-## �� **Implementation Tips**
+## **Implementation Tips**
 
 - **Start with Bootstrap**: Use your existing Week 4 knowledge and Bootstrap components
 - **Focus on Screens**: Work on one screen at a time (Screen 1 → Screen 2 → Screen 3)
@@ -61,9 +105,9 @@ Based on the Week 4 Water Conservation App screenshots, add these interactive fe
 - **[Basic JavaScript Snippets](../../../resources/skill-guides/basic-js-snippets.md)** - Complete JS reference for VSCode projects
 - **[JavaScript Reference](./js-reference.md)** - Quick JS syntax and concepts reference
 - **[Helper Functions](./helpers.js)** - Pre-built functions for common tasks
-- DOM Manipulation Guide](../../../resources/skill-guides/)
+- [DOM Manipulation Guide](../../../resources/skill-guides/)
 - [Bootstrap Components Review](../../week4-css-frameworks/lesson-2-bootstrap-framework/lesson-2-bootstrap-framework.md)
-- **Code.org App Lab Tutorial](https://www.youtube.com/watch?v=fypSGGZZfzM&list=PLzdnOPI1iJNe1RFTghJhu1Zm7eB9O4UIo&index=2)** - Learn how to use App Lab effectively
+- **[Code.org App Lab Tutorial](https://www.youtube.com/watch?v=fypSGGZZfzM&list=PLzdnOPI1iJNe1RFTghJhu1Zm7eB9O4UIo&index=2)** - Learn how to use App Lab effectively
 
 ---
 
