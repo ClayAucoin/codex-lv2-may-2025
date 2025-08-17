@@ -7,6 +7,8 @@
 2. Open the file and copy all the content
 3. Create a new file called `helpers.js` in your project folder
 
+**Quick Download**: [Download helpers.js](./helpers.js) directly to your project folder
+
 ### **Option B: Download from Repository**
 1. Right-click on `helpers.js` in the Week 5 directory
 2. Select "Save As" or "Download"
