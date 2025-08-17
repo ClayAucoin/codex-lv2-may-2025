@@ -30,7 +30,7 @@ function onEvent(id, event, handler) {
   /**
    * Change a CSS property of an element.
    * @param {string} id - The id of the element.
-   * @param {string} property - CSS property (e.g. "color", "backgroundColor").
+   * @param {CssProperty} property - CSS property (e.g. "color", "backgroundColor").    
    * @param {string|number} value - The new value.
    * 
    * @example
@@ -153,3 +153,39 @@ function onEvent(id, event, handler) {
     console.info("setImageURL: #" + id + " → " + url);
   }
   
+// ---------------------------------------------------
+// JSDoc typedef for VSCodeIntelliSense
+// ---------------------------------------------------
+
+  /**
+ * @typedef {
+ *  "display"|"color"|
+  *  "background"|"backgroundColor"|"backgroundImage"|"backgroundSize"|"backgroundRepeat"|
+  *  "backgroundPosition"|"backgroundPositionX"|"backgroundPositionY"|"backgroundClip"|
+  *  "backgroundOrigin"|"backgroundAttachment"|
+  *  "border"|"borderColor"|"borderStyle"|"borderWidth"|
+  *  "borderTop"|"borderRight"|"borderBottom"|"borderLeft"|
+  *  "borderRadius"|"borderTopLeftRadius"|"borderTopRightRadius"|
+  *  "borderBottomLeftRadius"|"borderBottomRightRadius"|
+  *  "boxShadow"|"boxSizing"|
+  *  "opacity"|"visibility"|
+  *  "overflow"|"overflowX"|"overflowY"|
+  *  "outline"|"outlineColor"|"outlineStyle"|"outlineWidth"|
+  *  "position"|"top"|"right"|"bottom"|"left"|"zIndex"|
+  *  "width"|"minWidth"|"maxWidth"|"height"|"minHeight"|"maxHeight"|
+  *  "margin"|"marginTop"|"marginRight"|"marginBottom"|"marginLeft"|
+  *  "padding"|"paddingTop"|"paddingRight"|"paddingBottom"|"paddingLeft"|
+  *  "font"|"fontFamily"|"fontSize"|"fontStyle"|"fontWeight"|"lineHeight"|"letterSpacing"|
+  *  "textAlign"|"textDecoration"|"textDecorationColor"|"textDecorationLine"|"textDecorationStyle"|
+  *  "textTransform"|"textOverflow"|"whiteSpace"|"wordBreak"|"wordWrap"|
+  *  "verticalAlign"|"direction"|"unicodeBidi"|
+  *  "cursor"|"pointerEvents"|"userSelect"|
+  *  "filter"|"backdropFilter"|
+  *  "transform"|"transformOrigin"|"transformStyle"|
+  *  "perspective"|"perspectiveOrigin"|
+  *  "transition"|"transitionProperty"|"transitionDuration"|"transitionTimingFunction"|"transitionDelay"|
+  *  "animation"|"animationName"|"animationDuration"|"animationTimingFunction"|"animationDelay"|
+  *  "animationIterationCount"
+  * } CssProperty
+  */
+ 
