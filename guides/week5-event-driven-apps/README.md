@@ -12,24 +12,29 @@ Welcome to Week 5! This week focuses on **event-driven programming** using Code.
 
 ### **Monday**
 - **Lesson 1**: Intro to App Lab
-  - Code.org Link](https://studio.code.org/courses/csp5-virtual/units/1/lessons/1/levels/1)
+  - [Code.org Link](https://studio.code.org/courses/csp5-virtual/units/1/lessons/1/levels/1)
 - **Lesson 2**: Buttons and Events
-  - Code.org Link](https://studio.code.org/courses/csp5-virtual/units/1/lessons/2/levels/1)
+  - [Code.org Link](https://studio.code.org/courses/csp5-virtual/units/1/lessons/2/levels/1)
 
 ### **Tuesday**
 - **Lesson 3**: Build a Clicker App in Code.org
-  - Code.org Link](https://studio.code.org/courses/csp5-virtual/units/1/lessons/5/levels/1)
+  - [Code.org Link](https://studio.code.org/courses/csp5-virtual/units/1/lessons/5/levels/1)
+  - [📖 View Lesson](./lesson-3-build-clicker-app.md)
 
 ### **Wednesday**
 - **Lesson 4**: Mad Libs Game - Input and Strings
-  - Code.org Link](https://studio.code.org/courses/csp5-virtual/units/1/lessons/7/levels/1)
+  - [Code.org Link](https://studio.code.org/courses/csp5-virtual/units/1/lessons/7/levels/1)
+  - [📖 View Lesson](./lesson-4-mad-libs-game.md)
 
 ### **Thursday**
 - **Lesson 5**: Water Conservation App - Interactive (VSCode)
+  - [📖 View Lesson](./lesson-5-water-conservation-app.md)
 - **Lesson 6**: Mad Libs Game - Interactive (VSCode)
+  - [📖 View Lesson](./lesson-6-mad-libs-game.md)
 
 ### **Friday**
 - **Challenge**: Native DOM Functions - Replacing Helper Functions
+  - [📖 View Challenge](./lesson-7-native-dom-functions.md)
 - **Review and Revise**: Learn about the DOM and how to code events directly. Practice building interactive applications in VSCode.
 
 ---
