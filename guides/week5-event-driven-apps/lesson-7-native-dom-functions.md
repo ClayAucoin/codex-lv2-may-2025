@@ -27,16 +27,9 @@ You'll create a new branch called `native-dom-functions` and rewrite your JavaSc
 
 Before starting this lesson, you'll create a new branch to safely experiment with your code:
 
-### **Step 1: Open Terminal/Command Line**
-- In VSCode: `Ctrl+Shift+`` (backtick) or `Cmd+Shift+`` (Mac)
-- Or use your system's terminal application
+**Open your terminal and navigate to your project folder, then:**
 
-### **Step 2: Navigate to Your Project**
-```bash
-cd path/to/your/project
-```
-
-### **Step 3: Create and Switch to New Branch**
+### **Step 1: Create and Switch to New Branch**
 ```bash
 # Create the new branch
 git branch native-dom-functions
@@ -45,7 +38,7 @@ git branch native-dom-functions
 git switch native-dom-functions
 ```
 
-### **Step 4: Verify You're on the New Branch**
+### **Step 2: Verify You're on the New Branch**
 ```bash
 git branch
 ```
