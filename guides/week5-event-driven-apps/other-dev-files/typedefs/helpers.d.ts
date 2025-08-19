@@ -4,11 +4,11 @@
  * CSS property names available on CSSStyleDeclaration (camelCase).
  * Examples: "backgroundColor", "border", "marginTop", "display", etc.
  */
-type CssProperty = keyof CSSStyleDeclaration;
+// Using native CSSStyleDeclaration instead of custom CssProperty type
 
 declare function onEvent(id: string, event: string, handler: EventListenerOrEventListenerObject): void;
 
-declare function setProperty(id: string, property: CssProperty, value: string | number): void;
+declare function setProperty(id: string, property: keyof CSSStyleDeclaration, value: string | number): void;
 
 declare function playSound(url: string, loop?: boolean): void;
 

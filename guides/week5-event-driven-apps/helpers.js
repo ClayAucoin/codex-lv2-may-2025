@@ -31,7 +31,7 @@ function onEvent(id, event, handler) {
   /**
    * Change a CSS property of an element.
    * @param {string} id - The id of the element.
-   * @param {CssProperty} property - CSS property (e.g. "color", "backgroundColor").    
+   * @param {keyof CSSStyleDeclaration} property - CSS property (e.g. "color", "backgroundColor").    
    * @param {string|number} value - The new value.
    * 
    * @example
