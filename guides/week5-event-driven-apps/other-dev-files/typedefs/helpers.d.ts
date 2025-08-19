@@ -8,7 +8,11 @@
 
 declare function onEvent(id: string, event: string, handler: EventListenerOrEventListenerObject): void;
 
-declare function setProperty(id: string, property: keyof CSSStyleDeclaration, value: string | number): void;
+declare function setProperty<K extends keyof CSSStyleDeclaration>(
+  id: string, 
+  property: K, 
+  value: CSSStyleDeclaration[K]
+): void;
 
 declare function playSound(url: string, loop?: boolean): void;
 

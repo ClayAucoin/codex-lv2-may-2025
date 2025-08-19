@@ -30,12 +30,15 @@ function onEvent(id, event, handler) {
   
   /**
    * Change a CSS property of an element.
+   * @template {keyof CSSStyleDeclaration} K
    * @param {string} id - The id of the element.
-   * @param {keyof CSSStyleDeclaration} property - CSS property (e.g. "color", "backgroundColor").    
-   * @param {string|number} value - The new value.
+   * @param {K} property - CSS property (e.g. "color", "backgroundColor").
+   * @param {CSSStyleDeclaration[K]} value - The value matching the property type.
    * 
    * @example
-   * setProperty("myDiv", "color", "blue");
+   * setProperty("myDiv", "color", "blue");        // ✅ string
+   * setProperty("myDiv", "opacity", 0.5);         // ✅ number
+   * setProperty("myDiv", "display", "block");     // ✅ string
    */
   function setProperty(id, property, value) {
     var el = document.getElementById(id);
