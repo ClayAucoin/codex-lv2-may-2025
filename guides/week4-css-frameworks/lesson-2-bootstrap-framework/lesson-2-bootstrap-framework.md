@@ -114,6 +114,12 @@ Tips:
 * It doesn't have to look exactly like the code below, but try to get it close!
 * If you get stuck for more than 15 minutes, please take a break, call a friend, or post to the Slack.
 
+You may review the original Water Conservation Tips App here
+
+* [Link to Water Conservation Tips App on code.org](https://studio.code.org/courses/csp-2025/units/3/lessons/1/levels/9)
+
+**Screenshot**
+
 ![screenshot of water conservation app](../../../resources/starter-code/week-4/screenshot-of-water-conservation-app.png)
 
 

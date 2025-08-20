@@ -70,6 +70,12 @@ For example, for `water-bottle-screen.html`, you could have a script called `wat
 
 Based on the Week 4 Water Conservation App screenshots, add these interactive features:
 
+### Original App on Code.org
+
+Review the original app on code.org.
+
+* [Link to Water Conservation Tips App on code.org](https://studio.code.org/courses/csp-2025/units/3/lessons/1/levels/9)
+
 ### **Screen 1 (Home/Language)**
 - **Language Toggle**: Switch between English and Spanish
 - **Navigation**: Button to proceed to bottle selection screen

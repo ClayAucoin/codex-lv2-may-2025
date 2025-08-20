@@ -51,6 +51,11 @@ Visit these site links. Click on TRY IT YOURSELF. Get a general understanding of
 
 ### Try it! (Mini-Project)
 
+You may review the original Water Conservation Tips App here
+
+* [Link to Water Conservation Tips App on code.org](https://studio.code.org/courses/csp-2025/units/3/lessons/1/levels/9)
+
+
 Now you have all the tools you need to complete the other 2 pages of the Water Conservation App. Use Bootstrap's grid system (row and col) to create responsive layouts for the additional pages.
 
 **Hint**: Use `row` and `col` classes to get the effect of a grid for the layouts of the other two pages.
