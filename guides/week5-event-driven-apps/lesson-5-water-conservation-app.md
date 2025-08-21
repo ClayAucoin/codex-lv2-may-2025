@@ -108,7 +108,7 @@ Review the original app on code.org.
 
 ## 🔗 **Additional Resources**
 
-- **[Basic JavaScript Snippets](../../../resources/skill-guides/basic-js-snippets.md)** - Complete JS reference for VSCode projects
+- **[Basic JavaScript Snippets](../../resources/skill-guides/basic-js-snippets.md)** - Complete JS reference for VSCode projects
 - **[Event-Driven Programming in App Lab](https://studio.code.org/courses/csp5-virtual/units/1)** - Complete module with lessons and videos
 - **[JavaScript Reference](./js-reference.md)** - Quick JS syntax and concepts reference
 - **[Helper Functions](./helpers.js)** - Pre-built functions for common tasks
