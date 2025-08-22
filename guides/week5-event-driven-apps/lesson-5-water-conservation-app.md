@@ -83,9 +83,10 @@ Review the original app on code.org.
 
 ### **Screen 2 (Bottle Selection)**
 - **Bottle Choice**: Click good vs. bad bottle with visual feedback
-- **Faucet Interaction**: Fill bottle after correct selection
 - **Feedback System**: Success/error messages with sound effects
 - **Cross Overlay**: Visual indicator for wrong bottle choice
+- **Bonus Challenge: Faucet Interaction**: Fill bottle after correct selection (This is quite hard to do with bootstrap. You may skip the bottle movement and filling.)
+
 
 ### **Screen 3 (Shower Timer)**
 - **Image Toggle**: Timer click swaps shower before/after images
@@ -97,8 +98,8 @@ Review the original app on code.org.
 ## **Implementation Tips**
 
 - **Start with Bootstrap**: Use your existing Week 4 knowledge and Bootstrap components
-- **Focus on Screens**: Work on one screen at a time (Screen 1 → Screen 2 → Screen 3)
-- **State Management**: Track language, bottle selection, and shower state
+- **Focus on Screens**: Work on one screen at a time (Screen 1 → Screen 2 → Screen 3) Note: Each "screen" is it's own page. Different from code.org, the screens cannot share state. All variables will be reset after each navigation.
+- **State Management**: Track language, bottle selection, and shower state within the page.
 - **Event Handling**: Add click events for buttons, images, and interactions
 - **Visual Feedback**: Use overlays, image swaps, and Bootstrap classes
 - **Test Incrementally**: Check each feature as you build it
