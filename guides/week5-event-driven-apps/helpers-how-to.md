@@ -115,13 +115,13 @@ onEvent("myButton", "click", function() {
 });
 ```
 
-### **Example: Using `setProperty` Helper**
+### **Example: Using Helper Functions**
 ```javascript
 // Change text content
-setProperty("title", "text", "New Title");
+setText("title", "New Title");
 
 // Change image source
-setProperty("myImage", "image", "new-image.jpg");
+setImageURL("myImage", "new-image.jpg");
 
 // Change CSS properties
 setProperty("myDiv", "background-color", "blue");
