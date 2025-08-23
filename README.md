@@ -7,6 +7,6 @@
 * Week 4-7: Web Development
   * Week 4: [CSS Frameworks and Bootstrap](./guides/week4-css-frameworks/README.md)
   * Week 5: [Event-Driven Apps](./guides/week5-event-driven-apps/README.md)
-  * Week 6: Data, Fetching Data, APIs, and JavaScript Loops
+  * Week 6: [Data, Fetching Data, APIs, and JavaScript Loops](./guides/week6-APIs-and-postman/README.md)
   * Week 7: AI/LLM APIs and Page interaction.
   * Week 8: Capstone Project--Dynamic Data oriented website with AI enhancements
