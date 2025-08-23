@@ -5,6 +5,7 @@ Welcome to Week 6! This week focuses on working with APIs and using Postman for 
 ## Lessons
 
 - **[Lesson 1: Search Parameters](lesson-1-search-params.md)** - Learn about search parameters and how to work with them in APIs
+- **[Lesson 2: How to Use Postman](lesson-2-postman.md)** - Explore query strings in Postman, compare HTML vs JSON responses, and practice using the Params tab
 
 ## Overview
 
