@@ -5,6 +5,8 @@
 **Level**: Beginner web development
 **Tools**: Any web browser and code editor (like VS Code or Code.org Web Lab)
 
+**Turn in**: Create a repo called `my-search-params` on GitHub and check off Lesson 1 in your Moodle Classroom.
+
 ---
 
 ## ✅ Step 1: Guess What the URL Will Do
@@ -49,6 +51,21 @@ Copy this into your HTML file:
 </form>
 ```
 
+### Try it!
+
+You may try it here, first.
+
+<div>
+  <form action="https://www.youtube.com/results" method="GET">
+    <label for="search">Search YouTube:</label>
+    <input type="text" name="search_query" id="search">
+    <button type="submit">Search</button>
+  </form>
+</div>
+
+
+#### More
+
 **Try it out!** Type something and hit “Search.” What does the browser do with your input? **Hint:** look at the url bar at the top of your browser.
 
 **Exploration** Notice the following attributes on your form. Try changing them to something else and changing them back to see what happens.
@@ -74,6 +91,7 @@ Try a few of these on your page.
 ```
 
 ### 🎯 WikiHow Search Form
+
 
 ```html
 <form action="https://www.wikihow.com/wikiHowTo">
