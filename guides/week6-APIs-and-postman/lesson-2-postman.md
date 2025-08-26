@@ -146,6 +146,36 @@ Example (shortened):
 
 ---
 
+## ✅ Step 7: Save Weather Data to File
+
+Now let's save the weather data you received from the Open-Meteo API to a file in your `my-search-params` repository.
+
+1. **Copy the JSON response** from Postman (the entire response body)
+2. **Create a new file** in your repository called `current-weather.json`
+3. **Paste the JSON data** into this file
+4. **Save the file** and commit it to your repository
+
+**Example file structure:**
+```
+my-search-params/
+├── index.html
+├── current-weather.json  ← New file
+└── README.md
+```
+
+**What to include in current-weather.json:**
+- The complete JSON response from the Open-Meteo API
+- Make sure to format it properly (Postman can help with this)
+- Include the timestamp of when you made the request
+
+**Git commands to add and commit:**
+```bash
+git add current-weather.json
+git commit -m "Add current weather data from Open-Meteo API"
+```
+
+---
+
 ## ✨ Challenges
 
 1. **DuckDuckGo tweak**
@@ -175,11 +205,36 @@ Example (shortened):
 
 5. Run the request in Postman.
 
+6. **Save the weather data** to a new file in your repository:
+   - Create a file named `current-weather-[CITY-NAME].json`
+   - Replace `[CITY-NAME]` with the actual city name (use lowercase, no spaces)
+   - Examples: `current-weather-atlanta.json`, `current-weather-seattle.json`, `current-weather-newyork.json`
+
+**Repository structure after the challenge:**
+```
+my-search-params/
+├── index.html
+├── current-weather.json          ← New Orleans (from Step 7)
+├── current-weather-atlanta.json ← Atlanta weather data
+├── current-weather-seattle.json ← Seattle weather data
+├── current-weather-[city].json  ← Your chosen city
+└── README.md
+```
+
+**Note**: Make sure you're working in the `my-search-params` repository you created in Lesson 1.
+
+**Git workflow for each new city:**
+```bash
+git add current-weather-[city].json
+git commit -m "Add weather data for [City Name]"
+```
+
 **Report back:**
 
 * Place name
 * Coordinates
 * Current temperature
+* Filename you created
 
 ---
 
