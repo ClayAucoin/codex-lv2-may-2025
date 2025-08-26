@@ -6,7 +6,9 @@ Welcome to Week 6! This week focuses on working with APIs and using Postman for 
 
 - **[Lesson 1: Search Parameters](lesson-1-search-params.md)** - Learn about search parameters and how to work with them in APIs
 - **[Lesson 2: How to Use Postman](lesson-2-postman.md)** - Explore query strings in Postman, compare HTML vs JSON responses, and practice using the Params tab
-- **[Lesson 3: Postman Code Generation](lesson-3-postman-code-gen.md)** - Learn how to generate code from Postman requests and build interactive web applications
+- **[Lesson 3: TBA](lesson-3-tba.md)** - Content coming soon...
+- **[Lesson 4: TBA](lesson-4-tba.md)** - Content coming soon...
+- **[Lesson 5: Postman Code Generation](lesson-5-postman-code-gen.md)** - Learn how to generate code from Postman requests and build interactive web applications
 
 ## Overview
 
