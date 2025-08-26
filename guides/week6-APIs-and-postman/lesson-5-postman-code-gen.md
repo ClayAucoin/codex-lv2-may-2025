@@ -109,4 +109,12 @@ You built **local-weather** with:
 * **Full Postman codegen** pasted **inside** each function
 * A tight loop of **make → log → paste → test → wire → test**
 
+---
+
+## 🔗 **Navigation**
+
+- [← Back to Week 6 Overview](README.md)
+- [← Previous: Lesson 3 - Build a Weather App](lesson-3-weather-app.md)
+- [← Previous: Lesson 4 - TBA](lesson-4-tba.md)
+
 👉 Next time: replace `console.log()` with **DOM updates** (write temperature into a `<span>`) and add a tiny “Loading…” indicator.

@@ -290,3 +290,10 @@ You learned:
 * How to experiment with image URLs to change what’s shown
 
 ✅ Great work!
+
+---
+
+## 🔗 **Navigation**
+
+- [← Back to Week 6 Overview](README.md)
+- [Next: Lesson 2 - How to Use Postman →](lesson-2-postman.md)
