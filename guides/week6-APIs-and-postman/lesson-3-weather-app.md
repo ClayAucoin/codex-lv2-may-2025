@@ -13,6 +13,8 @@
 2. **Clone it to your local machine**
 3. **Set up the project structure** as we did in Week 5 Lessons 5 and 6
 
+> **📚 Need help setting up your repository?** Check out our [Start a New Project Guide](../../resources/skill-guides/start-project.md) for step-by-step instructions on creating repositories, cloning, and initial setup.
+
 ---
 
 ## ✅ Step 2: Set Up Project Files
@@ -53,7 +55,7 @@ Copy the JSON data into the top of your `script.js` file to create a POJO:
 
 ```javascript
 // Weather data POJO
-const newOrleansWeather = {
+var newOrleansWeather = {
   "latitude": 29.95,
   "longitude": -90.07,
   "current_weather": {
@@ -83,6 +85,8 @@ In your `index.html`, create a Bootstrap card for New Orleans weather:
 </div>
 ```
 
+> **💡 Note:** A `<span>` tag is an inline HTML element used to mark up a part of text. It's perfect for targeting specific text with JavaScript because you can give it an `id` attribute and then use functions like `setText()` to update just that part of the content without affecting the rest of the paragraph. 📖 [Learn more about span tags](https://www.w3schools.com/tags/tag_span.asp)
+
 ---
 
 ## ✅ Step 6: Display Weather Data
@@ -109,20 +113,23 @@ Create HTML files and JavaScript files for the other cities from Week 6 Lesson 2
 
 **For each city:**
 1. Create a separate HTML file (e.g., `atlanta.html`, `seattle.html`)
-2. Include the same helper.js and script.js files
-3. Copy the weather JSON data to create a POJO
+2. Include helper.js and a city-specific script file (e.g., `atlanta-script.js`, `seattle-script.js`)
+3. Copy the weather JSON data to create a POJO in the city's script file
 4. Build a Bootstrap card displaying the weather
 5. Use `setText()` to populate the data
 
 **Example file structure:**
 ```
 my-weather/
-├── index.html          ← New Orleans
-├── atlanta.html        ← Atlanta weather
-├── seattle.html        ← Seattle weather
-├── [city].html         ← Your chosen city
-├── script.js
-├── helper.js
+├── index.html              ← New Orleans (main page)
+├── script.js               ← New Orleans weather logic
+├── atlanta.html            ← Atlanta weather
+├── atlanta-script.js       ← Atlanta weather logic
+├── seattle.html            ← Seattle weather
+├── seattle-script.js       ← Seattle weather logic
+├── [city].html             ← Your chosen city
+├── [city]-script.js        ← Your city's weather logic
+├── helper.js               ← Shared helper functions
 └── README.md
 ```
 
