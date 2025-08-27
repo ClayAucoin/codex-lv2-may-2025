@@ -11,14 +11,15 @@
 
 ### Step 1 — Open the Network Panel
 
-* Open the [Coffee Cart Demo](https://coffee-cart.netlify.app/).
+* Open the [Coffee Cart Demo](https://coffee-cart.netlify.app/). or at https://coffee-cart.app/
 * Right-click → **Inspect** to open DevTools.
 * Click the **Network** tab.
+* Alteratively, Press CTRL+SHIFT+P and type Network.
 * Reload the page ( ⟳ ) to see requests stream in.
 
-📖 Docs: [Open the Network panel](https://developer.chrome.com/docs/devtools/network/overview#open)
-📸 Official screenshot:
-![Basic Network panel](https://developer.chrome.com/static/docs/devtools/network/overview/basic-network-panel.png)
+📖 Docs: [Open the Network panel](https://developer.chrome.com/docs/devtools/network/overview#open_the_network_panel)
+📸 Screenshot:
+![Basic Network panel Screenshot](assets/lesson-4/basic-network-panel.png)
 
 ---
 
@@ -33,61 +34,68 @@ The Network panel shows everything (HTML, CSS, images, scripts). Use filters at 
 
 👉 Try filtering to **XHR** to see the `coffee.json` request.
 
-📖 Docs: [Filter requests](https://developer.chrome.com/docs/devtools/network/overview#filter)
-📸 Official screenshot:
-![XHR filter](https://developer.chrome.com/static/docs/devtools/network/overview/xhr-filter.png)
+📖 Docs: [Filter requests](https://developer.chrome.com/docs/devtools/network/reference?hl=en#filter-by-type)
+📸 Screenshot:
+![XHR filter](assets/lesson-4/xhr-filter.png)
 
 ---
 
 ### Step 3 — Inspect a Request
 
-Click the `coffee.json` row. Check the right-hand tabs:
+Click the `list.json` row. Check the right-hand tabs:
+
+Note: Reload the page if it does not appear.
 
 * **Headers** → shows method (GET), URL, query string parameters
 * **Preview** → formatted JSON menu data
 * **Response** → raw JSON text
 
 📖 Docs: [Inspect requests](https://developer.chrome.com/docs/devtools/network/overview#inspect)
-📸 Official screenshot:
-![Preview JSON](https://developer.chrome.com/static/docs/devtools/network/overview/coffee-json-preview.png)
+📸 Screenshot:
+![Preview JSON](assets/lesson-4/preview-json.png)
 
 ---
 
 ### Step 4 — Clear and Reload
 
-Use the clear button ( ⃠ ) to reset the panel, then reload. Watch the same requests appear fresh.
+Use the clear button to reset the panel, then reload. Watch the same requests appear fresh.
 
-📖 Docs: [Clear requests](https://developer.chrome.com/docs/devtools/network/overview#clear)
-📸 Official screenshot:
-![Clear network](https://developer.chrome.com/static/docs/devtools/network/overview/clear-network.png)
+📖 Docs: [Clear requests](https://developer.chrome.com/docs/devtools/network/reference#clear)
+📸 Screenshot:
+![Clear network](assets/lesson-4/clear-network.png)
 
 ---
 
-### Step 5 — Check Headers & Query Parameters
+### Step 5 — Check HTTP Headers 
 
 Inspect `coffee.json` again:
 
-* **General**: URL, method, status
-* **Response Headers**: server information
-* **Query String Parameters**: key/value data sent to the server
+Inspect coffee.json in Network → Headers. Headers are metadata that describe the request and response:
 
-📖 Docs: [View headers](https://developer.chrome.com/docs/devtools/network/overview#headers)
-📸 Official screenshot:
-![Headers panel](https://developer.chrome.com/static/docs/devtools/network/overview/headers-panel.png)
+* General: URL, method (GET/POST), status code, and remote server.
+* Request Headers: info sent by the browser (e.g., Accept, User-Agent, Origin, Authorization).
+* Response Headers: info from the server (e.g., Content-Type, caching, cookies, CORS, security policies).
+* Query String Parameters: key/value pairs in the URL after ?, often for filters or cache-busting. (Not on the coffee app, but it will be in other apps.)
+
+📖 Docs: [View headers](https://developer.chrome.com/docs/devtools/network/reference?hl=en#headers)
+📸 Screenshot:
+![Headers panel](assets/lesson-4/headers-panel.png)
 
 ---
 
 ### Step 6 — Advanced Features
 
 * **Throttle the network**: simulate slower connections (Fast 3G, Slow 3G).
-  📖 Docs: [Throttle requests](https://developer.chrome.com/docs/devtools/network/overview#throttle)
-  📸 Official screenshot:
-  ![Throttling](https://developer.chrome.com/static/docs/devtools/network/overview/throttling.png)
+  📖 Docs: [Throttle requests](https://developer.chrome.com/docs/devtools/network/reference?hl=en#throttling)
+  📸 Screenshot:
+  ![Throttling 1](assets/lesson-4/throttling-1.png)
 
-* **Filter images**: see all the coffee photos.
-  📖 Docs: [Filter by resource type](https://developer.chrome.com/docs/devtools/network/overview#filter)
+  ![Throttling 2](assets/lesson-4/throttling-2.png)
+
+* **Filter images**: see only the coffee photos.
+  📖 Docs: [Filter by resource type](https://developer.chrome.com/docs/devtools/network/reference?hl=en#filter-by-type)
   📸 Official screenshot:
-  ![Img filter](https://developer.chrome.com/static/docs/devtools/network/overview/img-filter.png)
+  ![Img filter](https://developer.chrome.com/static/docs/devtools/network/reference/image/using-type-filters-disp-2f5d6a755c40b_1920.png)
 
 ---
 
