@@ -17,7 +17,7 @@ Postman is a tool developers use to test APIs. Instead of typing a URL in the br
 
 👉 Think of Postman as a **microscope for the internet**.
 
-![Postman Workspace Overview](assets/lesson-1/postman-workspace-overview-with-new-request-screenshot.png)
+![Postman Workspace Overview](assets/lesson-2/postman-workspace-overview-with-new-request-screenshot.png)
 
 *Above: The Postman workspace showing how to create a new request*
 
@@ -42,7 +42,7 @@ https://www.google.com/search?q=funny+cat+videos
 | --- | ---------- |
 | q   | javascript |
 
-![Google Search Params Tab](assets/lesson-1/postman-params-tab-filled-out-google-screenshot.png)
+![Google Search Params Tab](assets/lesson-2/postman-params-tab-filled-out-google-screenshot.png)
 
 *Above: Setting up search parameters in Postman for Google search*
 
@@ -61,7 +61,7 @@ DuckDuckGo has a **special HTML endpoint** that returns simple text-based result
 https://duckduckgo.com/html?q=penguins
 ```
 
-![DuckDuckGo Search in Postman](assets/lesson-1/postman-params-tab-filled-out-duck-screenshot.png)
+![DuckDuckGo Search in Postman](assets/lesson-2/postman-params-tab-filled-out-duck-screenshot.png)
 
 *Above: Setting up search parameters in Postman for DuckDuckGo*
 
@@ -94,7 +94,7 @@ https://www.allrecipes.com/search?q=Omelet+dinners
 | --- | -------------- |
 | q   | Omelet dinners |
 
-![AllRecipes Search Params](assets/lesson-1/postman-params-tab-filled-out-all-recipes-screenshot.png)
+![AllRecipes Search Params](assets/lesson-2/postman-params-tab-filled-out-all-recipes-screenshot.png)
 
 *Above: Setting up search parameters in Postman for AllRecipes*
 
@@ -110,7 +110,7 @@ Now let’s use an API that returns **JSON** (data, not HTML).
 https://api.open-meteo.com/v1/forecast?latitude=29.95&longitude=-90.07&current_weather=true
 ```
 
-![Weather API Response in Postman](assets/lesson-1/postman-params-weather-json-response-screenshot.png)
+![Weather API Response in Postman](assets/lesson-2/postman-params-weather-json-response-screenshot.png)
 
 *Above: Example of a weather API response showing JSON data structure*
 
@@ -140,7 +140,7 @@ Example (shortened):
 * **HTML pages** (Google, DuckDuckGo, Allrecipes): look for `<title>`, `<a>`, `<h3>`
 * **JSON data** (Open-Meteo): curly braces `{}`, key/value pairs, easy for JavaScript
 
-![Postman Response Showing Title](assets/lesson-1/postman-response-showing-title-screenshot.png)
+![Postman Response Showing Title](assets/lesson-2/postman-response-showing-title-screenshot.png)
 
 *Above: Example of a successful API response in Postman showing the title and data structure*
 
