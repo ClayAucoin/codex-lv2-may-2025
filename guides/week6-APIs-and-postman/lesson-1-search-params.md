@@ -31,7 +31,9 @@ The code after the `&` is called the Search Parameter. What is the format of a S
 * What does `q=` or `search_query=` mean?
 * **What does the `+` symbol mean in the query?**
 
-📸 *\[Screenshot: Browser URL bar showing search parameters]*
+![Browser URL Bar Showing Search Parameters](assets/lesson-1/Browser URL bar showing search parameters.png)
+
+*Above: Browser URL bar demonstrating how search parameters appear in the address bar*
 
 **✏️ Explore**
 
@@ -67,7 +69,9 @@ You may try it here, first.
   </form>
 </div>
 
-📸 *\[Screenshot: YouTube search form with filled input and submit button]*
+![YouTube Search Form in Action](assets/lesson-1/YouTube search form with filled input and submit button.gif)
+
+*Above: YouTube search form demonstrating user input and form submission*
 
 #### More
 
@@ -165,7 +169,9 @@ Copy this into an HTML file, add bootstrap classes for your [form](https://getbo
 
 ✏️ Try editing this form to include one or more options listed below.
 
-📸 *\[Screenshot: Pexels image viewer form with width, height, and sepia controls]*
+![Pexels Image Viewer Form](assets/lesson-1/Pexels image viewer form with width, height, and sepia control.gif)
+
+*Above: Pexels image viewer form with width, height, and sepia controls*
 
 ---
 
