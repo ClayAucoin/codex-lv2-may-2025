@@ -5,6 +5,28 @@
 **Level**: Beginner web development
 **Tools**: VS Code, Git, web browser
 
+> **📚 New!** This lesson is now available in a step-by-step format. [Click here to use the interactive lesson structure](lesson-3-weather-app/lesson-3-weather-app.md) where each step has its own focused file.
+
+---
+
+## 🚀 **Quick Navigation to Individual Steps**
+
+### **Core Steps (Required):**
+- **[Step 1: Create the Repository](lesson-3-weather-app/weather-app-lv1.md)** - Set up your Git repository and project structure
+- **[Step 2: Set Up Project Files](lesson-3-weather-app/weather-app-lv2.md)** - Create the necessary files and include scripts
+- **[Step 3: Copy Weather Data](lesson-3-weather-app/weather-app-lv3.md)** - Get weather data from previous lessons or download fresh data
+- **[Step 4: Create POJO in script.js](lesson-3-weather-app/weather-app-lv4.md)** - Convert JSON data to JavaScript objects
+- **[Step 5: Build the Weather Card](lesson-3-weather-app/weather-app-lv5.md)** - Create Bootstrap cards with span elements
+- **[Step 6: Display Weather Data](lesson-3-weather-app/weather-app-lv6.md)** - Connect data to the user interface
+- **[Step 7: Create Multi-City Weather Pages](lesson-3-weather-app/weather-app-lv7.md)** - Scale your app to multiple cities
+
+### **Optional Challenges:**
+- **[Challenge Part 1: Add a Button](lesson-3-weather-app/weather-app-lv8.md)** - Make weather data appear only after button clicks
+- **[Challenge Part 2: Second City Button](lesson-3-weather-app/weather-app-lv9.md)** - Add a second city button to the same page
+- **[Challenge Part 3: Multiple City Buttons](lesson-3-weather-app/weather-app-lv10.md)** - Scale to multiple city buttons
+
+**💡 Tip**: Use these direct links to jump to any specific step or challenge you want to work on!
+
 ---
 
 ## ✅ Step 1: Create the Repository
