@@ -1,4 +1,4 @@
-# 🧪 **Lesson: How Forms and URLs Work Together**
+# 🧪 **Lesson 1: How Forms and URLs Work Together**
 
 **Tags**: `#lesson` `#level2` `#forms`
 **Goal**: Learn how forms create query strings and how websites use them to show results.
@@ -9,13 +9,7 @@
 
 ---
 
-## 📱 **What You'll Learn to Build**
 
-![Postman Response Showing Title](assets/lesson-1/postman-response-showing-title-screenshot.png)
-
-*Above: Example of a successful API response in Postman showing the title and data structure*
-
----
 
 ## ✅ Step 1: Guess What the URL Will Do
 
@@ -37,19 +31,13 @@ The code after the `&` is called the Search Parameter. What is the format of a S
 * What does `q=` or `search_query=` mean?
 * **What does the `+` symbol mean in the query?**
 
+📸 *\[Screenshot: Browser URL bar showing search parameters]*
+
 **✏️ Explore**
 
 * Edit the text after `q=` to see if you can search for dog videos instead of cat videos.
 
----
 
-## 🖼️ **Postman Workspace Overview**
-
-![Postman Workspace with New Request](assets/lesson-1/postman-workspace-overview-with-new-request-screenshot.png)
-
-*Above: The Postman workspace showing how to create a new request for testing APIs*
-
----
 
 ## ✅ Step 2: Make a YouTube Search Form
 
@@ -79,10 +67,7 @@ You may try it here, first.
   </form>
 </div>
 
-![Creating a New Request in Postman](assets/lesson-1/postman-new-request-screenshot.png)
-
-*Above: How to create a new request in Postman for testing your forms*
-
+📸 *\[Screenshot: YouTube search form with filled input and submit button]*
 
 #### More
 
@@ -110,9 +95,7 @@ Try a few of these on your page.
 </form>
 ```
 
-![Postman Params Tab for Google Search](assets/lesson-1/postman-params-tab-filled-out-google-screenshot.png)
 
-*Above: Setting up search parameters in Postman for Google search*
 
 ### 🎯 WikiHow Search Form
 
@@ -132,9 +115,7 @@ Use this link pattern:
 
 **Can you create your own DuckDuckGo form?**
 
-![Postman Params Tab for DuckDuckGo Search](assets/lesson-1/postman-params-tab-filled-out-duck-screenshot.png)
 
-*Above: Setting up search parameters in Postman for DuckDuckGo*
 
 ### ✨ Challenge: bing.com
 
@@ -184,6 +165,8 @@ Copy this into an HTML file, add bootstrap classes for your [form](https://getbo
 
 ✏️ Try editing this form to include one or more options listed below.
 
+📸 *\[Screenshot: Pexels image viewer form with width, height, and sepia controls]*
+
 ---
 
 ## 📘 Pexels Image Options (Documentation)
@@ -205,13 +188,7 @@ Here are some options you can add to the query string in the URL or as input fie
 
 ---
 
-## 🌤️ **API Response Example**
 
-![Weather API Response in Postman](assets/lesson-1/postman-params-weather-json-response-screenshot.png)
-
-*Above: Example of an API response showing JSON data structure*
-
----
 
 ### 💡 Optional Activity
 
@@ -274,9 +251,7 @@ https://www.allrecipes.com/search/results/?wt=pasta
 
 Make a form that lets the user search for recipes by ingredient or dish name.
 
-![Postman Params Tab for AllRecipes Search](assets/lesson-1/postman-params-tab-filled-out-all-recipes-screenshot.png)
 
-*Above: Setting up search parameters in Postman for AllRecipes*
 
 ---
 
