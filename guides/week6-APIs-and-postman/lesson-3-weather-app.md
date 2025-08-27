@@ -1,4 +1,4 @@
-# 🧪 **Lesson 3: Build a Weather App with JavaScript**
+# 🧪 **Lesson 3: Build a Weather App with JavaScript Mini-Project**
 
 **Tags**: `#lesson` `#level2` `#javascript` `#weather`
 **Goal**: Create a weather app using POJOs, helper functions, and Bootstrap cards.
