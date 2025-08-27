@@ -97,6 +97,21 @@ Inspect coffee.json in Network → Headers. Headers are metadata that describe t
   📸 Official screenshot:
   ![Img filter](https://developer.chrome.com/static/docs/devtools/network/reference/image/using-type-filters-disp-2f5d6a755c40b_1920.png)
 
+* **Replay requests with fetch in the console**: manually trigger the same network request from the browser console.
+
+  👉 Try this with the `list.json` request to see how you can programmatically make the same API call.
+
+  1. **Right-click** on the `list.json` request row
+  2. **Select** Copy → Copy as Fetch
+  3. **Press Esc** to open a second DevTools tab
+  4. **Click Console** in the second tab
+  5. **Paste** the copied fetch request and press Enter
+  6. **Inspect** the new request that appears in the Network tab
+
+  📖 Docs: [Copy requests](https://developer.chrome.com/docs/devtools/network/reference?hl=en#copy)
+  📸 Screenshot:
+  ![Rerunning Network Requests](assets/lesson-4/rerunning-network-requests.gif)
+
 ---
 
 ### Wrap-Up
@@ -108,6 +123,7 @@ In this official Coffee Shop demo, you learned how to:
 * Inspect headers, responses, and query parameters
 * Clear and reload requests
 * Use throttling to simulate slower connections
+* Replay requests programmatically from the console
 
 🔗 Full guide: [Network Tab Overview (Chrome Docs)](https://developer.chrome.com/docs/devtools/network/overview)
 
