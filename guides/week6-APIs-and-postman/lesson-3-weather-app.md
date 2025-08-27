@@ -50,13 +50,13 @@ Create these files in your `my-weather` repository:
 my-weather/
 ├── index.html
 ├── script.js
-├── helper.js
+├── helpers.js
 └── README.md
 ```
 
 **Include helper.js and script.js in index.html:**
 ```html
-<script src="helper.js"></script>
+<script src="helpers.js"></script>
 <script src="script.js"></script>
 ```
 
