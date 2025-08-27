@@ -100,9 +100,9 @@ setText("wind", newOrleansWeather.current_weather.windspeed);
 setText("code", newOrleansWeather.current_weather.weathercode);
 ```
 
----
 
-## 🎯 Challenge Goal
+
+## ✅ Step 7: Create Multi-City Weather Pages
 
 Create HTML files and JavaScript files for the other cities from Week 6 Lesson 2:
 
@@ -117,6 +117,7 @@ Create HTML files and JavaScript files for the other cities from Week 6 Lesson 2
 3. Copy the weather JSON data to create a POJO in the city's script file
 4. Build a Bootstrap card displaying the weather
 5. Use `setText()` to populate the data
+6. **Bonus:** Add the same button functionality to each city page!
 
 **Example file structure:**
 ```
@@ -135,12 +136,95 @@ my-weather/
 
 ---
 
+## 🎯 **Challenges**
+
+### **Challenge Part 1: Add a Button to Show Weather Data**
+
+**Work in your `script.js` and `index.html` files:**
+
+1. **Add a button to your HTML** that will show the weather when clicked
+2. **Modify your JavaScript** to wait for the button click before displaying weather data
+3. **Remove the automatic weather display** from your script (the setText calls that run immediately)
+
+**Challenge:** Figure out how to implement this yourself! You'll need to:
+- Add a button element with an appropriate ID
+- Use `onEvent()` to listen for button clicks
+- Move the weather display code inside the event listener
+
+**What you'll review:**
+- Event handling with `onEvent()`
+- User interaction patterns
+- How to make content appear on demand
+
+> **🎓 Learning Point: What is an Event Listener?**
+> 
+> An **event listener** is a function that waits for a specific action (like a button click) to happen, then runs code in response. Think of it like setting up a security camera that watches for movement - when it detects something, it triggers an alarm.
+> 
+> In our code, `onEvent("show-weather", "click", function() { ... })` means:
+> - **Watch** the element with `id="show-weather"`
+> - **Wait for** a "click" action
+> - **Run this function** when it happens
+> 
+> This is how we make websites interactive instead of just static displays!
+
+---
+
+### **Challenge Part 2: Add a Second City Button (Same Page)**
+
+**Work in the same `index.html` and `script.js` files:**
+
+1. **Add a second button to your HTML** for a different city (like Atlanta)
+2. **Add weather data for the second city** as a new POJO in your script
+3. **Create a second event listener** that displays the second city's weather in the same card
+
+**Important:** Don't create a second card! Use the same card HTML and just change the data when different buttons are clicked.
+
+**Challenge:** Implement this yourself! You'll need to:
+- Create a second button with a unique ID
+- Add weather data for another city
+- Set up another `onEvent()` listener
+- Make sure both buttons update the same card elements
+
+**What you'll learn:**
+- Multiple event listeners on the same page
+- Reusing DOM elements for different data
+- Managing multiple data sources
+- Dynamic content switching
+
+---
+
+### **Challenge Part 3: Add Buttons for More Cities**
+
+**Extend your `index.html` and `script.js` files:**
+
+1. **Add more city buttons** to your HTML (Seattle, your chosen city, etc.)
+2. **Add weather data POJOs** for each additional city in your script
+3. **Create event listeners** for each new city button
+4. **Ensure all buttons update the same card** with different city data
+
+**Challenge:** Scale this up! You'll need to:
+- Create buttons with unique IDs for each city
+- Add weather data for Seattle and your chosen city
+- Set up `onEvent()` listeners for each new button
+- Test that all buttons work correctly with the same card
+
+**What you'll learn:**
+- Scaling event listeners for multiple cities
+- Managing larger datasets in one file
+- Testing multiple interactive elements
+- Building a comprehensive city switcher
+
+---
+
 ## ✅ Wrap-Up
 
 You've built:
 - A weather app using POJOs
 - Bootstrap cards for weather display
 - Helper function integration
+- **Interactive button functionality** that shows weather on demand
+- **Multi-city switching** on the same page with multiple buttons
+- Event handling with `onEvent()`
 - Multiple city weather pages
 
 **Next**: Use Postman's Code Generation to turn API requests into JavaScript `fetch()` calls.
