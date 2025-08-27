@@ -13,6 +13,8 @@
 2. **Clone it to your local machine**
 3. **Set up the project structure** as we did in Week 5 Lessons 5 and 6
 
+**What this accomplishes:** Setting up a proper Git repository is the foundation of any development project. By creating a dedicated repository for your weather app, you establish version control, enable collaboration, and create a professional development environment. This step ensures your code is safely stored, tracked, and can be shared with others or deployed to the web.
+
 > **📚 Need help setting up your repository?** Check out our [Start a New Project Guide](../../resources/skill-guides/start-project.md) for step-by-step instructions on creating repositories, cloning, and initial setup.
 
 ---
@@ -36,6 +38,8 @@ my-weather/
 <script src="script.js"></script>
 ```
 
+**What this accomplishes:** Creating the proper file structure establishes the foundation for your weather app. The HTML file serves as the user interface, the JavaScript files contain the app logic and helper functions, and the README documents your project. This organization follows web development best practices and makes your code maintainable and easy to understand for other developers.
+
 ---
 
 ## ✅ Step 3: Copy Weather Data
@@ -46,6 +50,8 @@ my-weather/
 **Option B: Re-download**
 - Use Postman to get fresh weather data for New Orleans
 - Save as `current-weather.json`
+
+**What this accomplishes:** Weather data is the core content that your app will display. By using real API data from previous lessons or downloading fresh data, you ensure your app works with authentic information rather than placeholder text. This step also reinforces the connection between different lessons and shows how data can be reused across projects.
 
 ---
 
@@ -66,6 +72,8 @@ var newOrleansWeather = {
 };
 ```
 
+**What this accomplishes:** Converting JSON data into a JavaScript POJO (Plain Old JavaScript Object) makes the weather information easily accessible in your code. This structured approach allows you to reference specific weather properties like temperature and wind speed using dot notation, making your code more readable and maintainable than working with raw JSON strings.
+
 ---
 
 ## ✅ Step 5: Build the Weather Card
@@ -85,6 +93,8 @@ In your `index.html`, create a Bootstrap card for New Orleans weather:
 </div>
 ```
 
+**What this accomplishes:** The Bootstrap card provides a professional, responsive container for displaying weather information. By using span elements with specific IDs, you create placeholders that JavaScript can target and update dynamically. This approach separates the structure (HTML) from the content (JavaScript), following modern web development principles and making your app look polished and professional.
+
 > **💡 Note:** A `<span>` tag is an inline HTML element used to mark up a part of text. It's perfect for targeting specific text with JavaScript because you can give it an `id` attribute and then use functions like `setText()` to update just that part of the content without affecting the rest of the paragraph. 📖 [Learn more about span tags](https://www.w3schools.com/tags/tag_span.asp)
 
 ---
@@ -99,6 +109,8 @@ setText("temp", newOrleansWeather.current_weather.temperature);
 setText("wind", newOrleansWeather.current_weather.windspeed);
 setText("code", newOrleansWeather.current_weather.weathercode);
 ```
+
+**What this accomplishes:** This step brings your weather app to life by connecting the data (POJO) to the user interface (HTML). The `setText()` function dynamically updates the span elements with real weather information, transforming your static HTML into a dynamic, data-driven application. This demonstrates the fundamental concept of DOM manipulation and shows how JavaScript bridges the gap between data and display.
 
 
 
@@ -118,6 +130,8 @@ Create HTML files and JavaScript files for the other cities from Week 6 Lesson 2
 4. Build a Bootstrap card displaying the weather
 5. Use `setText()` to populate the data
 6. **Bonus:** Add the same button functionality to each city page!
+
+**What this accomplishes:** Expanding your weather app to multiple cities demonstrates how to scale a project and manage multiple files effectively. This step teaches you about project organization, code reuse, and how to maintain consistency across similar pages. It also shows how the skills you learned for one city can be applied systematically to create a comprehensive multi-city weather application.
 
 **Example file structure:**
 ```
