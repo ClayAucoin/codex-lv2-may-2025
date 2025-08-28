@@ -9,12 +9,12 @@ def process_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
         content = f.read()
     
-    # Pattern to match "Show Me:" or "Show me:" (with optional colon) followed by any text, then ```html or ```bash block
-    pattern = r'[Ss]how [Mm]e:?(.*?)\n+```(html|bash)\n(.*?)\n```'
+    # Pattern to match "Show Me:" or "Show me:" or "Show me..." (with optional colon or ellipsis) followed by any text, then ```html or ```bash block
+    pattern = r'[Ss]how [Mm]e[:.]*(.*?)\n+```(html|bash|javascript)\n(.*?)\n```'
     
     def replacement(match):
         show_me_text = match.group(1).strip()
-        code_type = match.group(2)  # 'html' or 'bash'
+        code_type = match.group(2)  # 'html', 'bash', or 'javascript'
         code_content = match.group(3)
         
         if code_type == 'html':
@@ -24,11 +24,11 @@ def process_file(file_path):
 
 <pre><code>{escaped_content}</code></pre>
 </details>'''
-        else:  # bash
+        else:  # bash or javascript
             return f'''<details>
 <summary>Show me:{show_me_text}</summary>
 
-```bash
+```{code_type}
 {code_content}
 ```
 </details>'''

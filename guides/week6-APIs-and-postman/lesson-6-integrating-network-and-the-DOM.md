@@ -75,7 +75,9 @@ This approach makes your code more maintainable and easier to debug.
 * **Remember:** Order matters - set the data first, then update the page
 * Re-use the variable names you had used in Lesson 3 to set your weather data
 
-Show me...
+<details>
+<summary>Show me:</summary>
+
 ```javascript
 .then(function(result){
     console.log(result);
@@ -85,6 +87,7 @@ Show me...
     updateWeatherCard();
 })
 ```
+</details>
 
 **Why this matters:** This is where the magic happens - we're connecting our API data to the actual webpage. The order is crucial because we need valid data before we can update the display. By reusing the same variable names from Lesson 3, we ensure our `updateWeatherCard` function can find and use the data correctly. This step transforms your app from showing static test data to displaying live, real-time weather information.
 
@@ -118,7 +121,9 @@ Show me...
 
 Here's how your complete function should look:
 
-Show me:
+<details>
+<summary>Show me:</summary>
+
 ```javascript
 // Function to fetch data from the open-meteo API
 function getNewOrleansWeather() {
@@ -140,6 +145,7 @@ function getNewOrleansWeather() {
         .catch((error) => console.error(error));
 }
 ```
+</details>
 
 ---
 
@@ -179,6 +185,3 @@ You've successfully integrated network calls with DOM updates:
 
 - [← Back to Week 6 Overview](README.md)
 - [← Previous: Lesson 5 - Postman Code Generation](lesson-5-postman-code-gen.md)
-
-👉 Next time: add error handling, loading states, and improve the user experience with better UI feedback.
-
