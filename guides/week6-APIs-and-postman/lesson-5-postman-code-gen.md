@@ -8,7 +8,13 @@
 
 ## Overview
 
-In this lesson, you will use your repo from lesson 3. We will not need buttons initially, but they are optional here for those who want the challenge.
+In this lesson, you will use your repo from lesson 3. 
+
+**Postman Code Generation** is a powerful feature that automatically converts your API requests into working code snippets. When you click the "Code" button in Postman, it generates ready-to-use JavaScript, Python, or other language code that you can copy and paste directly into your projects.
+
+Instead of having loose API code scattered throughout our script, we'll create clean, named functions like `fetchNewOrleansWeather()` that contain all the Postman-generated fetch logic. You'll first create the function, then immediately call the function to test it.
+
+In this lesson, we will only be logging data to the console. We will update the actual webpage in the next lesson.
 
 ---
 
@@ -20,12 +26,16 @@ In this lesson, you will use your repo from lesson 3. We will not need buttons i
 * For now, just add `console.log("Weather for New Orleans")` inside the function
 * **Test immediately:** Call the function in Console to verify it works
 
+📸 \[Screenshot: script.js showing the function definition]
+
 ### 2. Immediately call it to test it in the console
 
 * Open DevTools Console
 * Type `fetchNewOrleansWeather()` and press Enter
 * You should see your log message
 * **Commit your changes to Git**
+
+📸 \[Screenshot: Console showing the function call and log output]
 
 ### 3. Optional Challenge: call when you click on a button
 
@@ -43,9 +53,13 @@ In this lesson, you will use your repo from lesson 3. We will not need buttons i
 * **Paste it inside your `fetchNewOrleansWeather` function**, replacing the console.log
 * **Test immediately:**
   * In Console, call `fetchNewOrleansWeather()` → verify JSON response
-  * **Network** shows a GET request on each call
+  * **Network** shows a GET request to `api.open-meteo.com` on each call
   * **Console** shows the weather data
 * **Commit your changes to Git**
+
+📸 \[Screenshot: Postman Code tab showing JavaScript Fetch code]
+📸 \[Screenshot: Console showing JSON weather data response]
+📸 \[Screenshot: Network tab showing the API request]
 
 ### 5. Reload the page and check the network tab and the console tab in dev tools
 
@@ -55,6 +69,9 @@ In this lesson, you will use your repo from lesson 3. We will not need buttons i
 * Verify you see the API request in Network tab
 * Verify you see the weather data in Console tab
 
+📸 \[Screenshot: DevTools with Network tab open showing API request]
+📸 \[Screenshot: Console tab showing weather data after page reload]
+
 ### 6. Repeat for the other cities
 
 For each new city:
@@ -63,6 +80,19 @@ For each new city:
 * Generate code and paste into the function
 * Test in Console first
 * Optional: Add buttons for each city
+
+### 7. Analyze network performance
+
+* Open DevTools → Network tab
+* Call your weather functions for different cities
+* Look carefully at the timing information for each request
+* Note how long each data request took to complete
+* **Also check the Console tab:** Do you notice a delay in the console logs?
+
+**Why this matters:** Understanding network performance helps you identify potential bottlenecks and optimize your app. Some cities might load faster than others due to server location, network conditions, or API response times. This analysis gives you real-world insights into how your app performs and helps you make informed decisions about user experience improvements. The console delay gives you a user's perspective of how "fast" or "slow" the app feels.
+
+📸 \[Screenshot: Network tab showing timing information for multiple city requests]
+📸 \[Screenshot: Console showing timing of log outputs for different cities]
 
 ---
 
