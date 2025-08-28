@@ -48,7 +48,19 @@ This approach makes your code more maintainable and easier to debug.
 
 📸 \[Screenshot: Console showing the expanded .then() function working]
 
-### 3. Reset your data variable
+### 3. Update response handling
+
+* Find the line `.then((response) => response.text())` in your `fetchNewOrleansWeather` function
+* Change it to `.then((response) => response.json())`
+* This change is crucial because we need JSON data, not text
+
+**Why this matters:** The API returns JSON data, but `response.text()` gives us a string that we'd have to parse manually. Using `response.json()` automatically converts the response to a JavaScript object, making it much easier to work with. This eliminates the need for `JSON.parse()` and prevents parsing errors.
+
+**Test immediately:** Call your function and verify you get a JavaScript object in the console, not a string.
+
+📸 \[Screenshot: Console showing JavaScript object instead of string response]
+
+### 4. Reset your data variable
 
 * Inside the `.then()` function, assign the result to your data variable
 * Test that you can access the data
@@ -69,7 +81,7 @@ This approach makes your code more maintainable and easier to debug.
 
 📸 \[Screenshot: Console showing the data variable assignment and temperature access]
 
-### 4. Update the page
+### 5. Update the page
 
 * Call the `updateWeatherCard` function after you set your `newOrleansWeatherData` variable
 * **Remember:** Order matters - set the data first, then update the page
@@ -95,7 +107,7 @@ This approach makes your code more maintainable and easier to debug.
 
 📸 \[Screenshot: Page showing updated weather information from API]
 
-### 5. Delete your test data
+### 6. Delete your test data
 
 * The POJO we copy/pasted in Lesson 3 was just test data
 * Now that we have real-time data, we don't need it anymore
@@ -105,7 +117,7 @@ This approach makes your code more maintainable and easier to debug.
 
 📸 \[Screenshot: script.js with test data removed/commented out]
 
-### 6. Repeat for other cities
+### 7. Repeat for other cities
 
 * Go into the JS files for your other cities
 * Apply the same process to each city function
@@ -133,14 +145,13 @@ function fetchNewOrleansWeather() {
     };
 
     fetch("https://api.open-meteo.com/v1/forecast?latitude=29.95&longitude=-90.07&current=temperature_2m,is_day&wind_speed_unit=mph&temperature_unit=fahrenheit&precipitation_unit=inch", requestOptions)
-        .then((response) => response.text())
+        .then((response) => response.json())
         .then(function(result){
-            // Parse the JSON result
-            const weatherData = JSON.parse(result);
-            console.log(weatherData);
+            // The result is already a JavaScript object
+            console.log(result);
             
             // Update the page with real data
-            updateWeatherCard(weatherData);
+            updateWeatherCard(result);
         })
         .catch((error) => console.error(error));
 }
