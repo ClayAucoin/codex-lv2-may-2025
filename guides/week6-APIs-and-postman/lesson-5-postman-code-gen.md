@@ -24,20 +24,32 @@ In this lesson, we will only be logging data to the console. We will update the 
 
 * In `script.js`, create a function called `fetchNewOrleansWeather`
 * For now, just add `console.log("Weather for New Orleans")` inside the function
-* **Test immediately:** Call the function in Console to verify it works
 
-📸 \[Screenshot: script.js showing the function definition]
+Show me...
+```javascript
+  function fetchNewOrleansWeather() {
+    console.log("Weather for New Orleans");
+  }
+```
 
 ### 2. Immediately call it to test it in the console
 
 * Open DevTools Console
 * Type `fetchNewOrleansWeather()` and press Enter
-* You should see your log message
+* You should see your log message in the Console
 * **Commit your changes to Git**
 
-📸 \[Screenshot: Console showing the function call and log output]
+Show me...
+```javascript
+  function fetchNewOrleansWeather() {
+    console.log("Weather for New Orleans");
+  }
+  fetchNewOrleansWeather();
+```
+Show me...
+\[Screenshot: console showing log of Weather for New Orleans]
 
-> **💡 Need help with functions?** Check out our [Promise Reference Guide](promise-reference.md) for arrow functions and promise basics.
+> **💡 Need help with functions?** Check out our [JavaScript Reference](../week5-event-driven-apps/js-reference.md) for function basics.
 
 ### 3. Optional Challenge: call when you click on a button
 
