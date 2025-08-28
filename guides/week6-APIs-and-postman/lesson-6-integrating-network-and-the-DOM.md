@@ -23,12 +23,19 @@ This approach makes your code more maintainable and easier to debug.
 ### 1. Clean up your page updates
 
 * Create a function called `updateWeatherCard`
-* Put all your page updates here
+* Put all your page updates here (For example: `setText`)
 * Call your function immediately, or (optionally) in your button
 
 **Why this matters:** By creating a separate function for page updates, we keep our code organized and follow the single responsibility principle. This function will handle all the DOM manipulation, making it easier to debug and maintain. You can call it from anywhere in your code when you need to refresh the weather display.
 
-📸 \[Screenshot: script.js showing the new updateWeatherCard function]
+Show me...
+
+```javascript
+    function updateWeatherCard() {
+        setText("temp", newOrleansWeather.current.temperature);
+        setText("windSpeed", newOrleansWeather.current.windSpeed);
+    }
+```
 
 ### 2. Find your results
 
@@ -116,10 +123,15 @@ This approach makes your code more maintainable and easier to debug.
 * The POJO we copy/pasted in Lesson 3 was just test data
 * Now that we have real-time data, we don't need it anymore
 * Remove or comment out the old test data POJO
+* Replace the data with an empty object `var weatherData = {}` or just a declaration `var weatherData;`
+* Troubleshooting: Check if need to remove your function call if you have one that runs on page load. If it is called before the data is fetched, you will get an undefined error.
 
 **Why this matters:** Cleaning up old test data prevents confusion and keeps your code focused on the real functionality. The test data was just a placeholder to help you build the UI structure, but now your app is pulling live data from the weather API. Removing unused code makes your project more professional and easier for other developers to understand.
 
-📸 \[Screenshot: script.js with test data removed/commented out]
+Show me...
+```javascript
+  var newOrleansWeather = {};
+```
 
 ### 7. Repeat for other cities
 
@@ -172,7 +184,24 @@ function fetchNewOrleansWeather() {
 * Try to implement this yourself
 * Test that each button updates the page with the correct city's weather
 
-📸 \[Screenshot: Multiple city buttons working and updating the page]
+## Challenge: Error Handling with Catch
+
+**Advanced Challenge:** Examine the `catch` statement in your generated code. This is called if there are errors in the API call.
+
+**What to do:**
+1. **Create an error state** in Postman by setting invalid coordinates (e.g., longitude to 200)
+2. **Generate new code** with the error coordinates
+3. **Add a button** that triggers this error state
+4. **Use the patterns you learned** in this lesson to gracefully handle errors
+5. **Update your UI** to show user-friendly error messages instead of crashing
+
+**Why this matters:** Real-world apps need to handle errors gracefully. Users should see helpful messages like "Unable to load weather data" instead of technical errors or blank screens.
+
+**💡 Tip:** Look at the `.catch()` block in your generated code and think about how to use it to update the page with error information.
+
+**📚 References:**
+- [MDN Promise.catch() Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/catch) - Official documentation with examples
+- [Promise Reference Guide](promise-reference.md) - Understanding promises and the `then` method
 
 ---
 
