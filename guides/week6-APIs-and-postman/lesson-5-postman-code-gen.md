@@ -37,6 +37,8 @@ In this lesson, we will only be logging data to the console. We will update the 
 
 📸 \[Screenshot: Console showing the function call and log output]
 
+> **💡 Need help with functions?** Check out our [Promise Reference Guide](promise-reference.md) for arrow functions and promise basics.
+
 ### 3. Optional Challenge: call when you click on a button
 
 * **No code samples or hints given** - this is your challenge!
@@ -56,6 +58,8 @@ In this lesson, we will only be logging data to the console. We will update the 
   * **Network** shows a GET request to `api.open-meteo.com` on each call
   * **Console** shows the weather data
 * **Commit your changes to Git**
+
+> **💡 Understanding `.then()` and promises?** See our [Promise Reference Guide](promise-reference.md) for detailed explanations.
 
 📸 \[Screenshot: Postman Code tab showing JavaScript Fetch code]
 📸 \[Screenshot: Console showing JSON weather data response]
@@ -126,6 +130,8 @@ You built **weather functions** with:
 * **Console testing** before UI integration
 * **Optional button challenge** for those who want it
 * **Multiple cities** with reusable patterns
+
+**📚 Reference:** [Promise Reference Guide](promise-reference.md) - Keep this handy for arrow functions and promise concepts!
 
 ---
 

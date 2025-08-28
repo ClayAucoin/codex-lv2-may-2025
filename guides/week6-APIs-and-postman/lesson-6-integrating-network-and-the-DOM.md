@@ -46,6 +46,8 @@ This approach makes your code more maintainable and easier to debug.
 
 **Test immediately:** Make sure your function still works after this change.
 
+> **💡 Arrow functions vs. traditional functions?** Check our [Promise Reference Guide](promise-reference.md) for the differences and when to use each.
+
 📸 \[Screenshot: Console showing the expanded .then() function working]
 
 ### 3. Update response handling
@@ -57,6 +59,8 @@ This approach makes your code more maintainable and easier to debug.
 **Why this matters:** The API returns JSON data, but `response.text()` gives us a string that we'd have to parse manually. Using `response.json()` automatically converts the response to a JavaScript object, making it much easier to work with. This eliminates the need for `JSON.parse()` and prevents parsing errors.
 
 **Test immediately:** Call your function and verify you get a JavaScript object in the console, not a string.
+
+> **💡 Why do we need `.then()`?** See our [Promise Reference Guide](promise-reference.md) for the network latency explanation.
 
 📸 \[Screenshot: Console showing JavaScript object instead of string response]
 
@@ -189,6 +193,8 @@ You've successfully integrated network calls with DOM updates:
 * **Replaced test data** with real-time API data
 * **Created reusable patterns** for multiple cities
 * **Built a dynamic weather app** that updates in real-time
+
+**📚 Reference:** [Promise Reference Guide](promise-reference.md) - Essential reading for understanding promises, arrow functions, and async JavaScript!
 
 ---
 
