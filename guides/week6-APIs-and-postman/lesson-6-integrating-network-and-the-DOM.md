@@ -32,7 +32,7 @@ This approach makes your code more maintainable and easier to debug.
 
 ### 2. Find your results
 
-* Look in your `getNewOrleansWeather` function
+* Look in your `fetchNewOrleansWeather` function
 * Find the line that says `console.log(results)` or similar
 * Replace the line `.then((result) => console.log(result))` with this expanded version:
 
@@ -126,7 +126,7 @@ Here's how your complete function should look:
 
 ```javascript
 // Function to fetch data from the open-meteo API
-function getNewOrleansWeather() {
+function fetchNewOrleansWeather() {
     const requestOptions = {
         method: "GET",
         redirect: "follow"
