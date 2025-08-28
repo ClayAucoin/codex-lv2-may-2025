@@ -7,7 +7,7 @@
 ## 📋 **What You'll Do**
 
 1. **Create the basic file structure** for your weather app
-2. **Include helper.js and script.js** in your index.html file
+2. **Include helpers.js and script.js** in your index.html file
 3. **Set up the HTML foundation** for your weather app
 
 ---
@@ -20,7 +20,7 @@ Your project folder should contain these files:
 my-weather/
 ├── index.html
 ├── script.js
-├── helper.js
+├── helpers.js
 └── README.md
 ```
 
@@ -45,14 +45,14 @@ Open `index.html` and add this basic structure:
     </div>
 
     <!-- Include your JavaScript files -->
-    <script src="helper.js"></script>
+    <script src="helpers.js"></script>
     <script src="script.js"></script>
 </body>
 </html>
 ```
 
 ### **3. Create Basic JavaScript Files**
-- **helper.js**: This will contain helper functions (we'll add content later)
+- **helpers.js**: This will contain helper functions (we'll add content later)
 - **script.js**: This will contain your weather app logic (we'll add content later)
 
 ---
@@ -61,13 +61,15 @@ Open `index.html` and add this basic structure:
 
 Creating the proper file structure establishes the foundation for your weather app. The HTML file serves as the user interface, the JavaScript files contain the app logic and helper functions, and the README documents your project. This organization follows web development best practices and makes your code maintainable and easy to understand for other developers.
 
+> **📚 Need help with helper functions?** Check out our [Helpers Guide](../../../week5-event-driven-apps/helpers-how-to.md) for detailed instructions on downloading, setting up, and using the helper functions like `setText()` that you'll need for this project.
+
 ---
 
 ## ✅ **Check Your Work**
 
 - [ ] `index.html` contains the basic HTML structure
 - [ ] Bootstrap CSS is linked in the head section
-- [ ] `helper.js` and `script.js` are included at the bottom of the body
+- [ ] `helpers.js` and `script.js` are included at the bottom of the body
 - [ ] Files are properly organized in your project folder
 
 ---

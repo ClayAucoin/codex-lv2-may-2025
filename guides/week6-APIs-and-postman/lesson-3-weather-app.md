@@ -54,13 +54,15 @@ my-weather/
 └── README.md
 ```
 
-**Include helper.js and script.js in index.html:**
+**Include helpers.js and script.js in index.html:**
 ```html
 <script src="helpers.js"></script>
 <script src="script.js"></script>
 ```
 
 **What this accomplishes:** Creating the proper file structure establishes the foundation for your weather app. The HTML file serves as the user interface, the JavaScript files contain the app logic and helper functions, and the README documents your project. This organization follows web development best practices and makes your code maintainable and easy to understand for other developers.
+
+> **📚 Need help with helper functions?** Check out our [Helpers Guide](../../week5-event-driven-apps/helpers-how-to.md) for detailed instructions on downloading, setting up, and using the helper functions like `setText()` that you'll need for this project.
 
 ---
 
@@ -147,7 +149,7 @@ Create HTML files and JavaScript files for the other cities from Week 6 Lesson 2
 
 **For each city:**
 1. Create a separate HTML file (e.g., `atlanta.html`, `seattle.html`)
-2. Include helper.js and a city-specific script file (e.g., `atlanta-script.js`, `seattle-script.js`)
+2. Include helpers.js and a city-specific script file (e.g., `atlanta-script.js`, `seattle-script.js`)
 3. Copy the weather JSON data to create a POJO in the city's script file
 4. Build a Bootstrap card displaying the weather
 5. Use `setText()` to populate the data
@@ -166,7 +168,7 @@ my-weather/
 ├── seattle-script.js       ← Seattle weather logic
 ├── [city].html             ← Your chosen city
 ├── [city]-script.js        ← Your city's weather logic
-├── helper.js               ← Shared helper functions
+├── helpers.js               ← Shared helper functions
 └── README.md
 ```
 

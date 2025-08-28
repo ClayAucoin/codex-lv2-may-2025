@@ -9,7 +9,7 @@
 1. **Create HTML files** for additional cities (Atlanta, Seattle, your chosen city)
 2. **Create JavaScript files** for each city's weather logic
 3. **Build Bootstrap cards** for each city
-4. **Use the same helper.js** across all pages
+4. **Use the same helpers.js** across all pages
 
 ---
 
@@ -44,7 +44,7 @@ For each city, create a new HTML file (e.g., `atlanta.html`, `seattle.html`):
         
     </div>
 
-    <script src="helper.js"></script>
+    <script src="helpers.js"></script>
     <script src="atlanta-script.js"></script>
 </body>
 </html>
@@ -94,7 +94,7 @@ my-weather/
 ├── seattle-script.js       ← Seattle weather logic
 ├── [city].html             ← Your chosen city
 ├── [city]-script.js        ← Your city's weather logic
-├── helper.js               ← Shared helper functions
+├── helpers.js               ← Shared helper functions
 └── README.md
 ```
 
@@ -104,7 +104,7 @@ my-weather/
 
 - [ ] HTML files created for Atlanta, Seattle, and your chosen city
 - [ ] JavaScript files contain weather data POJOs for each city
-- [ ] All pages use the same helper.js file
+- [ ] All pages use the same helpers.js file
 - [ ] Each city displays its weather data correctly
 - [ ] File structure matches the example above
 

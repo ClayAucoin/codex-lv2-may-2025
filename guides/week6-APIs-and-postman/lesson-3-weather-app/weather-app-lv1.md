@@ -37,7 +37,7 @@ cd my-weather
 ### **3. Set Up Project Structure**
 ```bash
 # Create the basic file structure
-touch index.html script.js helper.js README.md
+touch index.html script.js helpers.js README.md
 
 # Check your files
 ls -la
@@ -61,7 +61,7 @@ Setting up a proper Git repository is the foundation of any development project.
 
 - [ ] GitHub repository created with name `my-weather`
 - [ ] Repository cloned to local machine
-- [ ] Project folder contains: `index.html`, `script.js`, `helper.js`, `README.md`
+- [ ] Project folder contains: `index.html`, `script.js`, `helpers.js`, `README.md`
 - [ ] Git status shows clean working directory
 
 ---
