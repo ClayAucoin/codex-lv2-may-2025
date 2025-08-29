@@ -1,3 +1,7 @@
+Level Navigation: **Current Level:** 1 | [2](./weather-app-lv2.md) | [3](./weather-app-lv3.md) | [4](./weather-app-lv4.md) | [5](./weather-app-lv5.md) | [6](./weather-app-lv6.md) | [7](./weather-app-lv7.md) | [8](./weather-app-lv8.md) | [9](./weather-app-lv9.md) | [10](./weather-app-lv10.md)
+
+---
+
 # ✅ **Step 1: Create the Repository**
 
 **Goal**: Set up your Git repository and project structure for the weather app.
@@ -74,3 +78,7 @@ Setting up a proper Git repository is the foundation of any development project.
 ---
 
 **Ready for the next step? Continue to [Step 2: Set Up Project Files](weather-app-lv2.md)**
+
+---
+
+Level Navigation: **Current Level:** 1 | [2](./weather-app-lv2.md) | [3](./weather-app-lv3.md) | [4](./weather-app-lv4.md) | [5](./weather-app-lv5.md) | [6](./weather-app-lv6.md) | [7](./weather-app-lv7.md) | [8](./weather-app-lv8.md) | [9](./weather-app-lv9.md) | [10](./weather-app-lv10.md)

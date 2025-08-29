@@ -1,3 +1,7 @@
+Level Navigation: [1](./weather-app-lv1.md) | [2](./weather-app-lv2.md) | [3](./weather-app-lv3.md) | [4](./weather-app-lv4.md) | [5](./weather-app-lv5.md) | [6](./weather-app-lv6.md) | [7](./weather-app-lv7.md) | [8](./weather-app-lv8.md) | **Current Level:** 9 | [10](./weather-app-lv10.md)
+
+---
+
 # 🎯 **Challenge Part 2: Add a Second City Button (Same Page)**
 
 **Goal**: Add a second city button to the same page, allowing users to switch between cities.
@@ -58,3 +62,7 @@
 ---
 
 **Ready for the final challenge? Continue to [Challenge Part 3: Multiple City Buttons](weather-app-lv10.md)**
+
+---
+
+Level Navigation: [1](./weather-app-lv1.md) | [2](./weather-app-lv2.md) | [3](./weather-app-lv3.md) | [4](./weather-app-lv4.md) | [5](./weather-app-lv5.md) | [6](./weather-app-lv6.md) | [7](./weather-app-lv7.md) | [8](./weather-app-lv8.md) | **Current Level:** 9 | [10](./weather-app-lv10.md)

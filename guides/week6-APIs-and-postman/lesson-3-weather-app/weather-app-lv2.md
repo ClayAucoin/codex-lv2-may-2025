@@ -1,3 +1,7 @@
+Level Navigation: [1](./weather-app-lv1.md) | **Current Level:** 2 | [3](./weather-app-lv3.md) | [4](./weather-app-lv4.md) | [5](./weather-app-lv5.md) | [6](./weather-app-lv6.md) | [7](./weather-app-lv7.md) | [8](./weather-app-lv8.md) | [9](./weather-app-lv9.md) | [10](./weather-app-lv10.md)
+
+---
+
 # ✅ **Step 2: Set Up Project Files**
 
 **Goal**: Create the necessary files and include scripts in your HTML.
@@ -83,3 +87,7 @@ Creating the proper file structure establishes the foundation for your weather a
 ---
 
 **Ready for the next step? Continue to [Step 3: Copy Weather Data](weather-app-lv3.md)**
+
+---
+
+Level Navigation: [1](./weather-app-lv1.md) | **Current Level:** 2 | [3](./weather-app-lv3.md) | [4](./weather-app-lv4.md) | [5](./weather-app-lv5.md) | [6](./weather-app-lv6.md) | [7](./weather-app-lv7.md) | [8](./weather-app-lv8.md) | [9](./weather-app-lv9.md) | [10](./weather-app-lv10.md)

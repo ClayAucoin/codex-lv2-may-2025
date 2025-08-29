@@ -1,3 +1,7 @@
+Level Navigation: [1](./weather-app-lv1.md) | [2](./weather-app-lv2.md) | **Current Level:** 3 | [4](./weather-app-lv4.md) | [5](./weather-app-lv5.md) | [6](./weather-app-lv6.md) | [7](./weather-app-lv7.md) | [8](./weather-app-lv8.md) | [9](./weather-app-lv9.md) | [10](./weather-app-lv10.md)
+
+---
+
 # ✅ **Step 3: Copy Weather Data**
 
 **Goal**: Get weather data from previous lessons or download fresh data for your app.
@@ -62,3 +66,7 @@ Weather data is the core content that your app will display. By using real API d
 ---
 
 **Ready for the next step? Continue to [Step 4: Create POJO in script.js](weather-app-lv4.md)**
+
+---
+
+Level Navigation: [1](./weather-app-lv1.md) | [2](./weather-app-lv2.md) | **Current Level:** 3 | [4](./weather-app-lv4.md) | [5](./weather-app-lv5.md) | [6](./weather-app-lv6.md) | [7](./weather-app-lv7.md) | [8](./weather-app-lv8.md) | [9](./weather-app-lv9.md) | [10](./weather-app-lv10.md)

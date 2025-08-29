@@ -1,3 +1,7 @@
+Level Navigation: [1](./weather-app-lv1.md) | [2](./weather-app-lv2.md) | [3](./weather-app-lv3.md) | [4](./weather-app-lv4.md) | [5](./weather-app-lv5.md) | [6](./weather-app-lv6.md) | [7](./weather-app-lv7.md) | [8](./weather-app-lv8.md) | [9](./weather-app-lv9.md) | **Current Level:** 10
+
+---
+
 # 🎯 **Challenge Part 3: Add Buttons for More Cities**
 
 **Goal**: Scale your app to handle multiple city buttons, creating a comprehensive city switcher.
@@ -77,3 +81,7 @@ You've now built a comprehensive, interactive weather app that can:
 ---
 
 **You've completed all the challenges! Your weather app is now a sophisticated, interactive application.**
+
+---
+
+Level Navigation: [1](./weather-app-lv1.md) | [2](./weather-app-lv2.md) | [3](./weather-app-lv3.md) | [4](./weather-app-lv4.md) | [5](./weather-app-lv5.md) | [6](./weather-app-lv6.md) | [7](./weather-app-lv7.md) | [8](./weather-app-lv8.md) | [9](./weather-app-lv9.md) | **Current Level:** 10

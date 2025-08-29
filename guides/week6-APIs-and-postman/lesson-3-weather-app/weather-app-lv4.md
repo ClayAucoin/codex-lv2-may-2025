@@ -1,3 +1,7 @@
+Level Navigation: [1](./weather-app-lv1.md) | [2](./weather-app-lv2.md) | [3](./weather-app-lv3.md) | **Current Level:** 4 | [5](./weather-app-lv5.md) | [6](./weather-app-lv6.md) | [7](./weather-app-lv7.md) | [8](./weather-app-lv8.md) | [9](./weather-app-lv9.md) | [10](./weather-app-lv10.md)
+
+---
+
 # ✅ **Step 4: Create POJO in script.js**
 
 **Goal**: Convert JSON weather data into a JavaScript object for easy access.
@@ -67,3 +71,7 @@ Converting JSON data into a JavaScript POJO (Plain Old JavaScript Object) makes 
 ---
 
 **Ready for the next step? Continue to [Step 5: Build the Weather Card](weather-app-lv5.md)**
+
+---
+
+Level Navigation: [1](./weather-app-lv1.md) | [2](./weather-app-lv2.md) | [3](./weather-app-lv3.md) | **Current Level:** 4 | [5](./weather-app-lv5.md) | [6](./weather-app-lv6.md) | [7](./weather-app-lv7.md) | [8](./weather-app-lv8.md) | [9](./weather-app-lv9.md) | [10](./weather-app-lv10.md)

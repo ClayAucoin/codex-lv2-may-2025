@@ -1,3 +1,7 @@
+Level Navigation: [1](./weather-app-lv1.md) | [2](./weather-app-lv2.md) | [3](./weather-app-lv3.md) | [4](./weather-app-lv4.md) | **Current Level:** 5 | [6](./weather-app-lv6.md) | [7](./weather-app-lv7.md) | [8](./weather-app-lv8.md) | [9](./weather-app-lv9.md) | [10](./weather-app-lv10.md)
+
+---
+
 # ✅ **Step 5: Build the Weather Card**
 
 **Goal**: Create a Bootstrap card with span elements to display weather information.
@@ -67,3 +71,7 @@ A `<span>` tag is an inline HTML element used to mark up a part of text. It's pe
 ---
 
 **Ready for the next step? Continue to [Step 6: Display Weather Data](weather-app-lv6.md)**
+
+---
+
+Level Navigation: [1](./weather-app-lv1.md) | [2](./weather-app-lv2.md) | [3](./weather-app-lv3.md) | [4](./weather-app-lv4.md) | **Current Level:** 5 | [6](./weather-app-lv6.md) | [7](./weather-app-lv7.md) | [8](./weather-app-lv8.md) | [9](./weather-app-lv9.md) | [10](./weather-app-lv10.md)

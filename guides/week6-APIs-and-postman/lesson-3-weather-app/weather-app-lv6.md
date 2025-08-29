@@ -1,3 +1,7 @@
+Level Navigation: [1](./weather-app-lv1.md) | [2](./weather-app-lv2.md) | [3](./weather-app-lv3.md) | [4](./weather-app-lv4.md) | [5](./weather-app-lv5.md) | **Current Level:** 6 | [7](./weather-app-lv7.md) | [8](./weather-app-lv8.md) | [9](./weather-app-lv9.md) | [10](./weather-app-lv10.md)
+
+---
+
 # ✅ **Step 6: Display Weather Data**
 
 **Goal**: Connect your weather data to the user interface using JavaScript.
@@ -61,3 +65,7 @@ This step brings your weather app to life by connecting the data (POJO) to the u
 ---
 
 **Ready for the next step? Continue to [Step 7: Create Multi-City Weather Pages](weather-app-lv7.md)**
+
+---
+
+Level Navigation: [1](./weather-app-lv1.md) | [2](./weather-app-lv2.md) | [3](./weather-app-lv3.md) | [4](./weather-app-lv4.md) | [5](./weather-app-lv5.md) | **Current Level:** 6 | [7](./weather-app-lv7.md) | [8](./weather-app-lv8.md) | [9](./weather-app-lv9.md) | [10](./weather-app-lv10.md)

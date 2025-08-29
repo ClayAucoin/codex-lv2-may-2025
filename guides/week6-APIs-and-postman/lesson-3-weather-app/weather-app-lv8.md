@@ -1,3 +1,7 @@
+Level Navigation: [1](./weather-app-lv1.md) | [2](./weather-app-lv2.md) | [3](./weather-app-lv3.md) | [4](./weather-app-lv4.md) | [5](./weather-app-lv5.md) | [6](./weather-app-lv6.md) | [7](./weather-app-lv7.md) | **Current Level:** 8 | [9](./weather-app-lv9.md) | [10](./weather-app-lv10.md)
+
+---
+
 # 🎯 **Challenge Part 1: Add a Button to Show Weather Data**
 
 **Goal**: Make weather data appear only after a button is clicked, adding interactivity to your app.
@@ -66,3 +70,7 @@ This is how we make websites interactive instead of just static displays!
 ---
 
 **Ready for the next challenge? Continue to [Challenge Part 2: Second City Button](weather-app-lv9.md)**
+
+---
+
+Level Navigation: [1](./weather-app-lv1.md) | [2](./weather-app-lv2.md) | [3](./weather-app-lv3.md) | [4](./weather-app-lv4.md) | [5](./weather-app-lv5.md) | [6](./weather-app-lv6.md) | [7](./weather-app-lv7.md) | **Current Level:** 8 | [9](./weather-app-lv9.md) | [10](./weather-app-lv10.md)
