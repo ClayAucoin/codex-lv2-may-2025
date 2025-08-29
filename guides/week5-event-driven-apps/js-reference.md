@@ -136,7 +136,41 @@ onEvent("hiBtn", "click", sayHi);
 
 ---
 
-### B) String Concatenation (`+`)
+### B) Invoking a Function
+
+Call a function to execute its code.
+
+```js
+// Define the function
+function showMessage() {
+  setText("outputLabel", "Hello World!");
+}
+
+// Invoke (call) the function
+showMessage();  // This runs the function
+showMessage();  // Call it again
+showMessage();  // Call it multiple times
+```
+
+**Key Points:**
+- **Parentheses `()`** are required to invoke a function
+- **Without parentheses** - you're referencing the function, not calling it
+- **Multiple calls** - the same function can be called many times
+- **In `onEvent`** - pass function reference (no parentheses) or use inline function
+
+```js
+// ✅ CORRECT - pass function reference (no parentheses)
+onEvent("myButton", "click", showMessage);  // This works perfectly!
+
+// ✅ ALSO CORRECT - inline function that calls showMessage
+onEvent("myButton", "click", function() {
+  showMessage();  // Call the function when button is clicked
+});
+```
+
+---
+
+### C) String Concatenation (`+`)
 
 Join pieces of text together.
 
@@ -148,7 +182,7 @@ setText("greetingLabel", msg);
 
 ---
 
-### C) String Interpolation (template literals)
+### D) String Interpolation (template literals)
 
 Embed variables directly into text with backticks `` ` ``.
 
@@ -159,7 +193,7 @@ setText("scoreLabel", `Your score is ${score} points`);
 
 ---
 
-### D) Variables with `var`
+### E) Variables with `var`
 
 Store and update values.
 
@@ -170,7 +204,7 @@ clicks = clicks + 1;
 
 ---
 
-### E) Counter Pattern
+### F) Counter Pattern
 
 Increase (or decrease) a number step by step.
 
