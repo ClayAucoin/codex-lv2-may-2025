@@ -25,12 +25,11 @@ def process_file(file_path):
 <pre><code>{escaped_content}</code></pre>
 </details>'''
         else:  # bash or javascript
+            escaped_content = html.escape(code_content)
             return f'''<details>
 <summary>Show me:{show_me_text}</summary>
 
-```{code_type}
-{code_content}
-```
+<pre><code class="language-{code_type}">{escaped_content}</code></pre>
 </details>'''
     
     new_content, count = re.subn(pattern, replacement, content, flags=re.DOTALL)

@@ -25,14 +25,13 @@ In this lesson, we will only be logging data to the console. We will update the 
 * In `script.js`, create a function called `fetchNewOrleansWeather`
 * For now, just add `console.log("Weather for New Orleans")` inside the function
 
+
 <details>
 <summary>Show me:</summary>
 
-```javascript
-  function fetchNewOrleansWeather() {
-    console.log("Weather for New Orleans");
-  }
-```
+<pre><code class="language-javascript">  function fetchNewOrleansWeather() {
+    console.log(&quot;Weather for New Orleans&quot;);
+  }</code></pre>
 </details>
 
 ### 2. Immediately call it to test it in the console
@@ -45,14 +44,14 @@ In this lesson, we will only be logging data to the console. We will update the 
 <details>
 <summary>Show me:</summary>
 
-```javascript
-  function fetchNewOrleansWeather() {
-    console.log("Fetch weather for New Orleans");
+<pre><code class="language-javascript">  function fetchNewOrleansWeather() {
+    console.log(&quot;Fetch weather for New Orleans&quot;);
   }
-  fetchNewOrleansWeather();
-```
+  fetchNewOrleansWeather();</code></pre>
 </details>
-Show me...
+
+Show me:
+
 ![Console showing log of Weather for New Orleans](assets/lesson-5/console-showing-log.png)
 
 > **💡 Need help with functions?** Check out our [JavaScript Reference](../week5-event-driven-apps/js-reference.md) for function basics.
