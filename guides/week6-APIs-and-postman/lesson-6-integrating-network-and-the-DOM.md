@@ -29,7 +29,8 @@ This approach makes your code more maintainable and easier to debug.
 
 **Why this matters:** By creating a separate function for page updates, we keep our code organized and follow the single responsibility principle. This function will handle all the DOM manipulation, making it easier to debug and maintain. You can call it from anywhere in your code when you need to refresh the weather display.
 
-Show me...
+Show me:
+
 ```javascript
     function updateWeatherCard() {
         setText("temp", newOrleansWeather.current.temperature);
@@ -73,7 +74,7 @@ Show me...
 .then((response) => response.json())
 .then(function(result){
     console.log(result);
-    
+
 })
 ```
 
@@ -137,7 +138,8 @@ Show me...
 
 **Why this matters:** Cleaning up old test data prevents confusion and keeps your code focused on the real functionality. The test data was just a placeholder to help you build the UI structure, but now your app is pulling live data from the weather API. Removing unused code makes your project more professional and easier for other developers to understand.
 
-Show me...
+Show me:
+
 ```javascript
   var newOrleansWeather = {};
 ```
