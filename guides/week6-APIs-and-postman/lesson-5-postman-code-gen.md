@@ -47,7 +47,7 @@ Show me...
   fetchNewOrleansWeather();
 ```
 Show me...
-![Console showing log of Weather for New Orleans](../assets/lesson-5/console-showing-log.png)
+![Console showing log of Weather for New Orleans](assets/lesson-5/console-showing-log.png)
 
 > **💡 Need help with functions?** Check out our [JavaScript Reference](../week5-event-driven-apps/js-reference.md) for function basics.
 
@@ -73,9 +73,9 @@ Show me...
 
 > **💡 Understanding `.then()` and promises?** See our [Promise Reference Guide](promise-reference.md) for detailed explanations.
 
-![Postman Code tab showing JavaScript Fetch code button](../assets/lesson-5/postman-code-button.png)
+![Postman Code tab showing JavaScript Fetch code button](assets/lesson-5/postman-code-button.png)
 
-![Postman Code tab showing JavaScript Fetch code](../assets/lesson-5/postman-code-tab.png)
+![Postman Code tab showing JavaScript Fetch code](assets/lesson-5/postman-code-tab.png)
 
 ### 5. Reload the page and check the network tab and the console tab in dev tools
 
@@ -84,9 +84,9 @@ Show me...
 * Verify you see the API request in Network tab
 * Verify you see the weather data in Console tab
 
-![Console showing JSON weather data response](../assets/lesson-5/console-json-response.png)
+![Console showing JSON weather data response](assets/lesson-5/console-json-response.png)
 
-![Network tab showing the API request](../assets/lesson-5/network-api-request.png)
+![Network tab showing the API request](assets/lesson-5/network-api-request.png)
 
 ### 6. Repeat for the other cities
 
