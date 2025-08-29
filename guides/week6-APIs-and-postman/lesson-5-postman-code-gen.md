@@ -25,12 +25,15 @@ In this lesson, we will only be logging data to the console. We will update the 
 * In `script.js`, create a function called `fetchNewOrleansWeather`
 * For now, just add `console.log("Weather for New Orleans")` inside the function
 
-Show me...
+<details>
+<summary>Show me:</summary>
+
 ```javascript
   function fetchNewOrleansWeather() {
     console.log("Weather for New Orleans");
   }
 ```
+</details>
 
 ### 2. Immediately call it to test it in the console
 
@@ -39,13 +42,16 @@ Show me...
 * You should see your log message in the Console
 * **Commit your changes to Git**
 
-Show me...
+<details>
+<summary>Show me:</summary>
+
 ```javascript
   function fetchNewOrleansWeather() {
     console.log("Fetch weather for New Orleans");
   }
   fetchNewOrleansWeather();
 ```
+</details>
 Show me...
 ![Console showing log of Weather for New Orleans](assets/lesson-5/console-showing-log.png)
 
