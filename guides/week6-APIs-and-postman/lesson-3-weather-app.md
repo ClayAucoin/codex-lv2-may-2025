@@ -273,4 +273,4 @@ You've built:
 
 - [← Back to Week 6 Overview](README.md)
 - [← Previous: Lesson 2 - How to Use Postman](lesson-2-postman.md)
-- [Next: Lesson 5 - Postman Code Generation →](lesson-5-postman-code-gen.md)
+- [→ Next: Lesson 4 - The Network Tab](lesson-4-network-tab.md)

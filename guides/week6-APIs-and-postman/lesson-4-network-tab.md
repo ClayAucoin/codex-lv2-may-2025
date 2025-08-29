@@ -129,6 +129,12 @@ In this official Coffee Shop demo, you learned how to:
 
 ---
 
-👉 Next: You’ll apply this exact process in **Lesson 4**, where each city button in your local-weather project will trigger a request you can inspect in the Network tab, just like `coffee.json`.
+👉 Next: You'll apply this exact process in **Lesson 5**, where each city button in your local-weather project will trigger a request you can inspect in the Network tab, just like `coffee.json`.
 
 ---
+
+## 🔗 **Navigation**
+
+- [← Back to Week 6 Overview](README.md)
+- [← Previous: Lesson 3 - Build a Weather App](lesson-3-weather-app.md)
+- [→ Next: Lesson 5 - Postman Code Generation](lesson-5-postman-code-gen.md)

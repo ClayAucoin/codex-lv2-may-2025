@@ -253,6 +253,6 @@ You learned how to:
 
 - [← Back to Week 6 Overview](README.md)
 - [← Previous: Lesson 1 - Search Parameters](lesson-1-search-params.md)
-- [Next: Lesson 3 - Build a Weather App →](lesson-3-weather-app.md)
+- [→ Next: Lesson 3 - Build a Weather App](lesson-3-weather-app.md)
 
 👉 Next Lesson: Use **Postman’s Code Generation** to turn these requests into **JavaScript `fetch()`** calls.

@@ -277,4 +277,4 @@ You learned:
 ## 🔗 **Navigation**
 
 - [← Back to Week 6 Overview](README.md)
-- [Next: Lesson 2 - How to Use Postman →](lesson-2-postman.md)
+- [→ Next: Lesson 2 - How to Use Postman](lesson-2-postman.md)

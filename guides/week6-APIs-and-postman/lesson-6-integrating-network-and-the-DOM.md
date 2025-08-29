@@ -25,11 +25,11 @@ This approach makes your code more maintainable and easier to debug.
 * Create a function called `updateWeatherCard`
 * Put all your page updates here (For example: `setText`)
 * Call your function immediately, or (optionally) in your button
+* Remember we are still using the static data from the POJO we used in Lesson 3.
 
 **Why this matters:** By creating a separate function for page updates, we keep our code organized and follow the single responsibility principle. This function will handle all the DOM manipulation, making it easier to debug and maintain. You can call it from anywhere in your code when you need to refresh the weather display.
 
 Show me...
-
 ```javascript
     function updateWeatherCard() {
         setText("temp", newOrleansWeather.current.temperature);
@@ -69,6 +69,14 @@ Show me...
 
 > **💡 Why do we need `.then()`?** See our [Promise Reference Guide](promise-reference.md) for the network latency explanation.
 
+```javascript
+.then((response) => response.json())
+.then(function(result){
+    console.log(result);
+    
+})
+```
+
 📸 \[Screenshot: Console showing JavaScript object instead of string response]
 
 ### 4. Reset your data variable
@@ -78,6 +86,7 @@ Show me...
 * **Note:** Your variables may be named differently from the example
 
 ```javascript
+.then((response) => response.json())
 .then(function(result){
     console.log(result);
     newOrleansWeatherData = result;
