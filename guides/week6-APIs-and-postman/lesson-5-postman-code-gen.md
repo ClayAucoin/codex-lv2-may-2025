@@ -27,6 +27,8 @@ In this lesson, we will only be logging data to the console. We will update the 
 
 
 <details>
+<summary><details>
+<summary><details>
 <summary>Show me:</summary>
 
 <pre><code class="language-javascript">  function fetchNewOrleansWeather() {
@@ -50,9 +52,11 @@ In this lesson, we will only be logging data to the console. We will update the 
   fetchNewOrleansWeather();</code></pre>
 </details>
 
-Show me:
+<details>
+<summary>Show me:</summary>
 
-![Console showing log of Weather for New Orleans](assets/lesson-5/console-showing-log.png)
+<img src="assets/lesson-5/console-showing-log.png" alt="Console showing log of Weather for New Orleans">
+</details>
 
 > **💡 Need help with functions?** Check out our [JavaScript Reference](../week5-event-driven-apps/js-reference.md) for function basics.
 
@@ -76,9 +80,10 @@ Show me:
   * **Console** shows the weather data
 * **Commit your changes to Git**
 
-> **💡 Understanding `.then()` and promises?** See our [Promise Reference Guide](promise-reference.md) for detailed explanations.
+> **💡 Understanding `.then()` and promises?** See our [Promise Reference Guide](promise-reference.md) for detailed explanations.</summary>
 
-![Postman Code tab showing JavaScript Fetch code button](assets/lesson-5/postman-code-button.png)
+<img src="assets/lesson-5/postman-code-button.png" alt="Postman Code tab showing JavaScript Fetch code button">
+</details>
 
 ![Postman Code tab showing JavaScript Fetch code](assets/lesson-5/postman-code-tab.png)
 

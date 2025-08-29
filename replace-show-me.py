@@ -32,9 +32,29 @@ def process_file(file_path):
 <pre><code class="language-{code_type}">{escaped_content}</code></pre>
 </details>'''
     
-    new_content, count = re.subn(pattern, replacement, content, flags=re.DOTALL)
+    # Process code blocks first
+    new_content, code_count = re.subn(pattern, replacement, content, flags=re.DOTALL)
     
-    if count > 0:
+    # Pattern to match "Show Me:" or "Show me:" or "Show me..." followed by any text, then Markdown image
+    image_pattern = r'[Ss]how [Mm]e[:.]*(.*?)\n+!\[([^\]]*)\]\(([^)]+)\)'
+    
+    def image_replacement(match):
+        show_me_text = match.group(1).strip()
+        alt_text = match.group(2)
+        image_url = match.group(3)
+        
+        return f'''<details>
+<summary>Show me:{show_me_text}</summary>
+
+<img src="{image_url}" alt="{alt_text}">
+</details>'''
+    
+    # Process images
+    final_content, image_count = re.subn(image_pattern, image_replacement, new_content, flags=re.DOTALL)
+    
+    total_count = code_count + image_count
+    
+    if total_count > 0:
         # Create backup
         backup_path = f"{file_path}.bak"
         with open(backup_path, 'w', encoding='utf-8') as f:
@@ -42,10 +62,10 @@ def process_file(file_path):
         
         # Write modified content
         with open(file_path, 'w', encoding='utf-8') as f:
-            f.write(new_content)
+            f.write(final_content)
         
-        print(f"Modified {file_path} ({count} replacements, backup at {backup_path})")
-        return count
+        print(f"Modified {file_path} ({total_count} replacements: {code_count} code blocks, {image_count} images, backup at {backup_path})")
+        return total_count
     return 0
 
 def main():
