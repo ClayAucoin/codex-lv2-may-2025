@@ -42,12 +42,12 @@ Show me...
 Show me...
 ```javascript
   function fetchNewOrleansWeather() {
-    console.log("Weather for New Orleans");
+    console.log("Fetch weather for New Orleans");
   }
   fetchNewOrleansWeather();
 ```
 Show me...
-\[Screenshot: console showing log of Weather for New Orleans]
+![Console showing log of Weather for New Orleans](../assets/lesson-5/console-showing-log.png)
 
 > **💡 Need help with functions?** Check out our [JavaScript Reference](../week5-event-driven-apps/js-reference.md) for function basics.
 
@@ -73,20 +73,20 @@ Show me...
 
 > **💡 Understanding `.then()` and promises?** See our [Promise Reference Guide](promise-reference.md) for detailed explanations.
 
-📸 \[Screenshot: Postman Code tab showing JavaScript Fetch code]
-📸 \[Screenshot: Console showing JSON weather data response]
-📸 \[Screenshot: Network tab showing the API request]
+![Postman Code tab showing JavaScript Fetch code button](../assets/lesson-5/postman-code-button.png)
+
+![Postman Code tab showing JavaScript Fetch code](../assets/lesson-5/postman-code-tab.png)
 
 ### 5. Reload the page and check the network tab and the console tab in dev tools
 
-* Refresh your browser page
 * Open DevTools → Network tab
-* Call your function again
+* Refresh your browser page
 * Verify you see the API request in Network tab
 * Verify you see the weather data in Console tab
 
-📸 \[Screenshot: DevTools with Network tab open showing API request]
-📸 \[Screenshot: Console tab showing weather data after page reload]
+![Console showing JSON weather data response](../assets/lesson-5/console-json-response.png)
+
+![Network tab showing the API request](../assets/lesson-5/network-api-request.png)
 
 ### 6. Repeat for the other cities
 
@@ -106,9 +106,6 @@ For each new city:
 * **Also check the Console tab:** Do you notice a delay in the console logs?
 
 **Why this matters:** Understanding network performance helps you identify potential bottlenecks and optimize your app. Some cities might load faster than others due to server location, network conditions, or API response times. This analysis gives you real-world insights into how your app performs and helps you make informed decisions about user experience improvements. The console delay gives you a user's perspective of how "fast" or "slow" the app feels.
-
-📸 \[Screenshot: Network tab showing timing information for multiple city requests]
-📸 \[Screenshot: Console showing timing of log outputs for different cities]
 
 ---
 
