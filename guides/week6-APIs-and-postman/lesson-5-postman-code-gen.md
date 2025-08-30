@@ -27,8 +27,6 @@ In this lesson, we will only be logging data to the console. We will update the 
 
 
 <details>
-<summary><details>
-<summary><details>
 <summary>Show me:</summary>
 
 <pre><code class="language-javascript">  function fetchNewOrleansWeather() {
