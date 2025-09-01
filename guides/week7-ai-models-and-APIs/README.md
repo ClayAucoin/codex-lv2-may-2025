@@ -87,4 +87,12 @@ Students will learn:
 
 ---
 
+## 🔗 **Navigation**
+
+- [← Back to Main Course](../README.md)
+- [← Previous Week (Week 6)](../week6-APIs-and-postman/README.md)
+- [Next Week →](../week8-capstone/README.md) (Coming Soon)
+
+---
+
 *This guide provides a comprehensive, structured approach to learning web development through building an AI chatbot. Each level builds upon the previous one, ensuring a solid foundation in modern web technologies.*
