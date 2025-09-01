@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>P5.js Game Starter</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.7.0/p5.min.js"></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            background-color: #f0f0f0;
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        canvas {
+            border: 2px solid #333;
+            background-color: white;
+        }
+    </style>
+</head>
+<body>
+    <script>
+        // Game variables
+        let playerX = 200;
+        let playerY = 200;
+        let playerSize = 20;
+        let playerSpeed = 3;
+        
+        // Game state
+        let score = 0;
+        let gameRunning = true;
+
+        function setup() {
+            // Create canvas
+            createCanvas(400, 400);
+            
+            // Set initial player position to center
+            playerX = width / 2;
+            playerY = height / 2;
+        }
+
+        function draw() {
+            if (gameRunning) {
+                // Clear background
+                background(220);
+                
+                // Handle player movement
+                handlePlayerMovement();
+                
+                // Draw player
+                drawPlayer();
+                
+                // Draw UI
+                drawUI();
+                
+                // Check boundaries
+                checkBoundaries();
+            }
+        }
+
+        function handlePlayerMovement() {
+            // Move player with arrow keys
+            if (keyIsDown(LEFT_ARROW)) {
+                playerX -= playerSpeed;
+            }
+            if (keyIsDown(RIGHT_ARROW)) {
+                playerX += playerSpeed;
+            }
+            if (keyIsDown(UP_ARROW)) {
+                playerY -= playerSpeed;
+            }
+            if (keyIsDown(DOWN_ARROW)) {
+                playerY += playerSpeed;
+            }
+        }
+
+        function drawPlayer() {
+            // Draw player as a colored circle
+            fill(255, 100, 100);
+            stroke(0);
+            strokeWeight(2);
+            ellipse(playerX, playerY, playerSize);
+            
+            // Draw player "eyes"
+            fill(0);
+            noStroke();
+            ellipse(playerX - 5, playerY - 3, 3, 3);
+            ellipse(playerX + 5, playerY - 3, 3, 3);
+        }
+
+        function drawUI() {
+            // Draw score
+            fill(0);
+            noStroke();
+            textSize(16);
+            textAlign(LEFT, TOP);
+            text("Score: " + score, 10, 10);
+            
+            // Draw instructions
+            textSize(12);
+            text("Use arrow keys to move", 10, 30);
+            text("Press SPACE to pause/resume", 10, 45);
+        }
+
+        function checkBoundaries() {
+            // Keep player within canvas bounds
+            if (playerX < playerSize/2) {
+                playerX = playerSize/2;
+            }
+            if (playerX > width - playerSize/2) {
+                playerX = width - playerSize/2;
+            }
+            if (playerY < playerSize/2) {
+                playerY = playerSize/2;
+            }
+            if (playerY > height - playerSize/2) {
+                playerY = height - playerSize/2;
+            }
+        }
+
+        function keyPressed() {
+            // Pause/resume game with spacebar
+            if (key === ' ') {
+                gameRunning = !gameRunning;
+            }
+            
+            // Reset game with 'r' key
+            if (key === 'r' || key === 'R') {
+                resetGame();
+            }
+        }
+
+        function resetGame() {
+            // Reset game state
+            playerX = width / 2;
+            playerY = height / 2;
+            score = 0;
+            gameRunning = true;
+        }
+
+        function mousePressed() {
+            // Add score when clicking
+            score += 1;
+        }
+    </script>
+</body>
+</html> 

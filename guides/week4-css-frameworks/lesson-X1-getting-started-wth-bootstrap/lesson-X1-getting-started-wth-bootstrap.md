@@ -31,7 +31,7 @@ Show me:
 <summary>Your page should look like this:</summary>
 
 
-<pre><code>
+<pre><code class="language-html">
 &lt;!DOCTYPE html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
