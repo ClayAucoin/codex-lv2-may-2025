@@ -37,6 +37,10 @@ This week covers:
 - Using Chrome DevTools Network tab for debugging
 - Generating code from Postman requests
 
+## Reference Materials
+
+- **[Promise Reference Guide](promise-reference.md)** - Quick reference for understanding arrow functions and the `then` method in JavaScript promises
+
 ## Getting Started
 
 **For Beginners:** Start with [Lesson 1](lesson-1-search-params.md) to understand the fundamentals of search parameters and API interactions.
@@ -60,4 +64,4 @@ This week covers:
 **Quick Links:**
 - [← Back to Main Course](../README.md)
 - [← Previous Week (Week 5)](../week5-event-driven-apps/README.md)
-- [Next Week →](../week7-ai-apis/README.md) (Coming Soon)
+- [Next Week →](../week7-ai-models-and-APIs/README.md)
