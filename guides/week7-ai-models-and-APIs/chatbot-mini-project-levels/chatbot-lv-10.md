@@ -10,6 +10,16 @@ Wire up the button click event.
 ## Instructions
 Use `onEvent("buttonId","click", function() { ... })` to wire the button. Inside, log `"clicked"` to the Console.
 
+## ✅ Check
+1. Open your webpage in a browser
+2. Open Chrome DevTools (F12) and go to the Console tab
+3. Click your Send button
+4. You should see "clicked" appear in the Console
+5. If nothing happens when you click, check that:
+   - Your button ID matches exactly in the `onEvent` call
+   - The `onEvent` function is properly defined
+   - There are no JavaScript errors in the Console
+
 ---
 
 **Next:** Level 11 - Input Value Reading

@@ -11,6 +11,14 @@ Test that your project runs locally without errors.
 - Run `npx live-server` in your project folder
 - Confirm the page loads in the browser (which may be blank at this point)
 
+## ✅ Check
+1. In your terminal, run `npx live-server` in your project folder
+2. Your browser should automatically open to a local URL (like http://127.0.0.1:8080)
+3. You should see your "Chatbot" heading on the page
+4. Open Chrome DevTools (F12) and check the Console tab
+5. Look for any red error messages - if there are none, you're good to go!
+6. If you see errors about missing files, double-check your file names and paths
+
 ---
 
 **Next:** Level 5 - Test & Check

@@ -10,6 +10,14 @@ Create the function that will call the AI model.
 ## Instructions
 Create a function (e.g., `sendToModel()`). Inside, log `"sendToModel called"` to confirm it runs.
 
+## ✅ Check
+1. Open your webpage in a browser
+2. Open Chrome DevTools (F12) and go to the Console tab
+3. Type `sendToModel()` and press Enter
+4. You should see "sendToModel called" appear in the Console
+5. If you get an error like "sendToModel is not defined", check that you created the function in your `chatbot.js` file
+6. Make sure the function is properly defined with `function sendToModel() { ... }`
+
 ---
 
 **Next:** Level 17 - Add Hugging Face API

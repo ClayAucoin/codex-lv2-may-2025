@@ -10,6 +10,13 @@ Convert the output area into a proper Bootstrap card.
 ## Instructions
 Convert the output `<div>` into a Bootstrap card with proper structure (card container, body, title, and text).
 
+## ✅ Check
+1. Open your webpage in a browser
+2. You should see a Bootstrap card where your output area used to be
+3. The card should have a clean border, padding, and professional appearance
+4. Open Chrome DevTools (F12) and check the Console tab for any errors
+5. If the card doesn't appear styled, check that you're using the correct Bootstrap card classes
+
 ---
 
 **Next:** Level 9 - IDs and Testing

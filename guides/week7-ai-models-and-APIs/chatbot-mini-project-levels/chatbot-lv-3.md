@@ -11,6 +11,12 @@ Initialize version control for your project.
 - Initialize a git repository (`git init`)
 - Create your first commit with a meaningful message like `chore: initial project setup`
 
+## ✅ Check
+1. Open your terminal/command prompt in your project folder
+2. Run `git status` - you should see "On branch main" and "nothing to commit, working tree clean"
+3. Run `git log --oneline` - you should see your commit message like "chore: initial project setup"
+4. If you see any errors, make sure you're in the correct folder and try the git commands again
+
 ---
 
 **Next:** Level 4 - Live Server Test

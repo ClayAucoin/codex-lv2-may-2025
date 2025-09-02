@@ -12,6 +12,14 @@ Add meaningful `id`s to each element (input, button, output). Test elements with
 - Use `setText` to write a test message to the output area
 - Confirm the text shows visibly in the styled card
 
+## ✅ Check
+1. Open your webpage in a browser
+2. Open Chrome DevTools (F12) and go to the Console tab
+3. Type `setText("yourOutputId", "Test message")` and press Enter (replace "yourOutputId" with your actual ID)
+4. You should see "Test message" appear in your Bootstrap card
+5. If nothing appears, check that your ID matches exactly and that the element exists
+6. Try typing in your input field - it should work normally
+
 ---
 
 **Next:** Level 10 - Button Event Wiring

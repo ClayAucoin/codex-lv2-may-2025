@@ -10,6 +10,13 @@ Add Bootstrap classes to style your input and button.
 ## Instructions
 Add Bootstrap classes to style the input and button.
 
+## ✅ Check
+1. Open your webpage in a browser
+2. You should see your input and button with Bootstrap styling (they should look more polished)
+3. The input should have a clean border and the button should have Bootstrap button styling
+4. Open Chrome DevTools (F12) and check the Console tab for any errors
+5. If the styling doesn't look right, check that Bootstrap CSS is properly linked in your HTML
+
 ---
 
 **Next:** Level 8 - Card Structure
