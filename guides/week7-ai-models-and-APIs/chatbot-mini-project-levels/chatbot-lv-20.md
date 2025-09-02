@@ -10,6 +10,16 @@ Connect your AI function to the button click.
 ## Instructions
 In the button's click handler (from Step 2), after showing **"Thinking…"**, call `sendToModel()`. This call is the proof-of-life test on button click.
 
+## ✅ Check
+1. Open your webpage in a browser
+2. Open Chrome DevTools (F12) and go to the Console tab
+3. Click your Send button
+4. You should see "Thinking..." appear in the output area
+5. In the Console, you should see either:
+   - A successful API response (JSON data)
+   - An error message (this is normal if you haven't set up your API token yet)
+6. If you see no console output at all, check that your button click handler is calling `sendToModel()`
+
 ---
 
 **Next:** Level 21 - Test & Check

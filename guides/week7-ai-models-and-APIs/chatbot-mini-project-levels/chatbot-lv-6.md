@@ -18,6 +18,13 @@ In the HTML, add the interface:
 - A button to send
 - A plain `<div>` for the chatbot's reply (no styling yet)
 
+## ✅ Check
+Open your `index.html` file in a web browser and verify you can see:
+- A text input box where you can type
+- A button (it won't do anything yet, but it should be visible)
+- A blank area below for the chatbot's response
+- Open Chrome DevTools (F12) and check the Console tab for any errors
+
 ---
 
 **Next:** Level 7 - Bootstrap Styling

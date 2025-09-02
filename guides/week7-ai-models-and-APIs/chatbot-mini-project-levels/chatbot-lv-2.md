@@ -9,6 +9,7 @@ Set up the basic HTML structure and link all necessary files.
 
 ## Instructions
 - Add `<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`
+- Add an H1 tag with the text "Chatbot"
 - Link Bootstrap CSS (via CDN)
 - Include these scripts, in order:
   1. `helpers-full.js`
@@ -23,6 +24,16 @@ Set up the basic HTML structure and link all necessary files.
 <script src="secret-variables.js"></script>
 <script src="chatbot.js"></script>
 ```
+
+## ✅ Check
+1. Start live-server in your project folder
+2. Open your browser and navigate to the live-server URL
+3. You should see:
+   - A page with "Chatbot" as a large heading (H1)
+   - No red error messages in the Console
+4. Open Chrome DevTools (F12) and check the Console tab
+5. Look for any red error messages about missing files
+6. If you see errors, double-check your file names and paths
 
 ---
 

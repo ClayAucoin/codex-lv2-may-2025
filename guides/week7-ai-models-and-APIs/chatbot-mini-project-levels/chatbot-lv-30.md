@@ -10,6 +10,14 @@ Ensure validation state remains consistent after responses.
 ## Instructions
 After a successful reply (or error from the model call), ensure the validation area is still cleared and not showing an old error from a previous click.
 
+## ✅ Check
+1. Open your webpage in a browser
+2. Click Send without typing anything (should show validation error)
+3. Type a message and click Send (should work normally)
+4. Verify that the old validation error is gone and only the new AI response is visible
+5. Try clicking Send with empty input again - the validation error should appear fresh
+6. The validation area should not show multiple error messages or old errors
+
 ---
 
 **Next:** Level 31 - Test & Check

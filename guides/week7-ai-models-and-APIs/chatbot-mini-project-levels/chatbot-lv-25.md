@@ -10,6 +10,14 @@ Display the AI's response in your output area.
 ## Instructions
 When the fetch resolves, show the value already stored in `botReply` inside the output area.
 
+## ✅ Check
+1. Open your webpage in a browser
+2. Type a message in the input box
+3. Click the Send button
+4. Wait for the AI response (you should see "Thinking..." first)
+5. Verify that the AI's actual response appears in the output area (not just "Thinking...")
+6. If you see an error message instead, check the Console tab in DevTools for details
+
 ---
 
 **Next:** Level 26 - Test & Check

@@ -55,6 +55,17 @@ Download `helpers-full.js` from the class repo:
 
 Place it in your project folder before linking it in `index.html`.
 
+## ✅ Check
+Open your project folder in VS Code and verify you can see all 6 files:
+- `index.html`
+- `chatbot.js` 
+- `helpers-full.js`
+- `secret-variables.js`
+- `README.md`
+- `.gitignore`
+
+If any files are missing, create them before moving to Level 2.
+
 ---
 
 **Next:** Level 2 - Basic HTML Structure
