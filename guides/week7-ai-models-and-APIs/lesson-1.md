@@ -2,6 +2,8 @@
 
 In this lesson, you will learn how to explore Hugging Face models, test them in the playground, and then generate code to call a model from your own webpage using the **Fireworks inference provider**.  
 
+See the google doc version of this guide [here](https://docs.google.com/document/d/143tFfWfCfoJFrSLynf77YOR_65ADnQhYxNVxTSAwk_Q/edit?usp=sharing).
+
 ---
 
 ## Step 1: Create Your Hugging Face Account
@@ -21,7 +23,7 @@ In this lesson, you will learn how to explore Hugging Face models, test them in 
 - Use the filters: choose **Text Generation** as model type and **Fireworks** as inference provider.  
 - Browse through the models list.  
 
-📸 *Screenshot Placeholder – Show the filters panel with “Text Generation” and “Fireworks” selected.*  
+![Filters Panel with Text Generation and Fireworks Selected](./assets/Screenshot%20HF%20Filters%202%20Select%20Inference%20Providers%20Fireworks.png)  
 
 **Challenge:**  
 - Try to find the largest Fireworks model and the smallest one. Compare their descriptions.  
@@ -34,22 +36,23 @@ In this lesson, you will learn how to explore Hugging Face models, test them in 
 - Read the **model card** carefully (description, usage notes, licensing).  
 - Accept any usage terms if required.  
 
-📸 *Screenshot Placeholder – Show the Accept Terms or gated model warning.*  
+![Accept Terms Dialog](./assets/Screenshot%20Model%20Card%20Agree%201%20Expand%20to%20Review.png)  
 
 **Challenge:**  
 - Summarize in your own words what the model is trained to do.  
 
 ---
 
-## Step 4: Try Models in the Playground
+## Step 4: Try Models on the Card Page
 **TODO:**  
 - Use the **“Try it out”** box on the model page.  
-- Type in a prompt and click **Generate**.  
+- Type in a prompt and click **Send**.  
 - Observe the output.  
 
-📸 *Screenshot Placeholder – Show the “Try it out” box and a generated response.*  
+![Try it out Box with Generated Response](./assets/Screenshot%20HF%20Model%20Card%20Try%20it.png)  
 
 **Challenge:**  
+- Use the Playground (You will need a token from Step 7 for this.)
 - Change the temperature or max tokens setting. How does the output change?  
 
 ---
@@ -84,15 +87,17 @@ In this lesson, you will learn how to explore Hugging Face models, test them in 
 - In Hugging Face, go to **Settings → Access Tokens**.  
 - Create a new token with permissions to "Make calls to Inference Providers".  
 - Copy the token.  
+- Keep it safe. You can't copy it again! (But you can create a new one anytime.)
 - In `secret-variables.js` write:  
   ```js
   var HF_TOKEN = "your-token-goes-here";
   ```  
 
-📸 *Screenshot Placeholder – Show the Access Tokens page with a token highlighted (blur actual token).*  
+![Access Tokens Page](./assets/Screenshot%20HF%20Access%20Token%201%20Open.png)  
 
 **Challenge:**  
 - Should we share this token publicly? Why not?  
+- Go back the the Model Card page and try the Playground with your new token.
 
 ---
 
@@ -130,7 +135,7 @@ When you commit files to Git without a `.gitignore`, everything—including secr
 - Copy the code.  
 - Paste it into `script.js`.  
 
-📸 *Screenshot Placeholder – Show the “Use this model → Code → JavaScript” section.*  
+![Use this model Code JavaScript Section](./assets/Screenshot%20HF%20Model%20Card%20View%20Code%201%20Open%20View%20Code.png)  
 
 **Challenge:**  
 - Find where in the code the **API endpoint URL** is specified.  
