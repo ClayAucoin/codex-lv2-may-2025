@@ -10,6 +10,10 @@ Wire up the button click event.
 ## Instructions
 Use `onEvent("buttonId","click", function() { ... })` to wire the button. Inside, log `"clicked"` to the Console.
 
+## 📚 Connect to Previous Lessons
+
+**Working with button events?** Check out [Week 5, Lesson 2: Buttons and Events](../../week5-event-driven-apps/lesson-2-buttons-and-events.md) for a complete guide to event handling and the `onEvent` function.
+
 ## ✅ Check
 1. Open your webpage in a browser
 2. Open Chrome DevTools (F12) and go to the Console tab

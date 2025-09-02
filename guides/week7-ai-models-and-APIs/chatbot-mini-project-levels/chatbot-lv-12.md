@@ -12,6 +12,10 @@ Add a condition for when the input is empty:
 - Show a warning message in the output area
 - Change its style to indicate an error state
 
+## 📚 Connect to Previous Lessons
+
+**Working with input validation?** Check out [Week 5, Lesson 4: Mad Libs Game](../../week5-event-driven-apps/lesson-4-mad-libs-game.md) for examples of input validation patterns and conditional logic.
+
 ## ✅ Check
 1. Open your webpage in a browser
 2. Make sure the input field is empty
