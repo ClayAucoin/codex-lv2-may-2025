@@ -10,6 +10,14 @@ Create a variable to store the user's input.
 ## Instructions
 Create a global variable for the user's text (e.g., `let userPrompt = "";`).
 
+## ✅ Check
+1. Open your webpage in a browser
+2. Open Chrome DevTools (F12) and go to the Console tab
+3. Type `userPrompt` and press Enter
+4. You should see an empty string `""` or whatever value you assigned
+5. If you get an error like "userPrompt is not defined", check that you declared the variable in your `chatbot.js` file
+6. Make sure the variable is declared at the top level (not inside a function)
+
 ---
 
 **Next:** Level 23 - Capture Input on Click

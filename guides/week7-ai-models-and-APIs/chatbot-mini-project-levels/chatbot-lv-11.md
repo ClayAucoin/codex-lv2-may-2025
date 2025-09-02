@@ -10,6 +10,17 @@ Capture and log the input value when the button is clicked.
 ## Instructions
 Inside the handler, use `getValue("inputId")` (or direct DOM) and `console.log` the result to confirm the input value is being read correctly.
 
+## ✅ Check
+1. Open your webpage in a browser
+2. Type something in the input field (like "Hello")
+3. Open Chrome DevTools (F12) and go to the Console tab
+4. Click your Send button
+5. You should see the text you typed appear in the Console (like "Hello")
+6. If you see "undefined" or nothing, check that:
+   - Your input ID matches exactly in the `getValue` call
+   - The input field has the correct ID attribute
+   - There are no JavaScript errors in the Console
+
 ---
 
 **Next:** Level 12 - Empty Input Handling

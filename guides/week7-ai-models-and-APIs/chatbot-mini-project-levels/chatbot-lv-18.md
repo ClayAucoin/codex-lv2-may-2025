@@ -10,6 +10,18 @@ Test your AI connection with different prompts.
 ## Instructions
 Change the sample input to something like *Teach me how to make scrambled eggs.* Run it. Then try a few different prompts (short, long, emoji). Celebrate this milestone!
 
+## ✅ Check
+1. Open your webpage in a browser
+2. Open Chrome DevTools (F12) and go to the Console tab
+3. Type `sendToModel()` and press Enter
+4. You should see a detailed AI response about scrambled eggs (or your chosen topic)
+5. Try changing the prompt in your code and running it again
+6. Test with different types of prompts:
+   - Short: "Hi"
+   - Long: "Explain quantum physics"
+   - With emoji: "How are you? 😊"
+7. Each should give you a different, relevant response from the AI
+
 ---
 
 **Next:** Level 19 - Inspect Response

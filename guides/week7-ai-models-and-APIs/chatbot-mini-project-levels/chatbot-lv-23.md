@@ -11,6 +11,17 @@ Capture the user's input when they click the Send button.
 In the button's click handler (from Step 2), after validation and "Thinking…", set `userPrompt` from the input (`getValue(...)` or direct DOM).
 Log once: `console.log("userPrompt:", userPrompt)`.
 
+## ✅ Check
+1. Open your webpage in a browser
+2. Type something in the input field (like "Hello there")
+3. Open Chrome DevTools (F12) and go to the Console tab
+4. Click your Send button
+5. You should see "userPrompt: Hello there" (or whatever you typed) in the Console
+6. If you see "userPrompt: undefined" or nothing, check that:
+   - You're calling `getValue` with the correct input ID
+   - The input field has the correct ID attribute
+   - You're setting `userPrompt` after the validation check
+
 ---
 
 **Next:** Level 24 - Use Input in Model Call

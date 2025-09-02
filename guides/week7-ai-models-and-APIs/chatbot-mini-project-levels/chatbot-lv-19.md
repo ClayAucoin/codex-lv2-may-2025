@@ -21,6 +21,15 @@ Learn how to extract the AI response from the API data.
 - `botReply = response.choices[0].message.content;`
 - Then `console.log("Bot reply:", botReply);`
 
+## ✅ Check
+1. Open your webpage in a browser
+2. Open Chrome DevTools (F12) and go to the Console tab
+3. Type `sendToModel()` and press Enter
+4. You should see the step-by-step exploration of the response object
+5. Look for the final "Bot reply:" log - it should show the actual AI response text
+6. If you see "undefined" for the bot reply, check that you're accessing the correct path in the response object
+7. The bot reply should be a readable string, not an object or array
+
 ---
 
 **Next:** Level 20 - Connect to Button

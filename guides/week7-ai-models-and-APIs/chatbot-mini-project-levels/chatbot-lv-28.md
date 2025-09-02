@@ -13,6 +13,15 @@ In the button click handler, if the input is empty/whitespace:
 - Style it as an error (e.g., red/warning style via classes)
 - Do **not** call the model function in this case
 
+## ✅ Check
+1. Open your webpage in a browser
+2. Make sure the input field is empty
+3. Click your Send button
+4. You should see a validation message appear in the validation area (like "Please enter a message")
+5. The message should be styled as an error (red text or warning colors)
+6. Open Chrome DevTools (F12) and check the Console tab - you should NOT see any API calls
+7. If you see an API call or no validation message, check that your empty input condition is working correctly
+
 ---
 
 **Next:** Level 29 - Clear Validation on Valid Input

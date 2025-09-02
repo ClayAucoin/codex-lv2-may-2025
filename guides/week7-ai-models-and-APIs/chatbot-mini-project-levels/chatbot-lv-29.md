@@ -12,6 +12,16 @@ If the input has text:
 - Remove/hide the validation message and error styling
 - Continue with the existing flow (set "Thinking…", call the model, render reply)
 
+## ✅ Check
+1. Open your webpage in a browser
+2. First, click Send with empty input to trigger a validation message
+3. Then type something in the input field (like "Hello")
+4. Click Send again
+5. The validation message should disappear and be replaced with "Thinking..."
+6. The AI response should appear normally
+7. Open Chrome DevTools (F12) and check the Console tab for any errors
+8. If the validation message doesn't clear, check that you're removing/hiding it when input has text
+
 ---
 
 **Next:** Level 30 - Keep Validation Consistent

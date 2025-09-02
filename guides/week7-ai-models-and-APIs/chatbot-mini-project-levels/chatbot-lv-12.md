@@ -12,6 +12,15 @@ Add a condition for when the input is empty:
 - Show a warning message in the output area
 - Change its style to indicate an error state
 
+## ✅ Check
+1. Open your webpage in a browser
+2. Make sure the input field is empty
+3. Click your Send button
+4. You should see a warning message appear in the output area (like "Please enter a message")
+5. The message should be styled differently (maybe red text or different background)
+6. Open Chrome DevTools (F12) and check the Console tab for any errors
+7. If nothing appears, check that your condition is checking for empty input correctly
+
 ---
 
 **Next:** Level 13 - Valid Input Handling

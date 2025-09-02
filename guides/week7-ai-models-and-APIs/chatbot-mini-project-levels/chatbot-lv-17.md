@@ -10,6 +10,16 @@ Connect your function to the Hugging Face API.
 ## Instructions
 Paste the Hugging Face JavaScript `fetch` snippet into `sendToModel`. Replace the API token first (classroom-safe setup).
 
+## ✅ Check
+1. Open your webpage in a browser
+2. Open Chrome DevTools (F12) and go to the Console tab
+3. Type `sendToModel()` and press Enter
+4. You should see either:
+   - A successful API response (JSON data with the AI's answer)
+   - An error message (this is normal if you haven't set up your API token yet)
+5. If you get a syntax error, check that you pasted the fetch code correctly
+6. If you get a network error, check that your API token is properly set in `secret-variables.js`
+
 ---
 
 **Next:** Level 18 - Proof-of-Life Test

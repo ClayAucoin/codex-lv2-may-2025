@@ -10,6 +10,14 @@ Create a dedicated area for validation messages.
 ## Instructions
 Reserve a small area near the input (or above the card) for validation messages (e.g., "Please enter a message."). Keep it empty by default.
 
+## ✅ Check
+1. Open your webpage in a browser
+2. Look for a new area near your input field or above the output card
+3. This area should be empty by default (no text visible)
+4. The area should be styled appropriately (maybe with a subtle border or background)
+5. Open Chrome DevTools (F12) and check the Console tab for any errors
+6. If you don't see the validation area, check that you added the HTML element with the correct ID
+
 ---
 
 **Next:** Level 28 - Show Validation on Empty

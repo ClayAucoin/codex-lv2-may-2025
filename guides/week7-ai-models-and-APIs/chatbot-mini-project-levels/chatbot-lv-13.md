@@ -13,6 +13,15 @@ Add the condition for when the input has text:
 - Change its style to indicate a neutral/loading state
 - *(This will be replaced with the real model response in Step 3, and the normal card style will return for chatbot replies.)*
 
+## ✅ Check
+1. Open your webpage in a browser
+2. Type something in the input field (like "Hello")
+3. Click your Send button
+4. You should see "Thinking..." appear in the output area
+5. The message should be styled differently from the error message (maybe blue or neutral color)
+6. Open Chrome DevTools (F12) and check the Console tab for any errors
+7. If you see the error message instead, check that your condition is checking for non-empty input correctly
+
 ---
 
 **Next:** Level 14 - Test & Check

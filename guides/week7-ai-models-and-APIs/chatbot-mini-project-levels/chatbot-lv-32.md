@@ -33,8 +33,16 @@ Mix several of the above techniques to create a unique experience. For example:
 - Add randomness (numbers, emojis) to the prompt
 - Change CSS or formatting based on the reply
 
-## Quick Test
-Try your new feature with different inputs, then test that basic chatbot still works (empty input validation, normal prompts). Open DevTools Console tab to check for any errors. If both work, you're amazing!
+## ✅ Check
+1. Open your webpage in a browser
+2. Test your new challenge feature with different inputs
+3. Make sure the basic chatbot still works:
+   - Empty input validation still shows error message
+   - Normal prompts still get AI responses
+4. Open Chrome DevTools (F12) and check the Console tab for any errors
+5. If you added UI controls, test that they work and affect the AI responses
+6. If you added image features, test that images display correctly
+7. Try different combinations of inputs to make sure everything works together
 
 ## Check off these items in your README:
 - [ ] At least one challenge feature implemented (role-based prompts, UI controls, etc.)

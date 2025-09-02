@@ -11,6 +11,15 @@ Make the AI use the user's actual input instead of a hardcoded prompt.
 Update `sendToModel()` to use `userPrompt` instead of the scrambled-eggs prompt.
 Log once inside `sendToModel`: `console.log("sending prompt:", userPrompt)`.
 
+## ✅ Check
+1. Open your webpage in a browser
+2. Type something in the input field (like "What is the weather?")
+3. Open Chrome DevTools (F12) and go to the Console tab
+4. Click your Send button
+5. You should see "sending prompt: What is the weather?" in the Console
+6. The AI response should be related to your actual input, not scrambled eggs
+7. If you still see the old prompt, check that you replaced the hardcoded text with `userPrompt`
+
 ---
 
 **Next:** Level 25 - Render the Reply
