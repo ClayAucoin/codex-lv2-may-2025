@@ -22,18 +22,12 @@ Welcome to **Week 7**! This week focuses on AI Models and APIs with two separate
 ## 📋 Project Planning
 
 ### 📝 **Planning Documents**
-- **[Planning Document](./planning.md)** - Complete project planning following Code.org standards
-- **[Project Outline](./OUTLINE.md)** - High-level overview of learning objectives and structure
-- **[Lesson Summary](./lesson-1-summary.md)** - Quick reference for lesson objectives
+- **[Planning Document](./planning.md)** - Complete project plan
+- **[Planning Document Google Doc](https://docs.google.com/document/d/1Jpa_TFTGGNoeQTF34HRnzFf4buV4_s81WTYtDY1G5Ms/edit?usp=sharing)** - Google Doc project plan
 
 ### 📄 **Templates & Examples**
 - **[Example README](./EXAMPLE_README.md)** - Template for student project README files
 - **[Step-by-Step Guides](./step-1.md)** - Original step-based learning materials (legacy)
-
-## 🛠️ Tools & Resources
-
-### 🔧 **Automation Scripts**
-- **[Navigation Script](./chatbot-navigation.sh)** - Automated script for adding navigation to level files
 
 ### 📖 **Learning Paths**
 
@@ -68,21 +62,6 @@ Students will learn:
 4. **Start Level 1** - [chatbot-lv-1.md](./chatbot-mini-project-levels/chatbot-lv-1.md)
 5. **Follow the Learning Path** - [Leveled Learning Guide](./chatbot-mini-project-levels/README.md)
 
-## 📁 Repository Structure
-
-```
-├── README.md                           # This file - main navigation
-├── lesson-1.md                         # Lesson 1: AI Models and APIs
-├── lesson-2.md                         # Lesson 2: Chatbot Mini-Project
-├── planning.md                         # Project planning document
-├── OUTLINE.md                          # Project outline
-├── EXAMPLE_README.md                   # Student README template
-├── chatbot-mini-project-levels/        # Leveled learning materials
-│   ├── README.md                       # Level navigation hub
-│   └── chatbot-lv-1.md to lv-32.md    # Individual level files
-├── step-1.md to step-6.md              # Legacy step-based guides
-└── chatbot-navigation.sh               # Navigation automation script
-```
 
 ## 🎉 Ready to Begin?
 
