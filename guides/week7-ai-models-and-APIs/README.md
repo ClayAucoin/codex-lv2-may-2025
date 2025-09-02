@@ -1,11 +1,14 @@
-# 🧪 Chatbot Mini-Project Guide
+# 🤖 Week 7: AI Models and APIs
 
-Welcome to the **Chatbot Mini-Project** learning guide! This repository contains comprehensive materials for building an AI-powered chatbot using web technologies and the Hugging Face API.
+Welcome to **Week 7**! This week focuses on AI Models and APIs with two separate lessons designed to build your understanding of artificial intelligence and web integration.
 
 ## 📚 Learning Materials
 
-### 🎓 **Main Lesson**
-- **[Lesson 1: Chatbot Mini-Project](./lesson-1.md)** - Complete lesson guide with objectives, activities, and assessments
+### 🎓 **Lesson 1: AI Models and APIs**
+- **[Lesson 1: AI Models and APIs](./lesson-1.md)** - Experiment and learn about AI models and their use in web applications
+
+### 🧪 **Lesson 2: Chatbot Mini-Project**
+- **[Chatbot Mini-Project](./lesson-2.md)** - Build an AI-powered chatbot using web technologies and the Hugging Face API
 
 ### 🎯 **Leveled Learning Path**
 - **[Chatbot Mini-Project Levels](./chatbot-mini-project-levels/README.md)** - 32 progressive levels organized into 6 major steps
@@ -35,14 +38,16 @@ Welcome to the **Chatbot Mini-Project** learning guide! This repository contains
 ### 📖 **Learning Paths**
 
 **For Students:**
-1. Start with the **[Planning Document](./planning.md)** to understand project requirements
-2. Follow the **[Leveled Learning Path](./chatbot-mini-project-levels/README.md)** for step-by-step implementation
-3. Use the **[Example README](./EXAMPLE_README.md)** template for your project documentation
+1. Start with **[Lesson 1: AI Models and APIs](./lesson-1.md)** to learn about AI models
+2. Then proceed to **[Lesson 2: Chatbot Mini-Project](./lesson-2.md)** for hands-on building
+3. Use the **[Planning Document](./planning.md)** to understand project requirements
+4. Follow the **[Leveled Learning Path](./chatbot-mini-project-levels/README.md)** for step-by-step implementation
 
 **For Instructors:**
-1. Review the **[Main Lesson](./lesson-1.md)** for teaching objectives and activities
-2. Use the **[Planning Document](./planning.md)** to guide students through proper project planning
-3. Monitor progress using the **[Leveled Learning Path](./chatbot-mini-project-levels/README.md)** structure
+1. Begin with **[Lesson 1: AI Models and APIs](./lesson-1.md)** for AI concepts and experimentation
+2. Follow with **[Lesson 2: Chatbot Mini-Project](./lesson-2.md)** for practical application
+3. Use the **[Planning Document](./planning.md)** to guide students through proper project planning
+4. Monitor progress using the **[Leveled Learning Path](./chatbot-mini-project-levels/README.md)** structure
 
 ## 🎯 Learning Objectives
 
@@ -57,16 +62,18 @@ Students will learn:
 
 ## 🚀 Quick Start
 
-1. **Read the Planning Document** - [planning.md](./planning.md)
-2. **Start Level 1** - [chatbot-lv-1.md](./chatbot-mini-project-levels/chatbot-lv-1.md)
-3. **Follow the Learning Path** - [Leveled Learning Guide](./chatbot-mini-project-levels/README.md)
-4. **Track Progress** - Use the [Example README](./EXAMPLE_README.md) template
+1. **Start with Lesson 1** - [AI Models and APIs](./lesson-1.md)
+2. **Continue to Lesson 2** - [Chatbot Mini-Project](./lesson-2.md)
+3. **Read the Planning Document** - [planning.md](./planning.md)
+4. **Start Level 1** - [chatbot-lv-1.md](./chatbot-mini-project-levels/chatbot-lv-1.md)
+5. **Follow the Learning Path** - [Leveled Learning Guide](./chatbot-mini-project-levels/README.md)
 
 ## 📁 Repository Structure
 
 ```
 ├── README.md                           # This file - main navigation
-├── lesson-1.md                         # Main lesson guide
+├── lesson-1.md                         # Lesson 1: AI Models and APIs
+├── lesson-2.md                         # Lesson 2: Chatbot Mini-Project
 ├── planning.md                         # Project planning document
 ├── OUTLINE.md                          # Project outline
 ├── EXAMPLE_README.md                   # Student README template
@@ -81,8 +88,9 @@ Students will learn:
 
 **Choose your learning path:**
 
-- **🎓 For Students:** Start with [Level 1](./chatbot-mini-project-levels/chatbot-lv-1.md)
-- **👨‍🏫 For Instructors:** Begin with [Lesson 1](./lesson-1.md)
+- **🎓 For Students:** Start with [Lesson 1: AI Models and APIs](./lesson-1.md)
+- **👨‍🏫 For Instructors:** Begin with [Lesson 1: AI Models and APIs](./lesson-1.md)
+- **🧪 For Building:** Continue to [Lesson 2: Chatbot Mini-Project](./lesson-2.md)
 - **📋 For Planning:** Review [Planning Document](./planning.md)
 
 ---
