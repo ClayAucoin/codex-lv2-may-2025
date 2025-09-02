@@ -2,24 +2,26 @@ Level Navigation: [1](./chatbot-lv-1.md) | [2](./chatbot-lv-2.md) | **Current Le
 
 ---
 
-# 🧪 Level 3: Git Setup
+# 🧪 Level 3: Live Server Test
 
 ## What You'll Do
-Initialize version control for your project.
+Test that your HTML structure from Level 2 is working correctly.
 
 ## Instructions
-- Initialize a git repository (`git init`)
-- Create your first commit with a meaningful message like `chore: initial project setup`
+- Run `npx live-server` in your project folder
+- Confirm the page loads in the browser
 
 ## ✅ Check
-1. Open your terminal/command prompt in your project folder
-2. Run `git status` - you should see "On branch main" and "nothing to commit, working tree clean"
-3. Run `git log --oneline` - you should see your commit message like "chore: initial project setup"
-4. If you see any errors, make sure you're in the correct folder and try the git commands again
+1. In your terminal, run `npx live-server` in your project folder
+2. Your browser should automatically open to a local URL (like http://127.0.0.1:8080)
+3. You should see your "Chatbot" heading on the page
+4. Open Chrome DevTools (F12) and check the Console tab
+5. Look for any red error messages - if there are none, you're good to go!
+6. If you see errors about missing files, double-check your file names and paths
 
 ---
 
-**Next:** Level 4 - Live Server Test
+**Next:** Level 4 - Git Setup
 
 ---
 

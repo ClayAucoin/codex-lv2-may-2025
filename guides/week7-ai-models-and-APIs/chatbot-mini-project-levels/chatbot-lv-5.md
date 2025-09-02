@@ -2,29 +2,47 @@ Level Navigation: [1](./chatbot-lv-1.md) | [2](./chatbot-lv-2.md) | [3](./chatbo
 
 ---
 
-# 🧪 Level 5: Test & Check - Project Setup Complete
+# 🧪 Level 5: Overall Project Check
 
 ## What You'll Do
-Verify everything is working and check off your progress.
+Verify everything is working correctly with both live-server and git.
 
-## Quick Test
-Run `npx live-server` and open your browser. Open DevTools (F12) and check the Console tab - if there are no red errors, you're good to go!
+## Instructions
+Run comprehensive tests to ensure your project setup is complete and secure.
+
+## ✅ Check
+1. **Live Server Test:**
+   - Run `npx live-server` in your project folder
+   - Open your browser and navigate to the live-server URL
+   - You should see "Chatbot" as a large heading (H1)
+   - Open Chrome DevTools (F12) and check the Console tab
+   - Look for any red error messages - if there are none, you're good to go!
+
+2. **Git Status Check:**
+   - Run `git status` - you should see "On branch main" and "nothing to commit, working tree clean"
+   - Run `git log --oneline` - you should see your commit message
+
+3. **Security Check:**
+   - Go to your GitHub repository in a web browser
+   - Look through the files - you should NOT see `secret-variables.js` listed
+   - If you see it, check your `.gitignore` file includes `secret-variables.js`
 
 ## Check off these items in your README:
 - [ ] All required files created: `index.html`, `chatbot.js`, `helpers-full.js`, `secret-variables.js`, `README.md`, `.gitignore`
 - [ ] Bootstrap CSS linked and scripts included in correct order
-- [ ] Git repository initialized with first commit
+- [ ] Git repository initialized with first commit and pushed to GitHub
 - [ ] Live server runs and page loads without errors
+- [ ] `secret-variables.js` is NOT visible on GitHub (security check passed)
 
 ## 🎉 Congratulations!
-You've set up your project foundation. Time to build the UI!
+You've set up your project foundation securely. Time to build the UI!
 
 ## 💾 Don't forget to commit!
 
 When you've completed this level, commit your work with a meaningful message like:
 ```
 git add .
-git commit -m "feature: complete step 1 - initial project setup"
+git commit -m "feature: complete step 1 - initial project setup with security verification"
 ```
 
 ---
