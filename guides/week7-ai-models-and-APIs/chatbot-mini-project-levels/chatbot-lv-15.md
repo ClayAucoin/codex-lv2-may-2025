@@ -10,6 +10,10 @@ Add a global variable to store the AI's response.
 ## Instructions
 Add a global variable for the model reply (e.g., `let botReply = "";`).
 
+## 💡 Code Hints
+
+**Creating variables?** You'll need to declare a variable to store the AI's response. Check out the [Variables section in SNIPPETS.md](./SNIPPETS.md#variables) for variable declaration examples.
+
 ## ✅ Check
 Open Chrome DevTools (F12) and go to the Console tab. Type `botReply` and press Enter. You should see an empty string `""` or whatever value you assigned. If you get an error like "botReply is not defined", check that you declared the variable in your `chatbot.js` file.
 

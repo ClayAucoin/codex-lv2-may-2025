@@ -10,6 +10,10 @@ Ensure validation state remains consistent after responses.
 ## Instructions
 After a successful reply (or error from the model call), ensure the validation area is still cleared and not showing an old error from a previous click.
 
+## 💡 Code Hints
+
+**Keeping validation consistent?** You'll need to manage the validation state throughout the user flow. Check out the [Conditional Logic section in SNIPPETS.md](./SNIPPETS.md#conditional-logic) for state management patterns.
+
 ## ✅ Check
 1. Open your webpage in a browser
 2. Click Send without typing anything (should show validation error)

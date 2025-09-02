@@ -10,6 +10,10 @@ Add Bootstrap classes to style your input and button.
 ## Instructions
 Add Bootstrap classes to style the input and button.
 
+## 💡 Code Hints
+
+**Stuck on styling?** Bootstrap has special classes for form elements. Check out the [Bootstrap Classes section in SNIPPETS.md](./SNIPPETS.md#bootstrap-classes) for inspiration.
+
 ## 📚 Connect to Previous Lessons
 
 **Working with Bootstrap classes?** Check out [Week 4, Lesson 2: Bootstrap Framework](../../week4-css-frameworks/lesson-2-bootstrap-framework/) for a complete guide to Bootstrap utilities and components. Focus on the button and form styling sections.

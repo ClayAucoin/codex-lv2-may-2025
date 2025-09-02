@@ -10,6 +10,10 @@ Convert the output area into a proper Bootstrap card.
 ## Instructions
 Convert the output `<div>` into a Bootstrap card with proper structure (card container, body, title, and text).
 
+## 💡 Code Hints
+
+**Building Bootstrap cards?** Cards need specific container and content classes to look right. Check out the [Bootstrap Classes section in SNIPPETS.md](./SNIPPETS.md#bootstrap-classes) for card structure examples.
+
 ## ✅ Check
 1. Open your webpage in a browser
 2. You should see a Bootstrap card where your output area used to be

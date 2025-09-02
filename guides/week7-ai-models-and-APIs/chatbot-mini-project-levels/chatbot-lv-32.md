@@ -11,6 +11,10 @@ Level Navigation: [1](./chatbot-lv-1.md) | [2](./chatbot-lv-2.md) | [3](./chatbo
 ## What You'll Do
 Choose from these challenge options to make your chatbot unique:
 
+## 💡 Code Hints
+
+**Building advanced features?** You'll need to combine multiple concepts like variables, functions, and conditional logic. Check out the [Common Patterns section in SNIPPETS.md](./SNIPPETS.md#common-patterns) for complete examples.
+
 ### Option 1: Role-based prompts
 Update the prompt with a "role" instruction that tells the model how to behave (e.g., kind, single-word answers, emoji replies, formatted text).
 

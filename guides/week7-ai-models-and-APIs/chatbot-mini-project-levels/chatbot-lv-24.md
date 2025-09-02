@@ -11,6 +11,10 @@ Make the AI use the user's actual input instead of a hardcoded prompt.
 Update `sendToModel()` to use `userPrompt` instead of the scrambled-eggs prompt.
 Log once inside `sendToModel`: `console.log("sending prompt:", userPrompt)`.
 
+## 💡 Code Hints
+
+**Using variables in API calls?** You'll need to replace the hardcoded prompt with your variable. Check out the [API Calls section in SNIPPETS.md](./SNIPPETS.md#api-calls) for using variables in requests.
+
 ## ✅ Check
 1. Open your webpage in a browser
 2. Type something in the input field (like "What is the weather?")

@@ -12,6 +12,10 @@ If the input has text:
 - Remove/hide the validation message and error styling
 - Continue with the existing flow (set "Thinking…", call the model, render reply)
 
+## 💡 Code Hints
+
+**Clearing validation messages?** You'll need to hide error messages when input is valid. Check out the [Input/Output section in SNIPPETS.md](./SNIPPETS.md#inputoutput) for clearing text and the [Helper Functions section](./SNIPPETS.md#helper-functions) for clearing styling.
+
 ## ✅ Check
 1. Open your webpage in a browser
 2. First, click Send with empty input to trigger a validation message

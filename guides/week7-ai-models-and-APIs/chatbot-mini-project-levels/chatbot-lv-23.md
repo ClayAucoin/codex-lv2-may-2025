@@ -11,6 +11,10 @@ Capture the user's input when they click the Send button.
 In the button's click handler (from Step 2), after validation and "Thinking…", set `userPrompt` from the input (`getValue(...)` or direct DOM).
 Log once: `console.log("userPrompt:", userPrompt)`.
 
+## 💡 Code Hints
+
+**Capturing user input?** You'll need to get the value from the input field and store it in your variable. Check out the [Input/Output section in SNIPPETS.md](./SNIPPETS.md#inputoutput) for the right function.
+
 ## ✅ Check
 1. Open your webpage in a browser
 2. Type something in the input field (like "Hello there")

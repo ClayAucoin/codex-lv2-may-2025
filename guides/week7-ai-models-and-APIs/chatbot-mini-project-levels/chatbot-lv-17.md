@@ -10,6 +10,10 @@ Connect your function to the Hugging Face API.
 ## Instructions
 Paste the Hugging Face JavaScript `fetch` snippet into `sendToModel`. Replace the API token first (classroom-safe setup).
 
+## 💡 Code Hints
+
+**Making API calls?** You'll need to use the `fetch` function to call the Hugging Face API. Check out the [API Calls section in SNIPPETS.md](./SNIPPETS.md#api-calls) for fetch examples.
+
 ## ✅ Check
 1. Open your webpage in a browser
 2. Open Chrome DevTools (F12) and go to the Console tab

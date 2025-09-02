@@ -13,6 +13,10 @@ In the button click handler, if the input is empty/whitespace:
 - Style it as an error (e.g., red/warning style via classes)
 - Do **not** call the model function in this case
 
+## 💡 Code Hints
+
+**Adding validation logic?** You'll need to check if input is empty and show error messages. Check out the [Conditional Logic section in SNIPPETS.md](./SNIPPETS.md#conditional-logic) for validation examples and the [Helper Functions section](./SNIPPETS.md#helper-functions) for styling functions.
+
 ## ✅ Check
 1. Open your webpage in a browser
 2. Make sure the input field is empty

@@ -10,6 +10,10 @@ Wire up the button click event.
 ## Instructions
 Use `onEvent("buttonId","click", function() { ... })` to wire the button. Inside, log `"clicked"` to the Console.
 
+## 💡 Code Hints
+
+**Wiring up button clicks?** You'll need to use the `onEvent` function to listen for button clicks. Check out the [Event Handling section in SNIPPETS.md](./SNIPPETS.md#event-handling) for the exact syntax.
+
 ## 📚 Connect to Previous Lessons
 
 **Working with button events?** Check out [Week 5, Lesson 2: Buttons and Events](../../week5-event-driven-apps/lesson-2-buttons-and-events.md) for a complete guide to event handling and the `onEvent` function.

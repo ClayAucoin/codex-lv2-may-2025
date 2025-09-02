@@ -10,6 +10,10 @@ Create a variable to store the user's input.
 ## Instructions
 Create a global variable for the user's text (e.g., `let userPrompt = "";`).
 
+## 💡 Code Hints
+
+**Storing user input?** You'll need a variable to hold what the user types. Check out the [Variables section in SNIPPETS.md](./SNIPPETS.md#variables) for variable declaration examples.
+
 ## ✅ Check
 1. Open your webpage in a browser
 2. Open Chrome DevTools (F12) and go to the Console tab

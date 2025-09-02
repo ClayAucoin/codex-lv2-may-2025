@@ -21,6 +21,10 @@ Learn how to extract the AI response from the API data.
 - `botReply = response.choices[0].message.content;`
 - Then `console.log("Bot reply:", botReply);`
 
+## 💡 Code Hints
+
+**Extracting data from API responses?** You'll need to navigate the response object to get the actual text. Check out the [Console Logging section in SNIPPETS.md](./SNIPPETS.md#console-logging) for object exploration examples and the [Variables section](./SNIPPETS.md#variables) for storing the result.
+
 ## 📚 Connect to Previous Lessons
 
 **Working with JavaScript objects and arrays?** Check out [Week 2, Lesson 4: POJOs](../../week2-vscode/lesson-4-pojo/) for a complete guide to navigating JavaScript objects and accessing nested properties.

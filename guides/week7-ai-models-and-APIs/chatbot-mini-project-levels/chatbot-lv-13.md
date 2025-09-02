@@ -13,6 +13,10 @@ Add the condition for when the input has text:
 - Change its style to indicate a neutral/loading state
 - *(This will be replaced with the real model response in Step 3, and the normal card style will return for chatbot replies.)*
 
+## 💡 Code Hints
+
+**Handling valid input?** You'll need to use the "else" part of your conditional logic to show a different message when input has text. Check out the [Conditional Logic section in SNIPPETS.md](./SNIPPETS.md#conditional-logic) for if/else examples.
+
 ## ✅ Check
 1. Open your webpage in a browser
 2. Type something in the input field (like "Hello")

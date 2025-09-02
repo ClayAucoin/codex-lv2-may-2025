@@ -12,6 +12,10 @@ Add a condition for when the input is empty:
 - Show a warning message in the output area
 - Change its style to indicate an error state
 
+## 💡 Code Hints
+
+**Checking for empty input?** You'll need to use conditional logic to check if the input is empty and show different messages. Check out the [Conditional Logic section in SNIPPETS.md](./SNIPPETS.md#conditional-logic) for examples and the [Helper Functions section](./SNIPPETS.md#helper-functions) for styling functions.
+
 ## 📚 Connect to Previous Lessons
 
 **Working with input validation?** Check out [Week 5, Lesson 4: Mad Libs Game](../../week5-event-driven-apps/lesson-4-mad-libs-game.md) for examples of input validation patterns and conditional logic.

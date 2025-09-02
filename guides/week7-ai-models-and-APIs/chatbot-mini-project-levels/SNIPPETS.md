@@ -40,9 +40,6 @@ let inputValue = getValue("username");
 
 // Set text content
 setText("result", "Hello World");
-
-// Set property (like CSS class)
-setProperty("message", "className", "error");
 ```
 
 ## 🔍 **Console Logging**
@@ -77,7 +74,7 @@ fetch(url, {
 .then(response => response.json())
 .then(data => {
     console.log(data);
-    weatherData = data.choices[0].message.content;
+    botReply = data.choices[0].message.content;
 });
 ```
 
@@ -85,7 +82,7 @@ fetch(url, {
 
 ```js
 // Check if input is empty
-if (userInput === "" || userInput.trim() === "") {
+if (userInput === "") {
     setText("result", "Please enter a message");
 } else {
     setText("result", "Processing...");
@@ -116,6 +113,9 @@ if (userInput === "" || userInput.trim() === "") {
 ```js
 // Test element with helpers
 setText("result", "Test message");
+
+// Set property (like CSS class)
+setProperty("message", "className", "error");
 
 // Check if element exists
 console.log(getValue("username"));

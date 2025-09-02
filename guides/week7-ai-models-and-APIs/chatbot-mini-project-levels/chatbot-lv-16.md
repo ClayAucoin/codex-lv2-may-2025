@@ -10,6 +10,10 @@ Create the function that will call the AI model.
 ## Instructions
 Create a function (e.g., `sendToModel()`). Inside, log `"sendToModel called"` to confirm it runs.
 
+## 💡 Code Hints
+
+**Creating functions?** You'll need to define a function that you can call later. Check out the [Functions section in SNIPPETS.md](./SNIPPETS.md#functions) for function creation examples.
+
 ## ✅ Check
 1. Open your webpage in a browser
 2. Open Chrome DevTools (F12) and go to the Console tab

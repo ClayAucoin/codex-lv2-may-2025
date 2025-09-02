@@ -10,6 +10,10 @@ Capture and log the input value when the button is clicked.
 ## Instructions
 Inside the handler, use `getValue("inputId")` (or direct DOM) and `console.log` the result to confirm the input value is being read correctly.
 
+## 💡 Code Hints
+
+**Reading input values?** You'll need to get the value from your input field and log it to see what the user typed. Check out the [Input/Output section in SNIPPETS.md](./SNIPPETS.md#inputoutput) for the right function.
+
 ## ✅ Check
 1. Open your webpage in a browser
 2. Type something in the input field (like "Hello")

@@ -10,6 +10,10 @@ Connect your AI function to the button click.
 ## Instructions
 In the button's click handler (from Step 2), after showing **"Thinking…"**, call `sendToModel()`. This call is the proof-of-life test on button click.
 
+## 💡 Code Hints
+
+**Connecting button clicks to API calls?** You'll need to call your function from within the button's event handler. Check out the [Functions section in SNIPPETS.md](./SNIPPETS.md#functions) for how to invoke functions.
+
 ## ✅ Check
 1. Open your webpage in a browser
 2. Open Chrome DevTools (F12) and go to the Console tab

@@ -10,6 +10,10 @@ Test your AI connection with different prompts.
 ## Instructions
 Change the sample input to something like *Teach me how to make scrambled eggs.* Run it. Then try a few different prompts (short, long, emoji). Celebrate this milestone!
 
+## 💡 Code Hints
+
+**Testing your API?** You'll need to call your function and check the console for responses. Check out the [Functions section in SNIPPETS.md](./SNIPPETS.md#functions) for how to invoke functions and the [Console Logging section](./SNIPPETS.md#console-logging) for checking responses.
+
 ## ✅ Check
 1. Open your webpage in a browser
 2. Open Chrome DevTools (F12) and go to the Console tab

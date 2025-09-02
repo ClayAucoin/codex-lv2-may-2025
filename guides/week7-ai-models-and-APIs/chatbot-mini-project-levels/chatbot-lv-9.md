@@ -12,6 +12,10 @@ Add meaningful `id`s to each element (input, button, output). Test elements with
 - Use `setText` to write a test message to the output area
 - Confirm the text shows visibly in the styled card
 
+## 💡 Code Hints
+
+**Testing your elements?** You'll need to use helper functions to set text in your output area. Check out the [Helper Functions section in SNIPPETS.md](./SNIPPETS.md#helper-functions) for the right function to use.
+
 ## ✅ Check
 1. Open your webpage in a browser
 2. Open Chrome DevTools (F12) and go to the Console tab

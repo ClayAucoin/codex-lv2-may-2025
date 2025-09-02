@@ -10,6 +10,10 @@ Display the AI's response in your output area.
 ## Instructions
 When the fetch resolves, show the value already stored in `botReply` inside the output area.
 
+## 💡 Code Hints
+
+**Displaying API responses?** You'll need to show the AI's response in your output area. Check out the [Input/Output section in SNIPPETS.md](./SNIPPETS.md#inputoutput) for the right function to display text.
+
 ## ✅ Check
 1. Open your webpage in a browser
 2. Type a message in the input box
