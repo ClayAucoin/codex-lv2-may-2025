@@ -9,6 +9,7 @@ Initialize version control and push your project to GitHub.
 
 ## Instructions
 - Initialize a git repository (`git init`)
+- Add all files to git (`git add .`)
 - Create your first commit with a meaningful message like `chore: initial project setup`
 - Push to GitHub (if you have a remote repository set up)
 
@@ -21,6 +22,27 @@ Initialize version control and push your project to GitHub.
    - Look through the files - you should NOT see `secret-variables.js` listed
    - If you see it, check your `.gitignore` file includes `secret-variables.js`
 5. If you see any errors, make sure you're in the correct folder and try the git commands again
+
+---
+
+## 🔍 Exploration: Commit Message Prefixes
+
+You might be wondering why we use prefixes like `chore:` or `feature:` at the start of commit messages. These are part of a convention called **Conventional Commits** that helps organize and categorize your changes:
+
+- **`chore:`** - For maintenance tasks, setup, or non-functional changes (like adding files, updating dependencies, or initial project setup)
+- **`feature:`** - For new functionality or features you're adding to your project
+- **`fix:`** - For bug fixes or corrections
+- **`docs:`** - For documentation changes
+- **`style:`** - For formatting, styling, or code style changes
+- **`refactor:`** - For code restructuring without changing functionality
+
+Using these prefixes makes it easier to:
+- Quickly understand what type of change each commit represents
+- Generate changelogs automatically
+- Filter commits by type when reviewing project history
+- Follow consistent practices in professional development
+
+In this level, we use `chore:` because we're doing initial project setup - creating the foundation without adding new features yet.
 
 ---
 

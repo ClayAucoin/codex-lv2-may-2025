@@ -37,13 +37,7 @@ Run comprehensive tests to ensure your project setup is complete and secure.
 ## 🎉 Congratulations!
 You've set up your project foundation securely. Time to build the UI!
 
-## 💾 Don't forget to commit!
 
-When you've completed this level, commit your work with a meaningful message like:
-```
-git add .
-git commit -m "feature: complete step 1 - initial project setup with security verification"
-```
 
 ---
 
