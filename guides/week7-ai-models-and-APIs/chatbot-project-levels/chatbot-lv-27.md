@@ -2,6 +2,8 @@ Level Navigation: [1](./chatbot-lv-1.md) | [2](./chatbot-lv-2.md) | [3](./chatbo
 
 ---
 
+---
+
 # 🧪 Level 27: Add Validation Area
 
 ## What You'll Do
@@ -21,6 +23,9 @@ Reserve a small area near the input (or above the card) for validation messages 
 ---
 
 **Next:** Level 28 - Show Validation on Empty
+
+---
+
 
 ---
 

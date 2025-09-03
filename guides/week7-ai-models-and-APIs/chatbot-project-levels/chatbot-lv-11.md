@@ -2,6 +2,8 @@ Level Navigation: [1](./chatbot-lv-1.md) | [2](./chatbot-lv-2.md) | [3](./chatbo
 
 ---
 
+---
+
 # 🧪 Level 11: Input Value Reading
 
 ## What You'll Do
@@ -28,6 +30,9 @@ Inside the handler, use `getValue("inputId")` (or direct DOM) and `console.log` 
 ---
 
 **Next:** Level 12 - Empty Input Handling
+
+---
+
 
 ---
 

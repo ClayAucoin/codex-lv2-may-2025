@@ -2,6 +2,8 @@ Level Navigation: [1](./chatbot-lv-1.md) | [2](./chatbot-lv-2.md) | [3](./chatbo
 
 ---
 
+---
+
 # 🧪 Level 10: Button Event Wiring
 
 ## What You'll Do
@@ -31,6 +33,9 @@ Use `onEvent("buttonId","click", function() { ... })` to wire the button. Inside
 ---
 
 **Next:** Level 11 - Input Value Reading
+
+---
+
 
 ---
 

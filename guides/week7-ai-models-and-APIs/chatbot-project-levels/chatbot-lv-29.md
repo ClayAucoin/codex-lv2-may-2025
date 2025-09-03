@@ -2,6 +2,8 @@ Level Navigation: [1](./chatbot-lv-1.md) | [2](./chatbot-lv-2.md) | [3](./chatbo
 
 ---
 
+---
+
 # 🧪 Level 29: Clear Validation on Valid Input
 
 ## What You'll Do
@@ -29,6 +31,9 @@ If the input has text:
 ---
 
 **Next:** Level 30 - Keep Validation Consistent
+
+---
+
 
 ---
 

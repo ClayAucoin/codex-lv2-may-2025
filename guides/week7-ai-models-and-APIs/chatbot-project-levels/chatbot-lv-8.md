@@ -2,6 +2,8 @@ Level Navigation: [1](./chatbot-lv-1.md) | [2](./chatbot-lv-2.md) | [3](./chatbo
 
 ---
 
+---
+
 # 🧪 Level 8: Card Structure
 
 ## What You'll Do
@@ -24,6 +26,9 @@ Convert the output `<div>` into a Bootstrap card with proper structure (card con
 ---
 
 **Next:** Level 9 - IDs and Testing
+
+---
+
 
 ---
 

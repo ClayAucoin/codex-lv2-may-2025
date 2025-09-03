@@ -2,6 +2,8 @@ Level Navigation: [1](./chatbot-lv-1.md) | [2](./chatbot-lv-2.md) | [3](./chatbo
 
 ---
 
+---
+
 # 🧪 Level 6: UI & DOM Wiring - Basic Interface
 
 **Goal:** Build the Bootstrap UI, connect it with helpers (or direct DOM methods), and test interactions.
@@ -28,6 +30,9 @@ Open your `index.html` file in a web browser and verify you can see:
 ---
 
 **Next:** Level 7 - Bootstrap Styling
+
+---
+
 
 ---
 

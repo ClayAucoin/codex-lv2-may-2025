@@ -2,6 +2,8 @@ Level Navigation: [1](./chatbot-lv-1.md) | [2](./chatbot-lv-2.md) | [3](./chatbo
 
 ---
 
+---
+
 # 🧪 Level 9: IDs and Testing
 
 ## What You'll Do
@@ -27,6 +29,9 @@ Add meaningful `id`s to each element (input, button, output). Test elements with
 ---
 
 **Next:** Level 10 - Button Event Wiring
+
+---
+
 
 ---
 

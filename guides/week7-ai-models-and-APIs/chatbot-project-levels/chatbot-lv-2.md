@@ -2,6 +2,8 @@ Level Navigation: [1](./chatbot-lv-1.md) | **Current Level:** 2 | [3](./chatbot-
 
 ---
 
+---
+
 # 🧪 Level 2: Basic HTML Structure
 
 ## What You'll Do
@@ -28,6 +30,9 @@ Set up the basic HTML structure and link all necessary files.
 ---
 
 **Next:** Level 3 - Live Server Test
+
+---
+
 
 ---
 

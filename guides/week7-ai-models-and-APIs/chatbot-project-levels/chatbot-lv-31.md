@@ -2,6 +2,8 @@ Level Navigation: [1](./chatbot-lv-1.md) | [2](./chatbot-lv-2.md) | [3](./chatbo
 
 ---
 
+---
+
 # 🧪 Level 31: Test & Check - Validation Polish Complete
 
 ## What You'll Do
@@ -36,6 +38,9 @@ git commit -m "feature: complete step 5 - validation polish"
 ---
 
 **Next:** Level 32 - Challenge Extensions
+
+---
+
 
 ---
 

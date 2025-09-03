@@ -2,6 +2,8 @@ Level Navigation: [1](./chatbot-lv-1.md) | [2](./chatbot-lv-2.md) | **Current Le
 
 ---
 
+---
+
 # 🧪 Level 3: Live Server Test
 
 ## What You'll Do
@@ -22,6 +24,9 @@ Test that your HTML structure from Level 2 is working correctly.
 ---
 
 **Next:** Level 4 - Git Setup
+
+---
+
 
 ---
 

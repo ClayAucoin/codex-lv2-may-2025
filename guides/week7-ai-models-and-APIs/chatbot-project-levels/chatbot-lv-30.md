@@ -2,6 +2,8 @@ Level Navigation: [1](./chatbot-lv-1.md) | [2](./chatbot-lv-2.md) | [3](./chatbo
 
 ---
 
+---
+
 # 🧪 Level 30: Keep Validation Consistent
 
 ## What You'll Do
@@ -25,6 +27,9 @@ After a successful reply (or error from the model call), ensure the validation a
 ---
 
 **Next:** Level 31 - Test & Check
+
+---
+
 
 ---
 

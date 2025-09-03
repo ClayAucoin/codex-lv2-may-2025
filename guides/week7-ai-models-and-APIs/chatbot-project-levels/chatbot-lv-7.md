@@ -2,6 +2,8 @@ Level Navigation: [1](./chatbot-lv-1.md) | [2](./chatbot-lv-2.md) | [3](./chatbo
 
 ---
 
+---
+
 # 🧪 Level 7: Bootstrap Styling
 
 ## What You'll Do
@@ -28,6 +30,9 @@ Add Bootstrap classes to style the input and button.
 ---
 
 **Next:** Level 8 - Card Structure
+
+---
+
 
 ---
 

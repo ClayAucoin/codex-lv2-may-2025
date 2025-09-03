@@ -2,6 +2,8 @@ Level Navigation: [1](./chatbot-lv-1.md) | [2](./chatbot-lv-2.md) | [3](./chatbo
 
 ---
 
+---
+
 # 🧪 Level 5: Overall Project Check
 
 ## What You'll Do
@@ -43,6 +45,9 @@ You've set up your project foundation securely. Time to build the UI!
 ---
 
 **Next:** Level 6 - UI & DOM Wiring
+
+---
+
 
 ---
 

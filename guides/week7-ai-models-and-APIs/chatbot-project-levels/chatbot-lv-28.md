@@ -2,6 +2,8 @@ Level Navigation: [1](./chatbot-lv-1.md) | [2](./chatbot-lv-2.md) | [3](./chatbo
 
 ---
 
+---
+
 # 🧪 Level 28: Show Validation on Empty
 
 ## What You'll Do
@@ -29,6 +31,9 @@ In the button click handler, if the input is empty/whitespace:
 ---
 
 **Next:** Level 29 - Clear Validation on Valid Input
+
+---
+
 
 ---
 

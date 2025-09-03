@@ -2,6 +2,8 @@ Level Navigation: [1](./chatbot-lv-1.md) | [2](./chatbot-lv-2.md) | [3](./chatbo
 
 ---
 
+---
+
 # 🧪 Level 4: Git Setup
 
 ## What You'll Do
@@ -47,6 +49,9 @@ In this level, we use `chore:` because we're doing initial project setup - creat
 ---
 
 **Next:** Level 5 - Overall Project Check
+
+---
+
 
 ---
 

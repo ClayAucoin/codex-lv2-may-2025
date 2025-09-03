@@ -2,6 +2,8 @@ Level Navigation: [1](./chatbot-lv-1.md) | [2](./chatbot-lv-2.md) | [3](./chatbo
 
 ---
 
+---
+
 # 🧪 Level 32: Challenge Extensions - Make It Yours!
 
 **Goal:** Stretch and personalize your chatbot. Each option is optional. Pick one or more to attempt.
@@ -67,6 +69,9 @@ git commit -m "feature: complete step 6 - challenge extensions"
 ---
 
 **🎊 Congratulations! You've completed the entire chatbot project! 🎊**
+
+---
+
 
 ---
 

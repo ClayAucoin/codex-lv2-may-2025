@@ -2,6 +2,8 @@ Level Navigation: **Current Level:** 1 | [2](./chatbot-lv-2.md) | [3](./chatbot-
 
 ---
 
+---
+
 # 🧪 Level 1: Project Setup - Create Files
 
 **Goal:** Create the basic project scaffold and confirm everything runs locally.
@@ -69,6 +71,9 @@ If any files are missing, create them before moving to Level 2.
 ---
 
 **Next:** Level 2 - Basic HTML Structure
+
+---
+
 
 ---
 
