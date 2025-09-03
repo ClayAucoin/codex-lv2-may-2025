@@ -108,6 +108,34 @@ if (userInput === "") {
 </div>
 ```
 
+## 🏷️ **HTML IDs and JavaScript Access**
+
+```html
+<!-- HTML: Give elements unique IDs -->
+<input id="user-chat-input" type="text" placeholder="Type your message...">
+<button id="send-btn">Send</button>
+<div id="chat-response">Bot response will appear here</div>
+```
+
+```js
+// JavaScript: Access elements by ID using helpers
+let userInput = getValue("user-chat-input");  // Get input value
+setText("chat-response", "Hello!");           // Set text content
+onEvent("send-btn", "click", function() {     // Add click event
+    console.log("Button clicked!");
+});
+
+// Or use direct DOM methods
+let inputElement = document.getElementById("user-chat-input");
+let buttonElement = document.getElementById("send-btn");
+let responseElement = document.getElementById("chat-response");
+```
+
+**💡 ID Naming Tips:**
+- Use descriptive names: `user-chat-input`, `send-btn`, `chat-response`
+- Use hyphens for multi-word IDs: `user-name` (not `userName`)
+- Keep IDs unique - no two elements should have the same ID
+
 ## 🔧 **Helper Functions**
 
 ```js

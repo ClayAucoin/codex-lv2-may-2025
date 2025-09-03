@@ -20,6 +20,13 @@ In the HTML, add the interface:
 - A button to send
 - A plain `<div>` for the chatbot's reply (no styling yet)
 
+## 💡 Code Hints
+Need help with the HTML structure? Check out these snippets:
+- **HTML IDs and JavaScript access:** See [SNIPPETS.md](../SNIPPETS.md#html-ids-and-javascript-access) for ID naming and element access
+- **Input elements:** See [SNIPPETS.md](../SNIPPETS.md#bootstrap-classes) for `<input>` examples
+- **Button elements:** See [SNIPPETS.md](../SNIPPETS.md#bootstrap-classes) for `<button>` examples
+- **Basic structure:** Use meaningful `id` attributes like `id="user-chat-input"` and `id="send-btn"`
+
 ## ✅ Check
 Open your `index.html` file in a web browser and verify you can see:
 - A text input box where you can type
