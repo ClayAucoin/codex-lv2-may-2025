@@ -26,6 +26,7 @@ Run comprehensive tests to ensure your project setup is complete and secure.
    - Go to your GitHub repository in a web browser
    - Look through the files - you should NOT see `secret-variables.js` listed
    - If you see it, check your `.gitignore` file includes `secret-variables.js`
+   - If you do accidentally commit your `secret-variables.js`, GitHub will not allow you to upload it. Ask for help on how to remove it from your git history.
 
 ## Check off these items in your README:
 - [ ] All required files created: `index.html`, `chatbot.js`, `helpers-full.js`, `secret-variables.js`, `README.md`, `.gitignore`
