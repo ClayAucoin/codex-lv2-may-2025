@@ -139,14 +139,15 @@ let responseElement = document.getElementById("chat-response");
 ## 🔧 **Helper Functions**
 
 ```js
-// Test element with helpers
+// Get input value (For input tags)
+let userInput = getValue("username");
+
+// Set text content
 setText("result", "Test message");
 
 // Set property (like CSS class)
 setProperty("message", "className", "error");
 
-// Check if element exists
-console.log(getValue("username"));
 ```
 
 ## 📋 **Common Patterns**
@@ -164,10 +165,13 @@ onEvent("submitBtn", "click", function() {
     }
 });
 
-// API response handling
+// API response handling (Open Meteo Weather)
+let weatherUrl = "https://api.open-meteo.com/v1/forecast?latitude=40.7128&longitude=-74.0060&current_weather=true";
+fetch(weatherUrl)
+.then(response => response.json())
 .then(data => {
-    weatherData = data.choices[0].message.content;
-    setText("result", weatherData);
+    let temperature = data.current_weather.temperature;
+    setText("weather-result", `Temperature: ` + temperature + `°C`);
 });
 ```
 
