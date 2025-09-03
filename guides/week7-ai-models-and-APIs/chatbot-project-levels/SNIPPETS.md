@@ -78,6 +78,19 @@ fetch(url, {
 });
 ```
 
+## 🤖 **OpenAI Response Format**
+
+```js
+// Start with this to see the full response structure
+// Then extract the content
+.then(response => {
+    console.log(JSON.stringify(response));
+    // HuggingFace Models return with this shape of JSON/POJO: response.choices[0].message.content
+    let aiResponse = response.choices[0].message.content;
+    setText("chat-response", aiResponse);
+});
+```
+
 ## 🔄 **Conditional Logic**
 
 ```js
@@ -165,7 +178,7 @@ onEvent("submitBtn", "click", function() {
     }
 });
 
-// API response handling (Open Meteo Weather)
+// API response handling using .then
 let weatherUrl = "https://api.open-meteo.com/v1/forecast?latitude=40.7128&longitude=-74.0060&current_weather=true";
 fetch(weatherUrl)
 .then(response => response.json())
@@ -174,6 +187,50 @@ fetch(weatherUrl)
     setText("weather-result", `Temperature: ` + temperature + `°C`);
 });
 ```
+
+## 🔧 **Function vs Arrow Function**
+
+**Overview:** JavaScript offers two ways to write functions: traditional `function` declarations and modern arrow functions (`() => {}`). Arrow functions provide shorter, cleaner syntax and are preferred for callbacks, event handlers, and API responses. Traditional functions work everywhere and are more explicit. In practice, use arrow functions for short callbacks and traditional functions for complex logic. Both work in modern JavaScript - choose based on readability and context.
+
+```js
+// Traditional function syntax
+function myFunction() {
+    console.log("Hello from function!");
+}
+
+// Arrow function syntax (ES6+)
+const myArrowFunction = () => {
+    console.log("Hello from arrow function!");
+};
+
+// Arrow functions in event handlers
+onEvent("button", "click", function() {
+    console.log("Traditional function");
+});
+
+onEvent("button", "click", () => {
+    console.log("Arrow function");
+});
+
+// Arrow functions in API calls
+fetch(url)
+.then(function(response) {
+    return response.json();
+})
+.then((data) => {
+    console.log(data);
+});
+
+// Shorter arrow function (single expression)
+const add = (a, b) => a + b;
+const square = x => x * x;
+```
+
+**💡 Key Differences:**
+- **Arrow functions** (`() => {}`) are shorter and more modern
+- **Traditional functions** (`function() {}`) work everywhere and are more explicit
+- **Arrow functions** don't have their own `this` context
+- **Both work** in most cases - choose what feels comfortable!
 
 ---
 
