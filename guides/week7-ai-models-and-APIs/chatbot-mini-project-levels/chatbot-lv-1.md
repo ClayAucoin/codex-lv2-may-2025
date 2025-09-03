@@ -26,7 +26,7 @@ Make a new folder for your project and create all the necessary files to get sta
 - Inside, create these files:
   - `index.html`
   - `chatbot.js`
-  - `helpers-full.js` (download from [class repository](../../week5-event-driven-apps/other-dev-files/helpers-full.js))
+  - `helpers-full.js` (download from class repository)
   - `secret-variables.js` (to hold your Hugging Face API token; globals only)
   - `README.md` (copy from [EXAMPLE_README.md](../EXAMPLE_README.md) template)
   - `.gitignore` (to keep secret files out of Git)
