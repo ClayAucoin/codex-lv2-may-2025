@@ -22,13 +22,13 @@ Level Navigation: **Current Level:** 1 | [2](./chatbot-lv-2.md) | [3](./chatbot-
 Make a new folder for your project and create all the necessary files to get started.
 
 ## Instructions
-- Make a new folder for your project
+- Make a new folder for your project named `chatbot-project`
 - Inside, create these files:
   - `index.html`
   - `chatbot.js`
   - `helpers-full.js` (download from class repository)
   - `secret-variables.js` (to hold your Hugging Face API token; globals only)
-  - `README.md` (copy from EXAMPLE_README.md template)
+  - `README.md` (copy from [EXAMPLE_README.md](../EXAMPLE_README.md) template)
   - `.gitignore` (to keep secret files out of Git)
 
 ## 📄 `secret-variables.js` (starter template)
