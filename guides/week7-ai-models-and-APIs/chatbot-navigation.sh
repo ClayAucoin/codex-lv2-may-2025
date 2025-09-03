@@ -2,10 +2,10 @@
 # update-chatbot-navigation.sh
 
 # Usage: ./update-chatbot-navigation.sh [folder_path] [file_prefix]
-# Example: ./update-chatbot-navigation.sh chatbot-mini-project-levels chatbot-lv
+# Example: ./update-chatbot-navigation.sh chatbot-project-levels chatbot-lv
 
 # Default values for our chatbot project
-FOLDER_PATH=${1:-"chatbot-mini-project-levels"}
+FOLDER_PATH=${1:-"chatbot-project-levels"}
 FILE_PREFIX=${2:-"chatbot-lv"}
 
 echo "Updating navigation for: $FOLDER_PATH"
