@@ -1,8 +1,8 @@
-# Chatbot-mini-project-guide
+# Chatbot-project-guide
 
 ## Project Guide
 
-Welcome to the Chatbot Mini Project Guide! Below you'll find links to all the key markdown files in this directory:
+Welcome to the Chatbot Project Guide! Below you'll find links to all the key markdown files in this directory:
 
 ### Main Documentation
 

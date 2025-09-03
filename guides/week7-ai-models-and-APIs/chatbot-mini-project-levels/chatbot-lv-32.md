@@ -66,7 +66,7 @@ git commit -m "feature: complete step 6 - challenge extensions"
 
 ---
 
-**🎊 Congratulations! You've completed the entire chatbot mini-project! 🎊**
+**🎊 Congratulations! You've completed the entire chatbot project! 🎊**
 
 ---
 

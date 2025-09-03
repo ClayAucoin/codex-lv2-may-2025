@@ -1,6 +1,6 @@
-# 🧪 Chatbot Mini-Project - Leveled Learning Guide
+# 🧪 Chatbot Project - Leveled Learning Guide
 
-Welcome to the **Chatbot Mini-Project**! This guide breaks down the entire project into 32 manageable levels that build upon each other to create a complete AI chatbot application.
+Welcome to the **Chatbot Project**! This guide breaks down the entire project into 32 manageable levels that build upon each other to create a complete AI chatbot application.
 
 ## 📚 How to Use This Guide
 

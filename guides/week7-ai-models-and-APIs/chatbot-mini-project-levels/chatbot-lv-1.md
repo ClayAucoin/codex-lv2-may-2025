@@ -12,7 +12,7 @@ Level Navigation: **Current Level:** 1 | [2](./chatbot-lv-2.md) | [3](./chatbot-
 
 **Before you start coding, you must work through the planning document:**
 
-👉 **[Planning For Chatbot Mini Project](https://docs.google.com/document/d/1Jpa_TFTGGNoeQTF34HRnzFf4buV4_s81WTYtDY1G5Ms/edit?usp=sharing)**
+👉 **[Planning For Chatbot Project](https://docs.google.com/document/d/1Jpa_TFTGGNoeQTF34HRnzFf4buV4_s81WTYtDY1G5Ms/edit?usp=sharing)**
 
 **Complete all sections of the planning document before proceeding with Level 1.** This will help you understand the project requirements, technical specifications, and success criteria.
 

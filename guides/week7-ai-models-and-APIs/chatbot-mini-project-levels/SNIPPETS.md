@@ -1,6 +1,6 @@
 # 🧩 Code Snippets for Chatbot Project
 
-Quick reference for common code patterns used in the chatbot mini-project.
+Quick reference for common code patterns used in the chatbot project.
 
 ## 📝 **Variables**
 

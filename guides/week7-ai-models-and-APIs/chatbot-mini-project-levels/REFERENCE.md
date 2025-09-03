@@ -1,4 +1,4 @@
-# Chatbot Mini-Project Reference Guide
+# Chatbot Project Reference Guide
 
 This reference guide maps each chatbot level to relevant lessons from Weeks 1-6, helping you understand which skills you'll need and where to find additional help.
 
