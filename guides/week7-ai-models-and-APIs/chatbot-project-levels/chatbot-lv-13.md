@@ -4,13 +4,23 @@ Level Navigation: [1](./chatbot-lv-1.md) | [2](./chatbot-lv-2.md) | [3](./chatbo
 
 ---
 
-# 🧪 Level 15: Model Call - Global Variable
+# 🧪 Level 13: Model Call - Global Variable
 
 ## What You'll Do
 Add a global variable to store the AI's response.
 
+## 📚 Concepts
+
+### What is a Global Variable?
+
+A **global variable** is a variable that can be accessed from anywhere in your JavaScript code - from any function, any file, or any part of your program. Unlike local variables that only exist inside a specific function, global variables are available throughout your entire application.
+
+**Where to put them:** Global variables should be declared at the top of your JavaScript file, outside of any functions. This makes them accessible to all the code that comes after them. In your chatbot project, you'll typically put global variables near the top of your `script.js` file or in your case your `chatbot.js` file.
+
+**Why they are useful:** Global variables are perfect for storing data that multiple functions need to access, like API responses, user input, or application state. For example, you might store the AI's response in a global variable so that different functions can display it, save it, or process it further. They help you share data between different parts of your program without having to pass the same information through multiple function parameters.
+
 ## Instructions
-Add a global variable for the model reply (e.g., `let botReply = "";`).
+Add a global variable for the model reply at the top of your `chatbot.js` file. (e.g., `let botReply = "";`).
 
 ## 💡 Code Hints
 

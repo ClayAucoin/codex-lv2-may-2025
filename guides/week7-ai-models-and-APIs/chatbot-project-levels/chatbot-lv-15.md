@@ -4,10 +4,16 @@ Level Navigation: [1](./chatbot-lv-1.md) | [2](./chatbot-lv-2.md) | [3](./chatbo
 
 ---
 
-# 🧪 Level 17: Add Hugging Face API
+# 🧪 Level 15: Add Hugging Face API
 
 ## What You'll Do
 Connect your function to the Hugging Face API.
+
+## ⚠️ Tricky Lesson Alert!
+
+This lesson involves working with APIs and can be challenging. If you get stuck or encounter errors, don't worry - this is normal! 
+
+**Need help?** Use our [Help Seeking Form](https://docs.google.com/forms/d/e/1FAIpQLSfrS8kKBrVgH_plH1FEwm7_RXkkY9_Xn_v1Udol3AFYMpL3Rw/viewform?usp=dialog) to get support from your instructors and classmates.
 
 ## Instructions
 Paste the Hugging Face JavaScript `fetch` snippet into `sendToModel`. Replace the API token first (classroom-safe setup).
