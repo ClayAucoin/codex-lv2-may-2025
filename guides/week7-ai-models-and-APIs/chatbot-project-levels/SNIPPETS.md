@@ -118,14 +118,14 @@ if (userInput === "") {
 ```
 
 ```js
-// JavaScript: Access elements by ID using helpers
+// Use helpers.js: Access elements by ID using helpers
 let userInput = getValue("user-chat-input");  // Get input value
 setText("chat-response", "Hello!");           // Set text content
 onEvent("send-btn", "click", function() {     // Add click event
     console.log("Button clicked!");
 });
 
-// Or use direct DOM methods
+// Alternative: use standard, direct DOM methods
 let inputElement = document.getElementById("user-chat-input");
 let buttonElement = document.getElementById("send-btn");
 let responseElement = document.getElementById("chat-response");
