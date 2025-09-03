@@ -232,6 +232,56 @@ const square = x => x * x;
 - **Arrow functions** don't have their own `this` context
 - **Both work** in most cases - choose what feels comfortable!
 
+## ⏳ **Promises and .then()**
+
+**Overview:** Promises handle asynchronous operations like API calls, file reading, or timers. When you make an API call with `fetch()`, it returns a Promise that resolves when the data arrives. Use `.then()` to handle the response. Each `.then()` can return a value or another Promise, creating a chain. This prevents "callback hell" and makes async code more readable. Always include error handling with `.catch()` to manage failed requests gracefully.
+
+```js
+// Basic Promise chain
+fetch(url)
+.then(response => response.json())
+.then(data => {
+    console.log(data);
+    setText("result", data.message);
+});
+```
+
+**Basic Promise Chain Flow:** In the above example, each `.then()` in the chain receives the return value from the previous step. The first `.then()` gets the raw response, converts it to JSON, and passes the data object to the next `.then()`. You can chain as many `.then()` calls as needed, with each one processing the data further. If any step fails, the chain jumps to `.catch()` for error handling. This creates a clean, readable flow for complex data processing.
+
+```js
+// Promise with error handling
+fetch(url)
+.then(response => response.json())
+.then(data => {
+    console.log(data);
+    setText("result", data.message);
+})
+.catch(error => {
+    console.log("Error:", error);
+    setText("result", "Something went wrong!");
+});
+
+// Multiple .then() operations
+fetch(url)
+.then(response => response.json())
+.then(data => {
+    console.log("Raw data:", data);
+    return data.results;
+})
+.then(results => {
+    console.log("Results:", results);
+    setText("result", results[0].name);
+});
+
+```
+
+**💡 Key Points:**
+- **`.then()`** handles successful responses
+- **`.catch()`** handles errors and failures
+- **Chain multiple `.then()`** for data processing steps
+- **Always handle errors** to prevent crashes
+- **Check response.ok** before processing data
+
 ---
 
 **💡 Tip:** Use Ctrl+F (or Cmd+F) to quickly find the snippet you need!
