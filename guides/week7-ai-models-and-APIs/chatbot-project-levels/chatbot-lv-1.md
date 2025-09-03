@@ -29,7 +29,7 @@ Make a new folder for your project and create all the necessary files to get sta
   - `helpers-full.js` (download from [class repository](../../week5-event-driven-apps/other-dev-files/helpers-full.js))
   - `secret-variables.js` (to hold your Hugging Face API token; globals only)
   - `README.md` (copy from [EXAMPLE_README.md](../EXAMPLE_README.md) template)
-  - `.gitignore` (to keep secret files out of Git)
+  - `.gitignore` (copy from [.gitignore](../.gitignore) template)
 
 ## 📄 `secret-variables.js` (starter template)
 

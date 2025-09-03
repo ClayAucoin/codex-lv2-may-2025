@@ -1,0 +1,20 @@
+# Chatbot Project - Minimal .gitignore
+
+# Secret files (⚠️ do not push secrets!)
+secret-variables.js
+
+# Node modules (if using npm)
+node_modules/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/settings.json
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
