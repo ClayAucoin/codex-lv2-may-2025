@@ -7,17 +7,17 @@ Level Navigation: [1](./chatbot-lv-1.md) | [2](./chatbot-lv-2.md) | [3](./chatbo
 # 🧪 Level 26: Valid Input Handling
 
 ## What You'll Do
-Add handling for when the input has text.
+Complete your validation logic by handling valid (non-empty) input.
 
 ## Instructions
-Add the condition for when the input has text:
+Add the `else` condition for when the input has text:
 - Show a "Thinking…" message in the output area
 - Change its style to indicate a neutral/loading state
-- *(This will be replaced with the real model response in Step 3, and the normal card style will return for chatbot replies.)*
+- *(This creates the complete if/else validation structure you learned in Level 25)*
 
 ## 💡 Code Hints
 
-**Handling valid input?** You'll need to use the "else" part of your conditional logic to show a different message when input has text. Check out the [Conditional Logic section in SNIPPETS.md](./SNIPPETS.md#conditional-logic) for if/else examples.
+**Completing your if/else structure?** You already have the `if` part from Level 25. Now add the `else` part to handle when the input is NOT empty. This creates a complete validation system that handles both cases.
 
 ## ✅ Check
 1. Open your webpage in a browser

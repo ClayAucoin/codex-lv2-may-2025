@@ -7,7 +7,9 @@ Level Navigation: [1](./chatbot-lv-1.md) | [2](./chatbot-lv-2.md) | [3](./chatbo
 # 🧪 Level 25: Empty Input Handling
 
 ## What You'll Do
-Add validation for when the input is empty.
+Add input validation to handle empty user input gracefully.
+
+**Why validation matters:** Professional applications always check user input before processing it. This prevents errors and provides helpful feedback to users.
 
 ## Instructions
 Add a condition for when the input is empty:

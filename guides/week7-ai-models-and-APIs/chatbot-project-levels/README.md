@@ -34,7 +34,7 @@ Get your development environment ready and create the project foundation.
 - [Level 4: Live Server Test](./chatbot-lv-4.md)
 - [Level 5: Test & Check - Project Setup Complete](./chatbot-lv-5.md)
 
-### **Step 2: UI & DOM Wiring** (Levels 6-14)
+### **Step 2: UI & DOM Wiring** (Levels 6-12)
 Build the user interface and connect it with JavaScript event handling.
 
 - [Level 6: UI & DOM Wiring - Basic Interface](./chatbot-lv-6.md)
@@ -43,32 +43,32 @@ Build the user interface and connect it with JavaScript event handling.
 - [Level 9: IDs and Testing](./chatbot-lv-9.md)
 - [Level 10: Button Event Wiring](./chatbot-lv-10.md)
 - [Level 11: Input Value Reading](./chatbot-lv-11.md)
-- [Level 12: Empty Input Handling](./chatbot-lv-12.md)
-- [Level 13: Valid Input Handling](./chatbot-lv-13.md)
-- [Level 14: Test & Check - UI & DOM Wiring Complete](./chatbot-lv-14.md)
+- [Level 12: Test & Check - UI & DOM Wiring Complete](./chatbot-lv-12.md)
 
-### **Step 3: Model Call (HF Inference)** (Levels 15-21)
-Connect your app to AI models and handle API responses.
+### **Step 3: Model Call & API Integration** (Levels 13-24)
+Connect your app to AI models and handle API responses, then integrate user input.
 
-- [Level 15: Model Call - Global Variable](./chatbot-lv-15.md)
-- [Level 16: Create Function](./chatbot-lv-16.md)
-- [Level 17: Add Hugging Face API](./chatbot-lv-17.md)
-- [Level 18: Proof-of-Life Test](./chatbot-lv-18.md)
-- [Level 19: Inspect Response](./chatbot-lv-19.md)
-- [Level 20: Connect to Button](./chatbot-lv-20.md)
-- [Level 21: Test & Check - Model Call Complete](./chatbot-lv-21.md)
+- [Level 13: Model Call - Global Variable](./chatbot-lv-13.md)
+- [Level 14: Create Function](./chatbot-lv-14.md)
+- [Level 15: Add Hugging Face API](./chatbot-lv-15.md)
+- [Level 16: Proof-of-Life Test](./chatbot-lv-16.md)
+- [Level 17: Inspect Response](./chatbot-lv-17.md)
+- [Level 18: Connect to Button](./chatbot-lv-18.md)
+- [Level 19: Test & Check - Model Call Complete](./chatbot-lv-19.md)
+- [Level 20: Add State for Input](./chatbot-lv-20.md)
+- [Level 21: Capture Input on Click](./chatbot-lv-21.md)
+- [Level 22: Use Input in Model Call](./chatbot-lv-22.md)
+- [Level 23: Render the Reply](./chatbot-lv-23.md)
+- [Level 24: Test & Check - User Input Integration Complete](./chatbot-lv-24.md)
 
-### **Step 4: Use userPrompt from Input** (Levels 22-26)
-Make your chatbot use actual user input instead of hardcoded prompts.
+### **Step 4: Input Validation** (Levels 25-26)
+Add professional input validation and error handling.
 
-- [Level 22: Add State for Input](./chatbot-lv-22.md)
-- [Level 23: Capture Input on Click](./chatbot-lv-23.md)
-- [Level 24: Use Input in Model Call](./chatbot-lv-24.md)
-- [Level 25: Render the Reply](./chatbot-lv-25.md)
-- [Level 26: Test & Check - User Input Integration Complete](./chatbot-lv-26.md)
+- [Level 25: Empty Input Handling](./chatbot-lv-25.md)
+- [Level 26: Valid Input Handling](./chatbot-lv-26.md)
 
 ### **Step 5: Validation Polish** (Levels 27-31)
-Add professional error handling and input validation.
+Polish the validation system with professional error handling and user feedback.
 
 - [Level 27: Add Validation Area](./chatbot-lv-27.md)
 - [Level 28: Show Validation on Empty](./chatbot-lv-28.md)

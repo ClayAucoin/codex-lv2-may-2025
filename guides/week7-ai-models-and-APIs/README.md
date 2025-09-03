@@ -13,10 +13,10 @@ Welcome to **Week 7**! This week focuses on AI Models and APIs with two separate
 ### 🎯 **Leveled Learning Path**
 - **[Chatbot Project Levels](./chatbot-project-levels/README.md)** - 32 progressive levels organized into 6 major steps
   - **Step 1:** Project Setup (Levels 1-5)
-  - **Step 2:** UI & DOM Wiring (Levels 6-14)
-  - **Step 3:** Model Call & API Integration (Levels 15-21)
-  - **Step 4:** User Input Integration (Levels 22-26)
-  - **Step 5:** Validation & Polish (Levels 27-31)
+  - **Step 2:** UI & DOM Wiring (Levels 6-12)
+  - **Step 3:** Model Call & API Integration (Levels 13-24)
+  - **Step 4:** Input Validation (Levels 25-26)
+  - **Step 5:** Validation Polish (Levels 27-31)
   - **Step 6:** Challenge Extensions (Level 32)
 
 ## 📋 Project Planning

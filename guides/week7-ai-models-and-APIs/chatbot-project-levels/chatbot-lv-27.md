@@ -7,18 +7,28 @@ Level Navigation: [1](./chatbot-lv-1.md) | [2](./chatbot-lv-2.md) | [3](./chatbo
 # 🧪 Level 27: Add Validation Area
 
 ## What You'll Do
-Create a dedicated area for validation messages.
+Improve your validation system by creating a dedicated area for validation messages.
 
 ## Instructions
-Reserve a small area near the input (or above the card) for validation messages (e.g., "Please enter a message."). Keep it empty by default.
+Add a dedicated validation area to your HTML:
+- Create a small area near the input field for validation messages
+- Give it a clear ID (like `validation-message`)
+- Keep it empty by default
+- Style it appropriately (subtle border, background, or text color)
+- *(This will make your validation messages more professional and organized)*
+
+## 💡 Code Hints
+
+**Need to display text in your validation area?** You'll use the `setText()` function to show validation messages. Check out the [Helper Functions section in SNIPPETS.md](./SNIPPETS.md#helper-functions) for `setText()` examples and other useful functions.
 
 ## ✅ Check
 1. Open your webpage in a browser
-2. Look for a new area near your input field or above the output card
+2. Look for a new validation area near your input field
 3. This area should be empty by default (no text visible)
-4. The area should be styled appropriately (maybe with a subtle border or background)
+4. The area should be styled appropriately (subtle border, background, or text color)
 5. Open Chrome DevTools (F12) and check the Console tab for any errors
 6. If you don't see the validation area, check that you added the HTML element with the correct ID
+7. **Next step:** In Level 28, you'll connect this area to your validation logic from Levels 25-26
 
 ---
 
