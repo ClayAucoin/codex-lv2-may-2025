@@ -32,7 +32,7 @@ git commit -m "feature: complete step 2 - UI and DOM wiring"
 
 ---
 
-**Next:** Level 13 - Model Call (HF Inference)
+**Next:** Level 14 - Create Function
 
 ---
 

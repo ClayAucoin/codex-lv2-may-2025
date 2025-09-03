@@ -4,7 +4,7 @@ Level Navigation: [1](./chatbot-lv-1.md) | [2](./chatbot-lv-2.md) | [3](./chatbo
 
 ---
 
-# 🧪 Level 19: Inspect Response
+# 🧪 Level 17: Inspect Response
 
 ## What You'll Do
 Learn how to extract the AI response from the API data.
@@ -42,7 +42,7 @@ Learn how to extract the AI response from the API data.
 
 ---
 
-**Next:** Level 20 - Connect to Button
+**Next:** Level 18 - Connect to Button
 
 ---
 

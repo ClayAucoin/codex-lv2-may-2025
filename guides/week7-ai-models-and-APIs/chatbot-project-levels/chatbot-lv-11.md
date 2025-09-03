@@ -29,7 +29,7 @@ Inside the handler, use `getValue("inputId")` (or direct DOM) and `console.log` 
 
 ---
 
-**Next:** Level 12 - Empty Input Handling
+**Next:** Level 12 - Test & Check - UI & DOM Wiring Complete
 
 ---
 

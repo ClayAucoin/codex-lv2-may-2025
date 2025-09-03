@@ -4,7 +4,7 @@ Level Navigation: [1](./chatbot-lv-1.md) | [2](./chatbot-lv-2.md) | [3](./chatbo
 
 ---
 
-# 🧪 Level 20: Connect to Button
+# 🧪 Level 18: Connect to Button
 
 ## What You'll Do
 Connect your AI function to the button click.
@@ -28,7 +28,7 @@ In the button's click handler (from Step 2), after showing **"Thinking…"**, ca
 
 ---
 
-**Next:** Level 21 - Test & Check
+**Next:** Level 19 - Test & Check - Model Call Complete
 
 ---
 

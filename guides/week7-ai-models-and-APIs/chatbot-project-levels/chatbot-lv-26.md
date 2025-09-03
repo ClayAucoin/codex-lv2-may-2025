@@ -4,7 +4,7 @@ Level Navigation: [1](./chatbot-lv-1.md) | [2](./chatbot-lv-2.md) | [3](./chatbo
 
 ---
 
-# 🧪 Level 13: Valid Input Handling
+# 🧪 Level 26: Valid Input Handling
 
 ## What You'll Do
 Add handling for when the input has text.
@@ -30,7 +30,7 @@ Add the condition for when the input has text:
 
 ---
 
-**Next:** Level 14 - Test & Check
+**Next:** Level 27 - Add Validation Area
 
 ---
 

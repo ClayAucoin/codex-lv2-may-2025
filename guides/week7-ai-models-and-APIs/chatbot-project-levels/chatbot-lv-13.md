@@ -31,7 +31,7 @@ Open Chrome DevTools (F12) and go to the Console tab. Type `botReply` and press 
 
 ---
 
-**Next:** Level 16 - Create Function
+**Next:** Level 14 - Create Function
 
 ---
 

@@ -4,7 +4,7 @@ Level Navigation: [1](./chatbot-lv-1.md) | [2](./chatbot-lv-2.md) | [3](./chatbo
 
 ---
 
-# 🧪 Level 16: Create Function
+# 🧪 Level 14: Create Function
 
 ## What You'll Do
 Create the function that will call the AI model.
@@ -26,7 +26,7 @@ Create a function (e.g., `sendToModel()`). Inside, log `"sendToModel called"` to
 
 ---
 
-**Next:** Level 17 - Add Hugging Face API
+**Next:** Level 15 - Add Hugging Face API
 
 ---
 

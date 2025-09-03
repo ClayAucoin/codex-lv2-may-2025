@@ -34,7 +34,7 @@ Paste the Hugging Face JavaScript `fetch` snippet into `sendToModel`. Replace th
 
 ---
 
-**Next:** Level 18 - Proof-of-Life Test
+**Next:** Level 16 - Proof-of-Life Test
 
 ---
 

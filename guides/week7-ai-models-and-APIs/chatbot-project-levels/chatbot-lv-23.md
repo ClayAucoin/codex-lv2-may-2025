@@ -4,7 +4,7 @@ Level Navigation: [1](./chatbot-lv-1.md) | [2](./chatbot-lv-2.md) | [3](./chatbo
 
 ---
 
-# 🧪 Level 25: Render the Reply
+# 🧪 Level 23: Render the Reply
 
 ## What You'll Do
 Display the AI's response in your output area.

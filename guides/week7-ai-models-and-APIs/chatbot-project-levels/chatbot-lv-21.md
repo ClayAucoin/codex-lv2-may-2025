@@ -4,7 +4,7 @@ Level Navigation: [1](./chatbot-lv-1.md) | [2](./chatbot-lv-2.md) | [3](./chatbo
 
 ---
 
-# 🧪 Level 23: Capture Input on Click
+# 🧪 Level 21: Capture Input on Click
 
 ## What You'll Do
 Capture the user's input when they click the Send button.
@@ -30,7 +30,7 @@ Log once: `console.log("userPrompt:", userPrompt)`.
 
 ---
 
-**Next:** Level 24 - Use Input in Model Call
+**Next:** Level 22 - Use Input in Model Call
 
 ---
 

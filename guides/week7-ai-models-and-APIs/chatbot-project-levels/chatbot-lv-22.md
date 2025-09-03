@@ -4,7 +4,7 @@ Level Navigation: [1](./chatbot-lv-1.md) | [2](./chatbot-lv-2.md) | [3](./chatbo
 
 ---
 
-# 🧪 Level 24: Use Input in Model Call
+# 🧪 Level 22: Use Input in Model Call
 
 ## What You'll Do
 Make the AI use the user's actual input instead of a hardcoded prompt.

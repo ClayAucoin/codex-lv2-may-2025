@@ -4,7 +4,7 @@ Level Navigation: [1](./chatbot-lv-1.md) | [2](./chatbot-lv-2.md) | [3](./chatbo
 
 ---
 
-# 🧪 Level 21: Test & Check - Model Call Complete
+# 🧪 Level 19: Test & Check - Model Call Complete
 
 ## What You'll Do
 Verify your AI connection is working and check off your progress.
@@ -30,7 +30,7 @@ git commit -m "feature: complete step 3 - model call and response handling"
 
 ---
 
-**Next:** Level 22 - Use userPrompt from Input
+**Next:** Level 20 - Add State for Input
 
 ---
 

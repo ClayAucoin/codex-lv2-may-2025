@@ -4,7 +4,7 @@ Level Navigation: [1](./chatbot-lv-1.md) | [2](./chatbot-lv-2.md) | [3](./chatbo
 
 ---
 
-# 🧪 Level 22: Add State for Input
+# 🧪 Level 20: Add State for Input
 
 ## What You'll Do
 Create a variable to store the user's input.
@@ -26,7 +26,7 @@ Create a global variable for the user's text (e.g., `let userPrompt = "";`).
 
 ---
 
-**Next:** Level 23 - Capture Input on Click
+**Next:** Level 21 - Capture Input on Click
 
 ---
 

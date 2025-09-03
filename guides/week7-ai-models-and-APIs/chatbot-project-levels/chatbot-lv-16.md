@@ -4,7 +4,7 @@ Level Navigation: [1](./chatbot-lv-1.md) | [2](./chatbot-lv-2.md) | [3](./chatbo
 
 ---
 
-# 🧪 Level 18: Proof-of-Life Test
+# 🧪 Level 16: Proof-of-Life Test
 
 ## What You'll Do
 Test your AI connection with different prompts.

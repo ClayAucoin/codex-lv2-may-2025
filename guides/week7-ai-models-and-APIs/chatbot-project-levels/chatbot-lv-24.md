@@ -4,7 +4,7 @@ Level Navigation: [1](./chatbot-lv-1.md) | [2](./chatbot-lv-2.md) | [3](./chatbo
 
 ---
 
-# 🧪 Level 26: Test & Check - User Input Integration Complete
+# 🧪 Level 24: Test & Check - User Input Integration Complete
 
 ## What You'll Do
 Verify your chatbot is fully functional and check off your progress.
@@ -31,7 +31,7 @@ git commit -m "feature: complete step 4 - wire user input to model call"
 
 ---
 
-**Next:** Level 27 - Validation Polish
+**Next:** Level 25 - Empty Input Handling
 
 ---
 
