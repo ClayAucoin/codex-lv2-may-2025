@@ -64,7 +64,7 @@ console.log(data.choices[0].message.content);
 fetch(url, {
     method: "POST",
     headers: {
-        "Authorization": "Bearer " + API_TOKEN,
+        "Authorization": `Bearer ${HF_TOKEN}`,
         "Content-Type": "application/json"
     },
     body: JSON.stringify({

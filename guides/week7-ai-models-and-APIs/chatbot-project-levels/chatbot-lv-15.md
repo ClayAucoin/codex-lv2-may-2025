@@ -16,11 +16,11 @@ This lesson involves working with APIs and can be challenging. If you get stuck 
 **Need help?** Use our [Help Seeking Form](https://docs.google.com/forms/d/e/1FAIpQLSfrS8kKBrVgH_plH1FEwm7_RXkkY9_Xn_v1Udol3AFYMpL3Rw/viewform?usp=dialog) to get support from your instructors and classmates.
 
 ## Instructions
-Paste the Hugging Face JavaScript `fetch` snippet into `sendToModel`. Replace the API token first (classroom-safe setup).
+Paste the Hugging Face JavaScript `fetch` snippet into `sendToModel`. Replace the API token first.
 
 ## 💡 Code Hints
 
-**Making API calls?** You'll need to use the `fetch` function to call the Hugging Face API. Check out the [API Calls section in SNIPPETS.md](./SNIPPETS.md#api-calls) for fetch examples.
+**Making API calls?** You'll need to use the `fetch` function to call the Hugging Face API. Check out the [API Calls section in SNIPPETS.md](./SNIPPETS.md#api-calls) for fetch examples and the [OpenAI Response Format section](./SNIPPETS.md#openai-response-format) for correct response handling.
 
 ## ✅ Check
 1. Open your webpage in a browser
