@@ -22,6 +22,10 @@ Paste the Hugging Face JavaScript `fetch` snippet into `sendToModel`. Replace th
 
 **Making API calls?** You'll need to use the `fetch` function to call the Hugging Face API. Check out the [API Calls section in SNIPPETS.md](./SNIPPETS.md#api-calls) for fetch examples and the [OpenAI Response Format section](./SNIPPETS.md#openai-response-format) for correct response handling.
 
+## 📋 Cheat Sheet
+
+**Quick Reference:** Check out the [Hugging Face Gen Code Cheat Sheet](../../../resources/skill-guides/cheat-sheet-for-hugging-face-gen-code.png) for what you will need to change on your generated code.
+
 ## ✅ Check
 1. Open your webpage in a browser
 2. Open Chrome DevTools (F12) and go to the Console tab
