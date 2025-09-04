@@ -40,6 +40,7 @@ This week covers:
 ## Reference Materials
 
 - **[Promise Reference Guide](promise-reference.md)** - Quick reference for understanding arrow functions and the `then` method in JavaScript promises
+- **[Flow of Functions Guide](../../resources/skill-guides/flow-of-functions.md)** - Comprehensive guide explaining how functions work together, including function calls, parameters, return values, and scope
 
 ## Getting Started
 

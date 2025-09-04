@@ -54,6 +54,10 @@ Students will learn:
 - **Debugging** - Using browser DevTools effectively
 - **Project Planning** - Following professional development workflows
 
+## 📚 Reference Materials
+
+- **[Flow of Functions Guide](../../resources/skill-guides/flow-of-functions.md)** - Essential guide for understanding how JavaScript functions work together, including function calls, parameters, return values, and scope. Perfect for debugging complex function interactions in your chatbot project.
+
 ## 🚀 Quick Start
 
 1. **Start with Lesson 1** - [AI Models and APIs](./lesson-1.md)
