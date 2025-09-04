@@ -1,8 +1,12 @@
 # 📝 Exercise: Exploring Events, Functions, and API Calls
 
+## 📚 Related Resources
+
+- **[Events Birds Eye View](./events-birds-eye-view.pdf)** - Visual guide providing a comprehensive overview of how events work in web development, perfect for understanding the event-driven nature of modern applications.
+
 ## Summary
 
-In this exercise, you’ll learn how programs run in order, how functions and events change that flow, and how API calls return data asynchronously. By the end, you’ll be able to predict program behavior, attach event listeners, and understand how callbacks work with real-world APIs.
+In this exercise, you'll learn how programs run in order, how functions and events change that flow, and how API calls return data asynchronously. By the end, you'll be able to predict program behavior, attach event listeners, and understand how callbacks work with real-world APIs.
 
 ---
 
