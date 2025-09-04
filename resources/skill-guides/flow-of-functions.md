@@ -76,7 +76,7 @@ In this exercise, you'll learn how programs run in order, how functions and even
    ```js
    fetch("https://jsonplaceholder.typicode.com/todos/1")
      .then(response => response.json())
-     .then(data => {
+     .then(function(data) {
        console.log("Data:", data);
      });
    console.log("After fetch!");
