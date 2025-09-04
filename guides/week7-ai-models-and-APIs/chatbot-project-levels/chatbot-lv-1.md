@@ -31,7 +31,7 @@ Make a new folder for your project and create all the necessary files to get sta
   - `helpers-full.js` (download from [class repository](../../week5-event-driven-apps/other-dev-files/helpers-full.js))
   - `secret-variables.js` (to hold your Hugging Face API token; globals only)
   - `README.md` (copy from [EXAMPLE_README.md](../EXAMPLE_README.md) template)
-  - `.gitignore` (copy from [.gitignore](./.gitignore) template)
+  - `.gitignore` (copy from [.gitignore](https://github.com/rmccrear/codex-lv2-may-2025/blob/main/guides/week7-ai-models-and-APIs/chatbot-project-levels/.gitignore) template)
 
 ## 📄 `secret-variables.js` (starter template)
 
