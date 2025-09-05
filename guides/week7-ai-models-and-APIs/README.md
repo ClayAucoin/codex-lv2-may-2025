@@ -57,6 +57,7 @@ Students will learn:
 ## 📚 Reference Materials
 
 - **[Flow of Functions Guide](../../resources/skill-guides/flow-of-functions.md)** - Essential guide for understanding how JavaScript functions work together, including function calls, parameters, return values, and scope. Perfect for debugging complex function interactions in your chatbot project.
+- **[Events Birds Eye View PDF](../../resources/skill-guides/events-birds-eye-view.pdf)** - Comprehensive visual guide to JavaScript event handling, perfect for understanding how to wire up button clicks and user interactions in your chatbot project.
 
 ## 🚀 Quick Start
 
