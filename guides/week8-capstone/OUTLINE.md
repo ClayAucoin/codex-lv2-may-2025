@@ -19,7 +19,7 @@ Your capstone project is the culmination of everything you've learned in weeks 4
 - Implement proper event handling using JavaScript event listeners
 - Build dynamic user interfaces that update based on user interactions
 - Include form validation and user feedback systems
-    - For example: use an if statement to check if the user has input data.
+    - For example: use an if statement to check if the user has input data before processing (e.g., `if (userInput === "") { showError("Please enter a message"); }`)
 - **Reference**: [Event-Driven Apps Guide](../week5-event-driven-apps/helpers-how-to.md)
 
 ### **3. API Integration**
@@ -37,7 +37,7 @@ Your capstone project is the culmination of everything you've learned in weeks 4
 ### **5. Professional Code Organization**
 - Use proper file structure and name directories and files in a meaningful way
 - Have a README derived from the example README from Week 7.
-- All files should be indented properly. Remember the hotkey for formatting is ALT-SHIFT-F in Windows. See the [official VSCode hotkey reference]()
+- All files should be indented properly. Remember the hotkey for formatting is ALT-SHIFT-F in Windows. See the [official VSCode hotkey reference](https://code.visualstudio.com/docs/reference/default-keybindings)
 - Include comprehensive comments
     - leave comments in your JS code with //
     - leave comments in your HTML with &lt;!-- --&gt;
@@ -84,7 +84,6 @@ Your capstone project is the culmination of everything you've learned in weeks 4
 - Create and maintain a comprehensive project README 
 - Document your API integrations and external dependencies
 - Include screenshots or demos of your application in the README
-- 
 - Challenge: Prepare a presentation demonstrating your project's features
 
 ---
