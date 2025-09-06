@@ -88,6 +88,9 @@ A hands-on introduction to Bootstrap with practical examples and starter templat
 - **[CSS Frameworks Snippets](./lesson-1-css-frameworks/lesson-1-css-snippets.md)**
 - **[Bootstrap Snippets](./lesson-2-bootstrap-framework/lesson-2-css-snippets.md)**
 
+### **Reference Materials**
+- **[📖 Week 4 Glossary](./GLOSSARY.md)** - Key terms and concepts for CSS frameworks and Bootstrap
+
 ---
 
 ## 🎯 **Learning Objectives**
