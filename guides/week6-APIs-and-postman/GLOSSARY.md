@@ -4,7 +4,7 @@
 
 * **Week 6 (Data Week)**
   Focused on making webpages **dynamic with data**. Covered [Requests & Responses](#requests--responses), [APIs](#apis-application-programming-interfaces), [JSON](#json-javascript-object-notation), and [Postman](#postman) as key tools.
-  → Builds on Week 4’s [Bootstrap](#bootstrap) and [Git Workflow](#git-workflow).
+  → Builds on Week 4's [Bootstrap](../week4-css-frameworks/GLOSSARY.md#bootstrap) and [Git Workflow](../week1-git/GLOSSARY.md#git-workflow).
 
 ---
 
@@ -111,24 +111,24 @@
   → Related: [Text Generation (AI)](#text-generation-ai), [Inference (AI)](#inference-ai)
 
 * **Bootstrap**
-  Continued as a [CSS](#css-cascading-style-sheets) framework for professional design.
-  → Related: [Utility Classes](#utility-classes), [Grid System](#grid-system-bootstrap)
+  Continued as a [CSS](../week4-css-frameworks/GLOSSARY.md#css-cascading-style-sheets) framework for professional design.
+  → Related: [Utility Classes](../week4-css-frameworks/GLOSSARY.md#utility-classes), [Grid System](../week4-css-frameworks/GLOSSARY.md#grid-system-bootstrap)
 
 * **Git Workflow**
   Practiced repeatedly in Week 6.
 
-  * [`git add`](#git-add), [`git commit`](#git-commit), [`git push`](#git-push).
-    → Related: [Repositories](#repositories-repos)
+  * [`git add`](../week1-git/GLOSSARY.md#git-add), [`git commit`](../week1-git/GLOSSARY.md#git-commit), [`git push`](../week1-git/GLOSSARY.md#git-push).
+    → Related: [Repositories](../week1-git/GLOSSARY.md#repositories-repos)
 
 * **Hash**
   Unique identifier string.
 
   * In Git: commit hash.
   * In other contexts: used differently (e.g. color filters in APIs).
-    → Related: [Commit (Git)](#commit-git)
+    → Related: [Commit (Git)](../week1-git/GLOSSARY.md#commit-git)
 
 * **Boilerplate**
-  Standard starting [HTML](#html-hypertext-markup-language) generated with `!` in VS Code.
+  Standard starting [HTML](../week2-vscode/GLOSSARY.md#html-hypertext-markup-language) generated with `!` in VS Code.
 
 * **Breakout Rooms**
   Virtual sub-rooms for smaller group collaboration.
