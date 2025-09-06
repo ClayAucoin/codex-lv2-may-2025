@@ -19,11 +19,11 @@
 
 * **VS Code (Visual Studio Code)**
   IDE for writing and managing code outside of App Lab.
-  → Related: [Boilerplate](#boilerplate), [GitHub](#github)
+  → Related: [Boilerplate](#boilerplate), [GitHub](../week2-vscode/GLOSSARY.md#github)
 
 * **GitHub**
   Web-based platform for hosting and collaborating on projects.
-  → Related: [Git Workflow](#git-workflow), [Repositories](#repositories-repos)
+  → Related: [Git Workflow](../week1-git/GLOSSARY.md#git-workflow), [Repositories](../week1-git/GLOSSARY.md#repositories-repos)
 
 ---
 
@@ -74,16 +74,16 @@
     → Related: [Concatenate](#concatenate-string-concatenation)
 
 * **IDs (`#`)**
-  Unique identifiers for [HTML Elements](#html--css).
+  Unique identifiers for [HTML Elements](../week2-vscode/GLOSSARY.md#html-elements).
 
   * Recommended: use descriptive names (e.g., `"submitBtn"`, not `"1"`).
-    → Related: [ID Attribute](#id-attribute)
+    → Related: [ID Attribute](../week2-vscode/GLOSSARY.md#id-attribute)
 
 * **DOM (Document Object Model)**
   Represents the webpage as a tree of objects.
 
   * JavaScript manipulates the DOM to update content dynamically.
-    → Related: [HTML](#html--css), [setProperty](#setproperty)
+    → Related: [HTML](../week2-vscode/GLOSSARY.md#html-hypertext-markup-language), [setProperty](#setproperty)
 
 * **Dynamic / Interactive Apps**
   Apps that respond to user input and change content without reloading the page.
@@ -102,10 +102,10 @@
   → Related: [setText](#settext)
 
 * **`setProperty()`**
-  Changes an element’s CSS property.
+  Changes an element's CSS property.
 
   * Syntax: `setProperty("id", "property", "value")`
-    → Related: [CSS](#html--css), [DOM](#dom-document-object-model)
+    → Related: [CSS](../week2-vscode/GLOSSARY.md#css-cascading-style-sheets), [DOM](#dom-document-object-model)
 
 ---
 
@@ -118,19 +118,19 @@
     → Related: [Debugging](#debugging)
 
 * **Boilerplate**
-  Standard starting [HTML](#html--css) generated in VS Code with `!`.
+  Standard starting [HTML](../week2-vscode/GLOSSARY.md#html-hypertext-markup-language) generated in VS Code with `!`.
 
 * **HTML & CSS**
   Core web technologies:
 
-  * [HTML](#html-hypertext-markup-language) structures content.
-  * [CSS](#css-cascading-style-sheets) styles it.
+  * [HTML](../week2-vscode/GLOSSARY.md#html-hypertext-markup-language) structures content.
+  * [CSS](../week2-vscode/GLOSSARY.md#css-cascading-style-sheets) styles it.
   * JavaScript can dynamically update CSS via [setProperty](#setproperty).
 
 * **Git Workflow**
   Continued practice with:
 
-  * [`git add`](#git-add) → stage changes
-  * [`git commit`](#git-commit) → save locally
-  * [`git push`](#git-push) → share on GitHub
-    → Related: [Repositories](#repositories-repos)
+  * [`git add`](../week1-git/GLOSSARY.md#git-add) → stage changes
+  * [`git commit`](../week1-git/GLOSSARY.md#git-commit) → save locally
+  * [`git push`](../week1-git/GLOSSARY.md#git-push) → share on GitHub
+    → Related: [Repositories](../week1-git/GLOSSARY.md#repositories-repos)
