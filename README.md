@@ -1,5 +1,7 @@
 # codex-lv2-may-2025
 
+📚 **[Glossary of Coding Terms](./GLOSSARY.md)** - Comprehensive reference for coding concepts and terminology
+
 * Weeks 1-3: Professional Tools
   * Week 1: [The Shell and git](./guides/week1-git/README.md)
   * Week 2: [VSCode and Collaboration](./guides/week2-vscode/README.md)
