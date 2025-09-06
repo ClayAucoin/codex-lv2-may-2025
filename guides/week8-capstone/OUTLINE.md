@@ -10,78 +10,82 @@ Your capstone project is the culmination of everything you've learned in weeks 4
 
 ### **1. Bootstrap Framework Integration**
 - Use Bootstrap CSS framework for responsive design
+- Use Bootstrap CSS for layout with row/cols
 - Implement Bootstrap components (cards, buttons, forms, navigation)
 - Apply Bootstrap utility classes for spacing, colors, and layout
-- Ensure mobile-first responsive design across all screen sizes
 
 ### **2. Event-Driven User Interface**
 - Create interactive elements that respond to user events (clicks, form submissions, input changes)
 - Implement proper event handling using JavaScript event listeners
 - Build dynamic user interfaces that update based on user interactions
 - Include form validation and user feedback systems
+    - For example: use an if statement to check if the user has input data.
 - **Reference**: [Event-Driven Apps Guide](../week5-event-driven-apps/helpers-how-to.md)
 
 ### **3. API Integration**
 - Connect to at least one external API (weather, news, data, etc.)
-- Handle API responses and errors gracefully
-- Use proper HTTP methods and headers
-- Implement loading states and error handling for API calls
+- Handle API responses
+- Challenge: Implement loading states and error handling for API calls in the callback to `catch` or by checking for `response.ok` is true in the callback for `then`.
 - **Reference**: [Public APIs Collection](https://github.com/public-apis/public-apis)
 
 ### **4. AI Model Integration**
 - Integrate with an AI service (Hugging Face, OpenAI, or similar)
 - Create meaningful interactions with AI models
 - Handle AI responses and display them appropriately
-- Implement proper API token management and security
 - **Reference**: [Hugging Face Models](https://huggingface.co/models)
 
 ### **5. Professional Code Organization**
-- Use proper file structure and naming conventions
-- Implement helper functions and modular code
-- Follow JavaScript best practices and clean code principles
-- Include comprehensive comments and documentation
+- Use proper file structure and name directories and files in a meaningful way
+- Have a README derived from the example README from Week 7.
+- All files should be indented properly. Remember the hotkey for formatting is ALT-SHIFT-F in Windows. See the [official VSCode hotkey reference]()
+- Include comprehensive comments
+    - leave comments in your JS code with //
+    - leave comments in your HTML with &lt;!-- --&gt;
 
 ### **6. Git Version Control**
-- Maintain a clean Git history with meaningful commit messages
-- Use proper branching strategies for feature development
-- Include a comprehensive README.md with setup instructions
+- Maintain your Git history with frequent commits.
+- Always use a meaningful commit message when you commit.
+    - GOOD: git commit -m "added bootstrap classes to my buttons"
+    - BAD: git commit -m "updates"
 - Implement proper .gitignore to protect sensitive information
+    - your .gitignore should in include the line `secret-variables.js`
 
 ### **7. Input Validation & Error Handling**
-- Validate all user inputs before processing
+- Validate user inputs before processing
 - Provide clear error messages and user feedback
-- Handle edge cases and unexpected user behavior
-- Implement proper form validation and sanitization
 
 ### **8. Responsive Design & User Experience**
 - Ensure your application works on desktop, tablet, and mobile devices
 - Create intuitive navigation and user flows
 - Implement proper loading states and visual feedback
-- Design with accessibility in mind (alt text, semantic HTML, etc.)
+    - You may have a "Loading..." string after clicking the button, but before the data returns from the API.
+- Design with accessibility in mind 
+    - use alt attributes in all images
+    - prefer semantic HTML like `h1`, `article` or `section` over `div`
 
 ### **9. Data Management & State**
 - Properly manage application state and data flow
 - Handle asynchronous operations (API calls, AI responses)
-- Implement proper data persistence where appropriate
-- Use appropriate data structures and algorithms
+- Challenge: Implement proper data persistence with `localStorage`
 
 ### **10. Security & Best Practices**
-- Protect API keys and sensitive information using environment variables
-- Implement proper CORS handling and security headers
-- Follow web security best practices
-- Validate and sanitize all external data
+- Protect API keys and sensitive information using `secret-variables.js`
+- Use a `.gitignore` file
+- Do not check your secrets into git.
 
 ### **11. Testing & Debugging**
 - Use browser DevTools effectively for debugging
 - Test your application across different browsers and devices
-- Implement proper error logging and monitoring
-- Include unit tests or manual testing procedures
+- Implement proper error logging and monitoring with `console.log()`
+    - For example in an event listener for a button: `console.log("button clicked")`
+- Test at every step. Do not write more than a few lines of code before reviewing the result in the browser.
 
 ### **12. Documentation & Presentation**
-- Create a comprehensive project README with setup instructions
+- Create and maintain a comprehensive project README 
 - Document your API integrations and external dependencies
-- Include screenshots or demos of your application
-- Prepare a presentation demonstrating your project's features
+- Include screenshots or demos of your application in the README
+- 
+- Challenge: Prepare a presentation demonstrating your project's features
 
 ---
 
