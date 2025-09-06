@@ -19,18 +19,21 @@ Your capstone project is the culmination of everything you've learned in weeks 4
 - Implement proper event handling using JavaScript event listeners
 - Build dynamic user interfaces that update based on user interactions
 - Include form validation and user feedback systems
+- **Reference**: [Event-Driven Apps Guide](../week5-event-driven-apps/helpers-how-to.md)
 
 ### **3. API Integration**
 - Connect to at least one external API (weather, news, data, etc.)
 - Handle API responses and errors gracefully
 - Use proper HTTP methods and headers
 - Implement loading states and error handling for API calls
+- **Reference**: [Public APIs Collection](https://github.com/public-apis/public-apis)
 
 ### **4. AI Model Integration**
 - Integrate with an AI service (Hugging Face, OpenAI, or similar)
 - Create meaningful interactions with AI models
 - Handle AI responses and display them appropriately
 - Implement proper API token management and security
+- **Reference**: [Hugging Face Models](https://huggingface.co/models)
 
 ### **5. Professional Code Organization**
 - Use proper file structure and naming conventions
