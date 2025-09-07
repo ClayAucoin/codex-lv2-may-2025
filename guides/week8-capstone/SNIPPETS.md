@@ -80,21 +80,21 @@ fetch(url, {
 
 ## 📮 **Postman Generated Code**
 
-```js
-const requestOptions = {
+In Postman, your generated code will look like this. You must alter it a bit to use it for our purpose.
+
+<pre><code>const requestOptions = {
   method: "GET",
   redirect: "follow"
 };
 
 fetch("https://api.open-meteo.com/v1/forecast?latitude=29.95&longitude=-90.07&current_weather=true&temperature_unit=fahrenheit", requestOptions)
-  .then((response) => response.text())
-  .then((result) => console.log(result))
-  .catch((error) => console.error(error));
-```
+  <span style="color: red;">.then((response) => response.text())</span>
+  <span style="color: red;">.then((result) => console.log(result))</span>
+  .catch((error) => console.error(error));</code></pre>
 
 **Two changes needed:**
-1. Change `response.text()` to `response.json()` to use the POJO format
-2. Change `.then((result) => console.log(result))` to `.then(function (result) { console.log(result); })` so you can put your code in this callback function
+1. Change `response.text()` to <span style="color: red;">`response.json()`</span> to use the POJO format
+2. Change <span style="color: red;">`.then((result) => console.log(result))`</span> to <span style="color: red;">`.then(function (result) { console.log(result); })`</span> so you can put your code in this callback function
 
 ## 🤖 **OpenAI Response Format**
 
