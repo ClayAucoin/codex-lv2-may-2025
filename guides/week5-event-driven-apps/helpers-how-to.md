@@ -88,15 +88,6 @@ For an even better development experience, you can also set up VSCode with custo
 
 Now you can use any of the helper functions in your `script.js` file:
 
-### **Example: Using `onEvent` Helper**
-```javascript
-// In your script.js file
-onEvent("myButton", "click", function() {
-    console.log("Button clicked!");
-    setProperty("output", "text", "Hello from helpers!");
-});
-```
-
 ### **Example: Using Helper Functions**
 ```javascript
 // Change text content
@@ -107,6 +98,15 @@ setImageURL("myImage", "new-image.jpg");
 
 // Change CSS properties
 setProperty("myDiv", "background-color", "blue");
+```
+
+### **Example: Using `onEvent` Helper**
+```javascript
+// In your script.js file
+onEvent("myButton", "click", function() {
+    console.log("Button clicked!");
+    setProperty("output", "text", "Hello from helpers!");
+});
 ```
 
 ### **Example: Using `playSound` Helper**
