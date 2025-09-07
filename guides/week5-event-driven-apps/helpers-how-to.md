@@ -112,7 +112,7 @@ onEvent("myButton", "click", function() {
 ### **Example: Using `playSound` Helper when a button is clicked**
 ```javascript
 // Play a sound when something happens
-onEvent("submitButton", "click", function() {
+onEvent("playSoundButton", "click", function() {
     playSound("assets/success.mp3");
     // Your other code here
 });
@@ -146,7 +146,7 @@ Here's a complete HTML example that includes all the IDs referenced in the scrip
         
         <button id="myButton">Click Me!</button>
         
-        <button id="submitButton">Submit</button>
+        <button id="playSoundButton">Play Sound</button>
         
         <div id="output">Output will appear here</div>
         
@@ -164,7 +164,7 @@ Here's a complete HTML example that includes all the IDs referenced in the scrip
 </html>
 ```
 
-**Note**: All the IDs in this HTML (`title`, `myDiv`, `myImage`, `myButton`, `submitButton`, `output`, `testButton`, `testOutput`) match exactly with the IDs used in the JavaScript examples above.
+**Note**: All the IDs in this HTML (`title`, `myDiv`, `myImage`, `myButton`, `playSoundButton`, `output`, `testButton`, `testOutput`) match exactly with the IDs used in the JavaScript examples above.
 
 ---
 
