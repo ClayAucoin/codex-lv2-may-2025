@@ -51,11 +51,20 @@ Create a new project folder and set up all the necessary files to get started.
 // Store secret keys or tokens here. 
 // ⚠️ Do not commit this file to a public repo.
 
-API_TOKEN = "your-api-key-goes-here";
+// Put your huggingface secret token here
 HF_TOKEN = "your-huggingface-api-token-goes-here";
+
+// Optional: if you are using an API with secret, put it 
+API_TOKEN = "your-api-key-goes-here";
 ```
 
 ## 📄 `.gitignore` (starter template)
+
+Copy this and put it in the `.gitignore`.
+
+Check that the filenames are all spelled exactly right.
+
+Don't commit before you add your .gitignore
 
 ```gitignore
 # Secret files (⚠️ do not push secrets!)
