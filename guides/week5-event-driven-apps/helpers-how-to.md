@@ -109,7 +109,7 @@ onEvent("myButton", "click", function() {
 });
 ```
 
-### **Example: Using `playSound` Helper**
+### **Example: Using `playSound` Helper when a button is clicked**
 ```javascript
 // Play a sound when something happens
 onEvent("submitButton", "click", function() {
