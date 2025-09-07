@@ -15,9 +15,11 @@ Text-based interface to interact with the operating system.
 ### Current Directory / Working Directory
 The folder you’re “in” while running commands.
 → Related: [`pwd`](#pwd)
+
 ### mkdir (Make Directory)
 Creates a new folder. Example: `mkdir my-project`.
 → Related: [Project Workflow](../week2-vscode/GLOSSARY.md#project-workflow)
+
 ### cd (Change Directory)
 Moves into another folder. Example: `cd my-project`.
 ### ls (List)
@@ -37,6 +39,7 @@ Your personal machine, where code and commands are executed.
 ### Git
 Version control system for tracking changes.
 → Related: [GitHub](#github), [Repositories](#repositories)
+
 ### Git Workflow
 Standard sequence:
 * [`git add`](#git-add) → stage changes
@@ -61,6 +64,7 @@ Storage space for code and history. Exists locally and on GitHub.
 ### Hash
 Unique identifier for a commit.
 → Related: [Hash](#hash)
+
 ### Conflicts
 Occur when multiple edits clash. Must be manually resolved.
 ### Branches
@@ -90,14 +94,17 @@ GitHub allows inline comments on code for review.
 ### VS Code (Visual Studio Code)
 IDE used for coding and running Git/shell commands.
 → Related: [Boilerplate](../week2-vscode/GLOSSARY.md#boilerplate), [Week 2 Settings](../week2-vscode/GLOSSARY.md#vs-code-visual-studio-code)
+
 ### Node.js
 Runtime for executing JavaScript outside browsers.
 → Related: [JavaScript](../week2-vscode/GLOSSARY.md#javascript)
+
 ### OneDrive
 Cloud sync service that can conflict with Git repos. Learn about OneDrive and how to identify which folders sync and do not sync to your OneDrive.
 ### HTML & CSS
 Fundamental web languages for structure and style.
 → Related: [Boilerplate](../week2-vscode/GLOSSARY.md#boilerplate)
+
 ### Boilerplate
 Starter code template (e.g., `!` + Tab in VS Code for HTML).
 → Related: [Week 2 Boilerplate](../week2-vscode/GLOSSARY.md#boilerplate)

@@ -14,10 +14,12 @@ Focused on [Bootstrap](#bootstrap), [Git Workflow](#git-workflow), and project w
 * Tutorials: W3Schools, practice with **rows** and **columns**.
 * Interactive features scheduled for Week 5.
 → Related: [Bootstrap Forms](#bootstrap-forms), [Utility Classes](#utility-classes), [URLs](#urls)
+
 ### Color Sleuth Game
 * A **group project** completed Thursday of Week 4.
 * Required a dedicated group [Repository](#repository) on GitHub.
 → Related: [Git Workflow](#git-workflow)
+
 ### Mad Libs Game
 * Assigned Friday, August 15.
 * Used new [HTML Elements](#html-elements) and [Bootstrap Forms](#bootstrap-forms).
@@ -25,6 +27,7 @@ Focused on [Bootstrap](#bootstrap), [Git Workflow](#git-workflow), and project w
 * Focused on **layout and styling** with [Utility Classes](#utility-classes) (spacing, colors, text alignment).
 * Functionality (like button interactivity) postponed to Week 5.
 → Related: [Strings](#strings), [IDs](#ids)
+
 ### End-of-Week Survey
 * Required submissions of student name, GitHub username, and [URLs](#urls) for both projects.
 ---
@@ -49,6 +52,7 @@ The cycle of:
 * [`git commit`](#git-commit) → save changes locally
 * [`git push`](#git-push) → upload to remote
 → Related: [Repositories](#repositories), [GitHub](#github)
+
 ### Repositories (Repos)
 Online code storage, hosted on [GitHub](#github).
 * Each student needed one repo for the Water Conservation App and one group repo for the Color Sleuth Game.

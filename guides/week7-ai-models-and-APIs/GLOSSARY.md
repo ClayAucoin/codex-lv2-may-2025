@@ -12,6 +12,7 @@ The central theme of Week 7.
 * AI models process [Strings](../week5-event-driven-apps/GLOSSARY.md#strings) as input (e.g., user question) and return a response.
 * Compared to APIs: "just like the \[Weather API], but it's AI."
 → Related: [Inference](#inference), [Prompt Engineering](#prompt-engineering), [Chatbot](#chatbot)
+
 ### AI Models
 Algorithms trained to perform tasks such as text generation.
 * **Gemini:** Google’s AI model.
@@ -23,6 +24,7 @@ Algorithms trained to perform tasks such as text generation.
 * **Fireworks:** Company providing model hosting hardware.
 * Functionality: generate text, mimic personalities, act like “magic 8-ball.”
 → Related: [Hugging Face](#hugging-face), [Inference](#inference)
+
 ### Hugging Face
 Website/platform for exploring AI models.
 * **Filter Models:** By [task](#task) (e.g., text generation) and inference providers.
@@ -31,6 +33,7 @@ Website/platform for exploring AI models.
 Process of an AI model making predictions or generating responses.
 * Example: chatbot replies.
 → Related: [AI](#ai), [Text Generation (AI)](#text-generation)
+
 ### Prompt Engineering
 Crafting inputs to shape AI outputs.
 * **Context:** Improves accuracy.
@@ -38,6 +41,7 @@ Crafting inputs to shape AI outputs.
 * **Personality:** Change model “style.”
 * **Input/Output:** User → model input; bot → model output.
 → Related: [Chatbot](#chatbot)
+
 ### API Token
 Credential required to access certain AI models (e.g., Hugging Face).
 * Created in dashboard (e.g., "Demo for class").
@@ -61,16 +65,20 @@ JavaScript function for network requests.
 * Asynchronous → returns a promise.
 * API responses → [JSON](../week6-APIs-and-postman/GLOSSARY.md#json-javascript-object-notation) → [POJO](../week2-vscode/GLOSSARY.md#pojo-plain-old-javascript-object).
 → Related: [Requests & Responses](../week6-APIs-and-postman/GLOSSARY.md#requests--responses), [Chatbot](#chatbot)
+
 ### POJO (Plain Old JavaScript Object)
 Used as structured "data" parsed from JSON API responses.
 → Related: [JSON](../week6-APIs-and-postman/GLOSSARY.md#json-javascript-object-notation), [Destructure](../week2-vscode/GLOSSARY.md#destructure)
+
 ### setText()
 Updates an HTML element's text (e.g., showing chatbot reply).
 → Related: [getText()](../week5-event-driven-apps/GLOSSARY.md#gettext), [HTML Elements / IDs](../week2-vscode/GLOSSARY.md#html-elements)
+
 ### HTML Elements / IDs
 Fundamental for targeting parts of the chatbot page.
 * Example IDs: `userMessage`, `messageOutput`.
 → Related: [ID Attribute](../week2-vscode/GLOSSARY.md#id-attribute), [DOM](../week2-vscode/GLOSSARY.md#dom-document-object-model)
+
 ### Event Listeners (onEvent callbacks)
 Wait for user interactions (e.g., button click).
 * Crucial for running chatbot code.
@@ -81,16 +89,20 @@ Wait for user interactions (e.g., button click).
 ### Git Workflow
 Continued use of `git add`, `git commit`, `git push`.
 → Related: [Repositories](../week1-git/GLOSSARY.md#repositories-repos), [GitHub](../week1-git/GLOSSARY.md#github)
+
 ### Bootstrap
 Reused to make chatbot UI professional.
 → Related: [Utility Classes](../week4-css-frameworks/GLOSSARY.md#utility-classes), [Grid System](../week4-css-frameworks/GLOSSARY.md#grid-system-bootstrap)
+
 ### Terminal / Shell
 Used for project setup (`mkdir`, `touch`).
 → Related: [Mkdir](../week1-git/GLOSSARY.md#mkdir-make-directory), [Project Workflow](../week2-vscode/GLOSSARY.md#project-workflow)
+
 ### Debugging
 * `Alt-Shift-F`: auto-format in VS Code.
 * `npx light-server`: run chatbot locally.
 → Related: [Console Log](../week5-event-driven-apps/GLOSSARY.md#console-log), [Debugging](../week5-event-driven-apps/GLOSSARY.md#debugging)
+
 ### AI Copilot
 An integrated coding assistant (e.g., GitHub Copilot).
 * Sometimes useful, sometimes distracting.
