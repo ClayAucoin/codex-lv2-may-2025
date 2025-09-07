@@ -33,16 +33,16 @@
   A function that sets up an **event listener**.
 
   * Syntax: `onEvent("elementID", "eventType", function() { ... })`
-  * Parameters: element **ID**, event **type** (e.g., `"click"`), and a [Callback Function](#callback-functions).
+  * Parameters: element **ID**, event **type** (e.g., `"click"`), and a [Callback Function](#callback-function).
   * Errors: `"onEvent is not defined"` occurs if helper scripts aren’t linked.
-    → Related: [Events](#events), [IDs](#ids-), [Callback Functions](#callback-functions)
+    → Related: [Events](#events), [IDs](#ids), [Callback Functions](#callback-functions)
 
 * **Events**
   User or system actions that trigger code.
 
   * Drive programs forward by responding to input.
   * Examples: button click, text input, mouse hover.
-  * Comparison: Unlike Game Lab’s [Draw Loop](#draw-loop-game-development), events only fire when triggered.
+  * Comparison: Unlike Game Lab’s [Draw Loop](#draw-loop), events only fire when triggered.
     → Related: [onEvent](#onevent), [Event Handler](#event-handler)
 
 * **Functions**
@@ -71,7 +71,7 @@
 
   * Can contain spaces.
   * Concatenation = combining strings with `+`.
-    → Related: [Concatenate](#concatenate-string-concatenation)
+    → Related: [Concatenate](#concatenate)
 
 * **IDs (`#`)**
   Unique identifiers for [HTML Elements](../week2-vscode/GLOSSARY.md#html-elements).
@@ -87,7 +87,7 @@
 
 * **Dynamic / Interactive Apps**
   Apps that respond to user input and change content without reloading the page.
-  → Related: [onEvent](#onevent), [DOM](#dom-document-object-model)
+  → Related: [onEvent](#onevent), [DOM](#dom)
 
 ---
 
@@ -95,7 +95,7 @@
 
 * **`setText()`**
   Sets text inside an element.
-  → Related: [getText](#gettext), [IDs](#ids-)
+  → Related: [getText](#gettext), [IDs](#ids)
 
 * **`getText()`**
   Retrieves text from an element (often user input).
@@ -105,7 +105,7 @@
   Changes an element's CSS property.
 
   * Syntax: `setProperty("id", "property", "value")`
-    → Related: [CSS](../week2-vscode/GLOSSARY.md#css-cascading-style-sheets), [DOM](#dom-document-object-model)
+    → Related: [CSS](../week2-vscode/GLOSSARY.md#css-cascading-style-sheets), [DOM](#dom)
 
 ---
 

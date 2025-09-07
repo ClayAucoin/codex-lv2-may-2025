@@ -3,7 +3,7 @@
 ## Week Theme
 
 * **Week 6 (Data Week)**
-  Focused on making webpages **dynamic with data**. Covered [Requests & Responses](#requests--responses), [APIs](#apis-application-programming-interfaces), [JSON](#json-javascript-object-notation), and [Postman](#postman) as key tools.
+  Focused on making webpages **dynamic with data**. Covered [Requests & Responses](#requests-and-responses), [APIs](#apis), [JSON](#json), and [Postman](#postman) as key tools.
   → Builds on Week 4's [Bootstrap](../week4-css-frameworks/GLOSSARY.md#bootstrap) and [Git Workflow](../week1-git/GLOSSARY.md#git-workflow).
 
 ---
@@ -18,36 +18,36 @@
 
 * **Data**
   Information retrieved from external sources. Examples: weather APIs, NASA photos, stocks, Pokémon info.
-  → Related: [JSON](#json-javascript-object-notation), [POJO](#pojo-plain-old-javascript-object), [Variables](#variables)
+  → Related: [JSON](#json), [POJO](#pojo), [Variables](#variables)
 
 * **APIs (Application Programming Interfaces)**
   Standardized systems for sharing data between applications.
 
   * Some APIs require an [API Token](#api-token) or key.
-    → Related: [Postman](#postman), [Query Parameters](#query-parameters--search-parameters), [Fetch Function](#fetch-function)
+    → Related: [Postman](#postman), [Query Parameters](#query-parameters), [Fetch Function](#fetch-function)
 
 * **Postman**
   A tool/website for exploring APIs.
 
   * Lets developers create **collections** of requests, preview data, and debug API calls.
-    → Related: [Requests & Responses](#requests--responses)
+    → Related: [Requests & Responses](#requests-and-responses)
 
 * **JSON (JavaScript Object Notation)**
   Lightweight data format.
 
   * Uses curly braces `{}`, commas, and key-value pairs.
   * Ubiquitous in API responses.
-    → Related: [POJO](#pojo-plain-old-javascript-object)
+    → Related: [POJO](#pojo)
 
 * **POJO (Plain Old JavaScript Object)**
   Structured JavaScript object, often API response data.
 
   * Syntax uses curly braces.
-    → Related: [JSON](#json-javascript-object-notation), [Destructure](#destructure)
+    → Related: [JSON](#json), [Destructure](#destructure)
 
 * **Query Parameters / Search Parameters**
   Extra info appended to a URL after `?`, e.g. `?city=London&unit=metric`.
-  → Related: [Requests & Responses](#requests--responses)
+  → Related: [Requests & Responses](#requests-and-responses)
 
 ---
 
@@ -55,7 +55,7 @@
 
 * **HTML Elements / Semantic HTML**
   Using meaningful tags (`<h1>`, `<p>`) for structure and accessibility.
-  → Related: [Div Tag](#div-tag-div), [Parent-Child Structure](#parent-child-structure-htmlcss)
+  → Related: [Div Tag](#div-tag), [Parent-Child Structure](#parent-child-structure)
 
 * **IDs (`#`)**
   Unique identifiers for HTML elements.
@@ -67,7 +67,7 @@
   Text sequences enclosed in quotes, can contain spaces.
 
   * Concatenation = combining strings.
-    → Related: [Concatenate](#concatenate-string-concatenation)
+    → Related: [Concatenate](#concatenate)
 
 * **Variables**
   Store values in programs.
@@ -86,7 +86,7 @@
   JavaScript function for making network requests.
 
   * Covered later in Week 6.
-    → Related: [Requests & Responses](#requests--responses), [Network Tab](#network-tab)
+    → Related: [Requests & Responses](#requests-and-responses), [Network Tab](#network-tab)
 
 * **getText & setText**
   Functions to retrieve and assign content of HTML elements.
@@ -96,11 +96,11 @@
   Represents the webpage as a tree.
 
   * Data updates reflected in the DOM.
-    → Related: [HTML](#html-hypertext-markup-language)
+    → Related: [HTML](#html)
 
 * **Network Tab**
   Browser dev tools feature showing all requests/responses.
-  → Related: [Requests & Responses](#requests--responses), [Fetch Function](#fetch-function)
+  → Related: [Requests & Responses](#requests-and-responses), [Fetch Function](#fetch-function)
 
 ---
 
@@ -108,7 +108,7 @@
 
 * **AI (Artificial Intelligence)**
   Preview for Week 7. Sending [Strings](#strings) as input to AI models ([Gemini](https://deepmind.google/technologies/gemini), [LLaMA](https://ai.meta.com/llama/)) returns responses.
-  → Related: [Text Generation (AI)](#text-generation-ai), [Inference (AI)](#inference-ai)
+  → Related: [Text Generation (AI)](#text-generation), [Inference (AI)](#inference)
 
 * **Bootstrap**
   Continued as a [CSS](../week4-css-frameworks/GLOSSARY.md#css-cascading-style-sheets) framework for professional design.

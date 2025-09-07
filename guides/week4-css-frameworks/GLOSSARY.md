@@ -11,7 +11,7 @@
 
 * **Water Conservation App**
 
-  * Required publishing to a **[GitHub Repository](#repositories-repos)**.
+  * Required publishing to a **[GitHub Repository](#github-repository)**.
   * Goal: 80%+ completion of the first page.
   * Built with [Bootstrap](#bootstrap), especially the [Grid System](#grid-system) and [Containers](#containers).
   * Tutorials: W3Schools, practice with **rows** and **columns**.
@@ -21,7 +21,7 @@
 * **Color Sleuth Game**
 
   * A **group project** completed Thursday of Week 4.
-  * Required a dedicated group [Repository](#repositories-repos) on GitHub.
+  * Required a dedicated group [Repository](#repository) on GitHub.
     → Related: [Git Workflow](#git-workflow)
 
 * **Mad Libs Game**
@@ -31,7 +31,7 @@
   * Implemented `input type="text"` for user input.
   * Focused on **layout and styling** with [Utility Classes](#utility-classes) (spacing, colors, text alignment).
   * Functionality (like button interactivity) postponed to Week 5.
-    → Related: [Strings](#strings), [IDs](#ids-)
+    → Related: [Strings](#strings), [IDs](#ids)
 
 * **End-of-Week Survey**
 
@@ -42,14 +42,14 @@
 ## Core Concepts
 
 * **Bootstrap**
-  A front-end [CSS](#css-cascading-style-sheets) framework emphasized in Week 4.
+  A front-end [CSS](#css) framework emphasized in Week 4.
   Components covered:
 
-  * **Linking Bootstrap** — connecting CSS framework into [HTML](#html-hypertext-markup-language) files.
+  * **Linking Bootstrap** — connecting CSS framework into [HTML](#html) files.
   * **HTML Elements** (`<h1>`, `<p>`, `<img>`, `<button>`).
   * **Containers** — Bootstrap wrappers for page layout.
   * **Grid System** — responsive layout system with 12 columns.
-  * **Bootstrap Forms** — pre-styled forms for [input elements](#input-elements-typetext).
+  * **Bootstrap Forms** — pre-styled forms for [input elements](#input-elements).
   * **Utility Classes**
 
     * *Spacing*: `m-` (margin), `p-` (padding).
@@ -63,7 +63,7 @@
   * [`git add`](#git-add) → stage changes
   * [`git commit`](#git-commit) → save changes locally
   * [`git push`](#git-push) → upload to remote
-    → Related: [Repositories](#repositories-repos), [GitHub](#github)
+    → Related: [Repositories](#repositories), [GitHub](#github)
 
 * **Repositories (Repos)**
   Online code storage, hosted on [GitHub](#github).
@@ -74,12 +74,12 @@
   Web addresses linking to published [GitHub](#github) repositories. Required for survey submission.
 
 * **IDs (`#`)**
-  Unique [ID Attributes](#id-attribute) for [HTML](#html-hypertext-markup-language) elements.
+  Unique [ID Attributes](#id-attributes) for [HTML](#html) elements.
 
   * Introduced for use in later interactive features.
 
 * **Strings**
-  Sequences of characters (text), used in [input elements](#input-elements-typetext) like the Mad Libs Game.
+  Sequences of characters (text), used in [input elements](#input-elements) like the Mad Libs Game.
 
 * **Boilerplate**
-  Standard starting [HTML](#html-hypertext-markup-language) code generated in VS Code with `!`.
+  Standard starting [HTML](#html) code generated in VS Code with `!`.

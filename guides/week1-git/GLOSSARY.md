@@ -3,7 +3,7 @@
 ## Week Theme
 
 * **Week 1 (Foundations: Bash & Git)**
-  The starting week of Level 2 focused on developer tools: [Shell/Terminal](#shellterminal), [Git](#git-version-control-system), [GitHub](#github-web-based-platform), and [VS Code](../week2-vscode/GLOSSARY.md#vs-code-visual-studio-code).
+  The starting week of Level 2 focused on developer tools: [Shell/Terminal](#shell-terminal), [Git](#git), [GitHub](#github), and [VS Code](../week2-vscode/GLOSSARY.md#vs-code-visual-studio-code).
   Goal: make these tools feel natural parts of the workflow.
 
 ---
@@ -12,11 +12,11 @@
 
 * **Shell/Terminal**
   Text-based interface to interact with the operating system.
-  → Related: [Mkdir](#mkdir-make-directory), [Git](#git-version-control-system), [Node.js](../week2-vscode/GLOSSARY.md#nodejs)
+  → Related: [Mkdir](#mkdir), [Git](#git), [Node.js](../week2-vscode/GLOSSARY.md#nodejs)
 
 * **Current Directory / Working Directory**
   The folder you’re “in” while running commands.
-  → Related: [`pwd`](#pwd-print-working-directory)
+  → Related: [`pwd`](#pwd)
 
 * **`mkdir` (Make Directory)**
   Creates a new folder. Example: `mkdir my-project`.
@@ -48,7 +48,7 @@
 
 * **Git**
   Version control system for tracking changes.
-  → Related: [GitHub](#github-web-based-platform), [Repositories](#repository-repo)
+  → Related: [GitHub](#github), [Repositories](#repositories)
 
 * **Git Workflow**
   Standard sequence:
@@ -84,7 +84,7 @@
 
 * **Hash**
   Unique identifier for a commit.
-  → Related: [Hash (Git)](#hash-git)
+  → Related: [Hash](#hash)
 
 * **Conflicts**
   Occur when multiple edits clash. Must be manually resolved.

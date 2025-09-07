@@ -4,7 +4,7 @@
 
 * **AI Chatbot**
   An artificial intelligence program designed to simulate conversation with human users, often to provide information, complete tasks, or offer guidance.
-  → Related: [Inference (AI)](#inference-ai), [Prompt Engineering](#prompt-engineering), [Text Generation (AI)](#text-generation-ai)
+  → Related: [Inference (AI)](#inference), [Prompt Engineering](#prompt-engineering), [Text Generation (AI)](#text-generation)
 
 * **API Token**
   A unique, secret key used to authenticate and authorize access to an API. Acts as a digital password.
@@ -13,8 +13,8 @@
 ## B
 
 * **Bootstrap**
-  A CSS framework for responsive, mobile-first front-end development. Includes [Grid System](#grid-system-bootstrap), [Typography](#typography-bootstrap), [Container](#container-bootstrap), and utilities.
-  → Related: [Flex (Flexbox)](#flex-flexbox), [Column Design](#column-design), [Breakpoint](#breakpoint)
+  A CSS framework for responsive, mobile-first front-end development. Includes [Grid System](#grid-system), [Typography](#typography), [Container](#container), and utilities.
+  → Related: [Flex (Flexbox)](#flex), [Column Design](#column-design), [Breakpoint](#breakpoint)
 
 * **Breakpoint**
   A screen size where the website layout adapts for responsiveness.
@@ -24,7 +24,7 @@
 
 * **Callback Function**
   A function passed as an argument to another function, often used in asynchronous programming.
-  → Related: [Event Handler](#event-handler), [Draw Loop (Game Development)](#draw-loop-game-development)
+  → Related: [Event Handler](#event-handler), [Draw Loop (Game Development)](#draw-loop)
 
 * **Camel Case**
   A naming style where the first word is lowercase and subsequent words are capitalized (e.g., `myFunctionName`).
@@ -32,23 +32,23 @@
 
 * **Class Attribute**
   An HTML attribute assigning class names to elements for styling and selection.
-  → Related: [CSS](#css-cascading-style-sheets), [ID Attribute](#id-attribute), [Parent-Child Structure](#parent-child-structure-htmlcss)
+  → Related: [CSS](#css), [ID Attribute](#id-attribute), [Parent-Child Structure](#parent-child-structure)
 
 * **Code.org**
   An educational platform for K–12 computer science.
-  → Related: [getText](#gettext-codeorg), [setText](#settext-codeorg), [onEvent](#onevent-codeorg)
+  → Related: [getText](#gettext), [setText](#settext), [onEvent](#onevent)
 
 * **Collision (Game Development)**
   When two or more objects/sprites touch, triggering game logic.
-  → Related: [Sprite](#sprite), [Draw Loop (Game Development)](#draw-loop-game-development)
+  → Related: [Sprite](#sprite), [Draw Loop (Game Development)](#draw-loop)
 
 * **Column Design**
   A technique that organizes content into vertical sections.
-  → Related: [Bootstrap](#bootstrap), [Grid System](#grid-system-bootstrap)
+  → Related: [Bootstrap](#bootstrap), [Grid System](#grid-system)
 
 * **Commit (Git)**
-  A snapshot of project changes in Git. Identified by a [Hash](#hash-git).
-  → Related: [git commit](#git-commit), [Diff (Git)](#diff-git), [GitHub](#github)
+  A snapshot of project changes in Git. Identified by a [Hash](#hash).
+  → Related: [git commit](#git-commit), [Diff (Git)](#diff), [GitHub](#github)
 
 * **Concatenate (String Concatenation)**
   Joining two or more strings together (e.g., `"Hello" + "World"`).
@@ -72,7 +72,7 @@
 
 * **CSS (Cascading Style Sheets)**
   A language for styling web pages.
-  → Related: [Class Attribute](#class-attribute), [ID Attribute](#id-attribute), [Flex (Flexbox)](#flex-flexbox), [Opacity (CSS)](#opacity-css)
+  → Related: [Class Attribute](#class-attribute), [ID Attribute](#id-attribute), [Flex (Flexbox)](#flex), [Opacity (CSS)](#opacity)
 
 ## D
 
@@ -82,43 +82,43 @@
 
 * **Destructure**
   JavaScript syntax to unpack values from arrays/objects into variables.
-  → Related: [Pojo (Plain Old JavaScript Object)](#pojo-plain-old-javascript-object)
+  → Related: [Pojo (Plain Old JavaScript Object)](#pojo)
 
 * **Diff (Git)**
   Shows differences between two versions of files.
-  → Related: [Commit (Git)](#commit-git), [git status](#git-status), [GitHub](#github)
+  → Related: [Commit (Git)](#commit), [git status](#git-status), [GitHub](#github)
 
 * **Div Tag (`<div>`)**
   An HTML container element with no effect until styled.
-  → Related: [Tag (HTML)](#tag-html), [Parent-Child Structure](#parent-child-structure-htmlcss)
+  → Related: [Tag (HTML)](#tag), [Parent-Child Structure](#parent-child-structure)
 
 * **Draw Loop (Game Development)**
   A repeating loop that updates game state and redraws visuals.
-  → Related: [Sprite](#sprite), [Collision (Game Development)](#collision-in-game-development)
+  → Related: [Sprite](#sprite), [Collision (Game Development)](#collision)
 
 ## E
 
 * **Emmet**
   A text editor plugin that expands shorthand into full HTML/CSS code.
-  → Related: [HTML](#html-hypertext-markup-language), [CSS](#css-cascading-style-sheets)
+  → Related: [HTML](#html), [CSS](#css)
 
 * **Event Handler**
   Code that runs when an event (click, key press, load) occurs.
-  → Related: [Callback Function](#callback-function), [onEvent (Code.org)](#onevent-codeorg)
+  → Related: [Callback Function](#callback-function), [onEvent (Code.org)](#onevent)
 
 ## F
 
 * **Fireworks (Company)**
   A company mentioned in AI inference context.
-  → Related: [Inference (AI)](#inference-ai), [Text Generation (AI)](#text-generation-ai)
+  → Related: [Inference (AI)](#inference), [Text Generation (AI)](#text-generation)
 
 * **Flex (Flexbox)**
   A CSS layout system for aligning and distributing items. Used in Bootstrap’s grid.
-  → Related: [Grid System](#grid-system-bootstrap), [Float (CSS)](#float-css)
+  → Related: [Grid System](#grid-system), [Float (CSS)](#float)
 
 * **Float (CSS)**
   A CSS property to position elements to the left or right.
-  → Related: [Flex (Flexbox)](#flex-flexbox)
+  → Related: [Flex (Flexbox)](#flex)
 
 * **Function Signature**
   Definition of a function: name, return type, parameters.
@@ -128,11 +128,11 @@
 
 * **getText (Code.org)**
   A block to retrieve text from input fields.
-  → Related: [setText](#settext-codeorg), [onEvent](#onevent-codeorg)
+  → Related: [setText](#settext), [onEvent](#onevent)
 
 * **git add**
   Stages file changes for the next commit.
-  → Related: [git commit](#git-commit), [Commit (Git)](#commit-git)
+  → Related: [git commit](#git-commit), [Commit (Git)](#commit)
 
 * **git clone**
   Creates a copy of a Git repository.
@@ -140,7 +140,7 @@
 
 * **git commit**
   Saves staged changes to repository history.
-  → Related: [Commit (Git)](#commit-git)
+  → Related: [Commit (Git)](#commit)
 
 * **git init**
   Creates a new Git repository.
@@ -155,11 +155,11 @@
 
 * **git status**
   Shows staged, unstaged, and untracked files.
-  → Related: [Diff (Git)](#diff-git)
+  → Related: [Diff (Git)](#diff)
 
 * **GitHub**
   A platform for hosting Git repositories and collaboration.
-  → Related: [Commit (Git)](#commit-git), [git clone](#git-clone), [Hash (Git)](#hash-git)
+  → Related: [Commit (Git)](#commit), [git clone](#git-clone), [Hash (Git)](#hash)
 
 * **Global Variable**
   A variable accessible throughout a program.
@@ -167,17 +167,17 @@
 
 * **Grid System (Bootstrap)**
   A responsive 12-column system for layouts.
-  → Related: [Bootstrap](#bootstrap), [Flex (Flexbox)](#flex-flexbox), [Column Design](#column-design)
+  → Related: [Bootstrap](#bootstrap), [Flex (Flexbox)](#flex), [Column Design](#column-design)
 
 ## H
 
 * **Hash (Git)**
   Unique identifier for each commit (SHA-1).
-  → Related: [Commit (Git)](#commit-git)
+  → Related: [Commit (Git)](#commit)
 
 * **HTML (Hypertext Markup Language)**
   The standard markup for web pages.
-  → Related: [Tag (HTML)](#tag-html), [Div Tag](#div-tag-div)
+  → Related: [Tag (HTML)](#tag), [Div Tag](#div-tag)
 
 ## I
 
@@ -193,7 +193,7 @@
 
 * **Inference (AI)**
   Using a trained model to predict outputs.
-  → Related: [AI Chatbot](#ai-chatbot), [Text Generation (AI)](#text-generation-ai)
+  → Related: [AI Chatbot](#ai-chatbot), [Text Generation (AI)](#text-generation)
 
 ## L
 
@@ -229,7 +229,7 @@
 
 * **Parent-Child Structure (HTML/CSS)**
   Hierarchical relationship between HTML elements.
-  → Related: [Div Tag](#div-tag-div), [Tag (HTML)](#tag-html)
+  → Related: [Div Tag](#div-tag), [Tag (HTML)](#tag)
 
 * **Pojo (Plain Old JavaScript Object)**
   Simple data-holding object without methods.
@@ -271,11 +271,11 @@
 
 * **Sprite**
   2D image/animation in games.
-  → Related: [Collision (Game Development)](#collision-in-game-development), [Draw Loop (Game Development)](#draw-loop-game-development)
+  → Related: [Collision (Game Development)](#collision), [Draw Loop (Game Development)](#draw-loop)
 
 * **String**
   Sequence of text characters.
-  → Related: [Concatenate](#concatenate-string-concatenation)
+  → Related: [Concatenate](#concatenate)
 
 * **Syntax Error**
   Code error due to rule violation.
@@ -285,15 +285,15 @@
 
 * **Tag (HTML)**
   Keywords in angle brackets (e.g., `<p>`).
-  → Related: [HTML](#html-hypertext-markup-language)
+  → Related: [HTML](#html)
 
 * **Terminal**
   Text-based interface for system commands.
-  → Related: [Mkdir](#mkdir-make-directory)
+  → Related: [Mkdir](#mkdir)
 
 * **Text Generation (AI)**
   AI task of producing human-like text.
-  → Related: [AI Chatbot](#ai-chatbot), [Inference (AI)](#inference-ai)
+  → Related: [AI Chatbot](#ai-chatbot), [Inference (AI)](#inference)
 
 * **Typography (Bootstrap)**
   Text styles and formatting in Bootstrap.

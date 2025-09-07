@@ -3,7 +3,7 @@
 ## Week Theme
 
 * **Week 7 (AI Week)**
-  The final week of the course, introducing [AI](#ai-artificial-intelligence) and culminating in building a **chatbot** project. It tied together all prior skills: [Git Workflow](../week1-git/GLOSSARY.md#git-workflow), [Bootstrap](../week4-css-frameworks/GLOSSARY.md#bootstrap), [HTML & IDs](../week2-vscode/GLOSSARY.md#html-elements), [Postman](../week6-APIs-and-postman/GLOSSARY.md#postman), and [onEvent](../week5-event-driven-apps/GLOSSARY.md#onevent).
+  The final week of the course, introducing [AI](#ai) and culminating in building a **chatbot** project. It tied together all prior skills: [Git Workflow](../week1-git/GLOSSARY.md#git-workflow), [Bootstrap](../week4-css-frameworks/GLOSSARY.md#bootstrap), [HTML & IDs](../week2-vscode/GLOSSARY.md#html-elements), [Postman](../week6-APIs-and-postman/GLOSSARY.md#postman), and [onEvent](../week5-event-driven-apps/GLOSSARY.md#onevent).
 
 ---
 
@@ -32,14 +32,14 @@
 * **Hugging Face**
   Website/platform for exploring AI models.
 
-  * **Filter Models:** By [task](#text-generation-ai) (e.g., text generation) and inference providers.
+  * **Filter Models:** By [task](#task) (e.g., text generation) and inference providers.
   * **Code Snippets:** Provided for API interaction (similar to [Postman](../week6-APIs-and-postman/GLOSSARY.md#postman)).
 
 * **Inference**
   Process of an AI model making predictions or generating responses.
 
   * Example: chatbot replies.
-    → Related: [AI](#ai-artificial-intelligence), [Text Generation (AI)](#text-generation-ai)
+    → Related: [AI](#ai), [Text Generation (AI)](#text-generation)
 
 * **Prompt Engineering**
   Crafting inputs to shape AI outputs.
