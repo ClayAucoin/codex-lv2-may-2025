@@ -853,9 +853,14 @@ Need help with AI response processing? Check out these snippets:
 Add proper error handling to your AI model calls.
 
 ## Instructions
-- Use `.catch()` to handle AI errors
-- Display user-friendly error messages
-- Test your error handling by temporarily breaking the AI API URL
+- Use `.catch()` to handle AI errors (similar to Level 16 API error handling)
+- Use `if(response.ok === false) { console.log('AI Error: ' + response.status + ' ' + response.statusText) }` to handle AI API errors
+- Display user-friendly error messages to your users (not just console logs)
+- Test your error handling by temporarily breaking the AI API call:
+  - Change `https://` to `thtps://` (typo in protocol)
+  - Put a typo in the endpoint path, for example: change `/v1/chat/completions` to `/v1/chat/completionss` (extra 's')
+  - Add invalid data to the request body like `"model": "invalid-model-name"` (Look at the POJO sent as an argument to the fetch function call.)
+  - **Remember to fix the API call back to working state when done testing**
 
 ## 💡 Code Hints
 Need help with AI error handling? Check out these snippets:
