@@ -60,25 +60,7 @@ Add the helpers.js file to your HTML **before** your main script.js file:
 
 ---
 
-## 🔧 **Step 4: VSCode IntelliSense Setup (Optional)**
-
-For better code completion and IntelliSense in VSCode, you can add TypeScript definition files for the helper functions:
-
-### **Download Type Definitions**
-- **[helpers.d.ts](./other-dev-files/typedefs/helpers.d.ts)** - Helper functions type definitions
-- **[jsconfig.json](./other-dev-files/typedefs/jsconfig.json)** - VSCode configuration for IntelliSense
-
-### **Setup Instructions**
-1. Download both `.d.ts` files
-2. Place them in the **root** of your project folder (same level as `index.html`)
-3. Restart VSCode or reload the window
-4. Enjoy enhanced IntelliSense and code completion for helper functions!
-
-**Note**: This step is optional but highly recommended for better development experience with the helper functions.
-
----
-
-## 🔧 **Step 5: VSCode Configuration (Optional)**
+## 🔧 **Step 4: VSCode Configuration (Optional)**
 
 For an even better development experience, you can also set up VSCode with custom settings:
 
@@ -102,7 +84,7 @@ For an even better development experience, you can also set up VSCode with custo
 
 ---
 
-## 📝 **Step 6: Use Helper Functions in Your Code**
+## 📝 **Step 5: Use Helper Functions in Your Code**
 
 Now you can use any of the helper functions in your `script.js` file:
 
@@ -138,7 +120,7 @@ onEvent("submitButton", "click", function() {
 
 ---
 
-## 🎯 **Example HTML with Matching IDs**
+## 🎯 **Step 6: Example HTML with Matching IDs**
 
 Here's a complete HTML example that includes all the IDs referenced in the script examples above:
 
@@ -186,7 +168,7 @@ Here's a complete HTML example that includes all the IDs referenced in the scrip
 
 ---
 
-## 🔧 **Available Helper Functions**
+## 🔧 **Step 7: Available Helper Functions**
 
 ### **Event Handling**
 - `onEvent(elementId, eventType, callback)` - Add event listeners
@@ -207,7 +189,7 @@ These are the actual helper functions implemented in `helpers.js`. For native DO
 
 ---
 
-## 🚨 **Common Issues and Solutions**
+## 🚨 **Step 8: Common Issues and Solutions**
 
 ### **"Function not defined" Error**
 - **Cause**: `helpers.js` not loaded or loaded after `script.js`
@@ -223,7 +205,7 @@ These are the actual helper functions implemented in `helpers.js`. For native DO
 
 ---
 
-## 💡 **Best Practices**
+## 💡 **Step 9: Best Practices**
 
 1. **Always load helpers first** in your HTML
 2. **Check the console** for any error messages
@@ -233,7 +215,7 @@ These are the actual helper functions implemented in `helpers.js`. For native DO
 
 ---
 
-## 🔍 **Testing Your Setup**
+## 🔍 **Step 10: Testing Your Setup**
 
 Add this to your `script.js` to test if helpers are working:
 
@@ -254,7 +236,7 @@ If you see "Helper functions loaded successfully!" in the console, you're ready 
 
 ---
 
-## 📚 **Next Steps**
+## 📚 **Step 11: Next Steps**
 
 - Review the available helper functions in `helpers.js`
 - Start building your interactive features
@@ -263,7 +245,7 @@ If you see "Helper functions loaded successfully!" in the console, you're ready 
 
 ---
 
-## 🆘 **Need Help?**
+## 🆘 **Step 12: Need Help?**
 
 If you're still having issues:
 1. Check the browser console for error messages
