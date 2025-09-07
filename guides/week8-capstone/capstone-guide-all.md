@@ -40,36 +40,8 @@ Create a new project folder and set up all the necessary files to get started.
   - `app.js`
   - `styles.css`
   - `helpers-full.js` (download from [class repository](../../week5-event-driven-apps/other-dev-files/helpers-full.js))
-  - `secret-variables.js` (to hold your API keys; globals only)
   - `README.md` (copy from [EXAMPLE_README.md](../week7-ai-models-and-APIs/EXAMPLE_README.md) template)
-  - `.gitignore` (copy from [.gitignore](https://github.com/rmccrear/codex-lv2-may-2025/blob/main/guides/week7-ai-models-and-APIs/chatbot-project-levels/.gitignore) template)
 
-## 📄 `secret-variables.js` (starter template)
-
-```js
-// secret-variables.js
-// Store secret keys or tokens here. 
-// ⚠️ Do not commit this file to a public repo.
-
-// Put your huggingface secret token here
-HF_TOKEN = "your-huggingface-api-token-goes-here";
-
-// Optional: if you are using an API with secret, put it 
-API_TOKEN = "your-api-key-goes-here";
-```
-
-## 📄 `.gitignore` (starter template)
-
-Copy this and put it in the `.gitignore`.
-
-Check that the filenames are all spelled exactly right.
-
-Don't commit before you add your .gitignore
-
-```gitignore
-# Secret files (⚠️ do not push secrets!)
-secret-variables.js
-```
 
 ## ℹ Third-Party File Info
 
@@ -79,22 +51,19 @@ Download `helpers-full.js` from the class repo:
 Place it in your project folder before linking it in `index.html`.
 
 ## ✅ Check
-Open your project folder in VS Code and verify you can see all 6 files:
+Open your project folder in VS Code and verify you can see all 4 files:
 - `index.html`
 - `app.js` (we will use this instead of `script.js`)
 - `styles.css`
 - `helpers-full.js` (we will use this instead of `helpers.js` since it has a few more functions to use.)
-- `secret-variables.js`
 - `README.md`
-- `.gitignore`
 
 If any files are missing, create them before moving to Level 2.
 
-Hint: To see .gitignore, use `ls -a` to see "all files" even hidden ones.
+> **Note:** What about `.gitignore` and `secret-variables.js`? These will be covered in a later level. (Before we add secrets.)
 
 ---
 
-**Next:** Level 2 - Basic HTML Structure & Live Server Test
 
 ---
 
@@ -151,7 +120,6 @@ Need help with the HTML structure? Check out these snippets:
 
 ---
 
-**Next:** Level 3 - Git Setup
 
 ---
 
@@ -186,7 +154,7 @@ Initialize version control and push your project to GitHub.
 
 ## 🔍 Exploration: Commit Message Prefixes
 
-You might be wondering why we use prefixes like `chore:` or `feature:` at the start of commit messages. These are part of a convention called **Conventional Commits** that helps organize and categorize your changes:
+You might be wondering why we use prefixes like `chore:` or `feature:` at the start of commit messages. These are part of a best practice convention called **Conventional Commits** that helps organize and categorize your changes:
 
 - **`chore:`** - For maintenance tasks, setup, or non-functional changes (like adding files, updating dependencies, or initial project setup)
 - **`feature:`** - For new functionality or features you're adding to your project
@@ -205,7 +173,6 @@ In this level, we use `chore:` because we're doing initial project setup - creat
 
 ---
 
-**Next:** Level 4 - Overall Project Check
 
 ---
 
@@ -253,7 +220,6 @@ You've set up your project foundation securely. Time to build the UI!
 
 ---
 
-**Next:** Level 5 - UI & DOM Wiring
 
 ---
 
@@ -277,7 +243,7 @@ Add the basic interface elements to your HTML.
 In the HTML, add the interface:
 - An input for the user's prompt
 - A button to send
-- A plain `<div>` for the output (no styling yet)
+- A plain `<div>` or a `<pre>` for the output (no styling yet)
 
 ## 💡 Code Hints
 Need help with the HTML structure? Check out these snippets:
@@ -287,7 +253,7 @@ Need help with the HTML structure? Check out these snippets:
 - **Basic structure:** Use meaningful `id` attributes like `id="user-chat-input"` and `id="send-btn"`
 
 ## ✅ Check
-Open your `index.html` file in a web browser and verify you can see:
+Navigate to your file in your browser (remember, you're using live-server) and verify you can see:
 - A text input box where you can type
 - A button (it won't do anything yet, but it should be visible)
 - A blank area below for the output
@@ -295,7 +261,6 @@ Open your `index.html` file in a web browser and verify you can see:
 
 ---
 
-**Next:** Level 6 - Bootstrap Styling
 
 ---
 
@@ -330,7 +295,6 @@ Add Bootstrap classes to style the input and button.
 
 ---
 
-**Next:** Level 7 - Card Structure
 
 ---
 
@@ -361,7 +325,6 @@ Convert the output `<div>` into a Bootstrap card with proper structure (card con
 
 ---
 
-**Next:** Level 8 - IDs and Testing
 
 ---
 
@@ -379,6 +342,7 @@ Add meaningful IDs to all elements and test that they can be accessed.
 ## Instructions
 - Add meaningful `id` attributes to all elements (input, button, card, etc.)
 - Test that you can access them with `getElementById()` in the console
+- Use `setProperty()` to test that you can modify element properties
 
 ## 💡 Code Hints
 Need help with IDs? Check out these snippets:
@@ -391,11 +355,31 @@ Need help with IDs? Check out these snippets:
 3. Type `document.getElementById("your-input-id")` and press Enter
 4. You should see the input element returned (not null)
 5. Test all your IDs this way to make sure they work
-6. If any return `null`, check that the ID is spelled correctly in your HTML
+6. Try using `setProperty()` to test element modification:
+   - `setProperty("your-input-id", "backgroundColor", "yellow")`
+   - `setProperty("your-button-id", "border", "3px solid red")`
+7. If any return `null`, check that the ID is spelled correctly in your HTML
+
+## 🔍 Diving Deeper: DOM Operations
+For extra practice, you can also test element access with:
+```javascript
+console.log(document.getElementById("your-input-id"))
+```
+This will show you the full element object in the console, which can help you understand what properties and methods are available.
+
+You can also use the native DOM `style` property to modify elements directly:
+```javascript
+// Same as setProperty("your-input-id", "backgroundColor", "yellow")
+document.getElementById("your-input-id").style.backgroundColor = "yellow";
+
+// Same as setProperty("your-button-id", "border", "3px solid red")
+document.getElementById("your-button-id").style.border = "3px solid red";
+```
+
+This approach is the standard way to manipulate styles in professional JavaScript development and is used across all major frameworks and libraries. Learning the native DOM API prepares you for real-world codebases where helper functions aren't available.
 
 ---
 
-**Next:** Level 9 - Event Listeners
 
 ---
 
@@ -429,7 +413,6 @@ Need help with event listeners? Check out these snippets:
 
 ---
 
-**Next:** Level 10 - Basic Input Handling
 
 ---
 
@@ -464,17 +447,67 @@ Need help with input/output? Check out these snippets:
 
 ---
 
-**Next:** Level 12 - Input Validation
 
 ---
 
 <!-- LEVEL_END: capstone-lv-11.md -->
 
-<!-- LEVEL_START: capstone-lv-12.md -->
+<!-- LEVEL_START: capstone-lv-33.md -->
 
 ---
 
-# 🎯 Level 11: Input Validation
+# 🎯 Level 11: Secret Files Setup
+
+## What You'll Do
+Create the secret files needed for API keys and version control.
+
+## Instructions
+- Create `secret-variables.js` for storing API keys
+- Create `.gitignore` to prevent committing secrets
+
+## 📄 `secret-variables.js` (starter template)
+
+```js
+// secret-variables.js
+// Store secret keys or tokens here. 
+// ⚠️ Do not commit this file to a public repo.
+
+// Put your huggingface secret token here
+HF_TOKEN = "your-huggingface-api-token-goes-here";
+
+// Optional: if you are using an API with secret, put it 
+API_TOKEN = "your-api-key-goes-here";
+```
+
+## 📄 `.gitignore` (starter template)
+
+Copy this and put it in the `.gitignore`.
+
+Check that the filenames are all spelled exactly right.
+
+Don't commit before you add your .gitignore
+
+```gitignore
+# Secret files (⚠️ do not push secrets!)
+secret-variables.js
+```
+
+## ✅ Check
+1. Create `secret-variables.js` with the template above
+2. Create `.gitignore` with the template above
+3. Verify both files exist in your project folder
+4. Make sure the filenames are spelled exactly right
+5. Don't commit until you create your `.gitignore` to keep your token off GitHub and prevent it from becoming public information.
+
+---
+
+<!-- LEVEL_END: capstone-lv-33.md -->
+
+<!-- LEVEL_START: capstone-lv-33.md -->
+
+---
+
+# 🎯 Level 12: Input Validation
 
 ## What You'll Do
 Add validation to check if the input is empty before processing.
@@ -498,17 +531,16 @@ Need help with validation? Check out these snippets:
 
 ---
 
-**Next:** Level 13 - API Integration Planning
 
 ---
 
-<!-- LEVEL_END: capstone-lv-12.md -->
+<!-- LEVEL_END: capstone-lv-33.md -->
 
-<!-- LEVEL_START: capstone-lv-13.md -->
+<!-- LEVEL_START: capstone-lv-33.md -->
 
 ---
 
-# 🎯 Level 12: API Integration Planning
+# 🎯 Level 13: API Integration Planning
 
 ## What You'll Do
 Choose and plan your API integration based on your project requirements.
@@ -536,17 +568,16 @@ Need help choosing APIs? Check out these resources:
 
 ---
 
-**Next:** Level 14 - Basic API Call
 
 ---
 
-<!-- LEVEL_END: capstone-lv-13.md -->
+<!-- LEVEL_END: capstone-lv-33.md -->
 
-<!-- LEVEL_START: capstone-lv-14.md -->
+<!-- LEVEL_START: capstone-lv-33.md -->
 
 ---
 
-# 🎯 Level 13: Basic API Call
+# 🎯 Level 14: Basic API Call
 
 ## What You'll Do
 Make your first API call and display the response.
@@ -571,17 +602,16 @@ Need help with API calls? Check out these snippets:
 
 ---
 
-**Next:** Level 15 - API Response Processing
 
 ---
 
-<!-- LEVEL_END: capstone-lv-14.md -->
+<!-- LEVEL_END: capstone-lv-33.md -->
 
-<!-- LEVEL_START: capstone-lv-15.md -->
+<!-- LEVEL_START: capstone-lv-33.md -->
 
 ---
 
-# 🎯 Level 14: API Response Processing
+# 🎯 Level 15: API Response Processing
 
 ## What You'll Do
 Process the API response to extract and display meaningful data.
@@ -606,17 +636,16 @@ Need help with response processing? Check out these snippets:
 
 ---
 
-**Next:** Level 16 - Error Handling
 
 ---
 
-<!-- LEVEL_END: capstone-lv-15.md -->
+<!-- LEVEL_END: capstone-lv-33.md -->
 
-<!-- LEVEL_START: capstone-lv-16.md -->
+<!-- LEVEL_START: capstone-lv-33.md -->
 
 ---
 
-# 🎯 Level 15: Error Handling
+# 🎯 Level 16: Error Handling
 
 ## What You'll Do
 Add proper error handling to your API calls.
@@ -641,17 +670,16 @@ Need help with error handling? Check out these snippets:
 
 ---
 
-**Next:** Level 17 - AI Integration Planning
 
 ---
 
-<!-- LEVEL_END: capstone-lv-16.md -->
+<!-- LEVEL_END: capstone-lv-33.md -->
 
-<!-- LEVEL_START: capstone-lv-17.md -->
+<!-- LEVEL_START: capstone-lv-33.md -->
 
 ---
 
-# 🎯 Level 16: AI Integration Planning
+# 🎯 Level 17: AI Integration Planning
 
 ## What You'll Do
 Choose and plan your AI model integration based on your project requirements.
@@ -679,17 +707,16 @@ Need help choosing AI models? Check out these resources:
 
 ---
 
-**Next:** Level 18 - Basic AI Call
 
 ---
 
-<!-- LEVEL_END: capstone-lv-17.md -->
+<!-- LEVEL_END: capstone-lv-33.md -->
 
-<!-- LEVEL_START: capstone-lv-18.md -->
+<!-- LEVEL_START: capstone-lv-33.md -->
 
 ---
 
-# 🎯 Level 17: Basic AI Call
+# 🎯 Level 18: Basic AI Call
 
 ## What You'll Do
 Make your first AI model call and display the response.
@@ -714,17 +741,16 @@ Need help with AI calls? Check out these snippets:
 
 ---
 
-**Next:** Level 19 - AI Response Processing
 
 ---
 
-<!-- LEVEL_END: capstone-lv-18.md -->
+<!-- LEVEL_END: capstone-lv-33.md -->
 
-<!-- LEVEL_START: capstone-lv-19.md -->
+<!-- LEVEL_START: capstone-lv-33.md -->
 
 ---
 
-# 🎯 Level 18: AI Response Processing
+# 🎯 Level 19: AI Response Processing
 
 ## What You'll Do
 Process the AI response to extract and display meaningful data.
@@ -749,17 +775,16 @@ Need help with AI response processing? Check out these snippets:
 
 ---
 
-**Next:** Level 20 - AI Error Handling
 
 ---
 
-<!-- LEVEL_END: capstone-lv-19.md -->
+<!-- LEVEL_END: capstone-lv-33.md -->
 
-<!-- LEVEL_START: capstone-lv-20.md -->
+<!-- LEVEL_START: capstone-lv-33.md -->
 
 ---
 
-# 🎯 Level 19: AI Error Handling
+# 🎯 Level 20: AI Error Handling
 
 ## What You'll Do
 Add proper error handling to your AI model calls.
@@ -784,17 +809,16 @@ Need help with AI error handling? Check out these snippets:
 
 ---
 
-**Next:** Level 21 - Integration Testing
 
 ---
 
-<!-- LEVEL_END: capstone-lv-20.md -->
+<!-- LEVEL_END: capstone-lv-33.md -->
 
-<!-- LEVEL_START: capstone-lv-21.md -->
+<!-- LEVEL_START: capstone-lv-33.md -->
 
 ---
 
-# 🎯 Level 20: Integration Testing
+# 🎯 Level 21: Integration Testing
 
 ## What You'll Do
 Test that all your integrations (API and AI) work together correctly.
@@ -821,17 +845,16 @@ Need help with testing? Check out these resources:
 
 ---
 
-**Next:** Level 22 - UI Polish
 
 ---
 
-<!-- LEVEL_END: capstone-lv-21.md -->
+<!-- LEVEL_END: capstone-lv-33.md -->
 
-<!-- LEVEL_START: capstone-lv-22.md -->
+<!-- LEVEL_START: capstone-lv-33.md -->
 
 ---
 
-# 🎯 Level 21: UI Polish
+# 🎯 Level 22: UI Polish
 
 ## What You'll Do
 Polish your user interface with better styling and user experience.
@@ -857,17 +880,16 @@ Need help with UI polish? Check out these resources:
 
 ---
 
-**Next:** Level 23 - Final Testing
 
 ---
 
-<!-- LEVEL_END: capstone-lv-22.md -->
+<!-- LEVEL_END: capstone-lv-33.md -->
 
-<!-- LEVEL_START: capstone-lv-23.md -->
+<!-- LEVEL_START: capstone-lv-33.md -->
 
 ---
 
-# 🎯 Level 22: Final Testing
+# 🎯 Level 23: Final Testing
 
 ## What You'll Do
 Perform comprehensive testing of your entire application.
@@ -894,17 +916,16 @@ Need help with testing? Check out these resources:
 
 ---
 
-**Next:** Level 24 - Documentation
 
 ---
 
-<!-- LEVEL_END: capstone-lv-23.md -->
+<!-- LEVEL_END: capstone-lv-33.md -->
 
-<!-- LEVEL_START: capstone-lv-24.md -->
+<!-- LEVEL_START: capstone-lv-33.md -->
 
 ---
 
-# 🎯 Level 23: Documentation
+# 🎯 Level 24: Documentation
 
 ## What You'll Do
 Update your README.md with comprehensive project documentation.
@@ -932,17 +953,16 @@ Need help with documentation? Check out these resources:
 
 ---
 
-**Next:** Level 25 - Final Commit
 
 ---
 
-<!-- LEVEL_END: capstone-lv-24.md -->
+<!-- LEVEL_END: capstone-lv-33.md -->
 
-<!-- LEVEL_START: capstone-lv-25.md -->
+<!-- LEVEL_START: capstone-lv-33.md -->
 
 ---
 
-# 🎯 Level 24: Final Commit
+# 🎯 Level 25: Final Commit
 
 ## What You'll Do
 Commit all your final changes and push to GitHub.
@@ -966,17 +986,16 @@ Need help with git? Check out these resources:
 
 ---
 
-**Next:** Level 26 - Project Review
 
 ---
 
-<!-- LEVEL_END: capstone-lv-25.md -->
+<!-- LEVEL_END: capstone-lv-33.md -->
 
-<!-- LEVEL_START: capstone-lv-26.md -->
+<!-- LEVEL_START: capstone-lv-33.md -->
 
 ---
 
-# 🎯 Level 25: Project Review
+# 🎯 Level 26: Project Review
 
 ## What You'll Do
 Review your project against the requirements and make any final adjustments.
@@ -1002,17 +1021,16 @@ Need help with review? Check out these resources:
 
 ---
 
-**Next:** Level 27 - Final Polish
 
 ---
 
-<!-- LEVEL_END: capstone-lv-26.md -->
+<!-- LEVEL_END: capstone-lv-33.md -->
 
-<!-- LEVEL_START: capstone-lv-27.md -->
+<!-- LEVEL_START: capstone-lv-33.md -->
 
 ---
 
-# 🎯 Level 26: Final Polish
+# 🎯 Level 27: Final Polish
 
 ## What You'll Do
 Add final polish to your project to make it presentation-ready.
@@ -1038,17 +1056,16 @@ Need help with final polish? Check out these resources:
 
 ---
 
-**Next:** Level 28 - Presentation Prep
 
 ---
 
-<!-- LEVEL_END: capstone-lv-27.md -->
+<!-- LEVEL_END: capstone-lv-33.md -->
 
-<!-- LEVEL_START: capstone-lv-28.md -->
+<!-- LEVEL_START: capstone-lv-33.md -->
 
 ---
 
-# 🎯 Level 27: Presentation Prep
+# 🎯 Level 28: Presentation Prep
 
 ## What You'll Do
 Prepare your project for presentation and demonstration.
@@ -1074,17 +1091,16 @@ Need help with presentation prep? Check out these resources:
 
 ---
 
-**Next:** Level 29 - Final Testing
 
 ---
 
-<!-- LEVEL_END: capstone-lv-28.md -->
+<!-- LEVEL_END: capstone-lv-33.md -->
 
-<!-- LEVEL_START: capstone-lv-29.md -->
+<!-- LEVEL_START: capstone-lv-33.md -->
 
 ---
 
-# 🎯 Level 28: Final Testing
+# 🎯 Level 29: Final Testing
 
 ## What You'll Do
 Perform one final comprehensive test of your entire application.
@@ -1110,17 +1126,16 @@ Need help with final testing? Check out these resources:
 
 ---
 
-**Next:** Level 30 - Final Commit
 
 ---
 
-<!-- LEVEL_END: capstone-lv-29.md -->
+<!-- LEVEL_END: capstone-lv-33.md -->
 
-<!-- LEVEL_START: capstone-lv-30.md -->
+<!-- LEVEL_START: capstone-lv-33.md -->
 
 ---
 
-# 🎯 Level 29: Final Commit
+# 🎯 Level 30: Final Commit
 
 ## What You'll Do
 Commit all your final changes and push to GitHub.
@@ -1144,17 +1159,16 @@ Need help with git? Check out these resources:
 
 ---
 
-**Next:** Level 31 - Project Submission
 
 ---
 
-<!-- LEVEL_END: capstone-lv-30.md -->
+<!-- LEVEL_END: capstone-lv-33.md -->
 
-<!-- LEVEL_START: capstone-lv-31.md -->
+<!-- LEVEL_START: capstone-lv-33.md -->
 
 ---
 
-# 🎯 Level 30: Project Submission
+# 🎯 Level 31: Project Submission
 
 ## What You'll Do
 Submit your project for evaluation.
@@ -1178,17 +1192,16 @@ Need help with submission? Check out these resources:
 
 ---
 
-**Next:** Level 32 - Project Complete
 
 ---
 
-<!-- LEVEL_END: capstone-lv-31.md -->
+<!-- LEVEL_END: capstone-lv-33.md -->
 
-<!-- LEVEL_START: capstone-lv-32.md -->
+<!-- LEVEL_START: capstone-lv-33.md -->
 
 ---
 
-# 🎯 Level 31: Project Complete
+# 🎯 Level 32: Project Complete
 
 ## What You'll Do
 Celebrate your completed capstone project!
@@ -1237,4 +1250,4 @@ You've completed a significant milestone in your coding journey. Your capstone p
 
 ---
 
-<!-- LEVEL_END: capstone-lv-32.md -->
+<!-- LEVEL_END: capstone-lv-33.md -->
