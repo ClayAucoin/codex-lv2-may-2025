@@ -710,7 +710,7 @@ Need help with error handling? Check out these snippets:
 # 🎯 Level 17: User Interaction Design
 
 ## What You'll Do
-Design and implement user interactions that make your API calls more dynamic and useful.
+Design and implement user interactions that make your API calls more dynamic and useful. This is your chance to get creative and build something fun and unique!
 
 ## Instructions
 - Think about how you want your user to interact with your app and the API you chose
