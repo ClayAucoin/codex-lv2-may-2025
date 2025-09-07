@@ -56,7 +56,7 @@ The culminating project for Week 7.
 ---
 # Programming Concepts
 
-### fetch` Function
+### fetch Function
 JavaScript function for network requests.
 * Asynchronous → returns a promise.
 * API responses → [JSON](../week6-APIs-and-postman/GLOSSARY.md#json-javascript-object-notation) → [POJO](../week2-vscode/GLOSSARY.md#pojo-plain-old-javascript-object).
@@ -64,14 +64,14 @@ JavaScript function for network requests.
 ### POJO (Plain Old JavaScript Object)
 Used as structured "data" parsed from JSON API responses.
 → Related: [JSON](../week6-APIs-and-postman/GLOSSARY.md#json-javascript-object-notation), [Destructure](../week2-vscode/GLOSSARY.md#destructure)
-### setText()`
+### setText()
 Updates an HTML element's text (e.g., showing chatbot reply).
 → Related: [getText()](../week5-event-driven-apps/GLOSSARY.md#gettext), [HTML Elements / IDs](../week2-vscode/GLOSSARY.md#html-elements)
 ### HTML Elements / IDs
 Fundamental for targeting parts of the chatbot page.
 * Example IDs: `userMessage`, `messageOutput`.
 → Related: [ID Attribute](../week2-vscode/GLOSSARY.md#id-attribute), [DOM](../week2-vscode/GLOSSARY.md#dom-document-object-model)
-### Event Listeners (`onEvent` callbacks)
+### Event Listeners (onEvent callbacks)
 Wait for user interactions (e.g., button click).
 * Crucial for running chatbot code.
 → Related: [onEvent](../week5-event-driven-apps/GLOSSARY.md#onevent), [Callback Functions](../week5-event-driven-apps/GLOSSARY.md#callback-functions)

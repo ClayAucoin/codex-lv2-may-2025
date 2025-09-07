@@ -68,7 +68,7 @@ JavaScript syntax to unpack values from arrays/objects into variables.
 ### Diff (Git)
 Shows differences between two versions of files.
 → Related: [Commit (Git)](#commit), [git status](#git-status), [GitHub](#github)
-### Div Tag (`<div>`)
+### Div Tag (<div>)
 An HTML container element with no effect until styled.
 → Related: [Tag (HTML)](#tag), [Parent-Child Structure](#parent-child-structure)
 ### Draw Loop (Game Development)

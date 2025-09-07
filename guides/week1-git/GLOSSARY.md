@@ -15,19 +15,19 @@ Text-based interface to interact with the operating system.
 ### Current Directory / Working Directory
 The folder you’re “in” while running commands.
 → Related: [`pwd`](#pwd)
-### mkdir` (Make Directory)
+### mkdir (Make Directory)
 Creates a new folder. Example: `mkdir my-project`.
 → Related: [Project Workflow](../week2-vscode/GLOSSARY.md#project-workflow)
-### cd` (Change Directory)
+### cd (Change Directory)
 Moves into another folder. Example: `cd my-project`.
-### ls` (List)
+### ls (List)
 Lists files/folders in the current directory.
 * `ls -a`: shows hidden files like `.git`.
-### pwd` (Print Working Directory)
+### pwd (Print Working Directory)
 Displays your current location in the filesystem.
-### touch`
+### touch
 Creates a new file. Example: `touch index.html`.
-### Tilde (`~`)
+### Tilde (~)
 Represents the user’s home directory in Linux-like systems.
 ### Local Computer
 Your personal machine, where code and commands are executed.
@@ -42,19 +42,19 @@ Standard sequence:
 * [`git add`](#git-add) → stage changes
 * [`git commit`](#git-commit) → save history
 * [`git push`](#git-push) → upload to remote
-### git init`
+### git init
 Initializes a new repository. Run once per project.
-### git add`
+### git add
 Stages changes for the next commit.
 * Example: `git add index.html` or `git add .`
-### git commit`
+### git commit
 Saves staged changes with a message.
 * Syntax: `git commit -m "Initial setup"`.
 ### Commit Message
 Describes what changed in that commit.
-### git status`
+### git status
 Shows which files are staged, unstaged, or untracked.
-### git log`
+### git log
 Displays commit history.
 ### Repository (Repo)
 Storage space for code and history. Exists locally and on GitHub.
@@ -72,9 +72,9 @@ Parallel versions of a project. Mentioned as a future concept.
 Hosts Git repositories online for collaboration.
 ### Remote Repository
 Hosted repo (e.g., on GitHub) synced with local repo.
-### git push`
+### git push
 Uploads local commits to remote.
-### git pull`
+### git pull
 Downloads and integrates changes from remote.
 ### Creating a GitHub Repository
 Step to set up a new repo online (often without README initially).

@@ -54,7 +54,7 @@ Online code storage, hosted on [GitHub](#github).
 * Each student needed one repo for the Water Conservation App and one group repo for the Color Sleuth Game.
 ### URLs
 Web addresses linking to published [GitHub](#github) repositories. Required for survey submission.
-### IDs (`#`)
+### IDs (#)
 Unique [ID Attributes](#id-attributes) for [HTML](#html) elements.
 * Introduced for use in later interactive features.
 ### Strings

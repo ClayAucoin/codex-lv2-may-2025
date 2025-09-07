@@ -41,7 +41,7 @@ Extra info appended to a URL after `?`, e.g. `?city=London&unit=metric`.
 ### HTML Elements / Semantic HTML
 Using meaningful tags (`<h1>`, `<p>`) for structure and accessibility.
 → Related: [Div Tag](#div-tag), [Parent-Child Structure](#parent-child-structure)
-### IDs (`#`)
+### IDs (#)
 Unique identifiers for HTML elements.
 * Recommended: descriptive names, not numbers.
 → Related: [ID Attribute](#id-attribute)

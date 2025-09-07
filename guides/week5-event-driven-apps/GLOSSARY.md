@@ -2,7 +2,7 @@
 
 # Week Theme
 
-### Week 5 (Code.org & `onEvent`)
+### Week 5 (Code.org & onEvent)
 Focused on **event-driven programming** in the [Code.org](#codeorg) App Lab environment. Students built **dynamic and interactive apps** by combining [Events](#events), [Functions](#functions), and [Callback Functions](#callback-functions).
 ---
 # Code.org & Tools
@@ -22,7 +22,7 @@ Web-based platform for hosting and collaborating on projects.
 ---
 # Core Programming Concepts
 
-### onEvent`
+### onEvent
 A function that sets up an **event listener**.
 * Syntax: `onEvent("elementID", "eventType", function() { ... })`
 * Parameters: element **ID**, event **type** (e.g., `"click"`), and a [Callback Function](#callback-function).
@@ -54,7 +54,7 @@ Text values inside quotes.
 * Can contain spaces.
 * Concatenation = combining strings with `+`.
 → Related: [Concatenate](#concatenate)
-### IDs (`#`)
+### IDs (#)
 Unique identifiers for [HTML Elements](../week2-vscode/GLOSSARY.md#html-elements).
 * Recommended: use descriptive names (e.g., `"submitBtn"`, not `"1"`).
 → Related: [ID Attribute](../week2-vscode/GLOSSARY.md#id-attribute)
@@ -68,20 +68,20 @@ Apps that respond to user input and change content without reloading the page.
 ---
 # Helper Functions (Code.org)
 
-### setText()`
+### setText()
 Sets text inside an element.
 → Related: [getText](#gettext), [IDs](#ids)
-### getText()`
+### getText()
 Retrieves text from an element (often user input).
 → Related: [setText](#settext)
-### setProperty()`
+### setProperty()
 Changes an element's CSS property.
 * Syntax: `setProperty("id", "property", "value")`
 → Related: [CSS](../week2-vscode/GLOSSARY.md#css-cascading-style-sheets), [DOM](#dom)
 ---
 # Debugging & Workflow
 
-### console.log()`
+### console.log()
 A debugging tool that prints messages/values to the console.
 * Used to test before/after values and track program flow.
 → Related: [Debugging](#debugging)
