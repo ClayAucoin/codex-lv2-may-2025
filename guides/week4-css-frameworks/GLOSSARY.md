@@ -46,6 +46,7 @@ Components covered:
 * *Text Alignment*: `text-center`, `text-start`.
 * *Colors*: `bg-danger`, `text-success`, `btn-primary`, `btn-info`.
 * *Button Class*: `.btn` for default Bootstrap button styling.
+
 ### Git Workflow
 The cycle of:
 * [`git add`](#git-add) → stage changes
@@ -56,11 +57,13 @@ The cycle of:
 ### Repositories (Repos)
 Online code storage, hosted on [GitHub](#github).
 * Each student needed one repo for the Water Conservation App and one group repo for the Color Sleuth Game.
+
 ### URLs
 Web addresses linking to published [GitHub](#github) repositories. Required for survey submission.
 ### IDs (#)
 Unique [ID Attributes](#id-attributes) for [HTML](#html) elements.
 * Introduced for use in later interactive features.
+
 ### Strings
 Sequences of characters (text), used in [input elements](#input-elements) like the Mad Libs Game.
 ### Boilerplate

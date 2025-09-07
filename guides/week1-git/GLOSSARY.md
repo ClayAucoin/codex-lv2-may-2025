@@ -25,6 +25,7 @@ Moves into another folder. Example: `cd my-project`.
 ### ls (List)
 Lists files/folders in the current directory.
 * `ls -a`: shows hidden files like `.git`.
+
 ### pwd (Print Working Directory)
 Displays your current location in the filesystem.
 ### touch
@@ -45,14 +46,17 @@ Standard sequence:
 * [`git add`](#git-add) → stage changes
 * [`git commit`](#git-commit) → save history
 * [`git push`](#git-push) → upload to remote
+
 ### git init
 Initializes a new repository. Run once per project.
 ### git add
 Stages changes for the next commit.
 * Example: `git add index.html` or `git add .`
+
 ### git commit
 Saves staged changes with a message.
 * Syntax: `git commit -m "Initial setup"`.
+
 ### Commit Message
 Describes what changed in that commit.
 ### git status

@@ -106,6 +106,7 @@ Core web technologies:
 * [HTML](../week2-vscode/GLOSSARY.md#html-hypertext-markup-language) structures content.
 * [CSS](../week2-vscode/GLOSSARY.md#css-cascading-style-sheets) styles it.
 * JavaScript can dynamically update CSS via [setProperty](#setproperty).
+
 ### Git Workflow
 Continued practice with:
 * [`git add`](../week1-git/GLOSSARY.md#git-add) → stage changes

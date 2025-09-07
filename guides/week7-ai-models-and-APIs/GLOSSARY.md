@@ -29,6 +29,7 @@ Algorithms trained to perform tasks such as text generation.
 Website/platform for exploring AI models.
 * **Filter Models:** By [task](#task) (e.g., text generation) and inference providers.
 * **Code Snippets:** Provided for API interaction (similar to [Postman](../week6-APIs-and-postman/GLOSSARY.md#postman)).
+
 ### Inference
 Process of an AI model making predictions or generating responses.
 * Example: chatbot replies.
@@ -106,6 +107,7 @@ Used for project setup (`mkdir`, `touch`).
 ### AI Copilot
 An integrated coding assistant (e.g., GitHub Copilot).
 * Sometimes useful, sometimes distracting.
+
 ### Class-Specific AI
 (Implied: Google NotebookLM).
 * Indexed class transcripts.
