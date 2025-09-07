@@ -527,7 +527,9 @@ secret-variables.js
 
 ---
 
----
+<!-- LEVEL_END -->
+
+<!-- LEVEL_START -->
 
 ---
 
@@ -559,7 +561,9 @@ Need help with validation? Check out these snippets:
 
 ---
 
----
+<!-- LEVEL_END -->
+
+<!-- LEVEL_START -->
 
 ---
 
@@ -594,7 +598,9 @@ Need help choosing APIs? Check out these resources:
 
 ---
 
----
+<!-- LEVEL_END -->
+
+<!-- LEVEL_START -->
 
 ---
 
@@ -626,7 +632,9 @@ Need help with API calls? Check out these snippets:
 
 ---
 
----
+<!-- LEVEL_END -->
+
+<!-- LEVEL_START -->
 
 ---
 
@@ -658,7 +666,9 @@ Need help with response processing? Check out these snippets:
 
 ---
 
----
+<!-- LEVEL_END -->
+
+<!-- LEVEL_START -->
 
 ---
 
@@ -700,7 +710,7 @@ Need help with error handling? Check out these snippets:
 # 🎯 Level 17: User Interaction Design
 
 ## What You'll Do
-Design and implement user interactions that make your API calls more dynamic and useful. This is your chance to get creative and build something fun and unique!
+Design and implement user interactions that make your API calls more dynamic and useful.
 
 ## Instructions
 - Think about how you want your user to interact with your app and the API you chose
@@ -732,7 +742,7 @@ Need help with user interactions? Check out these snippets:
 
 ---
 
-# 🎯 Level 18: AI Integration Planning
+# 🎯 Level 17: AI Integration Planning
 
 ## What You'll Do
 Choose and plan your AI model integration based on your project requirements.
@@ -763,11 +773,13 @@ Need help choosing AI models? Check out these resources:
 
 ---
 
----
+<!-- LEVEL_END -->
+
+<!-- LEVEL_START -->
 
 ---
 
-# 🎯 Level 19: Basic AI Call
+# 🎯 Level 18: Basic AI Call
 
 ## What You'll Do
 Make your first AI model call and display the response.
@@ -795,11 +807,13 @@ Need help with AI calls? Check out these snippets:
 
 ---
 
----
+<!-- LEVEL_END -->
+
+<!-- LEVEL_START -->
 
 ---
 
-# 🎯 Level 20: AI Response Processing
+# 🎯 Level 19: AI Response Processing
 
 ## What You'll Do
 Process the AI response to extract and display meaningful data.
@@ -827,11 +841,13 @@ Need help with AI response processing? Check out these snippets:
 
 ---
 
----
+<!-- LEVEL_END -->
+
+<!-- LEVEL_START -->
 
 ---
 
-# 🎯 Level 21: AI Error Handling
+# 🎯 Level 20: AI Error Handling
 
 ## What You'll Do
 Add proper error handling to your AI model calls.
@@ -859,11 +875,13 @@ Need help with AI error handling? Check out these snippets:
 
 ---
 
----
+<!-- LEVEL_END -->
+
+<!-- LEVEL_START -->
 
 ---
 
-# 🎯 Level 22: Integration Testing
+# 🎯 Level 21: Integration Testing
 
 ## What You'll Do
 Test that all your integrations (API and AI) work together correctly.
@@ -893,11 +911,13 @@ Need help with testing? Check out these resources:
 
 ---
 
----
+<!-- LEVEL_END -->
+
+<!-- LEVEL_START -->
 
 ---
 
-# 🎯 Level 23: UI Polish
+# 🎯 Level 22: UI Polish
 
 ## What You'll Do
 Polish your user interface with better styling and user experience.
@@ -926,11 +946,13 @@ Need help with UI polish? Check out these resources:
 
 ---
 
----
+<!-- LEVEL_END -->
+
+<!-- LEVEL_START -->
 
 ---
 
-# 🎯 Level 24: Final Testing
+# 🎯 Level 23: Final Testing
 
 ## What You'll Do
 Perform comprehensive testing of your entire application.
@@ -960,11 +982,13 @@ Need help with testing? Check out these resources:
 
 ---
 
----
+<!-- LEVEL_END -->
+
+<!-- LEVEL_START -->
 
 ---
 
-# 🎯 Level 25: Documentation
+# 🎯 Level 24: Documentation
 
 ## What You'll Do
 Update your README.md with comprehensive project documentation.
@@ -995,11 +1019,13 @@ Need help with documentation? Check out these resources:
 
 ---
 
----
+<!-- LEVEL_END -->
+
+<!-- LEVEL_START -->
 
 ---
 
-# 🎯 Level 26: Final Commit
+# 🎯 Level 25: Final Commit
 
 ## What You'll Do
 Commit all your final changes and push to GitHub.
@@ -1026,11 +1052,13 @@ Need help with git? Check out these resources:
 
 ---
 
----
+<!-- LEVEL_END -->
+
+<!-- LEVEL_START -->
 
 ---
 
-# 🎯 Level 27: Project Review
+# 🎯 Level 26: Project Review
 
 ## What You'll Do
 Review your project against the requirements and make any final adjustments.
@@ -1059,11 +1087,13 @@ Need help with review? Check out these resources:
 
 ---
 
----
+<!-- LEVEL_END -->
+
+<!-- LEVEL_START -->
 
 ---
 
-# 🎯 Level 28: Final Polish
+# 🎯 Level 27: Final Polish
 
 ## What You'll Do
 Add final polish to your project to make it presentation-ready.
@@ -1092,11 +1122,13 @@ Need help with final polish? Check out these resources:
 
 ---
 
----
+<!-- LEVEL_END -->
+
+<!-- LEVEL_START -->
 
 ---
 
-# 🎯 Level 29: Presentation Prep
+# 🎯 Level 28: Presentation Prep
 
 ## What You'll Do
 Prepare your project for presentation and demonstration.
@@ -1125,11 +1157,13 @@ Need help with presentation prep? Check out these resources:
 
 ---
 
----
+<!-- LEVEL_END -->
+
+<!-- LEVEL_START -->
 
 ---
 
-# 🎯 Level 30: Final Testing
+# 🎯 Level 29: Final Testing
 
 ## What You'll Do
 Perform one final comprehensive test of your entire application.
@@ -1158,11 +1192,13 @@ Need help with final testing? Check out these resources:
 
 ---
 
----
+<!-- LEVEL_END -->
+
+<!-- LEVEL_START -->
 
 ---
 
-# 🎯 Level 31: Final Commit
+# 🎯 Level 30: Final Commit
 
 ## What You'll Do
 Commit all your final changes and push to GitHub.
@@ -1189,11 +1225,13 @@ Need help with git? Check out these resources:
 
 ---
 
----
+<!-- LEVEL_END -->
+
+<!-- LEVEL_START -->
 
 ---
 
-# 🎯 Level 32: Project Submission
+# 🎯 Level 31: Project Submission
 
 ## What You'll Do
 Submit your project for evaluation.
@@ -1220,11 +1258,13 @@ Need help with submission? Check out these resources:
 
 ---
 
----
+<!-- LEVEL_END -->
+
+<!-- LEVEL_START -->
 
 ---
 
-# 🎯 Level 33: Project Complete
+# 🎯 Level 32: Project Complete
 
 ## What You'll Do
 Celebrate your completed capstone project!
