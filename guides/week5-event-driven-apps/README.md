@@ -137,6 +137,18 @@ Welcome to Week 5! This week focuses on **event-driven programming** using Code.
 
 ---
 
+## 📚 **Reference Materials**
+
+- **[📖 Week 5 Glossary](./GLOSSARY.md)** - Key terms and concepts for event-driven programming, Code.org App Lab, and DOM manipulation
+
+---
+
 ## 🚀 **Get Started**
 
 Begin with **[Lesson 1: Intro to App Lab](./lesson-1-intro-to-app-lab.md)** to start your event-driven programming journey!
+
+---
+
+## 📚 **Course Reference**
+
+- **[📖 Main Course Glossary](../../GLOSSARY.md)** - Comprehensive reference for all coding terms and concepts across the entire course

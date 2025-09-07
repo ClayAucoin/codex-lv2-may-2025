@@ -56,6 +56,7 @@ Students will learn:
 
 ## 📚 Reference Materials
 
+- **[📖 Week 7 Glossary](./GLOSSARY.md)** - Key terms and concepts for AI models, APIs, and chatbot development
 - **[Flow of Functions Guide](../../resources/skill-guides/flow-of-functions.md)** - Essential guide for understanding how JavaScript functions work together, including function calls, parameters, return values, and scope. Perfect for debugging complex function interactions in your chatbot project.
 - **[Events Birds Eye View PDF](../../resources/skill-guides/events-birds-eye-view.pdf)** - Comprehensive visual guide to JavaScript event handling, perfect for understanding how to wire up button clicks and user interactions in your chatbot project.
 
@@ -84,6 +85,12 @@ Students will learn:
 - [← Back to Main Course](../README.md)
 - [← Previous Week (Week 6)](../week6-APIs-and-postman/README.md)
 - [Next Week →](../week8-capstone/README.md) (Coming Soon)
+
+---
+
+## 📚 **Course Reference**
+
+- **[📖 Main Course Glossary](../../GLOSSARY.md)** - Comprehensive reference for all coding terms and concepts across the entire course
 
 ---
 

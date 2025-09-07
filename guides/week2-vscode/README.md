@@ -31,3 +31,12 @@
 * [Shell Commands Cheat Sheet](../../resources/shell-snippets.md) - Complete reference for all Unix shell commands
 * [Git Commands Cheat Sheet](../../resources/git-snippets.md) - Essential Git commands and workflow patterns
 * [HTML Code Snippets](../../resources/html-snippets.md) - Common HTML elements and templates for building web pages
+
+### **Reference Materials**
+- **[📖 Week 2 Glossary](./GLOSSARY.md)** - Key terms and concepts for VSCode, HTML, CSS, and JavaScript
+
+---
+
+## 📚 **Course Reference**
+
+- **[📖 Main Course Glossary](../../GLOSSARY.md)** - Comprehensive reference for all coding terms and concepts across the entire course

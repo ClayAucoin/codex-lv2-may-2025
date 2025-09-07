@@ -71,3 +71,9 @@ By the end of this week, your group should have:
 * ✅ Written individual reflections on the project
 * ✅ Demonstrated effective teamwork and communication
 
+---
+
+## 📚 **Course Reference**
+
+- **[📖 Main Course Glossary](../../GLOSSARY.md)** - Comprehensive reference for all coding terms and concepts across the entire course
+

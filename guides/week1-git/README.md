@@ -26,6 +26,9 @@ Build on your shell skills by learning how to create, edit, and manage files dir
 * [Git Commands Cheat Sheet](../../resources/git-snippets.md) - Essential Git commands and workflow patterns
 * [HTML Code Snippets](../../resources/html-snippets.md) - Common HTML elements and templates for building web pages
 
+### **Reference Materials**
+- **[📖 Week 1 Glossary](./GLOSSARY.md)** - Key terms and concepts for Git, Shell, and GitHub
+
 ## Day 3
 
 **Advanced Git Workflow and Collaboration**
@@ -55,3 +58,9 @@ Put all your new skills to work in a collaborative project! Working with your te
 ## Notes
 
 Remember to takes notes for yourself. What you include in your notes is a personal decision, but here are some topics if you need help getting started [suggested topics](./YOUR-NOTES.md)
+
+---
+
+## 📚 **Course Reference**
+
+- **[📖 Main Course Glossary](../../GLOSSARY.md)** - Comprehensive reference for all coding terms and concepts across the entire course
