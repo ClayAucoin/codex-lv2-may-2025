@@ -527,9 +527,7 @@ secret-variables.js
 
 ---
 
-<!-- LEVEL_END: capstone-lv-33.md -->
-
-<!-- LEVEL_START: capstone-lv-33.md -->
+---
 
 ---
 
@@ -561,9 +559,7 @@ Need help with validation? Check out these snippets:
 
 ---
 
-<!-- LEVEL_END: capstone-lv-33.md -->
-
-<!-- LEVEL_START: capstone-lv-33.md -->
+---
 
 ---
 
@@ -598,9 +594,7 @@ Need help choosing APIs? Check out these resources:
 
 ---
 
-<!-- LEVEL_END: capstone-lv-33.md -->
-
-<!-- LEVEL_START: capstone-lv-33.md -->
+---
 
 ---
 
@@ -632,9 +626,7 @@ Need help with API calls? Check out these snippets:
 
 ---
 
-<!-- LEVEL_END: capstone-lv-33.md -->
-
-<!-- LEVEL_START: capstone-lv-33.md -->
+---
 
 ---
 
@@ -666,9 +658,7 @@ Need help with response processing? Check out these snippets:
 
 ---
 
-<!-- LEVEL_END: capstone-lv-33.md -->
-
-<!-- LEVEL_START: capstone-lv-33.md -->
+---
 
 ---
 
@@ -773,9 +763,7 @@ Need help choosing AI models? Check out these resources:
 
 ---
 
-<!-- LEVEL_END: capstone-lv-33.md -->
-
-<!-- LEVEL_START: capstone-lv-33.md -->
+---
 
 ---
 
@@ -807,9 +795,7 @@ Need help with AI calls? Check out these snippets:
 
 ---
 
-<!-- LEVEL_END: capstone-lv-33.md -->
-
-<!-- LEVEL_START: capstone-lv-33.md -->
+---
 
 ---
 
@@ -841,9 +827,7 @@ Need help with AI response processing? Check out these snippets:
 
 ---
 
-<!-- LEVEL_END: capstone-lv-33.md -->
-
-<!-- LEVEL_START: capstone-lv-33.md -->
+---
 
 ---
 
@@ -875,9 +859,7 @@ Need help with AI error handling? Check out these snippets:
 
 ---
 
-<!-- LEVEL_END: capstone-lv-33.md -->
-
-<!-- LEVEL_START: capstone-lv-33.md -->
+---
 
 ---
 
@@ -911,9 +893,7 @@ Need help with testing? Check out these resources:
 
 ---
 
-<!-- LEVEL_END: capstone-lv-33.md -->
-
-<!-- LEVEL_START: capstone-lv-33.md -->
+---
 
 ---
 
@@ -946,9 +926,7 @@ Need help with UI polish? Check out these resources:
 
 ---
 
-<!-- LEVEL_END: capstone-lv-33.md -->
-
-<!-- LEVEL_START: capstone-lv-33.md -->
+---
 
 ---
 
@@ -982,9 +960,7 @@ Need help with testing? Check out these resources:
 
 ---
 
-<!-- LEVEL_END: capstone-lv-33.md -->
-
-<!-- LEVEL_START: capstone-lv-33.md -->
+---
 
 ---
 
@@ -1019,9 +995,7 @@ Need help with documentation? Check out these resources:
 
 ---
 
-<!-- LEVEL_END: capstone-lv-33.md -->
-
-<!-- LEVEL_START: capstone-lv-33.md -->
+---
 
 ---
 
@@ -1052,9 +1026,7 @@ Need help with git? Check out these resources:
 
 ---
 
-<!-- LEVEL_END: capstone-lv-33.md -->
-
-<!-- LEVEL_START: capstone-lv-33.md -->
+---
 
 ---
 
@@ -1087,9 +1059,7 @@ Need help with review? Check out these resources:
 
 ---
 
-<!-- LEVEL_END: capstone-lv-33.md -->
-
-<!-- LEVEL_START: capstone-lv-33.md -->
+---
 
 ---
 
@@ -1122,9 +1092,7 @@ Need help with final polish? Check out these resources:
 
 ---
 
-<!-- LEVEL_END: capstone-lv-33.md -->
-
-<!-- LEVEL_START: capstone-lv-33.md -->
+---
 
 ---
 
@@ -1157,9 +1125,7 @@ Need help with presentation prep? Check out these resources:
 
 ---
 
-<!-- LEVEL_END: capstone-lv-33.md -->
-
-<!-- LEVEL_START: capstone-lv-33.md -->
+---
 
 ---
 
@@ -1192,9 +1158,7 @@ Need help with final testing? Check out these resources:
 
 ---
 
-<!-- LEVEL_END: capstone-lv-33.md -->
-
-<!-- LEVEL_START: capstone-lv-33.md -->
+---
 
 ---
 
@@ -1225,9 +1189,7 @@ Need help with git? Check out these resources:
 
 ---
 
-<!-- LEVEL_END: capstone-lv-33.md -->
-
-<!-- LEVEL_START: capstone-lv-33.md -->
+---
 
 ---
 
@@ -1258,9 +1220,7 @@ Need help with submission? Check out these resources:
 
 ---
 
-<!-- LEVEL_END: capstone-lv-33.md -->
-
-<!-- LEVEL_START: capstone-lv-33.md -->
+---
 
 ---
 
