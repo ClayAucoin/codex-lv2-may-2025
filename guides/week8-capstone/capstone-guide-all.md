@@ -645,14 +645,14 @@ Process the API response to extract and display meaningful data.
 
 ## Instructions
 - Parse the JSON response
-- Extract the specific data you need
+- Extract the specific data you need (for example, temperature? pokemon stats?)
 - Format and display it nicely in your output area
 
 ## 💡 Code Hints
 Need help with response processing? Check out these snippets:
 - **JSON parsing:** See [SNIPPETS.md](./SNIPPETS.md#-api-calls) for response handling examples
 - **Data extraction:** Use dot notation to access nested properties
-- **Formatting:** Use template literals to format your output
+- **Formatting:** Use `console.log()` to test how you want to format the data before displaying it to users in a later level.
 
 ## ✅ Check
 1. Open your webpage in a browser
@@ -672,15 +672,20 @@ Need help with response processing? Check out these snippets:
 
 ---
 
-# 🎯 Level 16: Error Handling
+# 🎯 Level 16: Error Handling (Optional Challenge)
 
 ## What You'll Do
 Add proper error handling to your API calls.
 
 ## Instructions
-- Use `.catch()` to handle API errors
-- Display user-friendly error messages
-- Test your error handling by temporarily breaking the API URL
+- Use `.catch()` to handle network errors (connection issues, timeouts)
+- Use `if(response.ok === false) { console.log('API Error: ' + response.status + ' ' + response.statusText) }` to handle API errors (404, 500, etc.)
+- Display user-friendly error messages to your users (not just console logs)
+- Test your error handling by temporarily breaking the API URL:
+  - Change `https://` to `thtps://` (typo in protocol)
+  - Add extra characters to the URL like `&latitude=500` (There is not latitude 500, latitude goes from `-90` to `90`.)
+  - Put a typo in the endpoint path, for example: change `/v1/forecast` to `/v1/forecst` (missing 'a')
+  - **Remember to fix the URL back to working state when done testing**
 
 ## 💡 Code Hints
 Need help with error handling? Check out these snippets:
@@ -701,6 +706,37 @@ Need help with error handling? Check out these snippets:
 ---
 
 <!-- LEVEL_END: capstone-lv-33.md -->
+
+# 🎯 Level 17: User Interaction Design
+
+## What You'll Do
+Design and implement user interactions that make your API calls more dynamic and useful.
+
+## Instructions
+- Think about how you want your user to interact with your app and the API you chose
+- Consider different interaction patterns:
+  - **Single button:** One button that triggers the API call
+  - **Multiple buttons:** Different buttons for different actions (e.g., one for each city, like in week 6 weather-app)
+  - **Input fields:** Allow users to enter data that gets inserted to the URL (e.g., latitude and longitude)
+  - **Conditional logic:** Use if statements to handle different user inputs (e.g., `if(input === "joke") { fetchJokeAPI() }`)
+- Choose the interaction pattern that best fits your API and user needs
+- Implement your chosen interaction pattern
+- Remember to test as you go, as we did in the previous levels.
+
+## 💡 Code Hints
+Need help with user interactions? Check out these snippets:
+- **Multiple buttons:** See [SNIPPETS.md](./SNIPPETS.md#-event-handling) for multiple button examples
+- **Input handling:** Use `getValue()` to get user input and add it to your API URL
+- **Conditional logic:** Use `if` statements to handle different user choices
+
+## ✅ Check
+1. Open your webpage in a browser
+2. Test your chosen interaction pattern:
+   - If using buttons, click each one to verify it works
+   - If using inputs, type different values and test the results
+   - If using conditional logic, test different input scenarios
+3. Verify that your API calls work with the user interactions
+4. Make sure the user experience feels intuitive and responsive
 
 <!-- LEVEL_START: capstone-lv-33.md -->
 
