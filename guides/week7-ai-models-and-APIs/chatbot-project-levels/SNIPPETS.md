@@ -1,8 +1,8 @@
-# 🧩 Code Snippets for Chatbot Project
+# Code Snippets for Chatbot Project
 
 Quick reference for common code patterns used in the chatbot project.
 
-## 📝 **Variables**
+## Variables
 
 ```js
 // Global variables
@@ -11,7 +11,7 @@ let userInput = "";
 let weatherData = "";
 ```
 
-## 🎯 **Functions**
+## Functions
 
 ```js
 // Create function
@@ -23,7 +23,7 @@ function fetchWeather() {
 fetchWeather();
 ```
 
-## 🖱️ **Event Handling**
+## Event Handling
 
 ```js
 // Button click event
@@ -32,7 +32,7 @@ onEvent("submitBtn", "click", function() {
 });
 ```
 
-## 📥 **Input/Output**
+## Input/Output
 
 ```js
 // Get input value
@@ -42,7 +42,7 @@ let inputValue = getValue("username");
 setText("result", "Hello World");
 ```
 
-## 🔍 **Console Logging**
+## Console Logging
 
 ```js
 // Basic logging
@@ -57,7 +57,7 @@ console.log(data);
 console.log(data.choices[0].message.content);
 ```
 
-## 🌐 **API Calls**
+## API Calls
 
 ```js
 // Basic fetch structure
@@ -78,7 +78,7 @@ fetch(url, {
 });
 ```
 
-## 🤖 **OpenAI Response Format**
+## OpenAI Response Format
 
 ```js
 // Start with this to see the full response structure
@@ -91,7 +91,7 @@ fetch(url, {
 });
 ```
 
-## 🔄 **Conditional Logic**
+## Conditional Logic
 
 ```js
 // Check if input is empty
@@ -103,7 +103,7 @@ if (userInput === "") {
 }
 ```
 
-## 🎨 **Bootstrap Classes**
+## Bootstrap Classes
 
 ```html
 <!-- Input styling -->
@@ -121,7 +121,7 @@ if (userInput === "") {
 </div>
 ```
 
-## 🏷️ **HTML IDs and JavaScript Access**
+## HTML IDs and JavaScript Access
 
 ```html
 <!-- HTML: Give elements unique IDs -->
@@ -149,7 +149,7 @@ let responseElement = document.getElementById("chat-response");
 - Use hyphens for multi-word IDs: `user-name` (not `userName`)
 - Keep IDs unique - no two elements should have the same ID
 
-## 🔧 **Helper Functions**
+## Helper Functions
 
 ```js
 // Get input value (For input tags)
@@ -163,7 +163,7 @@ setProperty("message", "className", "error");
 
 ```
 
-## 📋 **Common Patterns**
+## Common Patterns
 
 ```js
 // Button click with validation
@@ -188,7 +188,7 @@ fetch(weatherUrl)
 });
 ```
 
-## 🔧 **Function vs Arrow Function**
+## Function vs Arrow Function
 
 **Overview:** JavaScript offers two ways to write functions: traditional `function` declarations and modern arrow functions (`() => {}`). Arrow functions provide shorter, cleaner syntax and are preferred for callbacks, event handlers, and API responses. Traditional functions work everywhere and are more explicit. In practice, use arrow functions for short callbacks and traditional functions for complex logic. Both work in modern JavaScript - choose based on readability and context.
 
@@ -232,7 +232,7 @@ const square = x => x * x;
 - **Arrow functions** don't have their own `this` context
 - **Both work** in most cases - choose what feels comfortable!
 
-## ⏳ **Promises and .then()**
+## Promises and .then()
 
 **Overview:** Promises handle asynchronous operations like API calls, file reading, or timers. When you make an API call with `fetch()`, it returns a Promise that resolves when the data arrives. Use `.then()` to handle the response. Each `.then()` can return a value or another Promise, creating a chain. This prevents "callback hell" and makes async code more readable. Always include error handling with `.catch()` to manage failed requests gracefully.
 
