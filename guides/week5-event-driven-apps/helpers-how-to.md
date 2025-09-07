@@ -105,7 +105,7 @@ setProperty("myDiv", "background-color", "blue");
 // In your script.js file
 onEvent("myButton", "click", function() {
     console.log("Button clicked!");
-    setProperty("output", "text", "Hello from helpers!");
+    setText("output", "Hello from helpers!");
 });
 ```
 
@@ -226,7 +226,7 @@ console.log("Testing helper functions...");
 // Test onEvent
 onEvent("testButton", "click", function() {
     console.log("onEvent helper working!");
-    setProperty("testOutput", "text", "Helpers are working!");
+    setText("testOutput", "Helpers are working!");
 });
 
 console.log("Helper functions loaded successfully!");
