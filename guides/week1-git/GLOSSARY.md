@@ -133,7 +133,7 @@
   → Related: [JavaScript](../week2-vscode/GLOSSARY.md#javascript)
 
 * **OneDrive**
-  Cloud sync service that can conflict with Git repos.
+  Cloud sync service that can conflict with Git repos. Learn about OneDrive and how to identify which folders sync and do not sync to your OneDrive.
 
 * **HTML & CSS**
   Fundamental web languages for structure and style.
