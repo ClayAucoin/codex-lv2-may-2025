@@ -80,7 +80,7 @@ fetch(url, {
 
 ## 📮 **Postman Generated Code**
 
-In Postman, your generated code will look like this. You must alter it a bit to use it for our purpose.
+When you generate JavaScript code in Postman, it will look like the example below. However, you'll need to make two small changes to make it work properly with our project setup.
 
 <pre><code>const requestOptions = {
   method: "GET",

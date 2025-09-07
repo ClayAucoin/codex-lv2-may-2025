@@ -360,7 +360,7 @@ Need help with IDs? Check out these snippets:
    - `setProperty("your-button-id", "border", "3px solid red")`
 7. If any return `null`, check that the ID is spelled correctly in your HTML
 
-## 🔍 Diving Deeper: DOM Operations
+## 🔍 Optional: Diving Deeper - DOM Operations
 For extra practice, you can also test element access with:
 ```javascript
 console.log(document.getElementById("your-input-id"))
@@ -376,7 +376,7 @@ document.getElementById("your-input-id").style.backgroundColor = "yellow";
 document.getElementById("your-button-id").style.border = "3px solid red";
 ```
 
-This approach is the standard way to manipulate styles in professional JavaScript development and is used across all major frameworks and libraries. Learning the native DOM API prepares you for real-world codebases where helper functions aren't available.
+The DOM Operations approach is the standard way to manipulate styles in professional JavaScript development and is used across all major frameworks and libraries. Learning the native DOM API prepares you for real-world codebases where helper functions aren't available.
 
 ---
 
@@ -410,6 +410,32 @@ Need help with event listeners? Check out these snippets:
 3. Click your button - you should see a message in the console
 4. Type in your input - you should see messages in the console as you type
 5. If you don't see messages, check that your event listeners are set up correctly
+
+## 🔍 Optional: Diving Deeper - Named Functions
+Instead of using anonymous functions, you can create named functions for your event handlers:
+```javascript
+function clickHandler() {
+    console.log("Button was clicked!");
+    setText("output", "Hello from the button!");
+}
+
+// Use the named functions with onEvent
+onEvent("my-button", "click", clickHandler);
+```
+Named functions make your code more readable and reusable, especially when you need to use the same handler for multiple elements.
+
+## 🔍 Optional: Diving Deeper - Native addEventListener
+You can also use the native DOM `addEventListener` method instead of the helper function:
+```javascript
+function clickHandler() {
+    console.log("Button was clicked!");
+    setText("output", "Hello from the button!");
+}
+
+// Use native addEventListener
+document.getElementById("my-button").addEventListener("click", clickHandler);
+```
+This approach gives you direct access to the native DOM API and is the standard method used in professional JavaScript development.
 
 ---
 
@@ -520,7 +546,8 @@ Add validation to check if the input is empty before processing.
 ## 💡 Code Hints
 Need help with validation? Check out these snippets:
 - **Conditional logic:** See [SNIPPETS.md](./SNIPPETS.md#-conditional-logic) for `if` statement examples
-- **Error messages:** Use `setText()` to show error messages in the output area
+- **Error messages:** Use `setText()` to show error messages in the output area. For example: "Please enter text." or another similar error message.
+- **Change the color:** Use `setProperty()` to make error text red, for example: `setProperty("output", "color", "red")`
 
 ## ✅ Check
 1. Open your webpage in a browser
@@ -585,12 +612,12 @@ Make your first API call and display the response.
 ## Instructions
 - Use `fetch()` to make an API call
 - Handle the response with `.then()` and `.catch()`
+- **Two changes needed on generated code:** Change `response.text()` to `response.json()`, and change arrow function to regular function (see Postman Generated Code section in Code Hints)
 - Display the response in your output area
 
 ## 💡 Code Hints
 Need help with API calls? Check out these snippets:
-- **API calls:** See [SNIPPETS.md](./SNIPPETS.md#-api-calls) for `fetch()` examples
-- **Error handling:** Use `.catch()` to handle errors
+- **Postman Generated Code:** See [SNIPPETS.md](./SNIPPETS.md#-postman-generated-code) for `fetch()` examples
 - **Response handling:** Use `.then()` to process the response
 
 ## ✅ Check
