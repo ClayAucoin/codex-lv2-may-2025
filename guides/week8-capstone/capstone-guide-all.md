@@ -14,7 +14,7 @@ This file contains all levels of the capstone project concatenated into a single
 
 ---
 
-# 🎯 Level 1: Project Planning & Setup
+# Level 1: Project Planning & Setup
 
 **Goal:** Plan your capstone project and set up the development environment.
 
@@ -73,7 +73,7 @@ If any files are missing, create them before moving to Level 2.
 
 ---
 
-# 🎯 Level 2: Basic HTML Structure & Live Server Test
+# Level 2: Basic HTML Structure & Live Server Test
 
 ## What You'll Do
 Set up the basic HTML structure, link all necessary files, and test with live-server.
@@ -129,7 +129,7 @@ Need help with the HTML structure? Check out these snippets:
 
 ---
 
-# 🎯 Level 3: Git Setup
+# Level 3: Git Setup
 
 ## What You'll Do
 Initialize version control and push your project to GitHub.
@@ -182,7 +182,7 @@ In this level, we use `chore:` because we're doing initial project setup - creat
 
 ---
 
-# 🎯 Level 4: Overall Project Check
+# Level 4: Overall Project Check
 
 ## What You'll Do
 Verify everything is working correctly with both live-server and git.
@@ -229,7 +229,7 @@ You've set up your project foundation securely. Time to build the UI!
 
 ---
 
-# 🎯 Level 5: UI & DOM Wiring - Basic Interface
+# Level 5: UI & DOM Wiring - Basic Interface
 
 **Goal:** Build the Bootstrap UI, connect it with helpers (or direct DOM methods), and test interactions.
 *(Choose meaningful `id`s. Example only: `<input id="userPrompt">`.)*
@@ -270,7 +270,7 @@ Navigate to your file in your browser (remember, you're using live-server) and v
 
 ---
 
-# 🎯 Level 6: Bootstrap Styling
+# Level 6: Bootstrap Styling
 
 ## What You'll Do
 Add Bootstrap classes to style your input and button.
@@ -304,7 +304,7 @@ Add Bootstrap classes to style the input and button.
 
 ---
 
-# 🎯 Level 7: Card Structure
+# Level 7: Card Structure
 
 ## What You'll Do
 Convert the output area into a proper Bootstrap card.
@@ -334,7 +334,7 @@ Convert the output `<div>` into a Bootstrap card with proper structure (card con
 
 ---
 
-# 🎯 Level 8: IDs and Testing
+# Level 8: IDs and Testing
 
 ## What You'll Do
 Add meaningful IDs to all elements and test that they can be accessed.
@@ -389,7 +389,7 @@ The DOM Operations approach is the standard way to manipulate styles in professi
 
 ---
 
-# 🎯 Level 9: Event Listeners
+# Level 9: Event Listeners
 
 ## What You'll Do
 Add event listeners to your button and input using the `onEvent` helper function.
@@ -448,7 +448,7 @@ This approach gives you direct access to the native DOM API and is the standard 
 
 ---
 
-# 🎯 Level 10: Basic Input Handling
+# Level 10: Basic Input Handling
 
 ## What You'll Do
 Get the value from your input and display it in the output area.
@@ -482,7 +482,7 @@ Need help with input/output? Check out these snippets:
 
 ---
 
-# 🎯 Level 11: Secret Files Setup
+# Level 11: Secret Files Setup
 
 ## What You'll Do
 Create the secret files needed for API keys and version control.
@@ -533,7 +533,7 @@ secret-variables.js
 
 ---
 
-# 🎯 Level 12: Input Validation
+# Level 12: Input Validation
 
 ## What You'll Do
 Add validation to check if the input is empty before processing.
@@ -567,7 +567,7 @@ Need help with validation? Check out these snippets:
 
 ---
 
-# 🎯 Level 13: API Integration Planning
+# Level 13: API Integration Planning
 
 ## What You'll Do
 Choose and plan your API integration based on your project requirements.
@@ -604,7 +604,7 @@ Need help choosing APIs? Check out these resources:
 
 ---
 
-# 🎯 Level 14: Basic API Call
+# Level 14: Basic API Call
 
 ## What You'll Do
 Make your first API call and display the response.
@@ -638,7 +638,7 @@ Need help with API calls? Check out these snippets:
 
 ---
 
-# 🎯 Level 15: API Response Processing
+# Level 15: API Response Processing
 
 ## What You'll Do
 Process the API response to extract and display meaningful data.
@@ -672,7 +672,7 @@ Need help with response processing? Check out these snippets:
 
 ---
 
-# 🎯 Level 16: Error Handling (Optional Challenge)
+# Level 16: Error Handling (Optional Challenge)
 
 ## What You'll Do
 Add proper error handling to your API calls.
@@ -707,7 +707,7 @@ Need help with error handling? Check out these snippets:
 
 <!-- LEVEL_END -->
 
-# 🎯 Level 17: User Interaction Design
+# Level 17: User Interaction Design
 
 ## What You'll Do
 Design and implement user interactions that make your API calls more dynamic and useful. This is your chance to get creative and bring your unique idea to life! Think about what would make your app engaging and fun to use. Consider how users will discover and interact with your creation - will they click buttons, type inputs, or explore different options? This is where your project transforms from a simple API call into something truly special that showcases your creativity and problem-solving skills.
@@ -742,7 +742,7 @@ Need help with user interactions? Check out these snippets:
 
 ---
 
-# 🎯 Level 18: AI Integration Planning
+# Level 18: AI Integration Planning
 
 ## What You'll Do
 Choose and plan your AI model integration based on your project requirements.
@@ -779,7 +779,7 @@ Need help choosing AI models? Check out these resources:
 
 ---
 
-# 🎯 Level 19: Basic AI Call
+# Level 19: Basic AI Call
 
 ## What You'll Do
 Make your first AI model call and display the response.
@@ -815,7 +815,7 @@ Need help with AI calls? Check out these snippets:
 
 ---
 
-# 🎯 Level 20: AI Response Processing
+# Level 20: AI Response Processing
 
 ## What You'll Do
 Process the AI response to extract and display meaningful data.
@@ -849,7 +849,7 @@ Need help with AI response processing? Check out these snippets:
 
 ---
 
-# 🎯 Level 21: AI Error Handling (Optional Challenge)
+# Level 21: AI Error Handling (Optional Challenge)
 
 ## What You'll Do
 Add proper error handling to your AI model calls.
@@ -888,7 +888,7 @@ Need help with AI error handling? Check out these snippets:
 
 ---
 
-# 🎯 Level 22: AI Interaction Design
+# Level 22: AI Interaction Design
 
 ## What You'll Do
 Design and implement user interactions that make your AI calls more dynamic and engaging. This is where you can really showcase your creativity with AI! Think about how users will interact with your AI - will they ask questions, give instructions, or explore different AI personalities? Consider what would make your AI app feel magical and intuitive. This is your opportunity to create something that demonstrates the power of AI while being fun and useful for your users.
@@ -940,7 +940,7 @@ Need help with AI interactions? Check out these snippets:
 
 ---
 
-# 🎯 Level 23: Integration Testing
+# Level 23: Integration Testing
 
 ## What You'll Do
 Test that all your integrations (API and AI) work together correctly.
@@ -976,7 +976,7 @@ Need help with testing? Check out these resources:
 
 ---
 
-# 🎯 Level 24: UI Polish
+# Level 24: UI Polish
 
 ## What You'll Do
 Polish your user interface with better styling and user experience.
@@ -1011,7 +1011,7 @@ Need help with UI polish? Check out these resources:
 
 ---
 
-# 🎯 Level 25: Final Testing
+# Level 25: Final Testing
 
 ## What You'll Do
 Perform comprehensive testing of your entire application.
@@ -1047,7 +1047,7 @@ Need help with testing? Check out these resources:
 
 ---
 
-# 🎯 Level 26: Documentation
+# Level 26: Documentation
 
 ## What You'll Do
 Update your README.md with comprehensive project documentation.
@@ -1084,7 +1084,7 @@ Need help with documentation? Check out these resources:
 
 ---
 
-# 🎯 Level 27: Final Commit
+# Level 27: Final Commit
 
 ## What You'll Do
 Commit all your final changes and push to GitHub.
@@ -1117,7 +1117,7 @@ Need help with git? Check out these resources:
 
 ---
 
-# 🎯 Level 28: Project Review
+# Level 28: Project Review
 
 ## What You'll Do
 Review your project against the requirements and make any final adjustments.
@@ -1152,7 +1152,7 @@ Need help with review? Check out these resources:
 
 ---
 
-# 🎯 Level 29: Final Polish
+# Level 29: Final Polish
 
 ## What You'll Do
 Add final polish to your project to make it presentation-ready.
@@ -1187,7 +1187,7 @@ Need help with final polish? Check out these resources:
 
 ---
 
-# 🎯 Level 30: Presentation Prep
+# Level 30: Presentation Prep
 
 ## What You'll Do
 Prepare your project for presentation and demonstration.
@@ -1222,7 +1222,7 @@ Need help with presentation prep? Check out these resources:
 
 ---
 
-# 🎯 Level 31: Final Testing
+# Level 31: Final Testing
 
 ## What You'll Do
 Perform one final comprehensive test of your entire application.
@@ -1257,7 +1257,7 @@ Need help with final testing? Check out these resources:
 
 ---
 
-# 🎯 Level 32: Final Commit
+# Level 32: Final Commit
 
 ## What You'll Do
 Commit all your final changes and push to GitHub.
@@ -1290,7 +1290,7 @@ Need help with git? Check out these resources:
 
 ---
 
-# 🎯 Level 33: Project Submission
+# Level 33: Project Submission
 
 ## What You'll Do
 Submit your project for evaluation.
@@ -1323,7 +1323,7 @@ Need help with submission? Check out these resources:
 
 ---
 
-# 🎯 Level 34: Project Complete
+# Level 34: Project Complete
 
 ## What You'll Do
 Celebrate your completed capstone project!
