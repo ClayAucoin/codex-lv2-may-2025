@@ -1,5 +1,7 @@
 # 🎯 Capstone Project Planning Guide
 
+**📄 [Google Doc Version](https://docs.google.com/document/d/1A7uL2OYkXWNoNMemVPHGwj2a21PDppXSSrMBhjw_xyw/edit?usp=sharing)**
+
 **Project Title:** [Your Project Name] - Web Application with API and AI Integration
 
 ---
