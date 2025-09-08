@@ -15,6 +15,7 @@
 - **[Week 5: Event-Driven Apps](./guides/week5-event-driven-apps/GLOSSARY.md)** - Code.org App Lab, events, and DOM manipulation
 - **[Week 6: APIs & Postman](./guides/week6-APIs-and-postman/GLOSSARY.md)** - APIs, JSON, Postman, and network debugging
 - **[Week 7: AI Models & APIs](./guides/week7-ai-models-and-APIs/GLOSSARY.md)** - AI models, chatbots, and API integration
+- **[Week 8: Capstone Project](./guides/week8-capstone/README.md)** - Final project with API integration and AI enhancements
 
 ---
 
@@ -27,4 +28,4 @@
   * Week 5: [Event-Driven Apps](./guides/week5-event-driven-apps/README.md)
   * Week 6: [APIs, Postman, and Network Debugging](./guides/week6-APIs-and-postman/README.md)
   * Week 7: [AI Models and APIs](./guides/week7-ai-models-and-APIs/README.md)
-  * Week 8: Capstone Project--Dynamic Data oriented website with AI enhancements
+  * Week 8: [Capstone Project](./guides/week8-capstone/README.md) - Dynamic Data oriented website with AI enhancements
