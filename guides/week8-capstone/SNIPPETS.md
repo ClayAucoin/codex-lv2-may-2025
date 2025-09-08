@@ -78,7 +78,7 @@ fetch(url, {
 });
 ```
 
-## 📮 **Postman Generated Code**
+## **Postman Generated Code**
 
 When you generate JavaScript code in Postman, it will look like the example below. However, you'll need to make two small changes to make it work properly with our project setup.
 
@@ -96,7 +96,7 @@ fetch("https://api.open-meteo.com/v1/forecast?latitude=29.95&longitude=-90.07&cu
 1. Change `response.text()` to <span style="color: red;">`response.json()`</span> to use the POJO format
 2. Change <span style="color: red;">`.then((result) => console.log(result))`</span> to <span style="color: red;">`.then(function (result) { console.log(result); })`</span> so you can put your code in this callback function
 
-## 🤗 **Hugging Face Generated Code**
+## **Hugging Face Generated Code**
 
 <pre><code>async function query(data) {
 	const response = await fetch(
@@ -130,12 +130,12 @@ query({
 1. Change <span style="color: red;">`process.env.HF_TOKEN`</span> to your global variable (e.g., `HF_TOKEN`)
 2. Change <span style="color: red;">`content: "What is the capital of France?"`</span> to use your input variable plus extra instructions for the model to follow. (For example input + " Answer the user as though you were a pirate." )
 3. At the line: <span style="color: red;">`console.log(JSON.stringify(response));`</span> use `setText()` to display the response in addition to `console.log()`. 
-4. Use this dot-notation chain for the standard OpenAI style response: `console.log(...)` (see [OpenAI Response Format](#-openai-response-format) section below)
+4. Use this dot-notation chain for the standard OpenAI style response: `console.log(...)` (see [OpenAI Response Format](#openai-response-format) section below)
 5. Add `.catch()` for error handling
 
 For more information on event handling, see the [Events Birds Eye View PDF](../../resources/skill-guides/events-birds-eye-view.pdf).
 
-## 🤖 **OpenAI Response Format**
+## **OpenAI Response Format**
 
 Hugging Face uses the same response format as OpenAI's API, which has become the industry standard for AI chat completions. This standardized format makes it easier for developers to switch between different AI providers and ensures consistent data structure across different models. 
 
