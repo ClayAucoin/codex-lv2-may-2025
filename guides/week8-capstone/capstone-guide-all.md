@@ -742,7 +742,7 @@ Need help with user interactions? Check out these snippets:
 
 ---
 
-# 🎯 Level 17: AI Integration Planning
+# 🎯 Level 18: AI Integration Planning
 
 ## What You'll Do
 Choose and plan your AI model integration based on your project requirements.
@@ -779,7 +779,7 @@ Need help choosing AI models? Check out these resources:
 
 ---
 
-# 🎯 Level 18: Basic AI Call
+# 🎯 Level 19: Basic AI Call
 
 ## What You'll Do
 Make your first AI model call and display the response.
@@ -815,7 +815,7 @@ Need help with AI calls? Check out these snippets:
 
 ---
 
-# 🎯 Level 19: AI Response Processing
+# 🎯 Level 20: AI Response Processing
 
 ## What You'll Do
 Process the AI response to extract and display meaningful data.
@@ -849,7 +849,7 @@ Need help with AI response processing? Check out these snippets:
 
 ---
 
-# 🎯 Level 20: AI Error Handling (Optional Challenge)
+# 🎯 Level 21: AI Error Handling (Optional Challenge)
 
 ## What You'll Do
 Add proper error handling to your AI model calls.
@@ -888,7 +888,59 @@ Need help with AI error handling? Check out these snippets:
 
 ---
 
-# 🎯 Level 21: Integration Testing
+# 🎯 Level 22: AI Interaction Design
+
+## What You'll Do
+Design and implement user interactions that make your AI calls more dynamic and engaging. This is where you can really showcase your creativity with AI! Think about how users will interact with your AI - will they ask questions, give instructions, or explore different AI personalities? Consider what would make your AI app feel magical and intuitive. This is your opportunity to create something that demonstrates the power of AI while being fun and useful for your users.
+
+## Instructions
+- Think about how you want your user to interact with your AI and what makes it special
+- Consider different AI interaction patterns:
+  - **Question-Answer:** Users ask questions and get AI responses
+  - **Creative Writing:** Users provide prompts and get AI-generated stories, poems, or content
+  - **Personality Chat:** Users chat with an AI that has a specific personality (pirate, robot, etc.)
+  - **Task Assistant:** Users give instructions and AI helps complete tasks
+  - **Interactive Story:** Users make choices that influence AI-generated story outcomes
+  - **Multi-turn Conversations:** Users have ongoing conversations with context
+  - **Special Challenge - Data-Enhanced AI:** Use your API data to create richer, more personalized AI prompts (e.g., "Based on the weather in [city], write a poem about the day" or "Create a story using this Pokemon's stats: [pokemon data]")
+- Choose the AI interaction pattern that best fits your vision and user needs
+- Implement your chosen AI interaction pattern
+- Test different prompts and responses to ensure your AI feels engaging
+- Remember to test as you go, as we did in the previous levels
+
+## 💡 Code Hints
+Need help with AI interactions? Check out these snippets:
+- **AI calls:** See [SNIPPETS.md](./SNIPPETS.md#hugging-face-generated-code) for AI integration examples
+- **Input handling:** Use `getValue()` to get user input and add it to your AI prompt
+- **Data-enhanced prompts:** Combine your API data with AI prompts using template literals:
+  ```js
+  let prompt = `Based on the weather in ${cityName}: ${weatherDescription}, write a creative story about the day.`;
+  ```
+- **Response formatting:** Use template literals to format AI responses nicely
+- **Conditional logic:** Use `if` statements to handle different user inputs or AI responses
+
+## ✅ Check
+1. Open your webpage in a browser
+2. Test your chosen AI interaction pattern:
+   - If using question-answer, try different types of questions
+   - If using creative writing, test different prompt styles
+   - If using personality chat, verify the AI maintains its character
+   - If using task assistance, test different types of tasks
+   - If using data-enhanced AI, test with different API data to see how it affects AI responses
+3. Verify that your AI calls work smoothly with the user interactions
+4. Make sure the AI responses feel engaging and relevant to user inputs
+5. Test edge cases like empty inputs or very long prompts
+6. If using API data in prompts, verify the data is properly formatted and the AI uses it meaningfully
+
+---
+
+<!-- LEVEL_END -->
+
+<!-- LEVEL_START -->
+
+---
+
+# 🎯 Level 23: Integration Testing
 
 ## What You'll Do
 Test that all your integrations (API and AI) work together correctly.
@@ -924,7 +976,7 @@ Need help with testing? Check out these resources:
 
 ---
 
-# 🎯 Level 22: UI Polish
+# 🎯 Level 24: UI Polish
 
 ## What You'll Do
 Polish your user interface with better styling and user experience.
@@ -959,7 +1011,7 @@ Need help with UI polish? Check out these resources:
 
 ---
 
-# 🎯 Level 23: Final Testing
+# 🎯 Level 25: Final Testing
 
 ## What You'll Do
 Perform comprehensive testing of your entire application.
@@ -995,7 +1047,7 @@ Need help with testing? Check out these resources:
 
 ---
 
-# 🎯 Level 24: Documentation
+# 🎯 Level 26: Documentation
 
 ## What You'll Do
 Update your README.md with comprehensive project documentation.
@@ -1032,7 +1084,7 @@ Need help with documentation? Check out these resources:
 
 ---
 
-# 🎯 Level 25: Final Commit
+# 🎯 Level 27: Final Commit
 
 ## What You'll Do
 Commit all your final changes and push to GitHub.
@@ -1065,7 +1117,7 @@ Need help with git? Check out these resources:
 
 ---
 
-# 🎯 Level 26: Project Review
+# 🎯 Level 28: Project Review
 
 ## What You'll Do
 Review your project against the requirements and make any final adjustments.
@@ -1100,7 +1152,7 @@ Need help with review? Check out these resources:
 
 ---
 
-# 🎯 Level 27: Final Polish
+# 🎯 Level 29: Final Polish
 
 ## What You'll Do
 Add final polish to your project to make it presentation-ready.
@@ -1135,7 +1187,7 @@ Need help with final polish? Check out these resources:
 
 ---
 
-# 🎯 Level 28: Presentation Prep
+# 🎯 Level 30: Presentation Prep
 
 ## What You'll Do
 Prepare your project for presentation and demonstration.
@@ -1170,7 +1222,7 @@ Need help with presentation prep? Check out these resources:
 
 ---
 
-# 🎯 Level 29: Final Testing
+# 🎯 Level 31: Final Testing
 
 ## What You'll Do
 Perform one final comprehensive test of your entire application.
@@ -1205,7 +1257,7 @@ Need help with final testing? Check out these resources:
 
 ---
 
-# 🎯 Level 30: Final Commit
+# 🎯 Level 32: Final Commit
 
 ## What You'll Do
 Commit all your final changes and push to GitHub.
@@ -1238,7 +1290,7 @@ Need help with git? Check out these resources:
 
 ---
 
-# 🎯 Level 31: Project Submission
+# 🎯 Level 33: Project Submission
 
 ## What You'll Do
 Submit your project for evaluation.
@@ -1271,7 +1323,7 @@ Need help with submission? Check out these resources:
 
 ---
 
-# 🎯 Level 32: Project Complete
+# 🎯 Level 34: Project Complete
 
 ## What You'll Do
 Celebrate your completed capstone project!
