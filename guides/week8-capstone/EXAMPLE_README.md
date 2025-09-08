@@ -50,17 +50,18 @@ Describe your project here. What does your application do? What APIs and AI feat
 ## ✅ Project Checklist  
 
 ### Core Functionality
+- [ ] **User Interface**: Clean, responsive Bootstrap UI with proper styling
+- [ ] **Interactive Features**: Buttons and inputs that listen and respond to actions from the user.
 - [ ] **API Integration**: Successfully connects to external API and displays data
 - [ ] **AI Integration**: Implements AI model calls with proper response handling
-- [ ] **User Interface**: Clean, responsive Bootstrap UI with proper styling
-- [ ] **Input Validation**: Professional error handling and user feedback
-- [ ] **Error Handling**: Graceful handling of API failures and network issues
+- [ ] **Input Validation**: Professional error handling and user feedback. Use if statements for this.
+- [ ] **Challenge: Error Handling**: Graceful handling of API failures and network issues
 
 ### Technical Implementation
-- [ ] **Code Organization**: Clean, well-structured JavaScript with meaningful functions
+- [ ] **Code Organization**: Clean, well-structured JavaScript with meaningful names for ids, variables, and functions
 - [ ] **Version Control**: Regular commits with descriptive messages
 - [ ] **Testing**: Thoroughly tested across different scenarios and edge cases
-- [ ] **Documentation**: Complete README with setup instructions and feature descriptions
+- [ ] **Documentation**: Complete README, from the [EXAMPLE_README.md](./EXAMPLE_README.md) with feature descriptions and checkmarks checked
 - [ ] **Polish**: Professional presentation with attention to user experience
 
 ---
