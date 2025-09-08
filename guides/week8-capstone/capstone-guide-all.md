@@ -10,7 +10,7 @@ This file contains all levels of the capstone project concatenated into a single
 
 ---
 
-<!-- LEVEL_START: capstone-lv-1.md -->
+<!-- LEVEL_START -->
 
 ---
 
@@ -67,9 +67,9 @@ If any files are missing, create them before moving to Level 2.
 
 ---
 
-<!-- LEVEL_END: capstone-lv-1.md -->
+<!-- LEVEL_END -->
 
-<!-- LEVEL_START: capstone-lv-2.md -->
+<!-- LEVEL_START -->
 
 ---
 
@@ -123,9 +123,9 @@ Need help with the HTML structure? Check out these snippets:
 
 ---
 
-<!-- LEVEL_END: capstone-lv-2.md -->
+<!-- LEVEL_END -->
 
-<!-- LEVEL_START: capstone-lv-3.md -->
+<!-- LEVEL_START -->
 
 ---
 
@@ -176,9 +176,9 @@ In this level, we use `chore:` because we're doing initial project setup - creat
 
 ---
 
-<!-- LEVEL_END: capstone-lv-3.md -->
+<!-- LEVEL_END -->
 
-<!-- LEVEL_START: capstone-lv-4.md -->
+<!-- LEVEL_START -->
 
 ---
 
@@ -223,9 +223,9 @@ You've set up your project foundation securely. Time to build the UI!
 
 ---
 
-<!-- LEVEL_END: capstone-lv-4.md -->
+<!-- LEVEL_END -->
 
-<!-- LEVEL_START: capstone-lv-6.md -->
+<!-- LEVEL_START -->
 
 ---
 
@@ -264,9 +264,9 @@ Navigate to your file in your browser (remember, you're using live-server) and v
 
 ---
 
-<!-- LEVEL_END: capstone-lv-6.md -->
+<!-- LEVEL_END -->
 
-<!-- LEVEL_START: capstone-lv-7.md -->
+<!-- LEVEL_START -->
 
 ---
 
@@ -298,9 +298,9 @@ Add Bootstrap classes to style the input and button.
 
 ---
 
-<!-- LEVEL_END: capstone-lv-7.md -->
+<!-- LEVEL_END -->
 
-<!-- LEVEL_START: capstone-lv-8.md -->
+<!-- LEVEL_START -->
 
 ---
 
@@ -328,9 +328,9 @@ Convert the output `<div>` into a Bootstrap card with proper structure (card con
 
 ---
 
-<!-- LEVEL_END: capstone-lv-8.md -->
+<!-- LEVEL_END -->
 
-<!-- LEVEL_START: capstone-lv-9.md -->
+<!-- LEVEL_START -->
 
 ---
 
@@ -383,9 +383,9 @@ The DOM Operations approach is the standard way to manipulate styles in professi
 
 ---
 
-<!-- LEVEL_END: capstone-lv-9.md -->
+<!-- LEVEL_END -->
 
-<!-- LEVEL_START: capstone-lv-10.md -->
+<!-- LEVEL_START -->
 
 ---
 
@@ -442,9 +442,9 @@ This approach gives you direct access to the native DOM API and is the standard 
 
 ---
 
-<!-- LEVEL_END: capstone-lv-10.md -->
+<!-- LEVEL_END -->
 
-<!-- LEVEL_START: capstone-lv-11.md -->
+<!-- LEVEL_START -->
 
 ---
 
@@ -476,9 +476,9 @@ Need help with input/output? Check out these snippets:
 
 ---
 
-<!-- LEVEL_END: capstone-lv-11.md -->
+<!-- LEVEL_END -->
 
-<!-- LEVEL_START: capstone-lv-33.md -->
+<!-- LEVEL_START -->
 
 ---
 
@@ -705,7 +705,7 @@ Need help with error handling? Check out these snippets:
 
 ---
 
-<!-- LEVEL_END: capstone-lv-33.md -->
+<!-- LEVEL_END -->
 
 # 🎯 Level 17: User Interaction Design
 
@@ -738,7 +738,7 @@ Need help with user interactions? Check out these snippets:
 3. Verify that your API calls work with the user interactions
 4. Make sure the user experience feels intuitive and responsive
 
-<!-- LEVEL_START: capstone-lv-33.md -->
+<!-- LEVEL_START -->
 
 ---
 
@@ -930,7 +930,7 @@ Need help with AI interactions? Check out these snippets:
 3. Verify that your AI calls work smoothly with the user interactions
 4. Make sure the AI responses feel engaging and relevant to user inputs
 5. Test edge cases like empty inputs or very long prompts
-6. If using API data in prompts, verify the data is properly formatted and the AI uses it meaningfully
+6. If using API data in prompts, verify the data is properly formatted and the AI uses it meaningfully (see [Preformatted Raw Text Formatting with CSS](./SNIPPETS.md#-preformatted-raw-text-formatting-with-css) for formatting help)
 
 ---
 
@@ -1372,4 +1372,4 @@ You've completed a significant milestone in your coding journey. Your capstone p
 
 ---
 
-<!-- LEVEL_END: capstone-lv-33.md -->
+<!-- LEVEL_END -->
