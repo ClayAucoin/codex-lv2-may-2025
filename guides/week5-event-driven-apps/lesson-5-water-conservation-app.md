@@ -85,11 +85,15 @@ Review the original app on code.org.
 - **Bottle Choice**: Click good vs. bad bottle with visual feedback
 - **Feedback System**: Success/error messages with sound effects
 - **Cross Overlay**: Visual indicator for wrong bottle choice
+  - **[plastic-bottle-no.png](../../resources/starter-code/week-5/plastic-bottle-no.png)** - Plastic bottle with no indicator
+  - **[no.gif](../../resources/starter-code/week-4/no.gif)** - No/negative response animation
 - **Bonus Challenge: Faucet Interaction**: Fill bottle after correct selection (This is quite hard to do with bootstrap. You may skip the bottle movement and filling.)
 
 
 ### **Screen 3 (Shower Timer)**
 - **Image Toggle**: Timer click swaps shower before/after images
+  - **[yellow-rubber-duck.jpg](../../resources/starter-code/week-5/yellow-rubber-duck.jpg)** - Shower before image
+  - **[times-up.jpg](../../resources/starter-code/week-5/times-up.jpg)** - Shower after image
 - **Visual Feedback**: Artwork changes based on user interaction
 - **Navigation**: Return to home screen
 
@@ -115,6 +119,16 @@ Review the original app on code.org.
 - **[Helper Functions](./helpers.js)** - Pre-built functions for common tasks
 - [Bootstrap Components Review](https://www.w3schools.com/bootstrap5/bootstrap_get_started.php) - W3Schools Bootstrap 5 Tutorial
 - **[Code.org App Lab Tutorial](https://www.youtube.com/watch?v=fypSGGZZfzM&list=PLzdnOPI1iJNe1RFTghJhu1Zm7eB9O4UIo&index=2)** - Learn how to use App Lab effectively
+
+---
+
+## 🖼️ **Assets**
+
+### **Week 5 Images**
+- **[times-up.jpg](../../resources/starter-code/week-5/times-up.jpg)** - Timer completion image
+- **[yellow-rubber-duck.jpg](../../resources/starter-code/week-5/yellow-rubber-duck.jpg)** - Yellow rubber duck image
+- **[plastic-bottle-no.png](../../resources/starter-code/week-5/plastic-bottle-no.png)** - Plastic bottle with no/negative indicator
+- **[no.gif](../../resources/starter-code/week-4/no.gif)** - No/negative response animation
 
 ---
 
