@@ -755,7 +755,7 @@ Choose and plan your AI model integration based on your project requirements.
 
 ## 💡 Code Hints
 Need help choosing AI models? Check out these resources:
-- **AI Model Selection:** See [SNIPPETS.md](./SNIPPETS.md#-ai-model-integration) for AI examples
+- **AI Model Selection:** Go to [huggingface.co/models](https://huggingface.co/models) and filter by "text generation" and "fireworks" (as shown in [Week 7 Lesson 1](../../week7-ai-models-and-APIs/lesson-1.md))
 - **API Keys:** Make sure to add your keys to `secret-variables.js` and reference them as global variables
 
 ## 📚 Connect to Previous Lessons
