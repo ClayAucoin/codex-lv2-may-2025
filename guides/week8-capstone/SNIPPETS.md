@@ -96,6 +96,43 @@ fetch("https://api.open-meteo.com/v1/forecast?latitude=29.95&longitude=-90.07&cu
 1. Change `response.text()` to <span style="color: red;">`response.json()`</span> to use the POJO format
 2. Change <span style="color: red;">`.then((result) => console.log(result))`</span> to <span style="color: red;">`.then(function (result) { console.log(result); })`</span> so you can put your code in this callback function
 
+## 🤗 **Hugging Face Generated Code**
+
+<pre><code>async function query(data) {
+	const response = await fetch(
+		"https://router.huggingface.co/v1/chat/completions",
+		{
+			headers: {
+				<span style="color: red;">Authorization: `Bearer ${process.env.HF_TOKEN}`,</span>
+				"Content-Type": "application/json",
+			},
+			method: "POST",
+			body: JSON.stringify(data),
+		}
+	);
+	const result = await response.json();
+	return result;
+}
+
+query({
+    messages: [
+        {
+            role: "user",
+            <span style="color: red;">content: "What is the capital of France?",</span>
+        },
+    ],
+    model: "meta-llama/Llama-3.1-8B-Instruct:fireworks-ai",
+}).then((response) => {
+    <span style="color: red;">console.log(JSON.stringify(response));</span>
+});</code></pre>
+
+**Changes needed for our project:**
+1. Change <span style="color: red;">`process.env.HF_TOKEN`</span> to your global variable (e.g., `HF_TOKEN`)
+2. Change <span style="color: red;">`content: "What is the capital of France?"`</span> to use your input variable plus extra instructions for the model to follow. (For example input + " Answer the user as though you were a pirate." )
+3. At the line: <span style="color: red;">`console.log(JSON.stringify(response));`</span> use `setText()` to display the response in addition to `console.log()`. 
+4. Use this dot-notation chain for the standard OpenAI style response: `console.log(...)` (see [OpenAI Response Format](#-openai-response-format) section below)
+5. Add `.catch()` for error handling
+
 ## 🤖 **OpenAI Response Format**
 
 ```js
