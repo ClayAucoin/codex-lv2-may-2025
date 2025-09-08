@@ -710,7 +710,7 @@ Need help with error handling? Check out these snippets:
 # 🎯 Level 17: User Interaction Design
 
 ## What You'll Do
-Design and implement user interactions that make your API calls more dynamic and useful.
+Design and implement user interactions that make your API calls more dynamic and useful. This is your chance to get creative and bring your unique idea to life! Think about what would make your app engaging and fun to use. Consider how users will discover and interact with your creation - will they click buttons, type inputs, or explore different options? This is where your project transforms from a simple API call into something truly special that showcases your creativity and problem-solving skills.
 
 ## Instructions
 - Think about how you want your user to interact with your app and the API you chose
@@ -792,9 +792,10 @@ Make your first AI model call and display the response.
 
 ## 💡 Code Hints
 Need help with AI calls? Check out these snippets:
-- **AI model calls:** See [SNIPPETS.md](./SNIPPETS.md#-ai-model-integration) for AI examples
-- **Error handling:** Use `.catch()` to handle errors
-- **Response handling:** Use `.then()` to process the response
+- **AI model calls:** See [SNIPPETS.md](./SNIPPETS.md#hugging-face-generated-code) for Hugging Face examples
+- **Response handling:** Use the callback in `.then()` to process the response
+- **Error handling:** Use callback in `.catch()` to handle errors
+
 
 ## ✅ Check
 1. Open your webpage in a browser
@@ -848,7 +849,7 @@ Need help with AI response processing? Check out these snippets:
 
 ---
 
-# 🎯 Level 20: AI Error Handling
+# 🎯 Level 20: AI Error Handling (Optional Challenge)
 
 ## What You'll Do
 Add proper error handling to your AI model calls.
