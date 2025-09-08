@@ -133,7 +133,39 @@ query({
 4. Use this dot-notation chain for the standard OpenAI style response: `console.log(...)` (see [OpenAI Response Format](#-openai-response-format) section below)
 5. Add `.catch()` for error handling
 
+For more information on event handling, see the [Events Birds Eye View PDF](../../resources/skill-guides/events-birds-eye-view.pdf).
+
 ## 🤖 **OpenAI Response Format**
+
+Hugging Face uses the same response format as OpenAI's API, which has become the industry standard for AI chat completions. This standardized format makes it easier for developers to switch between different AI providers and ensures consistent data structure across different models. 
+
+All successful responses come back from HF as a POJO (Plain Old JavaScript Object) with this structure (You can see it in the Network Tab.):
+
+```json
+{
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "The capital of France is Paris."
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 10,
+    "completion_tokens": 5,
+    "total_tokens": 15
+  }
+}
+```
+
+This POJO can be accessed with this dot-notation chain:
+
+```javascript
+response.choices[0].message.content
+```
+
+Here is the full example.
 
 ```js
 // Start with this to see the full response structure
