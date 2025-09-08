@@ -787,7 +787,8 @@ Make your first AI model call and display the response.
 ## Instructions
 - Use `fetch()` to make an AI model call
 - Handle the response with `.then()` and `.catch()`
-- Display the response in your output area
+- Extract the generated text from the response (like in [Week 7 Lesson 1](../../week7-ai-models-and-APIs/lesson-1.md))
+- Display the generated text in your output area
 
 ## 💡 Code Hints
 Need help with AI calls? Check out these snippets:
