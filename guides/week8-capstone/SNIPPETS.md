@@ -236,6 +236,48 @@ let responseElement = document.getElementById("chat-response");
 - Use hyphens for multi-word IDs: `user-name` (not `userName`)
 - Keep IDs unique - no two elements should have the same ID
 
+## 📝 **Preformatted Raw Text Formatting with CSS**
+
+```css
+/* Preserve whitespace and line breaks */
+pre {
+    white-space: pre;
+}
+
+/* Preserve whitespace, wrap long lines */
+pre-wrap {
+    white-space: pre-wrap;
+}
+
+/* Collapse whitespace, wrap long lines */
+pre-line {
+    white-space: pre-line;
+}
+```
+
+```html
+<!-- HTML: Use <pre> tags for formatted text -->
+<pre id="formatted-output">Line 1
+Line 2
+    Indented line
+</pre>
+
+<div id="wrapped-output" style="white-space: pre-wrap;">This text will preserve spaces and wrap long lines automatically.</div>
+```
+
+```js
+// JavaScript: Set formatted text that preserves formatting
+setText("formatted-output", "Line 1\nLine 2\n    Indented line");
+
+// For elements with pre-wrap, text will preserve spaces and wrap
+setText("wrapped-output", "This is a long line that will wrap automatically when it reaches the container width.");
+```
+
+**💡 When to Use:**
+- **`pre`** - Preserve exact formatting, no line wrapping (good for code, ASCII art)
+- **`pre-wrap`** - Preserve formatting but wrap long lines (good for formatted text in containers)
+- **`pre-line`** - Preserve line breaks but collapse spaces (good for poetry, addresses)
+
 ## 🔧 **Helper Functions**
 
 ```js
