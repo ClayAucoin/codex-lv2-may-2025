@@ -52,12 +52,12 @@ Describe your project here. What does your application do? What APIs and AI feat
  - [X] **README.md** A README with a checklist.
 
 ### Core Functionality
-- [ ] **User Interface**: Clean, responsive Bootstrap UI with proper styling
-- [ ] **Interactive Features**: Buttons and inputs that listen and respond to actions from the user.
-- [ ] **API Integration**: Successfully connects to external API and displays data
-- [ ] **AI Integration**: Implements AI model calls with proper response handling
-- [ ] **Input Validation**: Professional error handling and user feedback. Use if statements for this.
-- [ ] **Challenge: Error Handling**: Graceful handling of API failures and network issues
+- [ ] **User Interface**: Clean, responsive Bootstrap UI with proper styling *(Complete after Level 7)*
+- [ ] **Interactive Features**: Buttons and inputs that listen and respond to actions from the user *(Complete after Level 9)*
+- [ ] **API Integration**: Successfully connects to external API and displays data *(Complete after Level 15)*
+- [ ] **AI Integration**: Implements AI model calls with proper response handling *(Complete after Level 20)*
+- [ ] **Input Validation**: Professional error handling and user feedback. Use if statements for this *(Complete after Level 12)*
+- [ ] **Challenge: Error Handling**: Graceful handling of API failures and network issues *(Complete after Level 16 for API errors, Level 21 for AI errors)*
 
 ### Technical Implementation
 - [ ] **Code Organization**: Clean, well-structured JavaScript with meaningful names for ids, variables, and functions
