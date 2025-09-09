@@ -49,6 +49,8 @@ Describe your project here. What does your application do? What APIs and AI feat
 
 ## ✅ Project Checklist  
 
+ - [X] **README.md** A README with a checklist.
+
 ### Core Functionality
 - [ ] **User Interface**: Clean, responsive Bootstrap UI with proper styling
 - [ ] **Interactive Features**: Buttons and inputs that listen and respond to actions from the user.
