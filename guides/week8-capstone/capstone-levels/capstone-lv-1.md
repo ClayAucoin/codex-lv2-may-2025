@@ -28,7 +28,7 @@ Create a new project folder and set up all the necessary files to get started.
   - `app.js`
   - `styles.css`
   - `helpers-full.js` (download from [class repository](../../week5-event-driven-apps/other-dev-files/helpers-full.js))
-  - `README.md` (copy from [EXAMPLE_README.md](../week7-ai-models-and-APIs/EXAMPLE_README.md) template)
+  - `README.md` (copy from [EXAMPLE_README.md](../EXAMPLE_README.md) template)
 
 
 ## ℹ Third-Party File Info
