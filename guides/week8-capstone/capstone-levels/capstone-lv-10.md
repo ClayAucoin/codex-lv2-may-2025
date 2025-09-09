@@ -14,8 +14,8 @@ Get the value from your input and display it in the output area.
 
 ## 💡 Code Hints
 Need help with input/output? Check out these snippets:
-- **Getting input values:** See [SNIPPETS.md](./SNIPPETS.md#-input-output) for `getValue()` examples
-- **Setting text:** See [SNIPPETS.md](./SNIPPETS.md#-input-output) for `setText()` examples
+- **Getting input values:** See [SNIPPETS.md](./SNIPPETS.md#input-output) for `getValue()` examples
+- **Setting text:** See [SNIPPETS.md](./SNIPPETS.md#input-output) for `setText()` examples
 
 ## ✅ Check
 1. Open your webpage in a browser

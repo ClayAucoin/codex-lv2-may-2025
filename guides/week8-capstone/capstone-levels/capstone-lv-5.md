@@ -20,9 +20,9 @@ In the HTML, add the interface:
 
 ## 💡 Code Hints
 Need help with the HTML structure? Check out these snippets:
-- **HTML IDs and JavaScript access:** See [SNIPPETS.md](./SNIPPETS.md#-html-ids-and-javascript-access) for ID naming and element access
-- **Input elements:** See [SNIPPETS.md](./SNIPPETS.md#-bootstrap-classes) for `<input>` examples
-- **Button elements:** See [SNIPPETS.md](./SNIPPETS.md#-bootstrap-classes) for `<button>` examples
+- **HTML IDs and JavaScript access:** See [SNIPPETS.md](./SNIPPETS.md#html-ids-and-javascript-access) for ID naming and element access
+- **Input elements:** See [SNIPPETS.md](./SNIPPETS.md#bootstrap-classes) for `<input>` examples
+- **Button elements:** See [SNIPPETS.md](./SNIPPETS.md#bootstrap-classes) for `<button>` examples
 - **Basic structure:** Use meaningful `id` attributes like `id="user-chat-input"` and `id="send-btn"`
 
 ## ✅ Check

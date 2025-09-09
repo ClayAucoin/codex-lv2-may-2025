@@ -14,7 +14,7 @@ Add meaningful IDs to all elements and test that they can be accessed.
 
 ## 💡 Code Hints
 Need help with IDs? Check out these snippets:
-- **HTML IDs and JavaScript access:** See [SNIPPETS.md](./SNIPPETS.md#-html-ids-and-javascript-access) for ID naming and element access
+- **HTML IDs and JavaScript access:** See [SNIPPETS.md](./SNIPPETS.md#html-ids-and-javascript-access) for ID naming and element access
 - **Testing elements:** Use `console.log(document.getElementById("your-id"))` to test access
 
 ## ✅ Check

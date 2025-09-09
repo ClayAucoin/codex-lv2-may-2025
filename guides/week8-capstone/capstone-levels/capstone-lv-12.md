@@ -14,7 +14,7 @@ Add validation to check if the input is empty before processing.
 
 ## 💡 Code Hints
 Need help with validation? Check out these snippets:
-- **Conditional logic:** See [SNIPPETS.md](./SNIPPETS.md#-conditional-logic) for `if` statement examples
+- **Conditional logic:** See [SNIPPETS.md](./SNIPPETS.md#conditional-logic) for `if` statement examples
 - **Error messages:** Use `setText()` to show error messages in the output area. For example: "Please enter text." or another similar error message.
 - **Change the color:** Use `setProperty()` to make error text red, for example: `setProperty("output", "color", "red")`
 

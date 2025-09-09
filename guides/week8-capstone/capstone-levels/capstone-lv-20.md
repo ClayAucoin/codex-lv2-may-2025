@@ -14,7 +14,7 @@ Process the AI response to extract and display meaningful data.
 
 ## 💡 Code Hints
 Need help with AI response processing? Check out these snippets:
-- **JSON parsing:** See [SNIPPETS.md](./SNIPPETS.md#-ai-model-integration) for response handling examples
+- **JSON parsing:** See [SNIPPETS.md](./SNIPPETS.md#hugging-face-generated-code) for response handling examples
 - **Data extraction:** Use dot notation to access nested properties
 - **Formatting:** Use template literals to format your output
 
