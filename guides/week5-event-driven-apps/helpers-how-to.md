@@ -66,12 +66,14 @@ For an even better development experience, you can also set up VSCode with custo
 
 ### **Download VSCode Configuration**
 - **[settings.json](../week2-vscode/lesson-5-vscode-settings/.vscode/settings.json)** - Complete VSCode settings example
+- **[jsconfig.json](./other-dev-files/typedefs/jsconfig.json)** - VSCode configuration for IntelliSense
 
 ### **Setup Instructions**
-1. Download the `settings.json` file
+1. Download the [settings.json](../week2-vscode/lesson-5-vscode-settings/.vscode/settings.json) file
 2. Create a `.vscode` folder in your project root
 3. Place `settings.json` inside the `.vscode` folder
-4. Restart VSCode or reload the window
+4. Download [jsconfig.json](./other-dev-files/typedefs/jsconfig.json) and place it in the **root** of your project folder (same level as `index.html`)
+5. Restart VSCode or reload the window
 
 ### **What This Provides**
 - **Abyss theme** for better code readability and professional appearance
@@ -79,8 +81,9 @@ For an even better development experience, you can also set up VSCode with custo
 - **Format on save** for clean code
 - **Word wrap** for long lines
 - **Minimap** for easy navigation
+- **Enhanced IntelliSense** and code completion for JavaScript
 
-**Note**: This step is optional but provides a professional development environment setup.
+**Note**: This step is optional but provides a professional development environment setup with better JavaScript IntelliSense.
 
 ---
 
