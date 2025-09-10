@@ -12,7 +12,7 @@ Level Navigation: **Current Level:** 1 | [2](./capstone-lv-2.md) | [3](./capston
 
 **Before you start coding, you must work through the planning document:**
 
-👉 **[Week 8 Capstone OUTLINE.md](./OUTLINE.md)**
+👉 **[Week 8 Capstone Planning Guide](https://docs.google.com/document/d/1A7uL2OYkXWNoNMemVPHGwj2a21PDppXSSrMBhjw_xyw/edit?usp=sharing)**
 
 **Complete all sections of the planning document before proceeding with Level 1.** This will help you understand the project requirements, technical specifications, and success criteria.
 
