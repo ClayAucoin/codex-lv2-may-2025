@@ -24,7 +24,7 @@ Design and implement user interactions that make your AI calls more dynamic and 
 
 ## 💡 Code Hints
 Need help with AI interactions? Check out these snippets:
-- **AI calls:** See [SNIPPETS.md](./SNIPPETS.md#hugging-face-generated-code) for AI integration examples
+- **AI calls:** See [SNIPPETS.md](../SNIPPETS.md#hugging-face-generated-code) for AI integration examples
 - **Input handling:** Use `getValue()` to get user input and add it to your AI prompt
 - **Data-enhanced prompts:** Combine your API data with AI prompts using template literals:
   ```js
@@ -44,7 +44,7 @@ Need help with AI interactions? Check out these snippets:
 3. Verify that your AI calls work smoothly with the user interactions
 4. Make sure the AI responses feel engaging and relevant to user inputs
 5. Test edge cases like empty inputs or very long prompts
-6. If using API data in prompts, verify the data is properly formatted and the AI uses it meaningfully (see [Preformatted Raw Text Formatting with CSS](./SNIPPETS.md#-preformatted-raw-text-formatting-with-css) for formatting help)
+6. If using API data in prompts, verify the data is properly formatted and the AI uses it meaningfully (see [Preformatted Raw Text Formatting with CSS](../SNIPPETS.md#-preformatted-raw-text-formatting-with-css) for formatting help)
 
 ---
 

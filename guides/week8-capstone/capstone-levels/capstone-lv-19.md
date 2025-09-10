@@ -15,7 +15,7 @@ Make your first AI model call and display the response.
 
 ## 💡 Code Hints
 Need help with AI calls? Check out these snippets:
-- **AI model calls:** See [SNIPPETS.md](./SNIPPETS.md#hugging-face-generated-code) for Hugging Face examples
+- **AI model calls:** See [SNIPPETS.md](../SNIPPETS.md#hugging-face-generated-code) for Hugging Face examples
 - **Response handling:** Use the callback in `.then()` to process the response
 - **Error handling:** Use callback in `.catch()` to handle errors
 

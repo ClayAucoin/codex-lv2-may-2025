@@ -15,7 +15,7 @@ Make your first API call and display the response.
 
 ## 💡 Code Hints
 Need help with API calls? Check out these snippets:
-- **Postman Generated Code:** See [SNIPPETS.md](./SNIPPETS.md#postman-generated-code) for `fetch()` examples
+- **Postman Generated Code:** See [SNIPPETS.md](../SNIPPETS.md#postman-generated-code) for `fetch()` examples
 - **Response handling:** Use `.then()` to process the response
 
 ## ✅ Check

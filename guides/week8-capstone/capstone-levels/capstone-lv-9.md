@@ -14,7 +14,7 @@ Add event listeners to your button and input using the `onEvent` helper function
 
 ## 💡 Code Hints
 Need help with event listeners? Check out these snippets:
-- **Event handling:** See [SNIPPETS.md](./SNIPPETS.md#event-handling) for `onEvent` examples
+- **Event handling:** See [SNIPPETS.md](../SNIPPETS.md#event-handling) for `onEvent` examples
 - **Anonymous functions:** Use `function() { }` syntax for your event handlers
 
 ## ✅ Check

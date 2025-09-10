@@ -35,8 +35,8 @@ console.log("Hello from app.js");
 
 ## 💡 Code Hints
 Need help with the HTML structure? Check out these snippets:
-- **HTML IDs and JavaScript access:** See [SNIPPETS.md](./SNIPPETS.md#html-ids-and-javascript-access) for ID naming and element access
-- **Bootstrap classes:** See [SNIPPETS.md](./SNIPPETS.md#bootstrap-classes) for styling examples
+- **HTML IDs and JavaScript access:** See [SNIPPETS.md](../SNIPPETS.md#html-ids-and-javascript-access) for ID naming and element access
+- **Bootstrap classes:** See [SNIPPETS.md](../SNIPPETS.md#bootstrap-classes) for styling examples
 
 ## ✅ Check
 1. In your terminal, run `npx live-server` in your project folder

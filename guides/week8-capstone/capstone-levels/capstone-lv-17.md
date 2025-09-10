@@ -20,7 +20,7 @@ Design and implement user interactions that make your API calls more dynamic and
 
 ## 💡 Code Hints
 Need help with user interactions? Check out these snippets:
-- **Multiple buttons:** See [SNIPPETS.md](./SNIPPETS.md#event-handling) for multiple button examples
+- **Multiple buttons:** See [SNIPPETS.md](../SNIPPETS.md#event-handling) for multiple button examples
 - **Input handling:** Use `getValue()` to get user input and add it to your API URL
 - **Conditional logic:** Use `if` statements to handle different user choices
 

@@ -14,7 +14,7 @@ Process the API response to extract and display meaningful data.
 
 ## 💡 Code Hints
 Need help with response processing? Check out these snippets:
-- **JSON parsing:** See [SNIPPETS.md](./SNIPPETS.md#api-calls) for response handling examples
+- **JSON parsing:** See [SNIPPETS.md](../SNIPPETS.md#api-calls) for response handling examples
 - **Data extraction:** Use dot notation to access nested properties
 - **Formatting:** Use `console.log()` to test how you want to format the data before displaying it to users in a later level.
 

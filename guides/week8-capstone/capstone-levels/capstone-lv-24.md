@@ -15,7 +15,7 @@ Polish your user interface with better styling and user experience.
 
 ## 💡 Code Hints
 Need help with UI polish? Check out these resources:
-- **Bootstrap components:** See [SNIPPETS.md](./SNIPPETS.md#bootstrap-classes) for styling examples
+- **Bootstrap components:** See [SNIPPETS.md](../SNIPPETS.md#bootstrap-classes) for styling examples
 - **Loading states:** Use `setText()` to show loading messages
 - **User feedback:** Add visual feedback for user actions
 

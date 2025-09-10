@@ -19,7 +19,7 @@ Add proper error handling to your API calls.
 
 ## 💡 Code Hints
 Need help with error handling? Check out these snippets:
-- **Error handling:** See [SNIPPETS.md](./SNIPPETS.md#api-calls) for `.catch()` examples
+- **Error handling:** See [SNIPPETS.md](../SNIPPETS.md#api-calls) for `.catch()` examples
 - **User messages:** Use `setText()` to show error messages to users
 
 ## ✅ Check

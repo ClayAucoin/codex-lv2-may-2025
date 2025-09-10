@@ -19,7 +19,7 @@ Add proper error handling to your AI model calls.
 
 ## 💡 Code Hints
 Need help with AI error handling? Check out these snippets:
-- **Error handling:** See [SNIPPETS.md](./SNIPPETS.md#hugging-face-generated-code) for `.catch()` examples
+- **Error handling:** See [SNIPPETS.md](../SNIPPETS.md#hugging-face-generated-code) for `.catch()` examples
 - **User messages:** Use `setText()` to show error messages to users
 
 ## ✅ Check

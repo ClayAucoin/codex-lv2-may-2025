@@ -12,7 +12,7 @@ Convert the output `<div>` into a Bootstrap card with proper structure (card con
 
 ## 💡 Code Hints
 
-**Building Bootstrap cards?** Cards need specific container and content classes to look right. Check out the [Bootstrap Classes section in SNIPPETS.md](./SNIPPETS.md#bootstrap-classes) for card structure examples.
+**Building Bootstrap cards?** Cards need specific container and content classes to look right. Check out the [Bootstrap Classes section in SNIPPETS.md](../SNIPPETS.md#bootstrap-classes) for card structure examples.
 
 ## ✅ Check
 1. Open your webpage in a browser

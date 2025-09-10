@@ -15,7 +15,7 @@ Choose and plan your API integration based on your project requirements.
 
 ## 💡 Code Hints
 Need help choosing APIs? Check out these resources:
-- **API Selection:** See [SNIPPETS.md](./SNIPPETS.md#api-calls) for API examples
+- **API Selection:** See [SNIPPETS.md](../SNIPPETS.md#api-calls) for API examples
 - **API Keys:** Make sure to add your keys to `secret-variables.js` and reference them as global variables
 
 ## 📚 Connect to Previous Lessons
