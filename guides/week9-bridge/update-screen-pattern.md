@@ -16,7 +16,7 @@ That’s where the **Update Screen pattern** comes in.
 
 In App Lab, the Update Screen pattern means putting all UI refresh code in one function (commonly `updateScreen()`), then calling it **whenever your global variables (your app’s state) change**. This keeps your app predictable, debuggable, and easy to extend.
 
-📚 Reference: [Code.org – Update Screen Pattern](https://curriculum.code.org/csp/unit5/17/)
+📚 Reference: [Code.org – Update Screen Pattern](https://studio.code.org/docs/concepts/patterns/update-screen-pattern/)
 
 ---
 
