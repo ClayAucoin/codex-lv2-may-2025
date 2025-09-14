@@ -22,15 +22,27 @@ In App Lab, the Update Screen pattern means putting all UI refresh code in one f
 
 ## 🧪 Part 1 — Learn It (Code.org)
 
-* Complete this unit/lesson: **[Computer Science Principles Unit 4 Lesson 9-11](https://studio.code.org/courses/csp-2023/units/4/lessons/9/student)**
-* 🎯 **Goal**: Understand how `updateScreen()` connects to **global variables** and how it helps control the user interface.
-* Do the Lessons 9, 10, and 11 of Unit 4. Pay close attention to the [updateScreen Pattern](https://studio.code.org/docs/concepts/patterns/update-screen-pattern/)
-  * [Lesson 9: Functions Explore](https://studio.code.org/courses/csp-2023/units/4/lessons/9/student)
-  * [Lesson 10: Functions Practice](https://studio.code.org/courses/csp-2023/units/4/lessons/10/student)
-  * [Lesson 11: Functions Make](https://studio.code.org/courses/csp-2023/units/4/lessons/11/student)
-* **Watch these [videos](https://www.youtube.com/watch?v=fYDw0FIaGKs&list=PLbsvRhEyGkKcR8E62AJe9ifMTpfTq0Tp_&index=4)** for additional help.
+### 📚 Required Lessons
+Complete these three lessons in order to understand the Update Screen pattern:
 
-When you complete it, reflect on how functions can make your software easier to reason about.
+* **[Lesson 9: Functions Explore](https://studio.code.org/courses/csp-2023/units/4/lessons/9/student)** - Learn the basics of functions and how they work
+* **[Lesson 10: Functions Practice](https://studio.code.org/courses/csp-2023/units/4/lessons/10/student)** - Practice writing and using functions
+* **[Lesson 11: Functions Make](https://studio.code.org/courses/csp-2023/units/4/lessons/11/student)** - Apply functions to build interactive apps
+
+### 🎯 Learning Goals
+* Understand how `updateScreen()` connects to **global variables** and controls the user interface
+* Learn why centralizing UI updates makes code more organized and predictable
+* Practice the pattern of updating state first, then refreshing the display
+
+### 📖 Additional Resources
+* **Read**: [Code.org Update Screen Pattern Documentation](https://studio.code.org/docs/concepts/patterns/update-screen-pattern/)
+* **Watch**: [Functions and Update Screen Videos](https://www.youtube.com/watch?v=fYDw0FIaGKs&list=PLbsvRhEyGkKcR8E62AJe9ifMTpfTq0Tp_&index=4) for additional help
+
+### 🤔 Reflection Questions
+When you complete the lessons, think about:
+* How do functions make your software easier to reason about?
+* What's the difference between updating variables and updating the display?
+* Why might it be better to have one function handle all screen updates?
 
 ---
 
